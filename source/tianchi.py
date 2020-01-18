@@ -12,7 +12,7 @@ def get_data():
     content = response.json()
     competitions = content['data']['list']
 
-    data = {'name':competition PLATFORM_NAME}
+    data = {'name': PLATFORM_NAME}
     cps = []
     for competition in competitions:
         # 必须字段
