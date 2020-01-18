@@ -1,5 +1,6 @@
 from requests import request
-from .tool import data2md
+
+from source.tool import data2md
 
 PLATFORM_NAME = 'Kaggle'
 
@@ -47,8 +48,3 @@ def update():
     md_text = data2md(data)
 
     return md_text
-
-
-if __name__ == "__main__":
-    data = update()
-    print(data)
