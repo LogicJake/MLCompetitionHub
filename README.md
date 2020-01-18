@@ -83,3 +83,16 @@ Connect your checkers in a row before your opponent!
 ### Deadline: 2030-01-01T00:00:00Z  
 ### Reward: Knowledge  
   
+# 图灵联邦  
+## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4)  
+### Description  
+视频点击预测大赛  
+### Deadline: 2020-02-25T06:00:00.000+0000  
+### Reward: 30000  
+  
+## [BONC Cloudiip工业仪表表盘读数大赛](http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1)  
+### Description  
+BONC Cloudiip工业仪表表盘读数大赛  
+### Deadline: 2020-02-25T02:00:00.000+0000  
+### Reward: 5000  
+  
