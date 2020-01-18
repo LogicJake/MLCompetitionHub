@@ -32,7 +32,7 @@ def get_data():
         # 必须字段
         name = competition['competitionName']
         url = 'http://www.turingtopia.com/competitionnew/detail/' + competition[
-            'competitionId']
+            'competitionId'] + '/sketch'
         description = name
         deadline = competition['endTime']
         reward = competition['awardMoney']
