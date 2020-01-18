@@ -1,0 +1,36 @@
+name: MLCompetitionHub
+on: 
+  schedule:
+    - cron:  '0 21 * * *'
+  push:
+    branches: 
+    -  master 
+        
+      
+jobs:
+  build:
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@v1
+      
+    - name: set up python 3.6
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.6
+    
+    - name: update competition list
+      run: 
+        python update.py
+        
+    - name: commit
+      run: |
+        git config --global user.email MLCompetitionHub@github.com
+        git config --global user.name MLCompetitionHubGithubAction
+        git add .
+        git commit -m "update competition list" -a
+        
+    - name: push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
