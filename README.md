@@ -110,12 +110,6 @@ BONC Cloudiip工业仪表表盘读数大赛
 ### Deadline: 2020-02-28 11:00:00  
 ### Reward: ￥150000  
   
-## [【新品实验室】淘宝直播商品识别](https://tianchi.aliyun.com/competition/entrance/231772/introduction)  
-### Description  
-直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。  
-### Deadline: 2020-03-27 23:55:00  
-### Reward: ￥240000  
-  
 ## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
 ### Description  
 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
@@ -156,5 +150,11 @@ Apache Flink 极客挑战赛由 Apache Flink Community China 发起，阿里云�
 ### Description  
 本赛场聚焦布匹疵点智能检测，要求选手研究开发高效可靠的计算机视觉算法，提升布匹疵点检验的准确度，降低对大量人工的依赖，提升布样疵点质检的效果和效率。  
 ### Deadline: 2019-10-28 14:00:00  
+### Reward: ￥1000000  
+  
+## [2019广东工业智造创新大赛【赛场二】](https://tianchi.aliyun.com/competition/entrance/231749/introduction)  
+### Description  
+本赛场聚焦面料剪裁利用率优化，要求选手研究开发高效可靠的算法，在较短时间范围内计算获得高质量可执行的排版结果，减少切割中形成的边角废料，提升面料切割利用率。  
+### Deadline: 2019-10-25 23:05:00  
 ### Reward: ￥1000000  
   
