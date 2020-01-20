@@ -42,48 +42,6 @@ Classify the components of handwritten Bengali
 ### Deadline: 2020-03-16T23:59:00Z  
 ### Reward: 10000.0 USD  
   
-## [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer)  
-### Description  
-Learn computer vision fundamentals with the famous MNIST data  
-### Deadline: 2030-01-01T00:00:00Z  
-### Reward: Knowledge  
-  
-## [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
-### Description  
-Start here! Predict survival on the Titanic and get familiar with ML basics  
-### Deadline: 2030-01-01T00:00:00Z  
-### Reward: Knowledge  
-  
-## [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)  
-### Description  
-Predict sales prices and practice feature engineering, RFs, and gradient boosting  
-### Deadline: 2030-01-01T00:00:00Z  
-### Reward: Knowledge  
-  
-## [ImageNet Object Localization Challenge](https://www.kaggle.com/c/imagenet-object-localization-challenge)  
-### Description  
-Identify the objects in images  
-### Deadline: 2029-12-31T07:00:00Z  
-### Reward: Knowledge  
-  
-## [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)  
-### Description  
-Final project for "How to win a data science competition" Coursera course  
-### Deadline: 2020-12-31T23:59:00Z  
-### Reward: None  
-  
-## [Categorical Feature Encoding Challenge II](https://www.kaggle.com/c/cat-in-the-dat-ii)  
-### Description  
-Binary classification, with every feature a categorical (and interactions!)  
-### Deadline: 2020-03-31T23:59:00Z  
-### Reward: Swag  
-  
-## [Connect X](https://www.kaggle.com/c/connectx)  
-### Description  
-Connect your checkers in a row before your opponent!  
-### Deadline: 2030-01-01T00:00:00Z  
-### Reward: Knowledge  
-  
 # 图灵联邦  
 ## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
 ### Description  
@@ -119,6 +77,6 @@ BONC Cloudiip工业仪表表盘读数大赛
 ## [安全AI挑战者计划第三期 - 文本分类对抗攻击](https://tianchi.aliyun.com/competition/entrance/231762/introduction)  
 ### Description  
 AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
-### Deadline: 2020-02-10 10:00:00  
+### Deadline: 2020-03-02 23:00:00  
 ### Reward: ￥68000  
   
