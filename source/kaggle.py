@@ -21,13 +21,11 @@ def get_data():
         description = competition['competitionDescription']
         deadline = competition['deadline']
 
-        if competition['rewardTypeName'] == 'USD':
-            reward = str(competition['rewardQuantity']
-                         ) + ' ' + competition['rewardTypeName']
-        elif competition['rewardTypeName'] == 'None':
-            reward = 'Nothing'
-        else:
-            reward = competition['rewardTypeName']
+        if competition['rewardTypeName'] != 'USD':
+            continue
+
+        reward = str(competition['rewardQuantity']
+                     ) + ' ' + competition['rewardTypeName']
 
         cp = {
             'name': name,
