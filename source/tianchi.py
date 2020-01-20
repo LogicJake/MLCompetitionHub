@@ -15,6 +15,9 @@ def get_data():
     data = {'name': PLATFORM_NAME}
     cps = []
     for competition in competitions:
+        if int(competition['state']) != 1:
+            continue
+
         # 必须字段
         name = competition['raceName']
         url = 'https://tianchi.aliyun.com/competition/entrance/{}/introduction'.format(
