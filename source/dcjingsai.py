@@ -1,3 +1,4 @@
+from datetime import datetime, timedelta
 from urllib import parse
 
 import requests
@@ -32,7 +33,9 @@ def get_data():
         name = competition['name']
         url = competition['customPage']
         description = competition['introduction']
-        deadline = competition['endTime']
+        utc_time = datetime.utcfromtimestamp(int(competition['endTime'] /
+                                                 1000))
+        deadline = utc_time + timedelta(hours=8)
         reward = competition['reward']
 
         cp = {
