@@ -24,12 +24,6 @@ Improving automated understanding of complex question answer content
 ### Deadline: 2020-02-10T23:59:00Z  
 ### Reward: 25000.0 USD  
   
-## [Peking University/Baidu - Autonomous Driving](https://www.kaggle.com/c/pku-autonomous-driving)  
-### Description  
-Can you predict vehicle angle in different settings?  
-### Deadline: 2020-01-21T23:59:00Z  
-### Reward: 25000.0 USD  
-  
 ## [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)  
 ### Description  
 Predict which Tweets are about real disasters and which ones are not  
