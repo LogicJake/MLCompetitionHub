@@ -6,18 +6,6 @@ Identify videos with facial or voice manipulations
 ### Deadline: 2020-03-31T23:59:00Z  
 ### Reward: 1000000.0 USD  
   
-## [2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019)  
-### Description  
-Uncover the factors to help measure how young children learn  
-### Deadline: 2020-01-22T23:59:00Z  
-### Reward: 160000.0 USD  
-  
-## [TensorFlow 2.0 Question Answering](https://www.kaggle.com/c/tensorflow2-question-answering)  
-### Description  
-Identify the answers to real user questions about Wikipedia page content  
-### Deadline: 2020-01-22T23:59:00Z  
-### Reward: 50000.0 USD  
-  
 ## [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)  
 ### Description  
 Improving automated understanding of complex question answer content  
