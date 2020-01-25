@@ -3,8 +3,6 @@ from urllib import parse
 
 import requests
 
-from source.tool import data2md
-
 PLATFORM_NAME = 'DC竞赛'
 
 

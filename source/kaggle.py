@@ -1,7 +1,5 @@
 from requests import request
 
-from source.tool import data2md
-
 PLATFORM_NAME = 'Kaggle'
 
 

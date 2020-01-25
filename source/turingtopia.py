@@ -2,8 +2,6 @@ import json
 
 import requests
 
-from source.tool import data2md
-
 PLATFORM_NAME = '图灵联邦'
 
 
