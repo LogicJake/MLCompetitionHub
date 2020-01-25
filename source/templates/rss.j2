@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator>LogicJake</generator>
+    <language>zh-cn</language>
+    <id>https://github.com/LogicJake/MLCompetitionHub</id>
+    <title><![CDATA[MLCompetitionHub]]></title>
+    <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
+    <author>
+        <name><![CDATA[LogicJake]]></name>
+        <uri>https://www.logicjake.xyz</uri>
+    </author>
+    {% for data in datas %}
+    {% for competition in data.competitions %}
+    <entry>
+        <id>{{competition.url}}</id>
+        <title><![CDATA[{{competition.name|safe}}]]></title>
+        <published>{{competition.deadline|default(now)}}</published>
+        <link href="{{competition.url}}"/>
+        <content type="html" src="{{competition.url}}"><![CDATA[{{competition.description|safe}}]]></content>
+    </entry>
+    {% endfor %}
+    {% endfor %}
+</feed>

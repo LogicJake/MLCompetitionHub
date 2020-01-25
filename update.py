@@ -27,10 +27,17 @@ try:
 except Exception:
     traceback.print_exc()
 
-# 生成 README.md
 env = Environment(loader=PackageLoader('source'))
+# 生成 README.md
 template = env.get_template('main.j2')
 content = template.render(datas=datas)
 
 with open('README.md', 'w') as f:
+    f.write(content)
+
+# 生成 RSS
+template = env.get_template('rss.j2')
+content = template.render(datas=datas)
+
+with open('rss.atom', 'w') as f:
     f.write(content)
