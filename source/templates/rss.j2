@@ -17,6 +17,9 @@
         <published>{{competition.deadline|default(now)}}</published>
         <link href="{{competition.url}}"/>
         <content type="html" src="{{competition.url}}"><![CDATA[{{competition.description|safe}}]]></content>
+        <author>
+            <name><![CDATA[{{data.name}}]]></name>
+        </author>
     </entry>
     {% endfor %}
     {% endfor %}
