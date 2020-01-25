@@ -17,6 +17,9 @@
         <published>2020-03-31T23:59:00Z</published>
         <link href="https://www.kaggle.com/c/deepfake-detection-challenge"/>
         <content type="html" src="https://www.kaggle.com/c/deepfake-detection-challenge"><![CDATA[Identify videos with facial or voice manipulations]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -25,6 +28,9 @@
         <published>2020-02-10T23:59:00Z</published>
         <link href="https://www.kaggle.com/c/google-quest-challenge"/>
         <content type="html" src="https://www.kaggle.com/c/google-quest-challenge"><![CDATA[Improving automated understanding of complex question answer content]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -33,6 +39,9 @@
         <published>2020-03-23T23:59:00Z</published>
         <link href="https://www.kaggle.com/c/nlp-getting-started"/>
         <content type="html" src="https://www.kaggle.com/c/nlp-getting-started"><![CDATA[Predict which Tweets are about real disasters and which ones are not]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -41,6 +50,9 @@
         <published>2020-03-16T23:59:00Z</published>
         <link href="https://www.kaggle.com/c/bengaliai-cv19"/>
         <content type="html" src="https://www.kaggle.com/c/bengaliai-cv19"><![CDATA[Classify the components of handwritten Bengali]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
     </entry>
     
     
@@ -51,6 +63,9 @@
         <published>2020-02-25T06:00:00.000+0000</published>
         <link href="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"/>
         <content type="html" src="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"><![CDATA[视频点击预测大赛]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -59,6 +74,9 @@
         <published>2020-02-25T02:00:00.000+0000</published>
         <link href="http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch"/>
         <content type="html" src="http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch"><![CDATA[BONC Cloudiip工业仪表表盘读数大赛]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
     </entry>
     
     
@@ -69,6 +87,9 @@
         <published>2020-02-11 23:30:00</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231768/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231768/introduction"><![CDATA[赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -77,6 +98,9 @@
         <published>2020-02-28 11:00:00</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231771/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231771/introduction"><![CDATA[通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -85,6 +109,9 @@
         <published>2020-02-11 23:05:00</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231763/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231763/introduction"><![CDATA[本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -93,6 +120,9 @@
         <published>2020-03-02 23:00:00</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231762/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231762/introduction"><![CDATA[AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
     </entry>
     
     
@@ -103,6 +133,9 @@
         <published>2020-06-20 00:00:00</published>
         <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
         <content type="html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
     </entry>
     
     <entry>
@@ -111,6 +144,9 @@
         <published>2020-06-20 00:00:00</published>
         <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
         <content type="html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
     </entry>
     
     
