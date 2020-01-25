@@ -1,0 +1,11 @@
+一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）更新。
+{% for data in datas %}
+# {{data.name}}
+{% for competition in data.competitions %}
+## [{{competition.name}}]({{competition.url}})  
+### Description  
+{{competition.description}}  
+### Deadline: {{competition.deadline}}  
+### Reward: {{competition.reward}}  
+{% endfor %}
+{% endfor %}

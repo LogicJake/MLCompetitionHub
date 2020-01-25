@@ -1,29 +1,36 @@
 import traceback
 
-from source import kaggle, tianchi, turingtopia, dcjingsai
+from jinja2 import Environment, PackageLoader
 
-text = '一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）更新。  \n'
+from source import dcjingsai, kaggle, tianchi, turingtopia
+
+# 获取数据
+datas = []
 
 try:
-    text += kaggle.update()
+    datas.append(kaggle.get_data())
 except Exception:
     traceback.print_exc()
 
 try:
-    text += turingtopia.update()
+    datas.append(turingtopia.get_data())
 except Exception:
     traceback.print_exc()
 
 try:
-    text += tianchi.update()
+    datas.append(tianchi.get_data())
 except Exception:
     traceback.print_exc()
 
 try:
-    text += dcjingsai.update()
+    datas.append(dcjingsai.get_data())
 except Exception:
     traceback.print_exc()
 
-# 写入到文件
+# 生成 README.md
+env = Environment(loader=PackageLoader('source'))
+template = env.get_template('main.j2')
+content = template.render(datas=datas)
+
 with open('README.md', 'w') as f:
-    f.write(text)
+    f.write(content)
