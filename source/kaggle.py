@@ -37,10 +37,3 @@ def get_data():
     data['competitions'] = cps
 
     return data
-
-
-def update():
-    data = get_data()
-    md_text = data2md(data)
-
-    return md_text
