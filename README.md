@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-02T21:01:19.085001  
+更新时间: 2020-02-03T21:00:59.112620  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -41,7 +41,7 @@ Classify the components of handwritten Bengali
 ## [BONC Cloudiip工业仪表表盘读数大赛](http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch)  
 ### Description  
 BONC Cloudiip工业仪表表盘读数大赛  
-### Deadline: 2020-02-25T02:00:00.000+0000  
+### Deadline: 2020-03-03T07:00:00.000+0000  
 ### Reward: 5000  
 
 
@@ -56,7 +56,7 @@ BONC Cloudiip工业仪表表盘读数大赛
 ## [第二届海南大数据创新应用大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/entrance/231771/introduction)  
 ### Description  
 通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。  
-### Deadline: 2020-02-28 11:00:00  
+### Deadline: 2020-02-28 23:55:00  
 ### Reward: ￥150000  
 
 ## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
