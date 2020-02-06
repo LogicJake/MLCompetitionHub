@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-05T21:01:27.950836  
+更新时间: 2020-02-06T21:00:58.404506  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -31,18 +31,6 @@ Classify the components of handwritten Bengali
 
 
 # 图灵联邦
-
-## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
-### Description  
-视频点击预测大赛  
-### Deadline: 2020-02-25T06:00:00.000+0000  
-### Reward: 30000  
-
-## [BONC Cloudiip工业仪表表盘读数大赛](http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch)  
-### Description  
-BONC Cloudiip工业仪表表盘读数大赛  
-### Deadline: 2020-03-03T07:00:00.000+0000  
-### Reward: 5000  
 
 
 # 天池
