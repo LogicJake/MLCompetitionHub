@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-09T21:01:16.657773  
+更新时间: 2020-02-10T21:01:53.270220  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -32,14 +32,20 @@ Classify the components of handwritten Bengali
 
 # 图灵联邦
 
+## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
+### Description  
+视频点击预测大赛  
+### Deadline: 2020-02-25T06:00:00.000+0000  
+### Reward: 30000  
+
 
 # 天池
 
-## [2020数字中国创新大赛—算法赛：智慧海洋建设](https://tianchi.aliyun.com/competition/entrance/231768/introduction)  
+## [安全AI挑战者计划第三期 - 文本分类对抗攻击](https://tianchi.aliyun.com/competition/entrance/231762/introduction)  
 ### Description  
-赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。  
-### Deadline: 2020-02-11 23:30:00  
-### Reward: ￥2000000  
+AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
+### Deadline: 2020-03-06 23:00:00  
+### Reward: ￥68000  
 
 ## [第二届海南大数据创新应用大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/entrance/231771/introduction)  
 ### Description  
@@ -47,17 +53,17 @@ Classify the components of handwritten Bengali
 ### Deadline: 2020-02-28 23:55:00  
 ### Reward: ￥150000  
 
+## [2020数字中国创新大赛—算法赛：智慧海洋建设](https://tianchi.aliyun.com/competition/entrance/231768/introduction)  
+### Description  
+赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。  
+### Deadline: 2020-02-21 23:55:00  
+### Reward: ￥2000000  
+
 ## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
 ### Description  
 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
 ### Deadline: 2020-02-11 23:05:00  
 ### Reward: ￥1210000  
-
-## [安全AI挑战者计划第三期 - 文本分类对抗攻击](https://tianchi.aliyun.com/competition/entrance/231762/introduction)  
-### Description  
-AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
-### Deadline: 2020-03-06 23:00:00  
-### Reward: ￥68000  
 
 
 # DC竞赛
