@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-10T21:01:53.270220  
+更新时间: 2020-02-11T21:01:36.013873  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -11,10 +11,10 @@ Identify videos with facial or voice manipulations
 ### Deadline: 2020-03-31T23:59:00Z  
 ### Reward: 1000000.0 USD  
 
-## [Google QUEST Q&A Labeling](https://www.kaggle.com/c/google-quest-challenge)  
+## [DS4G: Environmental Insights Explorer](https://www.kaggle.com/c/ds4g-environmental-insights-explorer)  
 ### Description  
-Improving automated understanding of complex question answer content  
-### Deadline: 2020-02-10T23:59:00Z  
+Exploring alternatives for emissions factor calculations  
+### Deadline: 2020-03-24T23:59:00Z  
 ### Reward: 25000.0 USD  
 
 ## [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)  
@@ -32,6 +32,12 @@ Classify the components of handwritten Bengali
 
 # 图灵联邦
 
+## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)  
+### Description  
+高能宇宙线背景噪声过滤挑战赛  
+### Deadline: 2020-04-20T09:00:00.000+0000  
+### Reward: 10000  
+
 ## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
 ### Description  
 视频点击预测大赛  
@@ -46,6 +52,12 @@ Classify the components of handwritten Bengali
 AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
 ### Deadline: 2020-03-06 23:00:00  
 ### Reward: ￥68000  
+
+## [PAKDD2020 阿里巴巴智能运维算法大赛](https://tianchi.aliyun.com/competition/entrance/231775/introduction)  
+### Description  
+大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。  
+### Deadline: 2020-03-18 23:00:00  
+### Reward: $30000  
 
 ## [第二届海南大数据创新应用大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/entrance/231771/introduction)  
 ### Description  
@@ -62,7 +74,7 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
 ### Description  
 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
-### Deadline: 2020-02-11 23:05:00  
+### Deadline: 2020-02-12 23:00:00  
 ### Reward: ￥1210000  
 
 
