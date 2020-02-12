@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-11T21:01:36.013873  
+更新时间: 2020-02-12T21:01:32.388367  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -47,6 +47,12 @@ Classify the components of handwritten Bengali
 
 # 天池
 
+## [公益AI之星”挑战赛，新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
+### Description  
+本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。  
+### Deadline: 2020-03-27 00:00:00  
+### Reward: ￥0  
+
 ## [安全AI挑战者计划第三期 - 文本分类对抗攻击](https://tianchi.aliyun.com/competition/entrance/231762/introduction)  
 ### Description  
 AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
@@ -58,6 +64,12 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。  
 ### Deadline: 2020-03-18 23:00:00  
 ### Reward: $30000  
+
+## [智慧物流：新冠期间饿了么骑士行为预估](https://tianchi.aliyun.com/competition/entrance/231777/introduction)  
+### Description  
+面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。  
+### Deadline: 2020-03-30 23:00:00  
+### Reward: ￥0  
 
 ## [第二届海南大数据创新应用大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/entrance/231771/introduction)  
 ### Description  
@@ -74,7 +86,7 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
 ### Description  
 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
-### Deadline: 2020-02-12 23:00:00  
+### Deadline: 2020-03-05 23:55:00  
 ### Reward: ￥1210000  
 
 
