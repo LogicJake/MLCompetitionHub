@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-12T21:01:32.388367  
+更新时间: 2020-02-13T21:01:34.709917  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -16,6 +16,12 @@ Identify videos with facial or voice manipulations
 Exploring alternatives for emissions factor calculations  
 ### Deadline: 2020-03-24T23:59:00Z  
 ### Reward: 25000.0 USD  
+
+## [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)  
+### Description  
+Create an AI capable of solving reasoning tasks it has never seen before  
+### Deadline: 2020-05-27T23:59:00Z  
+### Reward: 20000.0 USD  
 
 ## [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started)  
 ### Description  
@@ -47,7 +53,7 @@ Classify the components of handwritten Bengali
 
 # 天池
 
-## [公益AI之星”挑战赛，新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
+## [“公益AI之星”挑战赛，新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
 ### Description  
 本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。  
 ### Deadline: 2020-03-27 00:00:00  
@@ -69,6 +75,12 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Description  
 面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。  
 ### Deadline: 2020-03-30 23:00:00  
+### Reward: ￥0  
+
+## [蛋白质结构预测大赛](https://tianchi.aliyun.com/competition/entrance/231781/introduction)  
+### Description  
+天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。  
+### Deadline: 2020-03-20 20:00:00  
 ### Reward: ￥0  
 
 ## [第二届海南大数据创新应用大赛 - 智能算法赛](https://tianchi.aliyun.com/competition/entrance/231771/introduction)  
