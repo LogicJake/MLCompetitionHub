@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-13T21:01:34.709917  
+更新时间: 2020-02-14T21:01:23.309612  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -53,7 +53,7 @@ Classify the components of handwritten Bengali
 
 # 天池
 
-## [“公益AI之星”挑战赛，新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
+## [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
 ### Description  
 本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。  
 ### Deadline: 2020-03-27 00:00:00  
