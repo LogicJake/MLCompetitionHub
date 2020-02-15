@@ -3,6 +3,7 @@
 更新时间: {{update}}  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 {% for data in datas %}
+{% if data.competitions|length > 0 %}
 # {{data.name}}
 {% for competition in data.competitions %}
 ## [{{competition.name}}]({{competition.url}})  
@@ -11,4 +12,5 @@ RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.lo
 ### Deadline: {{competition.deadline}}  
 ### Reward: {{competition.reward}}  
 {% endfor %}
+{% endif %}
 {% endfor %}
