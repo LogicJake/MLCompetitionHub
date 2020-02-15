@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-14T21:01:23.309612  
+更新时间: 2020-02-15T05:06:05.210386  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 # Kaggle
@@ -11,10 +11,28 @@ Identify videos with facial or voice manipulations
 ### Deadline: 2020-03-31T23:59:00Z  
 ### Reward: 1000000.0 USD  
 
+## [Google Cloud & NCAA® March Madness Analytics](https://www.kaggle.com/c/march-madness-analytics-2020)  
+### Description  
+Uncover the madness of March Madness®  
+### Deadline: 2020-04-06T23:59:00Z  
+### Reward: 25000.0 USD  
+
 ## [DS4G: Environmental Insights Explorer](https://www.kaggle.com/c/ds4g-environmental-insights-explorer)  
 ### Description  
 Exploring alternatives for emissions factor calculations  
 ### Deadline: 2020-03-24T23:59:00Z  
+### Reward: 25000.0 USD  
+
+## [Google Cloud & NCAA® ML Competition 2020-NCAAW](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament)  
+### Description  
+Apply Machine Learning to NCAA® March Madness®  
+### Deadline: 2020-03-20T15:00:00Z  
+### Reward: 25000.0 USD  
+
+## [Google Cloud & NCAA® ML Competition 2020-NCAAM](https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament)  
+### Description  
+Apply Machine Learning to NCAA® March Madness®  
+### Deadline: 2020-03-19T15:00:00Z  
 ### Reward: 25000.0 USD  
 
 ## [Abstraction and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)  
@@ -34,21 +52,6 @@ Predict which Tweets are about real disasters and which ones are not
 Classify the components of handwritten Bengali  
 ### Deadline: 2020-03-16T23:59:00Z  
 ### Reward: 10000.0 USD  
-
-
-# 图灵联邦
-
-## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)  
-### Description  
-高能宇宙线背景噪声过滤挑战赛  
-### Deadline: 2020-04-20T09:00:00.000+0000  
-### Reward: 10000  
-
-## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
-### Description  
-视频点击预测大赛  
-### Deadline: 2020-02-25T06:00:00.000+0000  
-### Reward: 30000  
 
 
 # 天池
@@ -102,6 +105,21 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: ￥1210000  
 
 
+# 图灵联邦
+
+## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)  
+### Description  
+高能宇宙线背景噪声过滤挑战赛  
+### Deadline: 2020-04-20T09:00:00.000+0000  
+### Reward: 10000  
+
+## [视频点击预测大赛](http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch)  
+### Description  
+视频点击预测大赛  
+### Deadline: 2020-02-25T06:00:00.000+0000  
+### Reward: 30000  
+
+
 # DC竞赛
 
 ## [城市交通流量时空预测](http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)  
@@ -115,4 +133,55 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。  
 ### Deadline: 2020-06-20 00:00:00  
 ### Reward: 60000  
+
+
+# biendata
+
+## [Concronavirus Outbreak Prediction](https://www.biendata.com/competition/epidemic/)  
+### Description  
+Concronavirus Outbreak Prediction  
+### Deadline: 2020-03-01  
+### Reward: $7,142  
+
+## [BAAI Small Molecule Prediction Challenge](https://www.biendata.com/competition/molecule/)  
+### Description  
+BAAI Small Molecule Prediction Challenge  
+### Deadline: 2020-04-15  
+### Reward: ￥100,000 (~$14,285)  
+
+## [BAAI Challenge on Astronomical Objects Classification](https://www.biendata.com/competition/astrodata2019/)  
+### Description  
+BAAI Challenge on Astronomical Objects Classification  
+### Deadline: 2020-04-02  
+### Reward: ￥100,000  
+
+## [2020 Haihua AI Challenge·Waste Sorting Task 2](https://www.biendata.com/competition/haihua_wastesorting_task2/)  
+### Description  
+2020 Haihua AI Challenge·Waste Sorting Task 2  
+### Deadline: 2020-04-15  
+### Reward: ￥210,000  
+
+## [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
+### Description  
+2020 Haihua AI Challenge·Waste Sorting Task 1  
+### Deadline: 2020-03-31  
+### Reward: ￥90,000  
+
+## [BAAI: "INSPEC" Industrial Quality Prediction Challenge](https://www.biendata.com/competition/bosch/)  
+### Description  
+BAAI: "INSPEC" Industrial Quality Prediction Challenge  
+### Deadline: 2020-04-09  
+### Reward: ￥100,000  
+
+## [BAAI MagicSpeechNet Domestic ASR Challenge](https://www.biendata.com/competition/magicdata/)  
+### Description  
+BAAI MagicSpeechNet Domestic ASR Challenge  
+### Deadline: 2020-03-28  
+### Reward: ￥100,000  
+
+## [High-Energy Particle Classification Challenge](https://www.biendata.com/competition/jet/)  
+### Description  
+High-Energy Particle Classification Challenge  
+### Deadline: 2020-03-22  
+### Reward: 100000 yuan  
 
