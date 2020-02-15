@@ -1,7 +1,8 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-15T05:06:05.210386  
+更新时间: 2020-02-15T05:13:43.699718  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
+
 
 # Kaggle
 
@@ -52,6 +53,8 @@ Predict which Tweets are about real disasters and which ones are not
 Classify the components of handwritten Bengali  
 ### Deadline: 2020-03-16T23:59:00Z  
 ### Reward: 10000.0 USD  
+
+
 
 
 # 天池
@@ -105,6 +108,8 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: ￥1210000  
 
 
+
+
 # 图灵联邦
 
 ## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)  
@@ -120,6 +125,8 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: 30000  
 
 
+
+
 # DC竞赛
 
 ## [城市交通流量时空预测](http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)  
@@ -133,6 +140,8 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。  
 ### Deadline: 2020-06-20 00:00:00  
 ### Reward: 60000  
+
+
 
 
 # biendata
@@ -184,4 +193,5 @@ BAAI MagicSpeechNet Domestic ASR Challenge
 High-Energy Particle Classification Challenge  
 ### Deadline: 2020-03-22  
 ### Reward: 100000 yuan  
+
 
