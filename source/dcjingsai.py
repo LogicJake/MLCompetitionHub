@@ -3,6 +3,8 @@ from urllib import parse
 
 import requests
 
+from .utils import STANDARD_TIME_FORMAT
+
 PLATFORM_NAME = 'DC竞赛'
 
 
@@ -31,9 +33,12 @@ def get_data():
         name = competition['name']
         url = competition['customPage']
         description = competition['introduction']
-        utc_time = datetime.utcfromtimestamp(int(competition['endTime'] /
+
+        deadline = datetime.utcfromtimestamp(int(competition['endTime'] /
                                                  1000))
-        deadline = utc_time + timedelta(hours=8)
+        deadline = deadline + timedelta(hours=8)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
+
         reward = competition['reward']
 
         cp = {

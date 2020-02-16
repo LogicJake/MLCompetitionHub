@@ -1,5 +1,9 @@
+from datetime import datetime, timedelta
+
 import requests
 from lxml import etree
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = 'biendata'
 
@@ -22,8 +26,12 @@ def get_data():
         name = info.cssselect('span.des_text.p0')[0].text.strip()
         url = 'https://www.biendata.com' + info.cssselect(
             'div.content h4 a')[0].attrib['href'].strip()
+
         deadline = info.cssselect('dl dd:nth-child(2) > span')[0].text.strip()
         deadline = deadline.split('~')[1].strip()
+        FORMAT = "%Y-%m-%d"
+        deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
 
         cp = {
             'name': name,

@@ -1,6 +1,9 @@
 import json
+from datetime import datetime, timedelta
 
 import requests
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = '图灵联邦'
 
@@ -32,7 +35,12 @@ def get_data():
         url = 'http://www.turingtopia.com/competitionnew/detail/' + competition[
             'competitionId'] + '/sketch'
         description = name
+
         deadline = competition['endTime']
+        FORMAT = "%Y-%m-%dT%H:%M:%S.%f+0000"
+        deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
+
         reward = competition['awardMoney']
 
         cp = {

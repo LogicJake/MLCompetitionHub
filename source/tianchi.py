@@ -1,4 +1,8 @@
+from datetime import datetime
+
 from requests import request
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = '天池'
 
@@ -21,7 +25,12 @@ def get_data():
         url = 'https://tianchi.aliyun.com/competition/entrance/{}/introduction'.format(
             competition['raceId'])
         description = competition['brief']
+
         deadline = competition['currentSeasonEnd']
+        FORMAT = "%Y-%m-%d %H:%M:%S"
+        deadline = datetime.strptime(deadline, FORMAT)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
+
         reward = competition['currencySymbol'] + str(competition['bonus'])
 
         cp = {

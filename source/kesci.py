@@ -1,4 +1,8 @@
+from datetime import datetime, timedelta
+
 import requests
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = 'heywhale和鲸（Kesci）'
 
@@ -20,7 +24,15 @@ def get_data():
         name = competition['Name']
         url = 'https://www.kesci.com/home/competition/' + competition['_id']
         description = competition['ShortDescription']
+
         deadline = competition['EndDate']
+        if deadline is not None:
+            FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
+            deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
+            deadline = deadline.strftime(STANDARD_TIME_FORMAT)
+        else:
+            deadline = '无截止日期'
+
         reward = competition['DisplayLabel']
 
         cp = {

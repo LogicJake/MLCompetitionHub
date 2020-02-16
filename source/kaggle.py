@@ -1,4 +1,8 @@
+from datetime import datetime, timedelta
+
 from requests import request
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = 'Kaggle'
 
@@ -18,7 +22,9 @@ def get_data():
         url = 'https://www.kaggle.com' + competition['competitionUrl']
         description = competition['competitionDescription']
         deadline = competition['deadline']
-
+        FORMAT = "%Y-%m-%dT%H:%M:%SZ"
+        deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
         if competition['rewardTypeName'] != 'USD':
             continue
 

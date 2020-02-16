@@ -1,4 +1,8 @@
+from datetime import datetime, timedelta
+
 import requests
+
+from .utils import STANDARD_TIME_FORMAT
 
 PLATFORM_NAME = 'DataFountain'
 
@@ -21,6 +25,10 @@ def get_data():
             competition['id'])
 
         deadline = competition['endTime']
+        FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
+        deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
+        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
+
         reward = '￥' + competition['reward']
 
         cp = {
