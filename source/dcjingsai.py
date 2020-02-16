@@ -3,7 +3,7 @@ from urllib import parse
 
 import requests
 
-from .utils import STANDARD_TIME_FORMAT
+from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
 
 PLATFORM_NAME = 'DC竞赛'
 
@@ -39,6 +39,16 @@ def get_data():
         deadline = deadline + timedelta(hours=8)
         deadline = deadline.strftime(STANDARD_TIME_FORMAT)
 
+        start_time = datetime.utcfromtimestamp(
+            int(competition['startTime'] / 1000))
+        start_time = start_time + timedelta(hours=8)
+        now_time = datetime.utcnow() + timedelta(hours=8)
+        interval = now_time - start_time
+        if interval.days < MAX_INTERVAL_DAY:
+            new_flag = True
+        else:
+            new_flag = False
+
         reward = competition['reward']
 
         cp = {
@@ -46,7 +56,9 @@ def get_data():
             'url': url,
             'description': description,
             'deadline': deadline,
-            'reward': reward
+            'reward': reward,
+            'start_time': start_time,
+            'new_flag': new_flag
         }
 
         cps.append(cp)

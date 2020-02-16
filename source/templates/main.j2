@@ -6,7 +6,11 @@ RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.lo
 {% if data.competitions|length > 0 %}
 # {{data.name}}
 {% for competition in data.competitions %}
+{% if competition.new_flag %}
+## [{{competition.name}}]({{competition.url}}) ![](new_tag.png)  
+{% else %}
 ## [{{competition.name}}]({{competition.url}})  
+{% endif %}
 ### Description  
 {{competition.description}}  
 ### Deadline: {{competition.deadline}}  
