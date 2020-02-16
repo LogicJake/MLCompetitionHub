@@ -3,7 +3,7 @@ from datetime import datetime
 
 from jinja2 import Environment, PackageLoader
 
-from source import dcjingsai, kaggle, tianchi, turingtopia, biendata, datafountain
+from source import dcjingsai, kaggle, tianchi, turingtopia, biendata, datafountain, kesci
 
 # 获取数据
 datas = []
@@ -35,6 +35,11 @@ except Exception:
 
 try:
     datas.append(datafountain.get_data())
+except Exception:
+    traceback.print_exc()
+
+try:
+    datas.append(kesci.get_data())
 except Exception:
     traceback.print_exc()
 
