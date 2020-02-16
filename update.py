@@ -1,5 +1,5 @@
 import traceback
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from jinja2 import Environment, PackageLoader
 
@@ -44,7 +44,9 @@ except Exception:
     traceback.print_exc()
 
 env = Environment(loader=PackageLoader('source'))
-update = datetime.utcnow().isoformat()
+update = datetime.utcnow() + timedelta(hours=8)
+update = update.strftime('%Y-%m-%dT%H:%M:%S+0800')
+
 # 生成 README.md
 template = env.get_template('main.j2')
 content = template.render(datas=datas, update=update)
