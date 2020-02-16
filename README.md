@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
-一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-16T13:24:59.265327  
+一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
+更新时间: 2020-02-16T21:36:19+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
