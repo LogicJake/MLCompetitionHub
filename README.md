@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 21:00 UTC（北京时间早上5点）自动更新。  
-更新时间: 2020-02-15T21:01:43.259031  
+更新时间: 2020-02-16T12:10:04.967943  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -193,5 +193,7 @@ BAAI MagicSpeechNet Domestic ASR Challenge
 High-Energy Particle Classification Challenge  
 ### Deadline: 2020-03-22  
 ### Reward: 100000 yuan  
+
+
 
 
