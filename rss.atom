@@ -4,7 +4,7 @@
     <language>zh-cn</language>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-02-16T12:26:40.848873</updated>
+    <updated>2020-02-16T13:24:59.265327</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -15,7 +15,7 @@
     <entry>
         <id>https://www.kaggle.com/c/deepfake-detection-challenge</id>
         <title><![CDATA[Deepfake Detection Challenge]]></title>
-        <published>2020-03-31T23:59:00Z</published>
+        <published>2020-04-01T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/deepfake-detection-challenge"/>
         <content type="html" src="https://www.kaggle.com/c/deepfake-detection-challenge"><![CDATA[Identify videos with facial or voice manipulations]]></content>
         <author>
@@ -26,7 +26,7 @@
     <entry>
         <id>https://www.kaggle.com/c/march-madness-analytics-2020</id>
         <title><![CDATA[Google Cloud & NCAA® March Madness Analytics]]></title>
-        <published>2020-04-06T23:59:00Z</published>
+        <published>2020-04-07T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/march-madness-analytics-2020"/>
         <content type="html" src="https://www.kaggle.com/c/march-madness-analytics-2020"><![CDATA[Uncover the madness of March Madness®]]></content>
         <author>
@@ -37,7 +37,7 @@
     <entry>
         <id>https://www.kaggle.com/c/ds4g-environmental-insights-explorer</id>
         <title><![CDATA[DS4G: Environmental Insights Explorer]]></title>
-        <published>2020-03-24T23:59:00Z</published>
+        <published>2020-03-25T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"/>
         <content type="html" src="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"><![CDATA[Exploring alternatives for emissions factor calculations]]></content>
         <author>
@@ -48,7 +48,7 @@
     <entry>
         <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament</id>
         <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAW]]></title>
-        <published>2020-03-20T15:00:00Z</published>
+        <published>2020-03-20T23:00:00+0800</published>
         <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"/>
         <content type="html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"><![CDATA[Apply Machine Learning to NCAA® March Madness®]]></content>
         <author>
@@ -59,7 +59,7 @@
     <entry>
         <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament</id>
         <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAM]]></title>
-        <published>2020-03-19T15:00:00Z</published>
+        <published>2020-03-19T23:00:00+0800</published>
         <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"/>
         <content type="html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"><![CDATA[Apply Machine Learning to NCAA® March Madness®]]></content>
         <author>
@@ -70,7 +70,7 @@
     <entry>
         <id>https://www.kaggle.com/c/abstraction-and-reasoning-challenge</id>
         <title><![CDATA[Abstraction and Reasoning Challenge]]></title>
-        <published>2020-05-27T23:59:00Z</published>
+        <published>2020-05-28T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge"/>
         <content type="html" src="https://www.kaggle.com/c/abstraction-and-reasoning-challenge"><![CDATA[Create an AI capable of solving reasoning tasks it has never seen before]]></content>
         <author>
@@ -81,7 +81,7 @@
     <entry>
         <id>https://www.kaggle.com/c/nlp-getting-started</id>
         <title><![CDATA[Real or Not? NLP with Disaster Tweets]]></title>
-        <published>2020-03-23T23:59:00Z</published>
+        <published>2020-03-24T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/nlp-getting-started"/>
         <content type="html" src="https://www.kaggle.com/c/nlp-getting-started"><![CDATA[Predict which Tweets are about real disasters and which ones are not]]></content>
         <author>
@@ -92,7 +92,7 @@
     <entry>
         <id>https://www.kaggle.com/c/bengaliai-cv19</id>
         <title><![CDATA[Bengali.AI Handwritten Grapheme Classification]]></title>
-        <published>2020-03-16T23:59:00Z</published>
+        <published>2020-03-17T07:59:00+0800</published>
         <link href="https://www.kaggle.com/c/bengaliai-cv19"/>
         <content type="html" src="https://www.kaggle.com/c/bengaliai-cv19"><![CDATA[Classify the components of handwritten Bengali]]></content>
         <author>
@@ -105,7 +105,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231776/introduction</id>
         <title><![CDATA[“公益AI之星”挑战赛-新冠疫情相似句对判定大赛]]></title>
-        <published>2020-03-27 00:00:00</published>
+        <published>2020-03-27T00:00:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231776/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231776/introduction"><![CDATA[本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。]]></content>
         <author>
@@ -116,7 +116,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231762/introduction</id>
         <title><![CDATA[安全AI挑战者计划第三期 - 文本分类对抗攻击]]></title>
-        <published>2020-03-06 23:00:00</published>
+        <published>2020-03-06T23:00:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231762/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231762/introduction"><![CDATA[AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。]]></content>
         <author>
@@ -127,7 +127,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
         <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛]]></title>
-        <published>2020-03-18 23:00:00</published>
+        <published>2020-03-18T23:00:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。]]></content>
         <author>
@@ -138,7 +138,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231777/introduction</id>
         <title><![CDATA[智慧物流：新冠期间饿了么骑士行为预估]]></title>
-        <published>2020-03-30 23:00:00</published>
+        <published>2020-03-30T23:00:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231777/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231777/introduction"><![CDATA[面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。]]></content>
         <author>
@@ -149,7 +149,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231781/introduction</id>
         <title><![CDATA[蛋白质结构预测大赛]]></title>
-        <published>2020-03-20 20:00:00</published>
+        <published>2020-03-20T20:00:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231781/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231781/introduction"><![CDATA[天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。]]></content>
         <author>
@@ -160,7 +160,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231771/introduction</id>
         <title><![CDATA[第二届海南大数据创新应用大赛 - 智能算法赛]]></title>
-        <published>2020-02-28 23:55:00</published>
+        <published>2020-02-28T23:55:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231771/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231771/introduction"><![CDATA[通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。]]></content>
         <author>
@@ -171,7 +171,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231768/introduction</id>
         <title><![CDATA[2020数字中国创新大赛—算法赛：智慧海洋建设]]></title>
-        <published>2020-02-21 23:55:00</published>
+        <published>2020-02-21T23:55:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231768/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231768/introduction"><![CDATA[赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。]]></content>
         <author>
@@ -182,7 +182,7 @@
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231763/introduction</id>
         <title><![CDATA[数智重庆.全球产业赋能创新大赛【赛场一】]]></title>
-        <published>2020-03-05 23:55:00</published>
+        <published>2020-03-05T23:55:00+0800</published>
         <link href="https://tianchi.aliyun.com/competition/entrance/231763/introduction"/>
         <content type="html" src="https://tianchi.aliyun.com/competition/entrance/231763/introduction"><![CDATA[本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。]]></content>
         <author>
@@ -195,7 +195,7 @@
     <entry>
         <id>http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch</id>
         <title><![CDATA[高能宇宙线背景噪声过滤挑战赛]]></title>
-        <published>2020-04-20T09:00:00.000+0000</published>
+        <published>2020-04-20T17:00:00+0800</published>
         <link href="http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch"/>
         <content type="html" src="http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch"><![CDATA[高能宇宙线背景噪声过滤挑战赛]]></content>
         <author>
@@ -206,7 +206,7 @@
     <entry>
         <id>http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch</id>
         <title><![CDATA[视频点击预测大赛]]></title>
-        <published>2020-02-25T06:00:00.000+0000</published>
+        <published>2020-02-25T14:00:00+0800</published>
         <link href="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"/>
         <content type="html" src="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"><![CDATA[视频点击预测大赛]]></content>
         <author>
@@ -219,7 +219,7 @@
     <entry>
         <id>http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html</id>
         <title><![CDATA[城市交通流量时空预测]]></title>
-        <published>2020-06-20 00:00:00</published>
+        <published>2020-06-20T00:00:00+0800</published>
         <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
         <content type="html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。]]></content>
         <author>
@@ -230,7 +230,7 @@
     <entry>
         <id>http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html</id>
         <title><![CDATA[识别失信企业大赛]]></title>
-        <published>2020-06-20 00:00:00</published>
+        <published>2020-06-20T00:00:00+0800</published>
         <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
         <content type="html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。]]></content>
         <author>
@@ -243,7 +243,7 @@
     <entry>
         <id>https://www.biendata.com/competition/epidemic/</id>
         <title><![CDATA[Concronavirus Outbreak Prediction]]></title>
-        <published>2020-03-01</published>
+        <published>2020-03-01T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/epidemic/"/>
         <content type="html" src="https://www.biendata.com/competition/epidemic/"><![CDATA[Concronavirus Outbreak Prediction]]></content>
         <author>
@@ -254,7 +254,7 @@
     <entry>
         <id>https://www.biendata.com/competition/molecule/</id>
         <title><![CDATA[BAAI Small Molecule Prediction Challenge]]></title>
-        <published>2020-04-15</published>
+        <published>2020-04-15T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/molecule/"/>
         <content type="html" src="https://www.biendata.com/competition/molecule/"><![CDATA[BAAI Small Molecule Prediction Challenge]]></content>
         <author>
@@ -265,7 +265,7 @@
     <entry>
         <id>https://www.biendata.com/competition/astrodata2019/</id>
         <title><![CDATA[BAAI Challenge on Astronomical Objects Classification]]></title>
-        <published>2020-04-02</published>
+        <published>2020-04-02T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/astrodata2019/"/>
         <content type="html" src="https://www.biendata.com/competition/astrodata2019/"><![CDATA[BAAI Challenge on Astronomical Objects Classification]]></content>
         <author>
@@ -276,7 +276,7 @@
     <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        <published>2020-04-15</published>
+        <published>2020-04-15T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
         <content type="html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></content>
         <author>
@@ -287,7 +287,7 @@
     <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
-        <published>2020-03-31</published>
+        <published>2020-03-31T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <content type="html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></content>
         <author>
@@ -298,7 +298,7 @@
     <entry>
         <id>https://www.biendata.com/competition/bosch/</id>
         <title><![CDATA[BAAI: "INSPEC" Industrial Quality Prediction Challenge]]></title>
-        <published>2020-04-09</published>
+        <published>2020-04-09T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/bosch/"/>
         <content type="html" src="https://www.biendata.com/competition/bosch/"><![CDATA[BAAI: "INSPEC" Industrial Quality Prediction Challenge]]></content>
         <author>
@@ -309,7 +309,7 @@
     <entry>
         <id>https://www.biendata.com/competition/magicdata/</id>
         <title><![CDATA[BAAI MagicSpeechNet Domestic ASR Challenge]]></title>
-        <published>2020-03-28</published>
+        <published>2020-03-28T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/magicdata/"/>
         <content type="html" src="https://www.biendata.com/competition/magicdata/"><![CDATA[BAAI MagicSpeechNet Domestic ASR Challenge]]></content>
         <author>
@@ -320,7 +320,7 @@
     <entry>
         <id>https://www.biendata.com/competition/jet/</id>
         <title><![CDATA[High-Energy Particle Classification Challenge]]></title>
-        <published>2020-03-22</published>
+        <published>2020-03-22T08:00:00+0800</published>
         <link href="https://www.biendata.com/competition/jet/"/>
         <content type="html" src="https://www.biendata.com/competition/jet/"><![CDATA[High-Energy Particle Classification Challenge]]></content>
         <author>
@@ -335,7 +335,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88</id>
         <title><![CDATA[中国华录杯—应用算法征集赛]]></title>
-        <published>2020-02-28T16:00:00.000Z</published>
+        <published>2020-02-29T00:00:00+0800</published>
         <link href="https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88"/>
         <content type="html" src="https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88"><![CDATA[本赛道以促进智慧城市发展、推动数字孪生城市建设为目的，助力政府科学决策，社会精准治理，民生有效改善。参赛选手选题需要围绕智慧城市，或数字孪生方向，围绕两个方向对应的领域寻找能解决实际问题的算法。]]></content>
         <author>
@@ -346,7 +346,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80</id>
         <title><![CDATA[中国华录杯—不定向算法赛]]></title>
-        <published>2020-02-28T16:00:00.000Z</published>
+        <published>2020-02-29T00:00:00+0800</published>
         <link href="https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80"/>
         <content type="html" src="https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80"><![CDATA[本赛道提供已脱敏数据，参赛团队围绕数据提出命题，并完成相应的算法开发。作品将从算法的精度与创新性、算法创新性等层面进行评审。]]></content>
         <author>
@@ -357,7 +357,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5df99c5aea206700353c5de8</id>
         <title><![CDATA[中国华录杯——定向算法赛（人体摔倒姿态识别）]]></title>
-        <published>2020-02-28T16:00:00.000Z</published>
+        <published>2020-02-29T00:00:00+0800</published>
         <link href="https://www.kesci.com/home/competition/5df99c5aea206700353c5de8"/>
         <content type="html" src="https://www.kesci.com/home/competition/5df99c5aea206700353c5de8"><![CDATA[本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT及其他相关支撑材料。]]></content>
         <author>
@@ -368,7 +368,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada</id>
         <title><![CDATA[中国华录杯——定向算法赛（人群密度检测）]]></title>
-        <published>2020-02-28T16:00:00.000Z</published>
+        <published>2020-02-29T00:00:00+0800</published>
         <link href="https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada"/>
         <content type="html" src="https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada"><![CDATA[本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT、代码及其他相关支撑材料。]]></content>
         <author>
@@ -379,7 +379,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a</id>
         <title><![CDATA[首届“全国人工智能大赛”（AI+4K HDR赛项）]]></title>
-        <published>None</published>
+        <published>无截止日期</published>
         <link href="https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a"/>
         <content type="html" src="https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a"><![CDATA[2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。]]></content>
         <author>
@@ -390,7 +390,7 @@
     <entry>
         <id>https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be</id>
         <title><![CDATA[首届“全国人工智能大赛”（行人重识别 Person ReID 赛项）]]></title>
-        <published>None</published>
+        <published>无截止日期</published>
         <link href="https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be"/>
         <content type="html" src="https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be"><![CDATA[2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。]]></content>
         <author>
