@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-17T05:01:40+0800  
+更新时间: 2020-02-18T05:01:38+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -161,6 +161,14 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: 30000  
 
 
+## [BONC Cloudiip工业仪表表盘读数大赛](http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch)  
+
+### Description  
+BONC Cloudiip工业仪表表盘读数大赛  
+### Deadline: 2020-03-03T15:00:00+0800  
+### Reward: 5000  
+
+
 
 
 # DC竞赛
@@ -195,7 +203,7 @@ Concronavirus Outbreak Prediction
 ### Reward: $7,142  
 
 
-## [BAAI Small Molecule Prediction Challenge](https://www.biendata.com/competition/molecule/) ![](new_tag.png)  
+## [BAAI Small Molecule Prediction Challenge](https://www.biendata.com/competition/molecule/)  
 
 ### Description  
 BAAI Small Molecule Prediction Challenge  
@@ -211,20 +219,20 @@ BAAI Challenge on Astronomical Objects Classification
 ### Reward: ￥100,000  
 
 
-## [2020 Haihua AI Challenge·Waste Sorting Task 2](https://www.biendata.com/competition/haihua_wastesorting_task2/)  
-
-### Description  
-2020 Haihua AI Challenge·Waste Sorting Task 2  
-### Deadline: 2020-04-15T08:00:00+0800  
-### Reward: ￥210,000  
-
-
 ## [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
 
 ### Description  
 2020 Haihua AI Challenge·Waste Sorting Task 1  
 ### Deadline: 2020-03-31T08:00:00+0800  
 ### Reward: ￥90,000  
+
+
+## [2020 Haihua AI Challenge·Waste Sorting Task 2](https://www.biendata.com/competition/haihua_wastesorting_task2/)  
+
+### Description  
+2020 Haihua AI Challenge·Waste Sorting Task 2  
+### Deadline: 2020-04-15T08:00:00+0800  
+### Reward: ￥210,000  
 
 
 ## [BAAI: "INSPEC" Industrial Quality Prediction Challenge](https://www.biendata.com/competition/bosch/)  
