@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-18T05:01:38+0800  
+更新时间: 2020-02-19T05:01:25+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -23,7 +23,7 @@ Uncover the madness of March Madness®
 ### Reward: 25000.0 USD  
 
 
-## [DS4G: Environmental Insights Explorer](https://www.kaggle.com/c/ds4g-environmental-insights-explorer) ![](new_tag.png)  
+## [DS4G: Environmental Insights Explorer](https://www.kaggle.com/c/ds4g-environmental-insights-explorer)  
 
 ### Description  
 Exploring alternatives for emissions factor calculations  
@@ -100,19 +100,19 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: $30000  
 
 
-## [智慧物流：新冠期间饿了么骑士行为预估](https://tianchi.aliyun.com/competition/entrance/231777/introduction) ![](new_tag.png)  
-
-### Description  
-面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。  
-### Deadline: 2020-03-30T23:00:00+0800  
-### Reward: ￥0  
-
-
 ## [蛋白质结构预测大赛](https://tianchi.aliyun.com/competition/entrance/231781/introduction) ![](new_tag.png)  
 
 ### Description  
 天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。  
 ### Deadline: 2020-03-20T20:00:00+0800  
+### Reward: ￥0  
+
+
+## [智慧物流：新冠期间饿了么骑士行为预估](https://tianchi.aliyun.com/competition/entrance/231777/introduction)  
+
+### Description  
+面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。  
+### Deadline: 2020-03-30T23:00:00+0800  
 ### Reward: ￥0  
 
 
@@ -145,7 +145,7 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 # 图灵联邦
 
 
-## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch) ![](new_tag.png)  
+## [高能宇宙线背景噪声过滤挑战赛](http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch)  
 
 ### Description  
 高能宇宙线背景噪声过滤挑战赛  
