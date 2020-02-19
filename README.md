@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-19T05:01:25+0800  
+更新时间: 2020-02-20T05:01:46+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -76,7 +76,7 @@ Classify the components of handwritten Bengali
 # 天池
 
 
-## [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction) ![](new_tag.png)  
+## [“公益AI之星”挑战赛-新冠疫情相似句对判定大赛](https://tianchi.aliyun.com/competition/entrance/231776/introduction)  
 
 ### Description  
 本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。  
@@ -100,7 +100,7 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: $30000  
 
 
-## [蛋白质结构预测大赛](https://tianchi.aliyun.com/competition/entrance/231781/introduction) ![](new_tag.png)  
+## [蛋白质结构预测大赛](https://tianchi.aliyun.com/competition/entrance/231781/introduction)  
 
 ### Description  
 天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。  
@@ -132,7 +132,7 @@ AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里�
 ### Reward: ￥2000000  
 
 
-## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction) ![](new_tag.png)  
+## [数智重庆.全球产业赋能创新大赛【赛场一】](https://tianchi.aliyun.com/competition/entrance/231763/introduction)  
 
 ### Description  
 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
@@ -219,20 +219,20 @@ BAAI Challenge on Astronomical Objects Classification
 ### Reward: ￥100,000  
 
 
-## [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
-
-### Description  
-2020 Haihua AI Challenge·Waste Sorting Task 1  
-### Deadline: 2020-03-31T08:00:00+0800  
-### Reward: ￥90,000  
-
-
 ## [2020 Haihua AI Challenge·Waste Sorting Task 2](https://www.biendata.com/competition/haihua_wastesorting_task2/)  
 
 ### Description  
 2020 Haihua AI Challenge·Waste Sorting Task 2  
-### Deadline: 2020-04-15T08:00:00+0800  
+### Deadline: 2020-04-30T08:00:00+0800  
 ### Reward: ￥210,000  
+
+
+## [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
+
+### Description  
+2020 Haihua AI Challenge·Waste Sorting Task 1  
+### Deadline: 2020-04-15T08:00:00+0800  
+### Reward: ￥90,000  
 
 
 ## [BAAI: "INSPEC" Industrial Quality Prediction Challenge](https://www.biendata.com/competition/bosch/)  
