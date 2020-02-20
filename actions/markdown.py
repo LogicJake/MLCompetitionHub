@@ -1,11 +1,15 @@
+import copy
 from datetime import datetime, timedelta
 
 from jinja2 import Environment, PackageLoader
+
 STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+0800'
 MAX_INTERVAL_DAY = 7
 
 
-def generate(datas):
+def generate(datas_):
+    datas = copy.deepcopy(datas_)
+
     now_time = datetime.utcnow() + timedelta(hours=8)
 
     for data in datas:
