@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 from jinja2 import Environment, PackageLoader
 
-STANDARD_TIME_FORMAT = '%Y-%m-%dT%H %M %S+0800'
+STANDARD_TIME_FORMAT = '%Y-%m-%dT%H: %M:%S+0800'
 MAX_INTERVAL_DAY = 7
 
 
