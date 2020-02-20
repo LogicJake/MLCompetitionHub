@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-20T22: 48:29+0800  
+更新时间: 2020-02-21T05: 01:57+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.xml](https://www.logicjake.xyz/MLCompetitionHub/rss.xml)  
 邮箱订阅: 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。（注意：该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！）
 
@@ -324,7 +324,7 @@ Deadline: 2020-03-19T23: 00:00+0800
 Reward: 25000.0 USD  
 
 
-### Abstraction and Reasoning Challenge ![](new_tag.png)  
+### Abstraction and Reasoning Challenge
 
 Link: https://www.kaggle.com/c/abstraction-and-reasoning-challenge  
 Description: Create an AI capable of solving reasoning tasks it has never seen before  
@@ -481,14 +481,6 @@ Link: http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48
 Description: 高能宇宙线背景噪声过滤挑战赛  
 Deadline: 2020-04-20T17: 00:00+0800  
 Reward: 10000  
-
-
-### 视频点击预测大赛
-
-Link: http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch  
-Description: 视频点击预测大赛  
-Deadline: 2020-02-25T14: 00:00+0800  
-Reward: 30000  
 
 
 ### BONC Cloudiip工业仪表表盘读数大赛
