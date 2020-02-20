@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 from jinja2 import Environment, PackageLoader
 
-from source import dcjingsai, kaggle, tianchi, turingtopia, biendata, datafountain, kesci, dianshi, yanxishe, huaweicloud
+from source import dcjingsai, kaggle, tianchi, turingtopia, biendata, datafountain, kesci, dianshi, yanxishe, huaweicloud, flyai
 
 # 获取数据
 datas = []
@@ -55,6 +55,11 @@ except Exception:
 
 try:
     datas.append(huaweicloud.get_data())
+except Exception:
+    traceback.print_exc()
+
+try:
+    datas.append(flyai.get_data())
 except Exception:
     traceback.print_exc()
 
