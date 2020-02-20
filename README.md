@@ -1,7 +1,8 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-20T18:16:42+0800  
+更新时间: 2020-02-20T21:09:12+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
+邮箱订阅: 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。（注意：该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！）
 
 
 ## AI Studio
@@ -108,20 +109,20 @@ BAAI Challenge on Astronomical Objects Classification
 #### Reward: ￥100,000  
 
 
-### [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
-
-#### Description  
-2020 Haihua AI Challenge·Waste Sorting Task 1  
-#### Deadline: 2020-04-15T08:00:00+0800  
-#### Reward: ￥90,000  
-
-
 ### [2020 Haihua AI Challenge·Waste Sorting Task 2](https://www.biendata.com/competition/haihua_wastesorting_task2/)  
 
 #### Description  
 2020 Haihua AI Challenge·Waste Sorting Task 2  
 #### Deadline: 2020-04-30T08:00:00+0800  
 #### Reward: ￥210,000  
+
+
+### [2020 Haihua AI Challenge·Waste Sorting Task 1](https://www.biendata.com/competition/haihua_wastesorting_task1/)  
+
+#### Description  
+2020 Haihua AI Challenge·Waste Sorting Task 1  
+#### Deadline: 2020-04-15T08:00:00+0800  
+#### Reward: ￥90,000  
 
 
 ### [BAAI: "INSPEC" Industrial Quality Prediction Challenge](https://www.biendata.com/competition/bosch/)  
