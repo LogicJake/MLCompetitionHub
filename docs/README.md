@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-20T22 09 52+0800  
+更新时间: 2020-02-20T22: 13:01+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 邮箱订阅: 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。（注意：该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！）
 
@@ -12,7 +12,7 @@ RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.lo
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
 Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-04-30T08 00 00+0800  
+Deadline: 2020-04-30T08: 00:00+0800  
 Reward: ￥122,000  
 
 
@@ -20,7 +20,7 @@ Reward: ￥122,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/26  
 Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，参赛团体需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-08-31T08 00 00+0800  
+Deadline: 2020-08-31T08: 00:00+0800  
 Reward: 千万元项目资助  
 
 
@@ -28,7 +28,7 @@ Reward: 千万元项目资助
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
 Description: We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.  
-Deadline: 2020-03-31T08 00 00+0800  
+Deadline: 2020-03-31T08: 00:00+0800  
 Reward: Conference  
 
 
@@ -36,7 +36,7 @@ Reward: Conference
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/27  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度和速度。  
-Deadline: 2020-04-17T08 00 00+0800  
+Deadline: 2020-04-17T08: 00:00+0800  
 Reward: ￥23,000  
 
 
@@ -44,7 +44,7 @@ Reward: ￥23,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/3  
 Description: 要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。  
-Deadline: 2020-12-31T08 00 00+0800  
+Deadline: 2020-12-31T08: 00:00+0800  
 Reward: 总计250,000  
 
 
@@ -52,7 +52,7 @@ Reward: 总计250,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/4  
 Description: 机器阅读理解(Machine Reading Comprehension)是指让机器阅读文本，然后回答和阅读内容相关的问题。阅读理解是自然语言处理和人工智能领域的重要前沿课题，对于提升机器智能水平、使机器具有持续知识获取能力具有重要价值。  
-Deadline: 2020-12-31T08 00 00+0800  
+Deadline: 2020-12-31T08: 00:00+0800  
 Reward: 总计250,000  
 
 
@@ -60,7 +60,7 @@ Reward: 总计250,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/14  
 Description: 复用2019语言与智能技术竞赛知识驱动对话赛题，选手使用飞桨让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。  
-Deadline: 2020-12-31T08 00 00+0800  
+Deadline: 2020-12-31T08: 00:00+0800  
 Reward: 总计250,000  
 
 
@@ -68,7 +68,7 @@ Reward: 总计250,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/20  
 Description: 复用第二届中国AI+创新创业全国大赛赛题，要求选手必须使用飞桨对图像区域中的文字行进行预测，返回文字行的内容。  
-Deadline: 2021-01-01T08 00 00+0800  
+Deadline: 2021-01-01T08: 00:00+0800  
 Reward: 总计250,000  
 
 
@@ -76,7 +76,7 @@ Reward: 总计250,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
 Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
-Deadline: 2020-03-12T08 00 00+0800  
+Deadline: 2020-03-12T08: 00:00+0800  
 Reward: 特别礼包  
 
 
@@ -89,7 +89,7 @@ Reward: 特别礼包
 
 Link: https://www.biendata.com/competition/epidemic/  
 Description: Concronavirus Outbreak Prediction  
-Deadline: 2020-03-01T08 00 00+0800  
+Deadline: 2020-03-01T08: 00:00+0800  
 Reward: $7,142  
 
 
@@ -97,7 +97,7 @@ Reward: $7,142
 
 Link: https://www.biendata.com/competition/molecule/  
 Description: BAAI Small Molecule Prediction Challenge  
-Deadline: 2020-04-15T08 00 00+0800  
+Deadline: 2020-04-15T08: 00:00+0800  
 Reward: ￥100,000 (~$14,285)  
 
 
@@ -105,7 +105,7 @@ Reward: ￥100,000 (~$14,285)
 
 Link: https://www.biendata.com/competition/astrodata2019/  
 Description: BAAI Challenge on Astronomical Objects Classification  
-Deadline: 2020-04-02T08 00 00+0800  
+Deadline: 2020-04-02T08: 00:00+0800  
 Reward: ￥100,000  
 
 
@@ -113,7 +113,7 @@ Reward: ￥100,000
 
 Link: https://www.biendata.com/competition/haihua_wastesorting_task2/  
 Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
-Deadline: 2020-04-30T08 00 00+0800  
+Deadline: 2020-04-30T08: 00:00+0800  
 Reward: ￥210,000  
 
 
@@ -121,7 +121,7 @@ Reward: ￥210,000
 
 Link: https://www.biendata.com/competition/haihua_wastesorting_task1/  
 Description: 2020 Haihua AI Challenge·Waste Sorting Task 1  
-Deadline: 2020-04-15T08 00 00+0800  
+Deadline: 2020-04-15T08: 00:00+0800  
 Reward: ￥90,000  
 
 
@@ -129,7 +129,7 @@ Reward: ￥90,000
 
 Link: https://www.biendata.com/competition/bosch/  
 Description: BAAI: "INSPEC" Industrial Quality Prediction Challenge  
-Deadline: 2020-04-09T08 00 00+0800  
+Deadline: 2020-04-09T08: 00:00+0800  
 Reward: ￥100,000  
 
 
@@ -137,7 +137,7 @@ Reward: ￥100,000
 
 Link: https://www.biendata.com/competition/magicdata/  
 Description: BAAI MagicSpeechNet Domestic ASR Challenge  
-Deadline: 2020-03-28T08 00 00+0800  
+Deadline: 2020-03-28T08: 00:00+0800  
 Reward: ￥100,000  
 
 
@@ -145,7 +145,7 @@ Reward: ￥100,000
 
 Link: https://www.biendata.com/competition/jet/  
 Description: High-Energy Particle Classification Challenge  
-Deadline: 2020-03-22T08 00 00+0800  
+Deadline: 2020-03-22T08: 00:00+0800  
 Reward: 100000 yuan  
 
 
@@ -160,7 +160,7 @@ Reward: 100000 yuan
 
 Link: http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html  
 Description: 为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。  
-Deadline: 2020-06-20T00 00 00+0800  
+Deadline: 2020-06-20T00: 00:00+0800  
 Reward: 60000  
 
 
@@ -168,7 +168,7 @@ Reward: 60000
 
 Link: http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html  
 Description: 为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。  
-Deadline: 2020-06-20T00 00 00+0800  
+Deadline: 2020-06-20T00: 00:00+0800  
 Reward: 60000  
 
 
@@ -181,7 +181,7 @@ Reward: 60000
 
 Link: https://dianshi.bce.baidu.com/competition/26  
 Description: 练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。  
-Deadline: 2021-04-30T00 00 00+0800  
+Deadline: 2021-04-30T00: 00:00+0800  
 Reward: ￥0  
 
 
@@ -194,7 +194,7 @@ Reward: ￥0
 
 Link: https://www.flyai.com/d/COVID-19  
 Description: 本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委公布的最新疫情数据。研究人员可每天提交最新预测模型，对未来30天内的疫情趋势进行预测。  
-Deadline: 2020-04-17T20 00 00+0800  
+Deadline: 2020-04-17T20: 00:00+0800  
 Reward: 奖金 + Tesla-GPU训练资源  
 
 
@@ -202,7 +202,7 @@ Reward: 奖金 + Tesla-GPU训练资源
 
 Link: https://www.flyai.com/d/MaskDetectionV1  
 Description: 国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。  
-Deadline: 2020-03-19T20 00 00+0800  
+Deadline: 2020-03-19T20: 00:00+0800  
 Reward: 奖金池 ¥ 2,000  
 
 
@@ -210,7 +210,7 @@ Reward: 奖金池 ¥ 2,000
 
 Link: https://www.flyai.com/d/ChestXray02  
 Description: 武汉肺炎主要发病情况为新型冠状病毒(2019-nCoV)感染肺部导致人体呼吸衰竭。基于对肺部感染检测的技术研究，可通过人工智能技术对医学影像-X光片进行患病情况检测，有效提升确诊准确率和效率。本赛题可使用CSV文件和FlyAI框架两种提交方式参赛,参赛者需要通过优化模型来对肺部X光片进行精确的分类。  
-Deadline: 2020-03-06T20 00 00+0800  
+Deadline: 2020-03-06T20: 00:00+0800  
 Reward: 奖金池 ¥ 3,000  
 
 
@@ -262,7 +262,7 @@ Reward: 奖金池 ¥ 5,000
 
 Link: https://www.flyai.com/d/Texture-Classification  
 Description: 本赛题可使用CSV文件和FlyAI框架两种提交方式参赛。赛题主要是对图片的纹理进行分类，该数据集由五千多张图片组成，一共有47个纹理类别，选手们需要通过优化模型来对纹理图像进行精确的分类。  
-Deadline: 2020-01-06T20 00 00+0800  
+Deadline: 2020-01-06T20: 00:00+0800  
 Reward: 奖金池 ¥ 2,000  
 
 
@@ -275,7 +275,7 @@ Reward: 奖金池 ¥ 2,000
 
 Link: https://competition.huaweicloud.com/information/1000031241/introduction  
 Description: 大赛通过与东风畅行实际业务相结合，为开发者提供一个交流、学习，创新挑战的平台，以达到为业务赋能、培养汽车行业大数据人才的目的。  
-Deadline: 2020-02-23T23 00 00+0800  
+Deadline: 2020-02-23T23: 00:00+0800  
 Reward: ￥100000  
 
 
@@ -288,7 +288,7 @@ Reward: ￥100000
 
 Link: https://www.kaggle.com/c/deepfake-detection-challenge  
 Description: Identify videos with facial or voice manipulations  
-Deadline: 2020-04-01T07 59 00+0800  
+Deadline: 2020-04-01T07: 59:00+0800  
 Reward: 1000000.0 USD  
 
 
@@ -296,7 +296,7 @@ Reward: 1000000.0 USD
 
 Link: https://www.kaggle.com/c/march-madness-analytics-2020  
 Description: Uncover the madness of March Madness®  
-Deadline: 2020-04-07T07 59 00+0800  
+Deadline: 2020-04-07T07: 59:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -304,7 +304,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/ds4g-environmental-insights-explorer  
 Description: Exploring alternatives for emissions factor calculations  
-Deadline: 2020-03-25T07 59 00+0800  
+Deadline: 2020-03-25T07: 59:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -312,7 +312,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament  
 Description: Apply Machine Learning to NCAA® March Madness®  
-Deadline: 2020-03-20T23 00 00+0800  
+Deadline: 2020-03-20T23: 00:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -320,7 +320,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament  
 Description: Apply Machine Learning to NCAA® March Madness®  
-Deadline: 2020-03-19T23 00 00+0800  
+Deadline: 2020-03-19T23: 00:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -328,7 +328,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/abstraction-and-reasoning-challenge  
 Description: Create an AI capable of solving reasoning tasks it has never seen before  
-Deadline: 2020-05-28T07 59 00+0800  
+Deadline: 2020-05-28T07: 59:00+0800  
 Reward: 20000.0 USD  
 
 
@@ -336,7 +336,7 @@ Reward: 20000.0 USD
 
 Link: https://www.kaggle.com/c/nlp-getting-started  
 Description: Predict which Tweets are about real disasters and which ones are not  
-Deadline: 2020-03-24T07 59 00+0800  
+Deadline: 2020-03-24T07: 59:00+0800  
 Reward: 10000.0 USD  
 
 
@@ -344,7 +344,7 @@ Reward: 10000.0 USD
 
 Link: https://www.kaggle.com/c/bengaliai-cv19  
 Description: Classify the components of handwritten Bengali  
-Deadline: 2020-03-17T07 59 00+0800  
+Deadline: 2020-03-17T07: 59:00+0800  
 Reward: 10000.0 USD  
 
 
@@ -357,7 +357,7 @@ Reward: 10000.0 USD
 
 Link: https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88  
 Description: 本赛道以促进智慧城市发展、推动数字孪生城市建设为目的，助力政府科学决策，社会精准治理，民生有效改善。参赛选手选题需要围绕智慧城市，或数字孪生方向，围绕两个方向对应的领域寻找能解决实际问题的算法。  
-Deadline: 2020-02-29T00 00 00+0800  
+Deadline: 2020-02-29T00: 00:00+0800  
 Reward: 48w+创业孵化+生态合作+人才引进  
 
 
@@ -365,7 +365,7 @@ Reward: 48w+创业孵化+生态合作+人才引进
 
 Link: https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80  
 Description: 本赛道提供已脱敏数据，参赛团队围绕数据提出命题，并完成相应的算法开发。作品将从算法的精度与创新性、算法创新性等层面进行评审。  
-Deadline: 2020-02-29T00 00 00+0800  
+Deadline: 2020-02-29T00: 00:00+0800  
 Reward: 36w+创业孵化+生态合作+人才引进  
 
 
@@ -373,7 +373,7 @@ Reward: 36w+创业孵化+生态合作+人才引进
 
 Link: https://www.kesci.com/home/competition/5df99c5aea206700353c5de8  
 Description: 本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT及其他相关支撑材料。  
-Deadline: 2020-02-29T00 00 00+0800  
+Deadline: 2020-02-29T00: 00:00+0800  
 Reward: 16w+创业孵化+生态合作+人才引进  
 
 
@@ -381,7 +381,7 @@ Reward: 16w+创业孵化+生态合作+人才引进
 
 Link: https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada  
 Description: 本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT、代码及其他相关支撑材料。  
-Deadline: 2020-02-29T00 00 00+0800  
+Deadline: 2020-02-29T00: 00:00+0800  
 Reward: 16w+创业孵化+生态合作+人才引进  
 
 
@@ -410,7 +410,7 @@ Reward: ￥2,680,000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231776/introduction  
 Description: 本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。  
-Deadline: 2020-03-27T00 00 00+0800  
+Deadline: 2020-03-27T00: 00:00+0800  
 Reward: ￥0  
 
 
@@ -418,7 +418,7 @@ Reward: ￥0
 
 Link: https://tianchi.aliyun.com/competition/entrance/231775/introduction  
 Description: 大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。  
-Deadline: 2020-03-18T23 00 00+0800  
+Deadline: 2020-03-18T23: 00:00+0800  
 Reward: $30000  
 
 
@@ -426,7 +426,7 @@ Reward: $30000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231762/introduction  
 Description: AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。  
-Deadline: 2020-03-06T23 00 00+0800  
+Deadline: 2020-03-06T23: 00:00+0800  
 Reward: ￥68000  
 
 
@@ -434,7 +434,7 @@ Reward: ￥68000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231781/introduction  
 Description: 天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。  
-Deadline: 2020-03-20T20 00 00+0800  
+Deadline: 2020-03-20T20: 00:00+0800  
 Reward: ￥0  
 
 
@@ -442,7 +442,7 @@ Reward: ￥0
 
 Link: https://tianchi.aliyun.com/competition/entrance/231777/introduction  
 Description: 面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。  
-Deadline: 2020-03-30T23 00 00+0800  
+Deadline: 2020-03-30T23: 00:00+0800  
 Reward: ￥0  
 
 
@@ -450,7 +450,7 @@ Reward: ￥0
 
 Link: https://tianchi.aliyun.com/competition/entrance/231771/introduction  
 Description: 通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。  
-Deadline: 2020-02-28T23 55 00+0800  
+Deadline: 2020-02-28T23: 55:00+0800  
 Reward: ￥150000  
 
 
@@ -458,7 +458,7 @@ Reward: ￥150000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231768/introduction  
 Description: 赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。  
-Deadline: 2020-02-21T23 55 00+0800  
+Deadline: 2020-02-21T23: 55:00+0800  
 Reward: ￥2000000  
 
 
@@ -466,7 +466,7 @@ Reward: ￥2000000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231763/introduction  
 Description: 本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。  
-Deadline: 2020-03-05T23 55 00+0800  
+Deadline: 2020-03-05T23: 55:00+0800  
 Reward: ￥1210000  
 
 
@@ -479,7 +479,7 @@ Reward: ￥1210000
 
 Link: http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch  
 Description: 高能宇宙线背景噪声过滤挑战赛  
-Deadline: 2020-04-20T17 00 00+0800  
+Deadline: 2020-04-20T17: 00:00+0800  
 Reward: 10000  
 
 
@@ -487,7 +487,7 @@ Reward: 10000
 
 Link: http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch  
 Description: 视频点击预测大赛  
-Deadline: 2020-02-25T14 00 00+0800  
+Deadline: 2020-02-25T14: 00:00+0800  
 Reward: 30000  
 
 
@@ -495,7 +495,7 @@ Reward: 30000
 
 Link: http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch  
 Description: BONC Cloudiip工业仪表表盘读数大赛  
-Deadline: 2020-03-06T15 00 00+0800  
+Deadline: 2020-03-06T15: 00:00+0800  
 Reward: 5000  
 
 
@@ -508,7 +508,7 @@ Reward: 5000
 
 Link: https://god.yanxishe.com/26  
 Description: 本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。  
-Deadline: 2020-03-14T23 59 59+0800  
+Deadline: 2020-03-14T23: 59:59+0800  
 Reward: 3000.00  
 
 
@@ -516,7 +516,7 @@ Reward: 3000.00
 
 Link: https://god.yanxishe.com/23  
 Description: 春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。  
-Deadline: 2020-03-05T23 59 59+0800  
+Deadline: 2020-03-05T23: 59:59+0800  
 Reward: 5000.00  
 
 
