@@ -4,7 +4,7 @@
     <language>zh-cn</language>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-02-20T12:36:41+0800</updated>
+    <updated>2020-02-20T12:55:32+0800</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -419,6 +419,30 @@
         <content type="html" src="https://dianshi.bce.baidu.com/competition/26"><![CDATA[练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。]]></content>
         <author>
             <name><![CDATA[百度点石]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://god.yanxishe.com/26</id>
+        <title><![CDATA[美食识别挑战（2）：茄子、山药、苦瓜、西兰花]]></title>
+        <published>2020-03-14T23:59:59+0800</published>
+        <link href="https://god.yanxishe.com/26"/>
+        <content type="html" src="https://god.yanxishe.com/26"><![CDATA[本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://god.yanxishe.com/23</id>
+        <title><![CDATA[肺炎疫情攻防战--肺炎X光病灶识别]]></title>
+        <published>2020-03-05T23:59:59+0800</published>
+        <link href="https://god.yanxishe.com/23"/>
+        <content type="html" src="https://god.yanxishe.com/23"><![CDATA[春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
         </author>
     </entry>
     

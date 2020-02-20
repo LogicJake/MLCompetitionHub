@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-20T12:36:41+0800  
+更新时间: 2020-02-20T12:55:32+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -325,5 +325,26 @@ High-Energy Particle Classification Challenge
 练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。  
 #### Deadline: 2021-04-30T00:00:00+0800  
 #### Reward: ￥0  
+
+
+
+
+## AI研习社
+
+
+### [美食识别挑战（2）：茄子、山药、苦瓜、西兰花](https://god.yanxishe.com/26)  
+
+#### Description  
+本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。  
+#### Deadline: 2020-03-14T23:59:59+0800  
+#### Reward: 3000.00  
+
+
+### [肺炎疫情攻防战--肺炎X光病灶识别](https://god.yanxishe.com/23)  
+
+#### Description  
+春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。  
+#### Deadline: 2020-03-05T23:59:59+0800  
+#### Reward: 5000.00  
 
 
