@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-20T12:13:23+0800  
+更新时间: 2020-02-20T12:36:41+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.atom](https://www.logicjake.xyz/MLCompetitionHub/rss.atom)  
 
 
@@ -312,5 +312,18 @@ High-Energy Particle Classification Challenge
 2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。  
 #### Deadline: 无截止日期  
 #### Reward: ￥2,680,000  
+
+
+
+
+## 百度点石
+
+
+### [第二场-用户评论情感极性判别](https://dianshi.bce.baidu.com/competition/26)  
+
+#### Description  
+练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。  
+#### Deadline: 2021-04-30T00:00:00+0800  
+#### Reward: ￥0  
 
 
