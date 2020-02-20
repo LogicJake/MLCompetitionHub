@@ -19,7 +19,8 @@
         <updated>{{update}}</updated>
         {% endif %}
         <link href="{{competition.url}}"/>
-        <content><![CDATA[{{competition.content|safe}}]]></content>
+        <summary>{{competition.description}}</summary>
+        <content type="text/html" src="{{competition.url}}"><![CDATA[{{competition.content|safe}}]]></content>
         <author>
             <name><![CDATA[{{data.name}}]]></name>
         </author>

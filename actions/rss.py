@@ -29,7 +29,7 @@ def generate(datas_):
             else:
                 deadline = deadline.strftime(STANDARD_TIME_FORMAT)
 
-            content = 'Description\n{}\nDeadline: {}\nReward: {}'.format(
+            content = '<h3>Description</h3>{}<h3>Deadline: {}</h3><h3>Reward: {}</h3>'.format(
                 description, deadline, reward)
             c['start_time'] = start_time
             c['deadline'] = deadline
