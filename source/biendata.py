@@ -3,8 +3,6 @@ from datetime import datetime, timedelta
 import requests
 from lxml import etree
 
-from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
-
 PLATFORM_NAME = 'biendata'
 
 
@@ -30,18 +28,11 @@ def get_data():
         time = info.cssselect('dl dd:nth-child(2) > span')[0].text.strip()
         start_time = time.split('~')[0].strip()
         deadline = time.split('~')[1].strip()
+        start_time = start_time.split(':')[1]
+
         FORMAT = "%Y-%m-%d"
         deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
-        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
-
-        start_time = start_time.split(':')[1]
         start_time = datetime.strptime(start_time, FORMAT) + timedelta(hours=8)
-        now_time = datetime.utcnow() + timedelta(hours=8)
-        interval = now_time - start_time
-        if interval.days < MAX_INTERVAL_DAY:
-            new_flag = True
-        else:
-            new_flag = False
 
         cp = {
             'name': name,
@@ -50,7 +41,6 @@ def get_data():
             'deadline': deadline,
             'reward': reward,
             'start_time': start_time,
-            'new_flag': new_flag
         }
 
         cps.append(cp)

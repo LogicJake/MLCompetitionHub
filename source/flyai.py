@@ -1,9 +1,7 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 
 import requests
 from lxml import etree
-
-from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
 
 PLATFORM_NAME = 'FlyAi'
 
@@ -37,23 +35,14 @@ def get_data():
         if '-' in time:
             start_time = time.split('-')[0].strip()
             start_time = start_time.split('：')[1].strip()
-
             deadline = time.split('-')[1].strip()
+
             FORMAT = "%Y.%m.%d %H:%M:%S"
             deadline = datetime.strptime(deadline, FORMAT)
-            deadline = deadline.strftime(STANDARD_TIME_FORMAT)
-
             start_time = datetime.strptime(start_time, FORMAT)
-            now_time = datetime.utcnow() + timedelta(hours=8)
-            interval = now_time - start_time
-            if interval.days < MAX_INTERVAL_DAY:
-                new_flag = True
-            else:
-                new_flag = False
         else:
-            deadline = '无具体截止日期'
+            deadline = None
             start_time = None
-            new_flag = False
 
         try:
             reward = info.cssselect('div.bonus.flex div')[0].text.strip()
@@ -67,7 +56,6 @@ def get_data():
             'deadline': deadline,
             'reward': reward,
             'start_time': start_time,
-            'new_flag': new_flag
         }
         cps.append(cp)
 

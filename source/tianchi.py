@@ -1,8 +1,6 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 
 from requests import request
-
-from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
 
 PLATFORM_NAME = '天池'
 
@@ -27,18 +25,11 @@ def get_data():
         description = competition['brief']
 
         deadline = competition['currentSeasonEnd']
+        start_time = competition['currentSeasonStart']
+
         FORMAT = "%Y-%m-%d %H:%M:%S"
         deadline = datetime.strptime(deadline, FORMAT)
-        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
-
-        start_time = competition['currentSeasonStart']
         start_time = datetime.strptime(start_time, FORMAT)
-        now_time = datetime.utcnow() + timedelta(hours=8)
-        interval = now_time - start_time
-        if interval.days < MAX_INTERVAL_DAY:
-            new_flag = True
-        else:
-            new_flag = False
 
         reward = competition['currencySymbol'] + str(competition['bonus'])
 
@@ -49,7 +40,6 @@ def get_data():
             'deadline': deadline,
             'reward': reward,
             'start_time': start_time,
-            'new_flag': new_flag
         }
 
         cps.append(cp)

@@ -1,8 +1,6 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 
 import requests
-
-from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
 
 PLATFORM_NAME = '华为云大赛（人工智能赛）'
 
@@ -26,18 +24,11 @@ def get_data():
         description = competition['brief']
 
         deadline = competition['endTime']
+        start_time = competition['startTime']
+
         FORMAT = "%Y-%m-%d %H:%M:%S"
         deadline = datetime.strptime(deadline, FORMAT)
-        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
-
-        start_time = competition['startTime']
         start_time = datetime.strptime(start_time, FORMAT)
-        now_time = datetime.utcnow() + timedelta(hours=8)
-        interval = now_time - start_time
-        if interval.days < MAX_INTERVAL_DAY:
-            new_flag = True
-        else:
-            new_flag = False
 
         reward = '￥' + competition['bonus']
 
@@ -48,7 +39,6 @@ def get_data():
             'deadline': deadline,
             'reward': reward,
             'start_time': start_time,
-            'new_flag': new_flag
         }
 
         cps.append(cp)

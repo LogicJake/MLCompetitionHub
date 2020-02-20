@@ -2,8 +2,6 @@ from datetime import datetime, timedelta
 
 from requests import request
 
-from .utils import STANDARD_TIME_FORMAT, MAX_INTERVAL_DAY
-
 PLATFORM_NAME = 'Kaggle'
 
 
@@ -28,17 +26,10 @@ def get_data():
         deadline = competition['deadline']
         FORMAT = "%Y-%m-%dT%H:%M:%SZ"
         deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
-        deadline = deadline.strftime(STANDARD_TIME_FORMAT)
 
         start_time = competition['enabledDate']
         FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
         start_time = datetime.strptime(start_time, FORMAT) + timedelta(hours=8)
-        now_time = datetime.utcnow() + timedelta(hours=8)
-        interval = now_time - start_time
-        if interval.days < MAX_INTERVAL_DAY:
-            new_flag = True
-        else:
-            new_flag = False
 
         reward = str(competition['rewardQuantity']
                      ) + ' ' + competition['rewardTypeName']
@@ -50,7 +41,6 @@ def get_data():
             'deadline': deadline,
             'reward': reward,
             'start_time': start_time,
-            'new_flag': new_flag
         }
 
         cps.append(cp)
