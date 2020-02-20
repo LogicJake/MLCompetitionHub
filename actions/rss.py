@@ -41,5 +41,5 @@ def generate(datas_):
     template = env.get_template('rss.j2')
     content = template.render(datas=datas, update=update)
 
-    with open('rss.atom', 'w') as f:
+    with open('docs/rss.atom', 'w') as f:
         f.write(content)

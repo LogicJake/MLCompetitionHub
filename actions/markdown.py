@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 
 from jinja2 import Environment, PackageLoader
 
-STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+0800'
+STANDARD_TIME_FORMAT = '%Y-%m-%dT%H %M %S+0800'
 MAX_INTERVAL_DAY = 7
 
 
@@ -43,11 +43,11 @@ def generate(datas_):
 
     env = Environment(loader=PackageLoader('actions'))
 
-    update = now_time.strftime('%Y-%m-%dT%H:%M:%S+0800')
+    update = now_time.strftime(STANDARD_TIME_FORMAT)
 
     # 生成 README.md
     template = env.get_template('main.j2')
     content = template.render(datas=datas, update=update)
 
-    with open('README.md', 'w') as f:
+    with open('docs/README.md', 'w') as f:
         f.write(content)
