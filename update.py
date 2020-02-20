@@ -2,6 +2,10 @@ import importlib
 import pkgutil
 import traceback
 
+from dotenv import load_dotenv
+# 真机运行时加载环境变量
+load_dotenv()
+
 # 一、获取数据
 datas = []
 

@@ -9,8 +9,6 @@ STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+08:00'
 def generate(datas_):
     datas = copy.deepcopy(datas_)
 
-    env = Environment(loader=PackageLoader('actions'))
-
     for data in datas:
         for c in data['competitions']:
             start_time = c['start_time']
@@ -39,6 +37,7 @@ def generate(datas_):
     update = update.strftime(STANDARD_TIME_FORMAT)
 
     # 生成 RSS
+    env = Environment(loader=PackageLoader('actions'))
     template = env.get_template('rss.j2')
     content = template.render(datas=datas, update=update)
 

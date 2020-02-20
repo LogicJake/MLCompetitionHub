@@ -2,3 +2,4 @@ requests==2.22.0
 jinja2==2.10.3
 cssselect==1.1.0
 lxml==4.5.0
+python-dotenv==0.11.0

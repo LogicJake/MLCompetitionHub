@@ -11,6 +11,13 @@ jobs:
   build:
     runs-on: ubuntu-18.04
 
+    env:
+      mail_server: ${{ secrets.mail_server }}
+      mail_port: ${{ secrets.mail_port }}
+      mail_username: ${{ secrets.mail_username }}
+      mail_sender: ${{ secrets.mail_sender }}
+      mail_password: ${{ secrets.mail_password }}
+
     steps:
     - uses: actions/checkout@v1
       
