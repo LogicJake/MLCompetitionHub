@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator>LogicJake</generator>
+    <id>https://github.com/LogicJake/MLCompetitionHub</id>
+    <title><![CDATA[MLCompetitionHub]]></title>
+    <updated>2020-02-20T22:39:17+08:00</updated>
+    <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
+    <author>
+        <name><![CDATA[LogicJake]]></name>
+    </author>
+    
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
+        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
+        
+        <updated>2019-12-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
+        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/26</id>
+        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（团体选拔赛）]]></title>
+        
+        <updated>2019-12-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/26"/>
+        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，参赛团体需要给出答案段落摘要所包含的是非观点极性。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/26"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，参赛团体需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-08-31T08:00:00+08:00</h3><h3>Reward: 千万元项目资助</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/18</id>
+        <title><![CDATA[Automatic Simultaneous Translation Challenge]]></title>
+        
+        <updated>2019-12-31T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/18"/>
+        <summary>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/18"><![CDATA[<h3>Description</h3>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.<h3>Deadline: 2020-03-31T08:00:00+08:00</h3><h3>Reward: Conference</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/27</id>
+        <title><![CDATA[飞桨论文复现挑战赛（第二期）]]></title>
+        
+        <updated>2020-01-21T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/27"/>
+        <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度和速度。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/27"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2020-04-17T08:00:00+08:00</h3><h3>Reward: ￥23,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/3</id>
+        <title><![CDATA[常规赛：问答摘要与推理]]></title>
+        
+        <updated>2018-09-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/3"/>
+        <summary>要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/3"><![CDATA[<h3>Description</h3>要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: 总计250,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/4</id>
+        <title><![CDATA[常规赛：机器阅读理解]]></title>
+        
+        <updated>2018-09-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/4"/>
+        <summary>机器阅读理解(Machine Reading Comprehension)是指让机器阅读文本，然后回答和阅读内容相关的问题。阅读理解是自然语言处理和人工智能领域的重要前沿课题，对于提升机器智能水平、使机器具有持续知识获取能力具有重要价值。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/4"><![CDATA[<h3>Description</h3>机器阅读理解(Machine Reading Comprehension)是指让机器阅读文本，然后回答和阅读内容相关的问题。阅读理解是自然语言处理和人工智能领域的重要前沿课题，对于提升机器智能水平、使机器具有持续知识获取能力具有重要价值。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: 总计250,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/14</id>
+        <title><![CDATA[常规赛：知识驱动对话]]></title>
+        
+        <updated>2019-10-14T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/14"/>
+        <summary>复用2019语言与智能技术竞赛知识驱动对话赛题，选手使用飞桨让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/14"><![CDATA[<h3>Description</h3>复用2019语言与智能技术竞赛知识驱动对话赛题，选手使用飞桨让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: 总计250,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/20</id>
+        <title><![CDATA[常规赛：中文场景文字识别]]></title>
+        
+        <updated>2019-12-27T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/20"/>
+        <summary>复用第二届中国AI+创新创业全国大赛赛题，要求选手必须使用飞桨对图像区域中的文字行进行预测，返回文字行的内容。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/20"><![CDATA[<h3>Description</h3>复用第二届中国AI+创新创业全国大赛赛题，要求选手必须使用飞桨对图像区域中的文字行进行预测，返回文字行的内容。<h3>Deadline: 2021-01-01T08:00:00+08:00</h3><h3>Reward: 总计250,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/21</id>
+        <title><![CDATA[MarTech Challenge Track1 用户购买预测]]></title>
+        
+        <updated>2020-01-12T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/21"/>
+        <summary>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/21"><![CDATA[<h3>Description</h3>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率<h3>Deadline: 2020-03-12T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.biendata.com/competition/epidemic/</id>
+        <title><![CDATA[Concronavirus Outbreak Prediction]]></title>
+        
+        <updated>2020-02-14T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/epidemic/"/>
+        <summary>Concronavirus Outbreak Prediction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/epidemic/"><![CDATA[<h3>Description</h3>Concronavirus Outbreak Prediction<h3>Deadline: 2020-03-01T08:00:00+08:00</h3><h3>Reward: $7,142</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/molecule/</id>
+        <title><![CDATA[BAAI Small Molecule Prediction Challenge]]></title>
+        
+        <updated>2020-02-10T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/molecule/"/>
+        <summary>BAAI Small Molecule Prediction Challenge</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/molecule/"><![CDATA[<h3>Description</h3>BAAI Small Molecule Prediction Challenge<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥100,000 (~$14,285)</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/astrodata2019/</id>
+        <title><![CDATA[BAAI Challenge on Astronomical Objects Classification]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/astrodata2019/"/>
+        <summary>BAAI Challenge on Astronomical Objects Classification</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/astrodata2019/"><![CDATA[<h3>Description</h3>BAAI Challenge on Astronomical Objects Classification<h3>Deadline: 2020-04-02T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/bosch/</id>
+        <title><![CDATA[BAAI: "INSPEC" Industrial Quality Prediction Challenge]]></title>
+        
+        <updated>2019-12-31T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/bosch/"/>
+        <summary>BAAI: "INSPEC" Industrial Quality Prediction Challenge</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/bosch/"><![CDATA[<h3>Description</h3>BAAI: "INSPEC" Industrial Quality Prediction Challenge<h3>Deadline: 2020-04-09T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/magicdata/</id>
+        <title><![CDATA[BAAI MagicSpeechNet Domestic ASR Challenge]]></title>
+        
+        <updated>2019-12-25T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/magicdata/"/>
+        <summary>BAAI MagicSpeechNet Domestic ASR Challenge</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/magicdata/"><![CDATA[<h3>Description</h3>BAAI MagicSpeechNet Domestic ASR Challenge<h3>Deadline: 2020-03-28T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/jet/</id>
+        <title><![CDATA[High-Energy Particle Classification Challenge]]></title>
+        
+        <updated>2019-12-09T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/jet/"/>
+        <summary>High-Energy Particle Classification Challenge</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/jet/"><![CDATA[<h3>Description</h3>High-Energy Particle Classification Challenge<h3>Deadline: 2020-03-22T08:00:00+08:00</h3><h3>Reward: 100000 yuan</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    
+    
+    <entry>
+        <id>http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html</id>
+        <title><![CDATA[城市交通流量时空预测]]></title>
+        
+        <updated>2019-09-23T00:00:00+08:00</updated>
+        
+        <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
+        <summary>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。</summary>
+        <content type="text/html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[<h3>Description</h3>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。<h3>Deadline: 2020-06-20T00:00:00+08:00</h3><h3>Reward: 60000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html</id>
+        <title><![CDATA[识别失信企业大赛]]></title>
+        
+        <updated>2019-09-23T00:00:00+08:00</updated>
+        
+        <link href="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"/>
+        <summary>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。</summary>
+        <content type="text/html" src="http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html"><![CDATA[<h3>Description</h3>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。<h3>Deadline: 2020-06-20T00:00:00+08:00</h3><h3>Reward: 60000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://dianshi.bce.baidu.com/competition/26</id>
+        <title><![CDATA[第二场-用户评论情感极性判别]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://dianshi.bce.baidu.com/competition/26"/>
+        <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
+        <content type="text/html" src="https://dianshi.bce.baidu.com/competition/26"><![CDATA[<h3>Description</h3>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[百度点石]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.flyai.com/d/COVID-19</id>
+        <title><![CDATA[新冠肺炎疫情趋势预测]]></title>
+        
+        <updated>2020-02-19T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/COVID-19"/>
+        <summary>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委公布的最新疫情数据。研究人员可每天提交最新预测模型，对未来30天内的疫情趋势进行预测。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/COVID-19"><![CDATA[<h3>Description</h3>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委公布的最新疫情数据。研究人员可每天提交最新预测模型，对未来30天内的疫情趋势进行预测。<h3>Deadline: 2020-04-17T20:00:00+08:00</h3><h3>Reward: 奖金 + Tesla-GPU训练资源</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/MaskDetectionV1</id>
+        <title><![CDATA[口罩佩戴检测]]></title>
+        
+        <updated>2020-02-19T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/MaskDetectionV1"/>
+        <summary>国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/MaskDetectionV1"><![CDATA[<h3>Description</h3>国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。<h3>Deadline: 2020-03-19T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/ChestXray02</id>
+        <title><![CDATA[X光片检测患者肺炎]]></title>
+        
+        <updated>2020-02-05T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/ChestXray02"/>
+        <summary>武汉肺炎主要发病情况为新型冠状病毒(2019-nCoV)感染肺部导致人体呼吸衰竭。基于对肺部感染检测的技术研究，可通过人工智能技术对医学影像-X光片进行患病情况检测，有效提升确诊准确率和效率。本赛题可使用CSV文件和FlyAI框架两种提交方式参赛,参赛者需要通过优化模型来对肺部X光片进行精确的分类。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/ChestXray02"><![CDATA[<h3>Description</h3>武汉肺炎主要发病情况为新型冠状病毒(2019-nCoV)感染肺部导致人体呼吸衰竭。基于对肺部感染检测的技术研究，可通过人工智能技术对医学影像-X光片进行患病情况检测，有效提升确诊准确率和效率。本赛题可使用CSV文件和FlyAI框架两种提交方式参赛,参赛者需要通过优化模型来对肺部X光片进行精确的分类。<h3>Deadline: 2020-03-06T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/PolyhedronDiceClassification</id>
+        <title><![CDATA[多面体骰子分类]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/PolyhedronDiceClassification"/>
+        <summary>骰子也称色子，为一正多面体，通常作为桌上游戏的小道具。同时骰子也可以用于生成指定范围的随机数。最常见的骰子是六面骰，它是一个正立方体，上面分别有一到六个数，其相对两面数字之和必为七。
+本赛题主要对骰子形状进行分类，一共包括四面骰、六面骰、八面骰、十面骰、十二面骰和二十面骰。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
+        <content type="text/html" src="https://www.flyai.com/d/PolyhedronDiceClassification"><![CDATA[<h3>Description</h3>骰子也称色子，为一正多面体，通常作为桌上游戏的小道具。同时骰子也可以用于生成指定范围的随机数。最常见的骰子是六面骰，它是一个正立方体，上面分别有一到六个数，其相对两面数字之和必为七。
+本赛题主要对骰子形状进行分类，一共包括四面骰、六面骰、八面骰、十面骰、十二面骰和二十面骰。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/SimpleDrawing</id>
+        <title><![CDATA[你画我猜]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/SimpleDrawing"/>
+        <summary>为了增强人工智能的趣味性，我们开展了你画我猜这一竞赛。你画我猜数据集中包括了40种生活中常见的类别如飞机、苹果、篮球等。图片信息以json格式存储，在每个json中记录了用户每一笔简笔画对应的横坐标集合和纵坐标集合。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
+        <content type="text/html" src="https://www.flyai.com/d/SimpleDrawing"><![CDATA[<h3>Description</h3>为了增强人工智能的趣味性，我们开展了你画我猜这一竞赛。你画我猜数据集中包括了40种生活中常见的类别如飞机、苹果、篮球等。图片信息以json格式存储，在每个json中记录了用户每一笔简笔画对应的横坐标集合和纵坐标集合。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/WiderPerson</id>
+        <title><![CDATA[密集场景行人检测]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/WiderPerson"/>
+        <summary>这是一个更加符合真实世界的密集行人检测数据集，图像广泛选择自生活中的各种场景，共9000张标注图，用于训练和开发更加具有现实世界实用性的人物检测模型和算法。数据标签一共有五类，在评估时只考虑前三类，分别为行人，骑行的人和部分遮挡的人。其中训练集、验证集和测试集划分比例为6:2:2.
+对应的标签数据说明：每行格式为 label, x_min, y_min, x_max, y_max.</summary>
+        <content type="text/html" src="https://www.flyai.com/d/WiderPerson"><![CDATA[<h3>Description</h3>这是一个更加符合真实世界的密集行人检测数据集，图像广泛选择自生活中的各种场景，共9000张标注图，用于训练和开发更加具有现实世界实用性的人物检测模型和算法。数据标签一共有五类，在评估时只考虑前三类，分别为行人，骑行的人和部分遮挡的人。其中训练集、验证集和测试集划分比例为6:2:2.
+对应的标签数据说明：每行格式为 label, x_min, y_min, x_max, y_max.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/PornImageRecognition</id>
+        <title><![CDATA[图片鉴黄]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/PornImageRecognition"/>
+        <summary>随着互联网的发展，内容安全成为互联网不得不面临的严峻挑战。互动社区的崛起，网友素质的参差不齐，由于“涉黄”被勒令关闭的网站多如牛毛，因此“鉴黄”也显得尤为重要。虽然各个互联网企业都有专门的人员来做内容审核，但是无法跟上内容发展的速度，人工审核容易出现审核不及时、高成本、主观判断影响结果等问题。因此通过深度学习的人工智能技术来进行图片鉴黄也是迫在眉睫。
+在本数据集一共包括5种图片类别，每个类别至少有1000张图像，其中训练集、验证集和测试集划分比例为6:2:2.
+由于数据集包含涉黄图片，因此本地调试数据集中只展示正常图片。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/PornImageRecognition"><![CDATA[<h3>Description</h3>随着互联网的发展，内容安全成为互联网不得不面临的严峻挑战。互动社区的崛起，网友素质的参差不齐，由于“涉黄”被勒令关闭的网站多如牛毛，因此“鉴黄”也显得尤为重要。虽然各个互联网企业都有专门的人员来做内容审核，但是无法跟上内容发展的速度，人工审核容易出现审核不及时、高成本、主观判断影响结果等问题。因此通过深度学习的人工智能技术来进行图片鉴黄也是迫在眉睫。
+在本数据集一共包括5种图片类别，每个类别至少有1000张图像，其中训练集、验证集和测试集划分比例为6:2:2.
+由于数据集包含涉黄图片，因此本地调试数据集中只展示正常图片。<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/Captcha</id>
+        <title><![CDATA[常见物体识别]]></title>
+        
+        <updated>2020-02-20T22:39:17+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/Captcha"/>
+        <summary>本赛题整理了生活中常见的80种物体类别，比如冰箱、文具盒、蜡烛、鞭炮等，希望参赛者能够通过深度学习的方法提高物体识别的准确率。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
+        <content type="text/html" src="https://www.flyai.com/d/Captcha"><![CDATA[<h3>Description</h3>本赛题整理了生活中常见的80种物体类别，比如冰箱、文具盒、蜡烛、鞭炮等，希望参赛者能够通过深度学习的方法提高物体识别的准确率。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.flyai.com/d/Texture-Classification</id>
+        <title><![CDATA[图像纹理分类]]></title>
+        
+        <updated>2019-12-06T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/Texture-Classification"/>
+        <summary>本赛题可使用CSV文件和FlyAI框架两种提交方式参赛。赛题主要是对图片的纹理进行分类，该数据集由五千多张图片组成，一共有47个纹理类别，选手们需要通过优化模型来对纹理图像进行精确的分类。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/Texture-Classification"><![CDATA[<h3>Description</h3>本赛题可使用CSV文件和FlyAI框架两种提交方式参赛。赛题主要是对图片的纹理进行分类，该数据集由五千多张图片组成，一共有47个纹理类别，选手们需要通过优化模型来对纹理图像进行精确的分类。<h3>Deadline: 2020-01-06T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAi]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000031241/introduction</id>
+        <title><![CDATA[“东风出行杯”开发者创意大赛（定邀）]]></title>
+        
+        <updated>2020-01-10T09:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000031241/introduction"/>
+        <summary>大赛通过与东风畅行实际业务相结合，为开发者提供一个交流、学习，创新挑战的平台，以达到为业务赋能、培养汽车行业大数据人才的目的。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000031241/introduction"><![CDATA[<h3>Description</h3>大赛通过与东风畅行实际业务相结合，为开发者提供一个交流、学习，创新挑战的平台，以达到为业务赋能、培养汽车行业大数据人才的目的。<h3>Deadline: 2020-02-23T23:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.kaggle.com/c/deepfake-detection-challenge</id>
+        <title><![CDATA[Deepfake Detection Challenge]]></title>
+        
+        <updated>2019-12-12T01:00:06+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/deepfake-detection-challenge"/>
+        <summary>Identify videos with facial or voice manipulations</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/deepfake-detection-challenge"><![CDATA[<h3>Description</h3>Identify videos with facial or voice manipulations<h3>Deadline: 2020-04-01T07:59:00+08:00</h3><h3>Reward: 1000000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/march-madness-analytics-2020</id>
+        <title><![CDATA[Google Cloud & NCAA® March Madness Analytics]]></title>
+        
+        <updated>2020-02-15T10:47:23+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/march-madness-analytics-2020"/>
+        <summary>Uncover the madness of March Madness®</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/march-madness-analytics-2020"><![CDATA[<h3>Description</h3>Uncover the madness of March Madness®<h3>Deadline: 2020-04-07T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/ds4g-environmental-insights-explorer</id>
+        <title><![CDATA[DS4G: Environmental Insights Explorer]]></title>
+        
+        <updated>2020-02-11T23:02:06+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"/>
+        <summary>Exploring alternatives for emissions factor calculations</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"><![CDATA[<h3>Description</h3>Exploring alternatives for emissions factor calculations<h3>Deadline: 2020-03-25T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament</id>
+        <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAW]]></title>
+        
+        <updated>2020-02-15T10:01:36+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"/>
+        <summary>Apply Machine Learning to NCAA® March Madness®</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"><![CDATA[<h3>Description</h3>Apply Machine Learning to NCAA® March Madness®<h3>Deadline: 2020-03-20T23:00:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament</id>
+        <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAM]]></title>
+        
+        <updated>2020-02-15T10:01:51+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"/>
+        <summary>Apply Machine Learning to NCAA® March Madness®</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"><![CDATA[<h3>Description</h3>Apply Machine Learning to NCAA® March Madness®<h3>Deadline: 2020-03-19T23:00:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/abstraction-and-reasoning-challenge</id>
+        <title><![CDATA[Abstraction and Reasoning Challenge]]></title>
+        
+        <updated>2020-02-13T22:51:37+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/abstraction-and-reasoning-challenge"/>
+        <summary>Create an AI capable of solving reasoning tasks it has never seen before</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/abstraction-and-reasoning-challenge"><![CDATA[<h3>Description</h3>Create an AI capable of solving reasoning tasks it has never seen before<h3>Deadline: 2020-05-28T07:59:00+08:00</h3><h3>Reward: 20000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/nlp-getting-started</id>
+        <title><![CDATA[Real or Not? NLP with Disaster Tweets]]></title>
+        
+        <updated>2019-12-24T06:02:26+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/nlp-getting-started"/>
+        <summary>Predict which Tweets are about real disasters and which ones are not</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/nlp-getting-started"><![CDATA[<h3>Description</h3>Predict which Tweets are about real disasters and which ones are not<h3>Deadline: 2020-03-24T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/bengaliai-cv19</id>
+        <title><![CDATA[Bengali.AI Handwritten Grapheme Classification]]></title>
+        
+        <updated>2019-12-20T07:47:42+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/bengaliai-cv19"/>
+        <summary>Classify the components of handwritten Bengali</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/bengaliai-cv19"><![CDATA[<h3>Description</h3>Classify the components of handwritten Bengali<h3>Deadline: 2020-03-17T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88</id>
+        <title><![CDATA[中国华录杯—应用算法征集赛]]></title>
+        
+        <updated>2019-12-13T19:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88"/>
+        <summary>本赛道以促进智慧城市发展、推动数字孪生城市建设为目的，助力政府科学决策，社会精准治理，民生有效改善。参赛选手选题需要围绕智慧城市，或数字孪生方向，围绕两个方向对应的领域寻找能解决实际问题的算法。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88"><![CDATA[<h3>Description</h3>本赛道以促进智慧城市发展、推动数字孪生城市建设为目的，助力政府科学决策，社会精准治理，民生有效改善。参赛选手选题需要围绕智慧城市，或数字孪生方向，围绕两个方向对应的领域寻找能解决实际问题的算法。<h3>Deadline: 2020-02-29T00:00:00+08:00</h3><h3>Reward: 48w+创业孵化+生态合作+人才引进</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80</id>
+        <title><![CDATA[中国华录杯—不定向算法赛]]></title>
+        
+        <updated>2019-12-13T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80"/>
+        <summary>本赛道提供已脱敏数据，参赛团队围绕数据提出命题，并完成相应的算法开发。作品将从算法的精度与创新性、算法创新性等层面进行评审。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80"><![CDATA[<h3>Description</h3>本赛道提供已脱敏数据，参赛团队围绕数据提出命题，并完成相应的算法开发。作品将从算法的精度与创新性、算法创新性等层面进行评审。<h3>Deadline: 2020-02-29T00:00:00+08:00</h3><h3>Reward: 36w+创业孵化+生态合作+人才引进</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5df99c5aea206700353c5de8</id>
+        <title><![CDATA[中国华录杯——定向算法赛（人体摔倒姿态识别）]]></title>
+        
+        <updated>2019-12-22T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5df99c5aea206700353c5de8"/>
+        <summary>本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT及其他相关支撑材料。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5df99c5aea206700353c5de8"><![CDATA[<h3>Description</h3>本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT及其他相关支撑材料。<h3>Deadline: 2020-02-29T00:00:00+08:00</h3><h3>Reward: 16w+创业孵化+生态合作+人才引进</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada</id>
+        <title><![CDATA[中国华录杯——定向算法赛（人群密度检测）]]></title>
+        
+        <updated>2019-12-21T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada"/>
+        <summary>本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT、代码及其他相关支撑材料。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5df1d33d23ea6d002b264ada"><![CDATA[<h3>Description</h3>本赛道主要分为人群密度检测与姿态检测与分类两大方向，希望参赛团队灵活运用迁移学习方法提高算法精度。 初赛阶段采用相关赛题领域的客观评审指标，对于选手的算法在主办方给定的测试集上进行预测。复赛阶段则需要已晋级的参赛团队准备PPT、代码及其他相关支撑材料。<h3>Deadline: 2020-02-29T00:00:00+08:00</h3><h3>Reward: 16w+创业孵化+生态合作+人才引进</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a</id>
+        <title><![CDATA[首届“全国人工智能大赛”（AI+4K HDR赛项）]]></title>
+        
+        <updated>2019-10-17T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a"/>
+        <summary>2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a"><![CDATA[<h3>Description</h3>2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥2,680,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be</id>
+        <title><![CDATA[首届“全国人工智能大赛”（行人重识别 Person ReID 赛项）]]></title>
+        
+        <updated>2019-10-17T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be"/>
+        <summary>2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be"><![CDATA[<h3>Description</h3>2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥2,680,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231776/introduction</id>
+        <title><![CDATA[“公益AI之星”挑战赛-新冠疫情相似句对判定大赛]]></title>
+        
+        <updated>2020-02-12T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231776/introduction"/>
+        <summary>本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231776/introduction"><![CDATA[<h3>Description</h3>本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。<h3>Deadline: 2020-03-27T00:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
+        <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛]]></title>
+        
+        <updated>2020-02-07T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
+        <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-03-18T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231762/introduction</id>
+        <title><![CDATA[安全AI挑战者计划第三期 - 文本分类对抗攻击]]></title>
+        
+        <updated>2019-12-07T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231762/introduction"/>
+        <summary>AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231762/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。<h3>Deadline: 2020-03-06T23:00:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231781/introduction</id>
+        <title><![CDATA[蛋白质结构预测大赛]]></title>
+        
+        <updated>2020-02-13T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231781/introduction"/>
+        <summary>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231781/introduction"><![CDATA[<h3>Description</h3>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。<h3>Deadline: 2020-03-20T20:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231777/introduction</id>
+        <title><![CDATA[智慧物流：新冠期间饿了么骑士行为预估]]></title>
+        
+        <updated>2020-02-12T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231777/introduction"/>
+        <summary>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231777/introduction"><![CDATA[<h3>Description</h3>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。<h3>Deadline: 2020-03-30T23:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231771/introduction</id>
+        <title><![CDATA[第二届海南大数据创新应用大赛 - 智能算法赛]]></title>
+        
+        <updated>2019-12-27T08:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231771/introduction"/>
+        <summary>通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231771/introduction"><![CDATA[<h3>Description</h3>通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。<h3>Deadline: 2020-02-28T23:55:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231768/introduction</id>
+        <title><![CDATA[2020数字中国创新大赛—算法赛：智慧海洋建设]]></title>
+        
+        <updated>2019-12-25T01:05:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231768/introduction"/>
+        <summary>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231768/introduction"><![CDATA[<h3>Description</h3>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。<h3>Deadline: 2020-02-21T23:55:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231763/introduction</id>
+        <title><![CDATA[数智重庆.全球产业赋能创新大赛【赛场一】]]></title>
+        
+        <updated>2020-02-13T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231763/introduction"/>
+        <summary>本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231763/introduction"><![CDATA[<h3>Description</h3>本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。<h3>Deadline: 2020-03-05T23:55:00+08:00</h3><h3>Reward: ￥1210000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch</id>
+        <title><![CDATA[高能宇宙线背景噪声过滤挑战赛]]></title>
+        
+        <updated>2020-02-11T09:40:00+08:00</updated>
+        
+        <link href="http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch"/>
+        <summary>高能宇宙线背景噪声过滤挑战赛</summary>
+        <content type="text/html" src="http://www.turingtopia.com/competitionnew/detail/e771814b400a4db383183ae48f2c048a/sketch"><![CDATA[<h3>Description</h3>高能宇宙线背景噪声过滤挑战赛<h3>Deadline: 2020-04-20T17:00:00+08:00</h3><h3>Reward: 10000</h3>]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch</id>
+        <title><![CDATA[视频点击预测大赛]]></title>
+        
+        <updated>2019-11-16T08:00:00+08:00</updated>
+        
+        <link href="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"/>
+        <summary>视频点击预测大赛</summary>
+        <content type="text/html" src="http://www.turingtopia.com/competitionnew/detail/e4880352b6ef4f9f8f28e8f98498dbc4/sketch"><![CDATA[<h3>Description</h3>视频点击预测大赛<h3>Deadline: 2020-02-25T14:00:00+08:00</h3><h3>Reward: 30000</h3>]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch</id>
+        <title><![CDATA[BONC Cloudiip工业仪表表盘读数大赛]]></title>
+        
+        <updated>2019-11-12T19:50:00+08:00</updated>
+        
+        <link href="http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch"/>
+        <summary>BONC Cloudiip工业仪表表盘读数大赛</summary>
+        <content type="text/html" src="http://www.turingtopia.com/competitionnew/detail/53aa39e8d46048d8a4de2c6d21adafb1/sketch"><![CDATA[<h3>Description</h3>BONC Cloudiip工业仪表表盘读数大赛<h3>Deadline: 2020-03-06T15:00:00+08:00</h3><h3>Reward: 5000</h3>]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://god.yanxishe.com/26</id>
+        <title><![CDATA[美食识别挑战（2）：茄子、山药、苦瓜、西兰花]]></title>
+        
+        <updated>2020-02-13T10:38:38+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/26"/>
+        <summary>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/26"><![CDATA[<h3>Description</h3>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。<h3>Deadline: 2020-03-14T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://god.yanxishe.com/23</id>
+        <title><![CDATA[肺炎疫情攻防战--肺炎X光病灶识别]]></title>
+        
+        <updated>2020-02-04T17:30:20+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/23"/>
+        <summary>春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/23"><![CDATA[<h3>Description</h3>春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。<h3>Deadline: 2020-03-05T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    
+</feed>
