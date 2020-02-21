@@ -1,6 +1,6 @@
 ![MLCompetitionHub](https://github.com/LogicJake/MLCompetitionHub/workflows/MLCompetitionHub/badge.svg?branch=master)  
 一站式显示各大数据竞赛平台正在进行的比赛，每天 05:00 UTC+8 自动更新。  
-更新时间: 2020-02-21T11: 37:38+0800  
+更新时间: 2020-02-22T05: 02:08+0800  
 RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.xml](https://www.logicjake.xyz/MLCompetitionHub/rss.xml)  
 邮箱订阅: 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。（注意：该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！）
 
@@ -12,7 +12,7 @@ RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.xml](https://www.log
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
 Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-04-30T08: 00:00+0800  
+Deadline: 2020-04-28T08: 00:00+0800  
 Reward: ￥122,000  
 
 
@@ -109,20 +109,20 @@ Deadline: 2020-04-02T08: 00:00+0800
 Reward: ￥100,000  
 
 
-### 2020 Haihua AI Challenge·Waste Sorting Task 2
-
-Link: https://www.biendata.com/competition/haihua_wastesorting_task2/  
-Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
-Deadline: 2020-04-30T08: 00:00+0800  
-Reward: ￥210,000  
-
-
 ### 2020 Haihua AI Challenge·Waste Sorting Task 1
 
 Link: https://www.biendata.com/competition/haihua_wastesorting_task1/  
 Description: 2020 Haihua AI Challenge·Waste Sorting Task 1  
 Deadline: 2020-04-15T08: 00:00+0800  
 Reward: ￥90,000  
+
+
+### 2020 Haihua AI Challenge·Waste Sorting Task 2
+
+Link: https://www.biendata.com/competition/haihua_wastesorting_task2/  
+Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
+Deadline: 2020-04-30T08: 00:00+0800  
+Reward: ￥210,000  
 
 
 ### BAAI: "INSPEC" Industrial Quality Prediction Challenge
@@ -458,7 +458,7 @@ Reward: ￥150000
 
 Link: https://tianchi.aliyun.com/competition/entrance/231768/introduction  
 Description: 赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。  
-Deadline: 2020-02-21T23: 55:00+0800  
+Deadline: 2020-02-22T23: 55:00+0800  
 Reward: ￥2000000  
 
 
@@ -494,6 +494,14 @@ Reward: 5000
 
 
 ## AI研习社
+
+
+### 50种环境声音分类 ![](new_tag.png)  
+
+Link: https://god.yanxishe.com/37  
+Description: 数据是16KHz采样的音频文件，包含5大类，50小类。  
+Deadline: 2020-03-20T23: 59:59+0800  
+Reward: 3000.00  
 
 
 ### 美食识别挑战（2）：茄子、山药、苦瓜、西兰花
