@@ -2,7 +2,7 @@
 
 
 
-## 新冠肺炎疫情趋势预测 ![](new_tag.png)  
+## 新冠肺炎疫情趋势预测 <sup style="color:red">[new]<sup>  
 
 Link: https://www.flyai.com/d/COVID-19  
 Description: 本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委公布的最新疫情数据。研究人员可每天提交最新预测模型，对未来30天内的疫情趋势进行预测。  
@@ -10,7 +10,7 @@ Deadline: 2020-04-17T20:00:00+0800
 Reward: 奖金 + Tesla-GPU训练资源  
 
 
-## 口罩佩戴检测 ![](new_tag.png)  
+## 口罩佩戴检测 <sup style="color:red">[new]<sup>  
 
 Link: https://www.flyai.com/d/MaskDetectionV1  
 Description: 国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。  

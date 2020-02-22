@@ -2,7 +2,7 @@
 {% if data.competitions|length > 0 %}
 {% for competition in data.competitions %}
 {% if competition.new_flag %}
-## {{competition.name}} ![](new_tag.png)  
+## {{competition.name}} <sup style="color:red">[new]<sup>  
 {% else %}
 ## {{competition.name}}
 {% endif %}
