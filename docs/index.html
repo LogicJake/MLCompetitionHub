@@ -9,25 +9,61 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 
 <body>
   <nav>
-    <a href="https://github.com/LogicJake/MLCompetitionHub">View on GitHub</a>
     <a href="https://www.logicjake.xyz/MLCompetitionHub/rss.atom">RSS</a>
     <a href="https://www.logicjake.xyz">Blog</a>
   </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      name: 'MLCompetitionHub',
+      repo: 'LogicJake/MLCompetitionHub',
+      noEmoji: true,
+      // 完整配置参数
+      search: {
+        maxAge: 86400000,
+        paths: ['/'],
+
+        placeholder: {
+          '/zh-cn/': '搜索',
+          '/': 'Type to search'
+        },
+
+        noData: {
+          '/zh-cn/': '找不到结果',
+          '/': 'No Results'
+        },
+
+        depth: 3
+      },
+      ga: 'UA-109200981-1',
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>
   <div style="display:none">
     <script type="text/javascript" src="https://s11.cnzz.com/z_stat.php?id=1261182417&web_id=1261182417"></script>
   </div>
+
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'd9cc12cdab9604abf3b9',
+      clientSecret: '7e88722e749e7d414c5644d5edf7a8a4816e9035',
+      repo: 'blog-issue',
+      owner: 'LogicJake',
+      admin: ['LogicJake'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
+
 </body>
 
 </html>

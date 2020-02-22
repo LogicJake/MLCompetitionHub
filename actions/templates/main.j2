@@ -5,12 +5,12 @@ RSS 订阅: [https://www.logicjake.xyz/MLCompetitionHub/rss.xml](https://www.log
 邮箱订阅: 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。（注意：该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！）
 {% for data in datas %}
 {% if data.competitions|length > 0 %}
-## {{data.name}}
+# {{data.name}}
 {% for competition in data.competitions %}
 {% if competition.new_flag %}
-### {{competition.name}} ![](new_tag.png)  
+## {{competition.name}} ![](new_tag.png)  
 {% else %}
-### {{competition.name}}
+## {{competition.name}}
 {% endif %}
 Link: {{competition.url}}  
 Description: {{competition.description}}  
