@@ -10,6 +10,15 @@ MAX_INTERVAL_DAY = 7
 def generate(datas_):
     datas = copy.deepcopy(datas_)
 
+    try:
+        with open('urls.txt', 'r') as f:
+            urls = f.readlines()
+    except Exception:
+        urls = []
+
+    urls = [url.strip() for url in urls]
+    new_completitions = []
+
     now_time = datetime.utcnow() + timedelta(hours=8)
     env = Environment(loader=PackageLoader('actions'))
 
@@ -17,6 +26,7 @@ def generate(datas_):
         for c in data['competitions']:
             start_time = c['start_time']
             deadline = c['deadline']
+            url = c['url']
 
             if start_time is not None:
                 interval = now_time - start_time
@@ -42,8 +52,10 @@ def generate(datas_):
             c['deadline'] = deadline
             c['new_flag'] = new_flag
 
-        # 生成 README.md
-        template = env.get_template('markdown.j2')
+            if url not in urls:
+                new_completitions.append(c)
+
+        template = env.get_template('md_platform.j2')
         content = template.render(data=data)
 
         if ' ' in data['name']:
@@ -52,3 +64,8 @@ def generate(datas_):
             link = data['name']
         with open('docs/competition/{}.md'.format(link), 'w') as f:
             f.write(content)
+
+    template = env.get_template('md_nc.j2')
+    content = template.render(completitions=new_completitions)
+    with open('docs/new_competition.md', 'w') as f:
+        f.write(content)

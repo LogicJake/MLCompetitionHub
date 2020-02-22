@@ -1,0 +1,12 @@
+# 新上线比赛
+{% if competitions|length > 0 %}
+{% for competition in competitions %}
+## {{competition.name}}
+Link: {{competition.url}}  
+Description: {{competition.description}}  
+Deadline: {{competition.deadline}}  
+Reward: {{competition.reward}}  
+{% endfor %}
+{% else %}
+> 暂无新上线比赛！
+{% endif %}
