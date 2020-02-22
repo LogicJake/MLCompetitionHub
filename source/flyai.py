@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 from lxml import etree
 
-PLATFORM_NAME = 'FlyAi'
+PLATFORM_NAME = 'FlyAI'
 
 
 def get_data():

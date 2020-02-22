@@ -1,0 +1,5 @@
+* [首页](/)
+* 比赛汇总
+    {% for competition in competitions %}
+    * [{{competition.name}}](competition/{{competition.link}}.md)  
+    {% endfor %}

@@ -1,0 +1,16 @@
+# {{data.name}}
+{% if data.competitions|length > 0 %}
+{% for competition in data.competitions %}
+{% if competition.new_flag %}
+## {{competition.name}} ![](new_tag.png)  
+{% else %}
+## {{competition.name}}
+{% endif %}
+Link: {{competition.url}}  
+Description: {{competition.description}}  
+Deadline: {{competition.deadline}}  
+Reward: {{competition.reward}}  
+{% endfor %}
+{% else %}
+> 该平台暂无进行中的比赛！
+{% endif %}

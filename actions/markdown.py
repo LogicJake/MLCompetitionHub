@@ -11,6 +11,7 @@ def generate(datas_):
     datas = copy.deepcopy(datas_)
 
     now_time = datetime.utcnow() + timedelta(hours=8)
+    env = Environment(loader=PackageLoader('actions'))
 
     for data in datas:
         for c in data['competitions']:
@@ -41,13 +42,13 @@ def generate(datas_):
             c['deadline'] = deadline
             c['new_flag'] = new_flag
 
-    env = Environment(loader=PackageLoader('actions'))
+        # 生成 README.md
+        template = env.get_template('markdown.j2')
+        content = template.render(data=data)
 
-    update = now_time.strftime(STANDARD_TIME_FORMAT)
-
-    # 生成 README.md
-    template = env.get_template('main.j2')
-    content = template.render(datas=datas, update=update)
-
-    with open('docs/README.md', 'w') as f:
-        f.write(content)
+        if ' ' in data['name']:
+            link = data['name'].replace(' ', '_')
+        else:
+            link = data['name']
+        with open('docs/competition/{}.md'.format(link), 'w') as f:
+            f.write(content)
