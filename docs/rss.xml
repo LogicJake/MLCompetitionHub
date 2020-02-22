@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-02-22T20:24:05+08:00</updated>
+    <updated>2020-02-22T20:56:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -288,7 +288,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -346,7 +346,7 @@
         <id>https://www.flyai.com/d/PolyhedronDiceClassification</id>
         <title><![CDATA[多面体骰子分类]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://www.flyai.com/d/PolyhedronDiceClassification"/>
         <summary>骰子也称色子，为一正多面体，通常作为桌上游戏的小道具。同时骰子也可以用于生成指定范围的随机数。最常见的骰子是六面骰，它是一个正立方体，上面分别有一到六个数，其相对两面数字之和必为七。
@@ -362,7 +362,7 @@
         <id>https://www.flyai.com/d/SimpleDrawing</id>
         <title><![CDATA[你画我猜]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://www.flyai.com/d/SimpleDrawing"/>
         <summary>为了增强人工智能的趣味性，我们开展了你画我猜这一竞赛。你画我猜数据集中包括了40种生活中常见的类别如飞机、苹果、篮球等。图片信息以json格式存储，在每个json中记录了用户每一笔简笔画对应的横坐标集合和纵坐标集合。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
@@ -376,7 +376,7 @@
         <id>https://www.flyai.com/d/WiderPerson</id>
         <title><![CDATA[密集场景行人检测]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://www.flyai.com/d/WiderPerson"/>
         <summary>这是一个更加符合真实世界的密集行人检测数据集，图像广泛选择自生活中的各种场景，共9000张标注图，用于训练和开发更加具有现实世界实用性的人物检测模型和算法。数据标签一共有五类，在评估时只考虑前三类，分别为行人，骑行的人和部分遮挡的人。其中训练集、验证集和测试集划分比例为6:2:2.
@@ -392,7 +392,7 @@
         <id>https://www.flyai.com/d/PornImageRecognition</id>
         <title><![CDATA[图片鉴黄]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://www.flyai.com/d/PornImageRecognition"/>
         <summary>随着互联网的发展，内容安全成为互联网不得不面临的严峻挑战。互动社区的崛起，网友素质的参差不齐，由于“涉黄”被勒令关闭的网站多如牛毛，因此“鉴黄”也显得尤为重要。虽然各个互联网企业都有专门的人员来做内容审核，但是无法跟上内容发展的速度，人工审核容易出现审核不及时、高成本、主观判断影响结果等问题。因此通过深度学习的人工智能技术来进行图片鉴黄也是迫在眉睫。
@@ -410,7 +410,7 @@
         <id>https://www.flyai.com/d/Captcha</id>
         <title><![CDATA[常见物体识别]]></title>
         
-        <updated>2020-02-22T20:24:05+08:00</updated>
+        <updated>2020-02-22T20:56:58+08:00</updated>
         
         <link href="https://www.flyai.com/d/Captcha"/>
         <summary>本赛题整理了生活中常见的80种物体类别，比如冰箱、文具盒、蜡烛、鞭炮等，希望参赛者能够通过深度学习的方法提高物体识别的准确率。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
