@@ -1,5 +1,6 @@
 * [首页](/)
-* 比赛汇总
+* [新上线比赛](new_competition.md)
+* 进行中比赛
     
     * [AI Studio](competition/AI_Studio.md)  
     
