@@ -15,7 +15,7 @@ def get_data():
     data = {'name': PLATFORM_NAME}
     cps = []
     for competition in competitions:
-        if competition['stateOrder'] == 0 or competition['stateOrder'] == 1:
+        if competition['stateOrder'] == 1:
             continue
         # 必须字段
         name = competition['title']
