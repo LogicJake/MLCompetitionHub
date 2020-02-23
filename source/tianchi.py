@@ -19,7 +19,8 @@ def get_data():
             continue
 
         # 必须字段
-        name = competition['raceName']
+        season = competition['season']
+        name = competition['raceName'] + '(赛季 {})'.format(season + 1)
         url = 'https://tianchi.aliyun.com/competition/entrance/{}/introduction'.format(
             competition['raceId'])
         description = competition['brief']
