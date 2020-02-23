@@ -17,7 +17,7 @@ def generate(datas_):
         urls = []
 
     urls = [url.strip() for url in urls]
-    new_completitions = []
+    new_competitions = []
 
     now_time = datetime.utcnow() + timedelta(hours=8)
     env = Environment(loader=PackageLoader('actions'))
@@ -53,7 +53,7 @@ def generate(datas_):
             c['new_flag'] = new_flag
 
             if url not in urls:
-                new_completitions.append(c)
+                new_competitions.append(c)
 
         template = env.get_template('md_platform.j2')
         content = template.render(data=data)
@@ -65,7 +65,8 @@ def generate(datas_):
         with open('docs/competition/{}.md'.format(link), 'w') as f:
             f.write(content)
 
+    print(new_competitions)
     template = env.get_template('md_nc.j2')
-    content = template.render(completitions=new_completitions)
+    content = template.render(competitions=new_competitions)
     with open('docs/new_competition.md', 'w') as f:
         f.write(content)
