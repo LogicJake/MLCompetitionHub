@@ -65,7 +65,6 @@ def generate(datas_):
         with open('docs/competition/{}.md'.format(link), 'w') as f:
             f.write(content)
 
-    print(new_competitions)
     template = env.get_template('md_nc.j2')
     content = template.render(competitions=new_competitions)
     with open('docs/new_competition.md', 'w') as f:

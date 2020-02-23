@@ -10,6 +10,11 @@ STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+08:00'
 
 
 def generate(datas_):
+    debug = os.environ.get('debug')
+
+    if debug == 'true':
+        return
+
     datas = copy.deepcopy(datas_)
 
     try:
