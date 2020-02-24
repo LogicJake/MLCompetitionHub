@@ -33,19 +33,3 @@ Description: 本赛道主要分为人群密度检测与姿态检测与分类两�
 Deadline: 2020-02-29T00:00:00+0800  
 Reward: 16w+创业孵化+生态合作+人才引进  
 
-
-## 首届“全国人工智能大赛”（AI+4K HDR赛项）
-
-Link: https://www.kesci.com/home/competition/5d84728ab1468c002ca1825a  
-Description: 2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。  
-Deadline: 未给出具体时间  
-Reward: ￥2,680,000  
-
-
-## 首届“全国人工智能大赛”（行人重识别 Person ReID 赛项）
-
-Link: https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be  
-Description: 2019年8月，深圳市人民政府决定专门设立人工智能领域权威赛事——全国人工智能大赛（以下简称大赛）。大赛将立足国际视野，营造人工智能创新创造氛围，促进产业、学术、资本、人才等创新要素融合发展。  
-Deadline: 未给出具体时间  
-Reward: ￥2,680,000  
-

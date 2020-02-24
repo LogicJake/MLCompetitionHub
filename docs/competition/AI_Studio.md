@@ -26,6 +26,14 @@ Deadline: 2020-03-31T08:00:00+0800
 Reward: Conference  
 
 
+## MarTech Challenge Track1 用户购买预测
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
+Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
+Deadline: 2020-04-01T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## 飞桨论文复现挑战赛（第二期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/27  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/20
 Description: 复用第二届中国AI+创新创业全国大赛赛题，要求选手必须使用飞桨对图像区域中的文字行进行预测，返回文字行的内容。  
 Deadline: 2021-01-01T08:00:00+0800  
 Reward: 总计250,000  
-
-
-## MarTech Challenge Track1 用户购买预测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
-Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
-Deadline: 2020-03-12T08:00:00+0800  
-Reward: 特别礼包  
 
