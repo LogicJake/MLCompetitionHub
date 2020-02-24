@@ -17,6 +17,10 @@ def get_data():
     for competition in competitions:
         if competition['stateOrder'] == 1:
             continue
+
+        if competition['reward'] == '0':
+            continue
+
         # 必须字段
         name = competition['title']
         url = 'https://www.datafountain.cn/competitions/' + str(
@@ -29,8 +33,11 @@ def get_data():
         deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
         start_time = datetime.strptime(start_time, FORMAT) + timedelta(hours=8)
 
-        reward = '￥' + competition['reward']
-
+        try:
+            reward = int(competition['reward'])
+            reward = '￥' + str(reward)
+        except Exception:
+            reward = competition['reward']
         cp = {
             'name': name,
             'url': url,
