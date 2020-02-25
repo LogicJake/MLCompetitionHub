@@ -10,6 +10,14 @@ Deadline: 2020-04-01T07:59:00+0800
 Reward: 1000000.0 USD  
 
 
+## University of Liverpool - Ion Switching <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/liverpool-ion-switching  
+Description: Identify the number of channels open at each time point  
+Deadline: 2020-05-26T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
 ## Google Cloud & NCAA® March Madness Analytics
 
 Link: https://www.kaggle.com/c/march-madness-analytics-2020  
