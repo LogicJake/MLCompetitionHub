@@ -6,7 +6,7 @@ PLATFORM_NAME = 'heywhale和鲸（Kesci）'
 
 
 def get_data():
-    url = 'https://www.kesci.com/api/competitions?perPage=12&page=1&Status=1'
+    url = 'https://www.kesci.com/v2/api/competitions?perPage=12&page=1&Status=1'
 
     response = requests.get(url=url)
     content = response.json()
@@ -16,7 +16,8 @@ def get_data():
     cps = []
     for competition in competitions:
         if competition['DisplayLabel'] == '练习赛' or competition[
-                'DisplayLabel'] == '训练营':
+                'DisplayLabel'] == '训练营' or competition[
+                    'DisplayLabel'] == 'DATA TRAIN':
             continue
         # 必须字段
         name = competition['Name']
