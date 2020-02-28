@@ -63,3 +63,5 @@ https://www.kaggle.com/c/liverpool-ion-switching
 https://www.kesci.com/home/competition/5e535a612537a0002ca864ac
 https://www.kesci.com/home/competition/5e532ac62537a0002ca859a6
 https://www.datafountain.cn/competitions/428
+https://www.nishika.com/competitions/2
+https://www.nishika.com/competitions/1

@@ -2,7 +2,7 @@
 
 
 
-## 50种环境声音分类 <sup style="color:red">[new]<sup>  
+## 50种环境声音分类
 
 Link: https://god.yanxishe.com/37  
 Description: 数据是16KHz采样的音频文件，包含5大类，50小类。  
