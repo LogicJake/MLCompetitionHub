@@ -50,22 +50,6 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: 总计250,000  
 
 
-## 常规赛：机器阅读理解
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/4  
-Description: 机器阅读理解(Machine Reading Comprehension)是指让机器阅读文本，然后回答和阅读内容相关的问题。阅读理解是自然语言处理和人工智能领域的重要前沿课题，对于提升机器智能水平、使机器具有持续知识获取能力具有重要价值。  
-Deadline: 2020-02-29T08:00:00+0800  
-Reward: 总计250,000  
-
-
-## 常规赛：知识驱动对话
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/14  
-Description: 复用2019语言与智能技术竞赛知识驱动对话赛题，选手使用飞桨让机器根据构建的知识图谱进行主动聊天，使机器具备模拟人类用语言进行信息传递的能力。  
-Deadline: 2020-02-29T08:00:00+0800  
-Reward: 总计250,000  
-
-
 ## 常规赛：中文场景文字识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/20  
