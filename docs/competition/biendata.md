@@ -2,14 +2,6 @@
 
 
 
-## Concronavirus Outbreak Prediction
-
-Link: https://www.biendata.com/competition/epidemic/  
-Description: Concronavirus Outbreak Prediction  
-Deadline: 2020-03-01T08:00:00+0800  
-Reward: $7,142  
-
-
 ## BAAI Small Molecule Prediction Challenge
 
 Link: https://www.biendata.com/competition/molecule/  
@@ -26,20 +18,20 @@ Deadline: 2020-04-02T08:00:00+0800
 Reward: ￥100,000  
 
 
-## 2020 Haihua AI Challenge·Waste Sorting Task 1
-
-Link: https://www.biendata.com/competition/haihua_wastesorting_task1/  
-Description: 2020 Haihua AI Challenge·Waste Sorting Task 1  
-Deadline: 2020-04-15T08:00:00+0800  
-Reward: ￥90,000  
-
-
 ## 2020 Haihua AI Challenge·Waste Sorting Task 2
 
 Link: https://www.biendata.com/competition/haihua_wastesorting_task2/  
 Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
 Deadline: 2020-04-30T08:00:00+0800  
 Reward: ￥210,000  
+
+
+## 2020 Haihua AI Challenge·Waste Sorting Task 1
+
+Link: https://www.biendata.com/competition/haihua_wastesorting_task1/  
+Description: 2020 Haihua AI Challenge·Waste Sorting Task 1  
+Deadline: 2020-04-15T08:00:00+0800  
+Reward: ￥90,000  
 
 
 ## BAAI: "INSPEC" Industrial Quality Prediction Challenge
