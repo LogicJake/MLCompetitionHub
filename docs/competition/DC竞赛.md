@@ -2,6 +2,14 @@
 
 
 
+## 口罩佩戴检测大赛 <sup style="color:red">[new]<sup>  
+
+Link:   
+Description: 本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。  
+Deadline: 2020-04-06T15:00:00+0800  
+Reward: 京东云代金券  
+
+
 ## 城市交通流量时空预测
 
 Link: http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html  
