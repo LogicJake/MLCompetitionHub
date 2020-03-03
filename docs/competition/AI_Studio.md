@@ -18,6 +18,14 @@ Deadline: 2020-08-31T08:00:00+0800
 Reward: 千万元项目资助  
 
 
+## 飞桨论文复现挑战赛（第二期）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/27  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度和速度。  
+Deadline: 2020-04-17T08:00:00+0800  
+Reward: ￥23,000  
+
+
 ## Automatic Simultaneous Translation Challenge
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
@@ -32,14 +40,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/21
 Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
 Deadline: 2020-04-01T08:00:00+0800  
 Reward: 特别礼包  
-
-
-## 飞桨论文复现挑战赛（第二期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/27  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度和速度。  
-Deadline: 2020-04-17T08:00:00+0800  
-Reward: ￥23,000  
 
 
 ## 常规赛：问答摘要与推理

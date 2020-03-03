@@ -67,3 +67,5 @@ https://www.nishika.com/competitions/2
 https://www.nishika.com/competitions/1
 https://god.yanxishe.com/38
 
+https://www.kaggle.com/c/m5-forecasting-accuracy
+https://www.kaggle.com/c/m5-forecasting-uncertainty
