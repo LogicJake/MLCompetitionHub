@@ -29,7 +29,7 @@ def get_data():
             continue
         # 必须字段
         name = competition['name']
-        url = competition['customPage']
+        url = 'https://www.dcjingsai.com/common/cmpt/{}_竞赛信息.html'.format(name)
         description = competition['introduction']
 
         deadline = datetime.utcfromtimestamp(int(competition['endTime'] /
