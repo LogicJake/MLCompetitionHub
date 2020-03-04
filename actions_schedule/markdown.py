@@ -20,7 +20,7 @@ def generate(datas_):
     new_competitions = []
 
     now_time = datetime.utcnow() + timedelta(hours=8)
-    env = Environment(loader=PackageLoader('actions'))
+    env = Environment(loader=PackageLoader('actions_schedule'))
 
     for data in datas:
         for c in data['competitions']:

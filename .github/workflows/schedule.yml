@@ -27,16 +27,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: update competition list
+    - name: schedule update new competition
       run: 
-        python update.py
+        python update_schedule.py
         
     - name: commit
       run: |
         git config --global user.email MLCompetitionHub@github.com
         git config --global user.name MLCompetitionHubGithubAction
         git add .
-        git commit -m "update competition list" -a
+        git commit -m "schedule update new competition" -a
         
     - name: push changes
       uses: ad-m/github-push-action@master
