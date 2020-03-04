@@ -15,8 +15,8 @@ https://www.biendata.com/competition/haihua_wastesorting_task2/
 https://www.biendata.com/competition/bosch/
 https://www.biendata.com/competition/magicdata/
 https://www.biendata.com/competition/jet/
-http://sdac.qingdao.gov.cn/common/cmpt/%E5%9F%8E%E5%B8%82%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E6%97%B6%E7%A9%BA%E9%A2%84%E6%B5%8B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
-http://sdac.qingdao.gov.cn/common/cmpt/%E8%AF%86%E5%88%AB%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
+https://www.dcjingsai.com/common/cmpt/城市交通流量时空预测_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/识别失信企业大赛_竞赛信息.html
 https://dianshi.bce.baidu.com/competition/26
 https://www.flyai.com/d/COVID-19
 https://www.flyai.com/d/MaskDetectionV1
@@ -66,6 +66,6 @@ https://www.datafountain.cn/competitions/428
 https://www.nishika.com/competitions/2
 https://www.nishika.com/competitions/1
 https://god.yanxishe.com/38
-
+https://www.dcjingsai.com/common/cmpt/AI助疫·口罩佩戴检测大赛_竞赛信息.html
 https://www.kaggle.com/c/m5-forecasting-accuracy
 https://www.kaggle.com/c/m5-forecasting-uncertainty
