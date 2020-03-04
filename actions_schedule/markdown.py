@@ -19,23 +19,11 @@ def generate(datas_):
     urls = [url.strip() for url in urls]
     new_competitions = []
 
-    now_time = datetime.utcnow() + timedelta(hours=8)
-    env = Environment(loader=PackageLoader('actions_schedule'))
-
     for data in datas:
         for c in data['competitions']:
             start_time = c['start_time']
             deadline = c['deadline']
             url = c['url']
-
-            if start_time is not None:
-                interval = now_time - start_time
-                if interval.days < MAX_INTERVAL_DAY:
-                    new_flag = True
-                else:
-                    new_flag = False
-            else:
-                new_flag = False
 
             # 转为标准时间格式字符串
             if start_time is None:
@@ -50,12 +38,15 @@ def generate(datas_):
 
             c['start_time'] = start_time
             c['deadline'] = deadline
-            c['new_flag'] = new_flag
 
             if url not in urls:
                 new_competitions.append(c)
 
+    update = datetime.utcnow() + timedelta(hours=8)
+    update = update.strftime(STANDARD_TIME_FORMAT)
+
+    env = Environment(loader=PackageLoader('actions_schedule'))
     template = env.get_template('md_nc.j2')
-    content = template.render(competitions=new_competitions)
+    content = template.render(update=update, competitions=new_competitions)
     with open('docs/new_competition.md', 'w') as f:
         f.write(content)
