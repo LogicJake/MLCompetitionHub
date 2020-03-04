@@ -1,6 +1,6 @@
-* [首页](/)
-* [新上线比赛](new_competition.md)
-* 进行中比赛
+* [**首页**](/)
+* [**新上线比赛**](new_competition.md)
+* **进行中比赛**
     
     * [AI Studio](competition/AI_Studio.md)  
     
@@ -28,3 +28,8 @@
     
     * [AI研习社](competition/AI研习社.md)  
     
+
+* **Links**
+* [![Github](https://icongram.jgog.in/devicon/github-original.svg?color=808080&size=16)Github](https://github.com/LogicJake/MLCompetitionHub)
+* [![RSS](https://icongram.jgog.in/simple/rss.svg?colored&size=16)RSS](https://www.npmjs.com/package/docsify-themeable)
+* [![Blog](https://icongram.jgog.in/clarity/pencil.svg?size=16)Blog](https://www.logicjake.xyz)

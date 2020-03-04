@@ -24,7 +24,7 @@ Reward: 总奖金池72万+鹏城实验室/腾讯 招聘绿色通道
 
 Link: https://www.kesci.com/home/competition/5def52bfeaded6002c14ed88  
 Description: 本赛道以促进智慧城市发展、推动数字孪生城市建设为目的，助力政府科学决策，社会精准治理，民生有效改善。参赛选手选题需要围绕智慧城市，或数字孪生方向，围绕两个方向对应的领域寻找能解决实际问题的算法。  
-Deadline: 2020-03-07T23:00:00+0800  
+Deadline: 2020-03-13T00:00:00+0800  
 Reward: 48w+创业孵化+生态合作+人才引进  
 
 
@@ -32,6 +32,6 @@ Reward: 48w+创业孵化+生态合作+人才引进
 
 Link: https://www.kesci.com/home/competition/5df1d72fd2e486002c7fac80  
 Description: 本赛道提供已脱敏数据，参赛团队围绕数据提出命题，并完成相应的算法开发。作品将从算法的精度与创新性、算法创新性等层面进行评审。  
-Deadline: 2020-03-07T23:00:00+0800  
+Deadline: 2020-03-13T00:00:00+0800  
 Reward: 36w+创业孵化+生态合作+人才引进  
 
