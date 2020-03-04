@@ -10,3 +10,5 @@
 ### 邮箱订阅
 自行 [pull request](https://github.com/LogicJake/MLCompetitionHub/pulls) 修改 mails.txt，一行一个邮箱地址。
 > **warning: 该方式会将您的邮箱地址暴露在仓库中，请自行斟酌后操作！**
+### 公众号订阅
+![](http://pic.logicjake.xyz/qrcode_wechat.jpg)
