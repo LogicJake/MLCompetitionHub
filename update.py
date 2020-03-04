@@ -47,7 +47,14 @@ for _, module_name, _ in pkgutil.iter_modules(['actions']):
 env = Environment(loader=PackageLoader('actions'))
 template = env.get_template('sidebar.j2')
 content = template.render(competitions=competitions)
+content = content.replace('\n\n', '\n')
 with open('docs/_sidebar.md', 'w') as f:
+    f.write(content)
+
+template = env.get_template('competition_rm.j2')
+content = template.render(competitions=competitions)
+content = content.replace('\n\n', '\n')
+with open('docs/competition/README.md', 'w') as f:
     f.write(content)
 
 STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+0800'
