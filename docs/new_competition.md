@@ -1,17 +1,17 @@
-> 更新时间: 2020-03-04T19:02:04+0800 
+> 更新时间: 2020-03-05T16:02:10+0800 
 
 # 新上线比赛
 
 
-## M5 Forecasting - Accuracy
-Link: https://www.kaggle.com/c/m5-forecasting-accuracy  
-Description: Estimate the unit sales of Walmart retail goods  
-Deadline: 2020-07-01T07:59:00+0800  
-Reward: 50000.0 USD  
+## AI助疫·小分子成药属性预测
+Link: https://www.dcjingsai.com/common/cmpt/AI助疫·小分子成药属性预测_竞赛信息.html  
+Description: “新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等等应用场景中有着巨大的潜能。  
+Deadline: 2020-04-06T15:00:00+0800  
+Reward: 330000  
 
-## M5 Forecasting - Uncertainty
-Link: https://www.kaggle.com/c/m5-forecasting-uncertainty  
-Description:  Estimate the uncertainty distribution of Walmart unit sales.    
-Deadline: 2020-07-01T07:59:00+0800  
-Reward: 50000.0 USD  
+## 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？
+Link: https://www.nishika.com/competitions/3  
+Description: 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？  
+Deadline: 2025-12-31T22:59:00+0800  
+Reward: なし  
 
