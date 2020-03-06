@@ -2,17 +2,17 @@
 
 
 
-## AI助疫·小分子成药属性预测 <sup style="color:red">[new]<sup>  
+## AI战疫·小分子成药属性预测大赛 <sup style="color:red">[new]<sup>  
 
-Link: https://www.dcjingsai.com/common/cmpt/AI助疫·小分子成药属性预测_竞赛信息.html  
+Link: https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html  
 Description: “新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等等应用场景中有着巨大的潜能。  
 Deadline: 2020-04-06T15:00:00+0800  
 Reward: 330000  
 
 
-## AI助疫·口罩佩戴检测大赛 <sup style="color:red">[new]<sup>  
+## AI战疫·口罩佩戴检测大赛 <sup style="color:red">[new]<sup>  
 
-Link: https://www.dcjingsai.com/common/cmpt/AI助疫·口罩佩戴检测大赛_竞赛信息.html  
+Link: https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html  
 Description: 本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。  
 Deadline: 2020-04-06T15:00:00+0800  
 Reward: 330000  
