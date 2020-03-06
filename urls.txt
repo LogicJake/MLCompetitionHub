@@ -71,3 +71,5 @@ https://www.kaggle.com/c/m5-forecasting-accuracy
 https://www.kaggle.com/c/m5-forecasting-uncertainty
 https://www.dcjingsai.com/common/cmpt/AI助疫·小分子成药属性预测_竞赛信息.html
 https://www.nishika.com/competitions/3
+https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html
