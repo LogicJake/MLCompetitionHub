@@ -2,6 +2,14 @@
 
 
 
+## 看图识车 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/39  
+Description: 本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。  
+Deadline: 2020-04-05T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 肺炎疫情攻防战--口罩佩戴识别检测
 
 Link: https://god.yanxishe.com/38  
