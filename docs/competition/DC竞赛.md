@@ -10,7 +10,7 @@ Deadline: 2020-04-06T15:00:00+0800
 Reward: 330000  
 
 
-## AI战疫·口罩佩戴检测大赛 <sup style="color:red">[new]<sup>  
+## AI战疫·口罩佩戴检测大赛
 
 Link: https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html  
 Description: 本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。  
