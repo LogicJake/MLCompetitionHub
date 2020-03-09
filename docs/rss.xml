@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-04T19:03:39+08:00</updated>
+    <updated>2020-03-09T15:58:23+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -139,20 +139,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
         
@@ -161,6 +147,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -269,14 +269,28 @@
     
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI助疫·口罩佩戴检测大赛_竞赛信息.html</id>
-        <title><![CDATA[AI助疫·口罩佩戴检测大赛]]></title>
+        <id>https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html</id>
+        <title><![CDATA[AI战疫·小分子成药属性预测大赛]]></title>
+        
+        <updated>2020-03-05T12:40:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html"/>
+        <summary>“新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等应用场景中有着巨大的潜能。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>“新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等应用场景中有着巨大的潜能。<h3>Deadline: 2020-04-06T15:00:00+08:00</h3><h3>Reward: 330000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html</id>
+        <title><![CDATA[AI战疫·口罩佩戴检测大赛]]></title>
         
         <updated>2020-03-02T10:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/AI助疫·口罩佩戴检测大赛_竞赛信息.html"/>
+        <link href="https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html"/>
         <summary>本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI助疫·口罩佩戴检测大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。<h3>Deadline: 2020-04-06T15:00:00+08:00</h3><h3>Reward: 京东云代金券</h3>]]></content>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。<h3>Deadline: 2020-04-06T15:00:00+08:00</h3><h3>Reward: 330000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -316,7 +330,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-04T19:03:39+08:00</updated>
+        <updated>2020-03-09T15:58:23+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -337,126 +351,6 @@
         <link href="https://www.flyai.com/d/COVID-19"/>
         <summary>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委及国际官方机构公布的最新疫情数据；预测字段为：中国、中国湖北、韩国、日本、意大利。研究人员可每天提交最新预测模型，对未来30天内的国际疫情趋势进行预测。</summary>
         <content type="text/html" src="https://www.flyai.com/d/COVID-19"><![CDATA[<h3>Description</h3>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委及国际官方机构公布的最新疫情数据；预测字段为：中国、中国湖北、韩国、日本、意大利。研究人员可每天提交最新预测模型，对未来30天内的国际疫情趋势进行预测。<h3>Deadline: 2020-04-30T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 10,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/MaskDetectionV1</id>
-        <title><![CDATA[口罩佩戴检测]]></title>
-        
-        <updated>2020-02-19T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/MaskDetectionV1"/>
-        <summary>国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/MaskDetectionV1"><![CDATA[<h3>Description</h3>国家卫生健康委疾控局近日发布了《预防新型冠状病毒感染的肺炎口罩使用指南》，指南中明确指出口罩是预防呼吸道传染病的重要防线，可以降低新型冠状病毒感染风险。为了更加有效的监督大家佩戴口罩，我们开展了这次口罩佩戴检测的比赛，要求参赛者建立准确的目标检测模型，用于检测是否佩戴口罩。<h3>Deadline: 2020-03-19T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/ChestXray02</id>
-        <title><![CDATA[X光片检测患者肺炎]]></title>
-        
-        <updated>2020-02-05T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/ChestXray02"/>
-        <summary>武汉肺炎主要发病情况为新型冠状病毒(2019-nCoV)感染肺部导致人体呼吸衰竭。基于对肺部感染检测的技术研究，可通过人工智能技术对医学影像-X光片进行患病情况检测，有效提升确诊准确率和效率。本赛题可使用CSV文件和FlyAI框架两种提交方式参赛,参赛者需要通过优化模型来对肺部X光片进行精确的分类。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/ChestXray02"><![CDATA[<h3>Description</h3>武汉肺炎主要发病情况为新型冠状病毒(2019-nCoV)感染肺部导致人体呼吸衰竭。基于对肺部感染检测的技术研究，可通过人工智能技术对医学影像-X光片进行患病情况检测，有效提升确诊准确率和效率。本赛题可使用CSV文件和FlyAI框架两种提交方式参赛,参赛者需要通过优化模型来对肺部X光片进行精确的分类。<h3>Deadline: 2020-03-06T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/PolyhedronDiceClassification</id>
-        <title><![CDATA[多面体骰子分类]]></title>
-        
-        <updated>2020-03-04T19:03:39+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/PolyhedronDiceClassification"/>
-        <summary>骰子也称色子，为一正多面体，通常作为桌上游戏的小道具。同时骰子也可以用于生成指定范围的随机数。最常见的骰子是六面骰，它是一个正立方体，上面分别有一到六个数，其相对两面数字之和必为七。
-本赛题主要对骰子形状进行分类，一共包括四面骰、六面骰、八面骰、十面骰、十二面骰和二十面骰。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
-        <content type="text/html" src="https://www.flyai.com/d/PolyhedronDiceClassification"><![CDATA[<h3>Description</h3>骰子也称色子，为一正多面体，通常作为桌上游戏的小道具。同时骰子也可以用于生成指定范围的随机数。最常见的骰子是六面骰，它是一个正立方体，上面分别有一到六个数，其相对两面数字之和必为七。
-本赛题主要对骰子形状进行分类，一共包括四面骰、六面骰、八面骰、十面骰、十二面骰和二十面骰。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/SimpleDrawing</id>
-        <title><![CDATA[你画我猜]]></title>
-        
-        <updated>2020-03-04T19:03:39+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/SimpleDrawing"/>
-        <summary>为了增强人工智能的趣味性，我们开展了你画我猜这一竞赛。你画我猜数据集中包括了40种生活中常见的类别如飞机、苹果、篮球等。图片信息以json格式存储，在每个json中记录了用户每一笔简笔画对应的横坐标集合和纵坐标集合。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
-        <content type="text/html" src="https://www.flyai.com/d/SimpleDrawing"><![CDATA[<h3>Description</h3>为了增强人工智能的趣味性，我们开展了你画我猜这一竞赛。你画我猜数据集中包括了40种生活中常见的类别如飞机、苹果、篮球等。图片信息以json格式存储，在每个json中记录了用户每一笔简笔画对应的横坐标集合和纵坐标集合。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/WiderPerson</id>
-        <title><![CDATA[密集场景行人检测]]></title>
-        
-        <updated>2020-03-04T19:03:39+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/WiderPerson"/>
-        <summary>这是一个更加符合真实世界的密集行人检测数据集，图像广泛选择自生活中的各种场景，共9000张标注图，用于训练和开发更加具有现实世界实用性的人物检测模型和算法。数据标签一共有五类，在评估时只考虑前三类，分别为行人，骑行的人和部分遮挡的人。其中训练集、验证集和测试集划分比例为6:2:2.
-对应的标签数据说明：每行格式为 label, x_min, y_min, x_max, y_max.</summary>
-        <content type="text/html" src="https://www.flyai.com/d/WiderPerson"><![CDATA[<h3>Description</h3>这是一个更加符合真实世界的密集行人检测数据集，图像广泛选择自生活中的各种场景，共9000张标注图，用于训练和开发更加具有现实世界实用性的人物检测模型和算法。数据标签一共有五类，在评估时只考虑前三类，分别为行人，骑行的人和部分遮挡的人。其中训练集、验证集和测试集划分比例为6:2:2.
-对应的标签数据说明：每行格式为 label, x_min, y_min, x_max, y_max.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/PornImageRecognition</id>
-        <title><![CDATA[图片鉴黄]]></title>
-        
-        <updated>2020-03-04T19:03:39+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/PornImageRecognition"/>
-        <summary>随着互联网的发展，内容安全成为互联网不得不面临的严峻挑战。互动社区的崛起，网友素质的参差不齐，由于“涉黄”被勒令关闭的网站多如牛毛，因此“鉴黄”也显得尤为重要。虽然各个互联网企业都有专门的人员来做内容审核，但是无法跟上内容发展的速度，人工审核容易出现审核不及时、高成本、主观判断影响结果等问题。因此通过深度学习的人工智能技术来进行图片鉴黄也是迫在眉睫。
-在本数据集一共包括5种图片类别，每个类别至少有1000张图像，其中训练集、验证集和测试集划分比例为6:2:2.
-由于数据集包含涉黄图片，因此本地调试数据集中只展示正常图片。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/PornImageRecognition"><![CDATA[<h3>Description</h3>随着互联网的发展，内容安全成为互联网不得不面临的严峻挑战。互动社区的崛起，网友素质的参差不齐，由于“涉黄”被勒令关闭的网站多如牛毛，因此“鉴黄”也显得尤为重要。虽然各个互联网企业都有专门的人员来做内容审核，但是无法跟上内容发展的速度，人工审核容易出现审核不及时、高成本、主观判断影响结果等问题。因此通过深度学习的人工智能技术来进行图片鉴黄也是迫在眉睫。
-在本数据集一共包括5种图片类别，每个类别至少有1000张图像，其中训练集、验证集和测试集划分比例为6:2:2.
-由于数据集包含涉黄图片，因此本地调试数据集中只展示正常图片。<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/Captcha</id>
-        <title><![CDATA[常见物体识别]]></title>
-        
-        <updated>2020-03-04T19:03:39+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/Captcha"/>
-        <summary>本赛题整理了生活中常见的80种物体类别，比如冰箱、文具盒、蜡烛、鞭炮等，希望参赛者能够通过深度学习的方法提高物体识别的准确率。其中训练集、验证集和测试集划分比例为6:2:2.</summary>
-        <content type="text/html" src="https://www.flyai.com/d/Captcha"><![CDATA[<h3>Description</h3>本赛题整理了生活中常见的80种物体类别，比如冰箱、文具盒、蜡烛、鞭炮等，希望参赛者能够通过深度学习的方法提高物体识别的准确率。其中训练集、验证集和测试集划分比例为6:2:2.<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/Texture-Classification</id>
-        <title><![CDATA[图像纹理分类]]></title>
-        
-        <updated>2019-12-06T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/Texture-Classification"/>
-        <summary>本赛题可使用CSV文件和FlyAI框架两种提交方式参赛。赛题主要是对图片的纹理进行分类，该数据集由五千多张图片组成，一共有47个纹理类别，选手们需要通过优化模型来对纹理图像进行精确的分类。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/Texture-Classification"><![CDATA[<h3>Description</h3>本赛题可使用CSV文件和FlyAI框架两种提交方式参赛。赛题主要是对图片的纹理进行分类，该数据集由五千多张图片组成，一共有47个纹理类别，选手们需要通过优化模型来对纹理图像进行精确的分类。<h3>Deadline: 2020-01-06T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
         <author>
             <name><![CDATA[FlyAI]]></name>
         </author>
@@ -684,6 +578,34 @@
     
     
     
+    <entry>
+        <id>https://www.nishika.com/competitions/4</id>
+        <title><![CDATA[財務・非財務情報を活用した株主価値予測]]></title>
+        
+        <updated>2020-03-06T11:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/4"/>
+        <summary>財務・非財務情報を活用した株主価値予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/4"><![CDATA[<h3>Description</h3>財務・非財務情報を活用した株主価値予測<h3>Deadline: 2020-05-15T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/3</id>
+        <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
+        
+        <updated>2020-03-05T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/3"/>
+        <summary>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -730,13 +652,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231762/introduction</id>
-        <title><![CDATA[安全AI挑战者计划第三期 - 文本分类对抗攻击(赛季 1)]]></title>
+        <title><![CDATA[安全AI挑战者计划第三期 - 文本分类对抗攻击(赛季 2)]]></title>
         
-        <updated>2019-12-07T09:00:00+08:00</updated>
+        <updated>2020-03-06T21:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231762/introduction"/>
         <summary>AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231762/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。<h3>Deadline: 2020-03-06T23:00:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231762/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，为了抵御未来AI面临的安全风险，阿里安全联合清华大学，以对抗样本为核心，假想未来作为安全AI防守者的身份，结合内容安全场景，从文字、图像、视频、声音等多个领域针对对抗样本技术资源赏金召集“挑战者”共同打磨AI模型安全，为打造更安全的AI共同努力。<h3>Deadline: 2020-03-10T23:55:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -817,6 +739,20 @@
     
     
     <entry>
+        <id>https://god.yanxishe.com/39</id>
+        <title><![CDATA[看图识车]]></title>
+        
+        <updated>2020-03-06T19:01:16+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/39"/>
+        <summary>本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/39"><![CDATA[<h3>Description</h3>本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。<h3>Deadline: 2020-04-05T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://god.yanxishe.com/38</id>
         <title><![CDATA[肺炎疫情攻防战--口罩佩戴识别检测]]></title>
         
@@ -853,20 +789,6 @@
         <link href="https://god.yanxishe.com/26"/>
         <summary>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。</summary>
         <content type="text/html" src="https://god.yanxishe.com/26"><![CDATA[<h3>Description</h3>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。<h3>Deadline: 2020-03-14T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/23</id>
-        <title><![CDATA[肺炎疫情攻防战--肺炎X光病灶识别]]></title>
-        
-        <updated>2020-02-04T17:30:20+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/23"/>
-        <summary>春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/23"><![CDATA[<h3>Description</h3>春节2019-nCoV病毒来袭，造成肺炎疫情。AI研习社重启肺炎赛题，大家尽量减少外出，安心在家打比赛。<h3>Deadline: 2020-03-05T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
