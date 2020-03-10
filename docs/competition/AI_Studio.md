@@ -2,6 +2,14 @@
 
 
 
+## 中国人工智能大赛·语言与知识技术竞赛（个人赛）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
+Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
+Deadline: 2020-04-28T08:00:00+0800  
+Reward: ￥122,000  
+
+
 ## 2020语言与智能技术竞赛：机器阅读理解任务 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/28  
@@ -10,7 +18,7 @@ Deadline: 2020-05-20T08:00:00+0800
 Reward: ￥70,000  
 
 
-## 2020语言与智能技术竞赛：推荐式对话任务 <sup style="color:red">[new]<sup>  
+## 2020语言与智能技术竞赛：面向推荐的对话任务 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/29  
 Description: 集成对话系统和推荐系统的人机交互系统，该系统先通过问答或闲聊收集用户兴趣和偏好，然后主动给用户推荐其感兴趣的内容，比如餐厅、美食、电影、新闻等。  
@@ -40,14 +48,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/32
 Description: 从自然语言文本中抽取事件并识别事件类型和事件元素。  
 Deadline: 2020-05-20T08:00:00+0800  
 Reward: ￥70,000  
-
-
-## 中国人工智能大赛·语言与知识技术竞赛（个人赛）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
-Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-04-28T08:00:00+0800  
-Reward: ￥122,000  
 
 
 ## 中国人工智能大赛·语言与知识技术竞赛（团体选拔赛）

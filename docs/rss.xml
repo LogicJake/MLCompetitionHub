@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-09T20:52:58+08:00</updated>
+    <updated>2020-03-10T15:58:35+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
+        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
+        
+        <updated>2019-12-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
+        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-28T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/28</id>
@@ -26,7 +40,7 @@
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/29</id>
-        <title><![CDATA[2020语言与智能技术竞赛：推荐式对话任务]]></title>
+        <title><![CDATA[2020语言与智能技术竞赛：面向推荐的对话任务]]></title>
         
         <updated>2020-03-10T08:00:00+08:00</updated>
         
@@ -75,20 +89,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/32"/>
         <summary>从自然语言文本中抽取事件并识别事件类型和事件元素。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/32"><![CDATA[<h3>Description</h3>从自然语言文本中抽取事件并识别事件类型和事件元素。<h3>Deadline: 2020-05-20T08:00:00+08:00</h3><h3>Reward: ￥70,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
-        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
-        
-        <updated>2019-12-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
-        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-28T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-09T20:52:58+08:00</updated>
+        <updated>2020-03-10T15:58:35+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
