@@ -11,7 +11,6 @@
   * [Kaggle](competition/Kaggle.md)
   * [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
   * [Nishika](competition/Nishika.md)
-  * [天池](competition/天池.md)
   * [图灵联邦](competition/图灵联邦.md)
   * [AI研习社](competition/AI研习社.md)
 * **Links**
