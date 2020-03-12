@@ -10,7 +10,7 @@ Deadline: 2020-05-15T13:59:00+0800
 Reward: 15万円  
 
 
-## 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？ <sup style="color:red">[new]<sup>  
+## 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？
 
 Link: https://www.nishika.com/competitions/3  
 Description: 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？  
