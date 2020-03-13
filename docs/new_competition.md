@@ -1,11 +1,5 @@
-> 更新时间: 2020-03-12T16:01:49+0800 
+> 更新时间: 2020-03-13T16:02:01+0800 
 
 # 新上线比赛
 
-
-## 2020届”东方国信杯”高校大数据开发大赛
-Link: http://www.turingtopia.com/competitionnew/detail/489796d0d664444b85dc6c6d2b2d67f3/sketch  
-Description: 2020届”东方国信杯”高校大数据开发大赛  
-Deadline: 2020-06-23T14:00:00+0800  
-Reward: 14000  
-
+> 暂无新上线比赛！
