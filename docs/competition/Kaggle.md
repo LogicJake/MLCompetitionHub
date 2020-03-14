@@ -38,7 +38,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/march-madness-analytics-2020  
 Description: Uncover the madness of March Madness®  
-Deadline: 2020-04-07T07:59:00+0800  
+Deadline: 2020-05-01T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -47,22 +47,6 @@ Reward: 25000.0 USD
 Link: https://www.kaggle.com/c/ds4g-environmental-insights-explorer  
 Description: Exploring alternatives for emissions factor calculations  
 Deadline: 2020-03-25T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
-## Google Cloud & NCAA® ML Competition 2020-NCAAW
-
-Link: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament  
-Description: Apply Machine Learning to NCAA® March Madness®  
-Deadline: 2020-03-20T23:00:00+0800  
-Reward: 25000.0 USD  
-
-
-## Google Cloud & NCAA® ML Competition 2020-NCAAM
-
-Link: https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament  
-Description: Apply Machine Learning to NCAA® March Madness®  
-Deadline: 2020-03-19T23:00:00+0800  
 Reward: 25000.0 USD  
 
 

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-13T15:58:23+08:00</updated>
+    <updated>2020-03-14T15:58:44+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-13T15:58:23+08:00</updated>
+        <updated>2020-03-14T15:58:44+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -466,7 +466,7 @@
         
         <link href="https://www.kaggle.com/c/march-madness-analytics-2020"/>
         <summary>Uncover the madness of March Madness®</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/march-madness-analytics-2020"><![CDATA[<h3>Description</h3>Uncover the madness of March Madness®<h3>Deadline: 2020-04-07T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/march-madness-analytics-2020"><![CDATA[<h3>Description</h3>Uncover the madness of March Madness®<h3>Deadline: 2020-05-01T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -481,34 +481,6 @@
         <link href="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"/>
         <summary>Exploring alternatives for emissions factor calculations</summary>
         <content type="text/html" src="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"><![CDATA[<h3>Description</h3>Exploring alternatives for emissions factor calculations<h3>Deadline: 2020-03-25T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament</id>
-        <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAW]]></title>
-        
-        <updated>2020-02-15T10:01:36+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"/>
-        <summary>Apply Machine Learning to NCAA® March Madness®</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-womens-tournament"><![CDATA[<h3>Description</h3>Apply Machine Learning to NCAA® March Madness®<h3>Deadline: 2020-03-20T23:00:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament</id>
-        <title><![CDATA[Google Cloud & NCAA® ML Competition 2020-NCAAM]]></title>
-        
-        <updated>2020-02-15T10:01:51+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"/>
-        <summary>Apply Machine Learning to NCAA® March Madness®</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/google-cloud-ncaa-march-madness-2020-division-1-mens-tournament"><![CDATA[<h3>Description</h3>Apply Machine Learning to NCAA® March Madness®<h3>Deadline: 2020-03-19T23:00:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -600,7 +572,7 @@
         
         <link href="https://www.nishika.com/competitions/4"/>
         <summary>財務・非財務情報を活用した株主価値予測</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/4"><![CDATA[<h3>Description</h3>財務・非財務情報を活用した株主価値予測<h3>Deadline: 2020-05-15T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <content type="text/html" src="https://www.nishika.com/competitions/4"><![CDATA[<h3>Description</h3>財務・非財務情報を活用した株主価値予測<h3>Deadline: 2020-05-22T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>
@@ -621,6 +593,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231784/introduction</id>
+        <title><![CDATA[零基础入门数据挖掘 - 二手车交易价格预测(赛季 1)]]></title>
+        
+        <updated>2020-03-12T18:55:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231784/introduction"/>
+        <summary>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231784/introduction"><![CDATA[<h3>Description</h3>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。<h3>Deadline: 2020-03-31T19:30:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231777/introduction</id>
@@ -751,6 +737,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://god.yanxishe.com/44</id>
+        <title><![CDATA[微博立场检测]]></title>
+        
+        <updated>2020-03-13T16:46:17+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/44"/>
+        <summary>微博立场检测是一个新兴的研究课题，判断微博作者对某个话题是持何种立场，立场有三种：FAVOR支持，AGAINST反对，NONE两者都不是</summary>
+        <content type="text/html" src="https://god.yanxishe.com/44"><![CDATA[<h3>Description</h3>微博立场检测是一个新兴的研究课题，判断微博作者对某个话题是持何种立场，立场有三种：FAVOR支持，AGAINST反对，NONE两者都不是<h3>Deadline: 2020-04-12T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://god.yanxishe.com/39</id>
