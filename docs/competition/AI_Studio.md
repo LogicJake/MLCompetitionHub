@@ -2,14 +2,6 @@
 
 
 
-## 中国人工智能大赛·语言与知识技术竞赛（个人赛）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
-Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-04-28T08:00:00+0800  
-Reward: ￥122,000  
-
-
 ## 2020语言与智能技术竞赛：机器阅读理解任务 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/28  
@@ -72,6 +64,14 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/21
 Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
 Deadline: 2020-04-01T08:00:00+0800  
 Reward: 特别礼包  
+
+
+## 中国人工智能大赛·语言与知识技术竞赛（个人赛）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
+Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
+Deadline: 2020-04-28T08:00:00+0800  
+Reward: ￥122,000  
 
 
 ## 常规赛：问答摘要与推理

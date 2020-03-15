@@ -3,26 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-14T15:58:44+08:00</updated>
+    <updated>2020-03-15T15:58:48+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
-        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
-        
-        <updated>2019-12-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
-        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-28T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/28</id>
@@ -131,6 +117,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/21"/>
         <summary>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/21"><![CDATA[<h3>Description</h3>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率<h3>Deadline: 2020-04-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
+        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
+        
+        <updated>2019-12-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
+        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-28T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-14T15:58:44+08:00</updated>
+        <updated>2020-03-15T15:58:48+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -789,20 +789,6 @@
         <link href="https://god.yanxishe.com/37"/>
         <summary>数据是16KHz采样的音频文件，包含5大类，50小类。</summary>
         <content type="text/html" src="https://god.yanxishe.com/37"><![CDATA[<h3>Description</h3>数据是16KHz采样的音频文件，包含5大类，50小类。<h3>Deadline: 2020-03-20T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/26</id>
-        <title><![CDATA[美食识别挑战（2）：茄子、山药、苦瓜、西兰花]]></title>
-        
-        <updated>2020-02-13T10:38:38+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/26"/>
-        <summary>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/26"><![CDATA[<h3>Description</h3>本次比赛是美食挑战系列第二场，选手需正确识别中餐图片中茄子、山药、苦瓜、西兰花。本次比赛难度中等。<h3>Deadline: 2020-03-14T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
