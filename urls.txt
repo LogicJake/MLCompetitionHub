@@ -83,3 +83,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/32
 http://www.turingtopia.com/competitionnew/detail/489796d0d664444b85dc6c6d2b2d67f3/sketch
 https://tianchi.aliyun.com/competition/entrance/231784/introduction
 https://god.yanxishe.com/44
+https://tianchi.aliyun.com/competition/entrance/231780/introduction
