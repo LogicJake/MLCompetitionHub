@@ -78,6 +78,6 @@ Reward: ￥122,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/3  
 Description: 要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。  
-Deadline: 2020-12-31T08:00:00+0800  
+Deadline: 2021-01-01T08:00:00+0800  
 Reward: 总计250,000  
 
