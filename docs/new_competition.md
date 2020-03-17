@@ -1,11 +1,11 @@
-> 更新时间: 2020-03-16T16:01:56+0800 
+> 更新时间: 2020-03-17T16:01:40+0800 
 
 # 新上线比赛
 
 
-## CVPR2020 AliProducts: Large-scale Product Recognition(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/231780/introduction  
-Description: The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.  
-Deadline: 2020-04-05T19:00:00+0800  
-Reward: $3000  
+## 淘宝直播商品识别大赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/231772/introduction  
+Description: 直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。  
+Deadline: 2020-03-27T23:55:00+0800  
+Reward: ￥240000  
 
