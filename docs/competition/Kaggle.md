@@ -65,11 +65,3 @@ Description: Predict which Tweets are about real disasters and which ones are no
 Deadline: 2020-03-24T07:59:00+0800  
 Reward: 10000.0 USD  
 
-
-## Bengali.AI Handwritten Grapheme Classification
-
-Link: https://www.kaggle.com/c/bengaliai-cv19  
-Description: Classify the components of handwritten Bengali  
-Deadline: 2020-03-17T07:59:00+0800  
-Reward: 10000.0 USD  
-
