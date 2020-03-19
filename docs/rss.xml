@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-18T15:58:28+08:00</updated>
+    <updated>2020-03-19T15:58:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-18T15:58:28+08:00</updated>
+        <updated>2020-03-19T15:58:09+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -588,7 +588,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231772/introduction"/>
         <summary>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-03-27T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-05-06T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -644,7 +644,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
         <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-03-18T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-03-20T12:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -701,6 +701,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231768/introduction"/>
         <summary>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231768/introduction"><![CDATA[<h3>Description</h3>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。<h3>Deadline: 2020-03-21T23:55:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231763/introduction</id>
+        <title><![CDATA[数智重庆.全球产业赋能创新大赛【赛场一】(赛季 3)]]></title>
+        
+        <updated>2020-03-16T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231763/introduction"/>
+        <summary>本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231763/introduction"><![CDATA[<h3>Description</h3>本赛场聚焦瓶装白酒疵品质检，要求选手通过计算机视觉以及人工智能算法帮助瓶装酒生产企业提高质检效率以及效果、降低质检成本。<h3>Deadline: 2020-03-23T12:00:00+08:00</h3><h3>Reward: ￥1210000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
