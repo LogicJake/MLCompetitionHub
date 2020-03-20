@@ -46,7 +46,7 @@ Reward: ￥100,000
 
 Link: https://www.biendata.com/competition/magicdata/  
 Description: BAAI MagicSpeechNet Domestic ASR Challenge  
-Deadline: 2020-03-28T08:00:00+0800  
+Deadline: 2220-03-28T08:00:00+0800  
 Reward: ￥100,000  
 
 
@@ -54,6 +54,6 @@ Reward: ￥100,000
 
 Link: https://www.biendata.com/competition/jet/  
 Description: High-Energy Particle Classification Challenge  
-Deadline: 2020-03-22T08:00:00+0800  
+Deadline: 2220-03-22T08:00:00+0800  
 Reward: 100000 yuan  
 
