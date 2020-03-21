@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-20T15:58:39+08:00</updated>
+    <updated>2020-03-21T15:58:41+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-20T15:58:39+08:00</updated>
+        <updated>2020-03-21T15:58:41+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -383,6 +383,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.flyai.com/d/FishClassification</id>
+        <title><![CDATA[水下鱼类物种识别(FlyAI2.0 竞赛框架)]]></title>
+        
+        <updated>2020-03-20T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/FishClassification"/>
+        <summary>该数据集是从实时视频数据中获取的，整个数据集分为21个聚类，每个聚类由一个有代表性的鱼物种表示。该数据集的数据非常不平衡，其中最常见的物种大约是最不常见物种的1000倍。本赛题采用FlyAI2.0新框架进行训练，进入详情页查看更新内容描述。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/FishClassification"><![CDATA[<h3>Description</h3>该数据集是从实时视频数据中获取的，整个数据集分为21个聚类，每个聚类由一个有代表性的鱼物种表示。该数据集的数据非常不平衡，其中最常见的物种大约是最不常见物种的1000倍。本赛题采用FlyAI2.0新框架进行训练，进入详情页查看更新内容描述。<h3>Deadline: 2020-04-20T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.flyai.com/d/COVID-19</id>
@@ -640,25 +654,11 @@
         <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
         <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛(赛季 2)]]></title>
         
-        <updated>2020-03-20T12:00:00+08:00</updated>
+        <updated>2020-03-20T20:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
         <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-12T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231781/introduction</id>
-        <title><![CDATA[蛋白质结构预测大赛(赛季 1)]]></title>
-        
-        <updated>2020-02-13T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231781/introduction"/>
-        <summary>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231781/introduction"><![CDATA[<h3>Description</h3>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。<h3>Deadline: 2020-03-20T23:55:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -753,6 +753,20 @@
     
     
     <entry>
+        <id>https://god.yanxishe.com/46</id>
+        <title><![CDATA[职荐专场--真假职位信息检测]]></title>
+        
+        <updated>2020-03-20T17:48:42+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/46"/>
+        <summary>通过互联网寻找职位信息已经成为当前重要求职手段，判断求职信息真假是一个有趣的赛题。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/46"><![CDATA[<h3>Description</h3>通过互联网寻找职位信息已经成为当前重要求职手段，判断求职信息真假是一个有趣的赛题。<h3>Deadline: 2020-04-19T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://god.yanxishe.com/44</id>
         <title><![CDATA[微博立场检测]]></title>
         
@@ -789,20 +803,6 @@
         <link href="https://god.yanxishe.com/38"/>
         <summary>口罩是一种重要预防传染病手段，口罩检测有着重要的应用场景。</summary>
         <content type="text/html" src="https://god.yanxishe.com/38"><![CDATA[<h3>Description</h3>口罩是一种重要预防传染病手段，口罩检测有着重要的应用场景。<h3>Deadline: 2020-03-29T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/37</id>
-        <title><![CDATA[50种环境声音分类]]></title>
-        
-        <updated>2020-02-21T12:10:35+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/37"/>
-        <summary>数据是16KHz采样的音频文件，包含5大类，50小类。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/37"><![CDATA[<h3>Description</h3>数据是16KHz采样的音频文件，包含5大类，50小类。<h3>Deadline: 2020-03-20T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
