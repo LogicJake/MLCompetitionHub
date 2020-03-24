@@ -87,3 +87,5 @@ https://tianchi.aliyun.com/competition/entrance/231780/introduction
 https://tianchi.aliyun.com/competition/entrance/231772/introduction
 https://www.flyai.com/d/FishClassification
 https://god.yanxishe.com/46
+https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+https://www.kaggle.com/c/tweet-sentiment-extraction
