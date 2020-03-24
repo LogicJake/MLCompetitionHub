@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-23T15:58:35+08:00</updated>
+    <updated>2020-03-24T15:58:32+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-23T15:58:35+08:00</updated>
+        <updated>2020-03-24T15:58:32+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -459,6 +459,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification</id>
+        <title><![CDATA[Jigsaw Multilingual Toxic Comment Classification]]></title>
+        
+        <updated>2020-03-24T04:42:15+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification"/>
+        <summary>Use TPUs to identify toxicity comments across multiple languages</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification"><![CDATA[<h3>Description</h3>Use TPUs to identify toxicity comments across multiple languages<h3>Deadline: 2020-06-23T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/liverpool-ion-switching</id>
         <title><![CDATA[University of Liverpool - Ion Switching]]></title>
         
@@ -515,14 +529,14 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/nlp-getting-started</id>
-        <title><![CDATA[Real or Not? NLP with Disaster Tweets]]></title>
+        <id>https://www.kaggle.com/c/tweet-sentiment-extraction</id>
+        <title><![CDATA[Tweet Sentiment Extraction]]></title>
         
-        <updated>2019-12-24T06:02:26+08:00</updated>
+        <updated>2020-03-24T06:12:35+08:00</updated>
         
-        <link href="https://www.kaggle.com/c/nlp-getting-started"/>
-        <summary>Predict which Tweets are about real disasters and which ones are not</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/nlp-getting-started"><![CDATA[<h3>Description</h3>Predict which Tweets are about real disasters and which ones are not<h3>Deadline: 2020-03-24T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
+        <link href="https://www.kaggle.com/c/tweet-sentiment-extraction"/>
+        <summary>Extract support phrases for sentiment labels</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/tweet-sentiment-extraction"><![CDATA[<h3>Description</h3>Extract support phrases for sentiment labels<h3>Deadline: 2020-06-03T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -659,6 +673,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
         <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-12T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231781/introduction</id>
+        <title><![CDATA[蛋白质结构预测大赛(赛季 1)]]></title>
+        
+        <updated>2020-02-13T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231781/introduction"/>
+        <summary>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231781/introduction"><![CDATA[<h3>Description</h3>天池+达摩院通过公开蛋白质结构数据，让跨学科开发者参与蛋白质二级结构预测，为抗击疫情贡献技术力量。<h3>Deadline: 2020-03-30T23:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
