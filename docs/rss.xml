@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-24T15:58:32+08:00</updated>
+    <updated>2020-03-25T15:58:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-24T15:58:32+08:00</updated>
+        <updated>2020-03-25T15:58:13+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -495,20 +495,6 @@
         <link href="https://www.kaggle.com/c/march-madness-analytics-2020"/>
         <summary>Uncover the madness of March Madness®</summary>
         <content type="text/html" src="https://www.kaggle.com/c/march-madness-analytics-2020"><![CDATA[<h3>Description</h3>Uncover the madness of March Madness®<h3>Deadline: 2020-05-01T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/ds4g-environmental-insights-explorer</id>
-        <title><![CDATA[DS4G: Environmental Insights Explorer]]></title>
-        
-        <updated>2020-02-11T23:02:06+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"/>
-        <summary>Exploring alternatives for emissions factor calculations</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/ds4g-environmental-insights-explorer"><![CDATA[<h3>Description</h3>Exploring alternatives for emissions factor calculations<h3>Deadline: 2020-03-25T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

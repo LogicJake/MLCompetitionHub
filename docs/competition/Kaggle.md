@@ -50,14 +50,6 @@ Deadline: 2020-05-01T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## DS4G: Environmental Insights Explorer
-
-Link: https://www.kaggle.com/c/ds4g-environmental-insights-explorer  
-Description: Exploring alternatives for emissions factor calculations  
-Deadline: 2020-03-25T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Abstraction and Reasoning Challenge
 
 Link: https://www.kaggle.com/c/abstraction-and-reasoning-challenge  
