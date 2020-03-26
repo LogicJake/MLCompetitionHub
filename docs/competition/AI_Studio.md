@@ -50,6 +50,14 @@ Deadline: 2020-08-31T08:00:00+0800
 Reward: 千万元项目资助  
 
 
+## EasyDL专业版定制模型挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/33  
+Description: 面向有算法基础的AI开发者，使用EasyDL专业版完成模型训练或部署，将从计算机视觉CV和自然语言处理NLP方向分别评选，能解决企业实际需求的作品可加分。  
+Deadline: 2020-04-29T08:00:00+0800  
+Reward: ￥16,766  
+
+
 ## Automatic Simultaneous Translation Challenge
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/25
 Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
 Deadline: 2020-04-28T08:00:00+0800  
 Reward: ￥122,000  
-
-
-## 常规赛：问答摘要与推理
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/3  
-Description: 要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。  
-Deadline: 2021-01-01T08:00:00+0800  
-Reward: 总计250,000  
 
