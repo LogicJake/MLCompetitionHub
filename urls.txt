@@ -91,3 +91,4 @@ https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 https://www.kaggle.com/c/tweet-sentiment-extraction
 https://aistudio.baidu.com/aistudio/competition/detail/33
 https://competition.huaweicloud.com/information/1000032499/introduction
+https://www.flyai.com/d/TextSQL
