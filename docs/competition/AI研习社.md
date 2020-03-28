@@ -2,7 +2,15 @@
 
 
 
-## 职荐专场--真假职位信息检测 <sup style="color:red">[new]<sup>  
+## 10种猴子分类 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/48  
+Description: 本赛题为入门级细粒度赛题，而且同步提供baseline  
+Deadline: 2020-04-26T23:59:59+0800  
+Reward: 3000.00  
+
+
+## 职荐专场--真假职位信息检测
 
 Link: https://god.yanxishe.com/46  
 Description: 通过互联网寻找职位信息已经成为当前重要求职手段，判断求职信息真假是一个有趣的赛题。  

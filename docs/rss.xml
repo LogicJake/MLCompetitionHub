@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-27T15:58:28+08:00</updated>
+    <updated>2020-03-28T15:58:18+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-27T15:58:28+08:00</updated>
+        <updated>2020-03-28T15:58:18+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -718,7 +718,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231776/introduction"/>
         <summary>本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231776/introduction"><![CDATA[<h3>Description</h3>本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。<h3>Deadline: 2020-03-27T23:55:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231776/introduction"><![CDATA[<h3>Description</h3>本次比赛达摩院联合医疗服务机构妙健康发布疫情相似句对判定任务，要求选手通过自然语言处理技术识别相似的患者问题。本次比赛成果将作为原子能力助力疫情智能问答应用技术精准度提升，探索下一代医疗智能问答技术，具有广泛的技术和公益价值。<h3>Deadline: 2020-03-30T23:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -732,7 +732,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231771/introduction"/>
         <summary>通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231771/introduction"><![CDATA[<h3>Description</h3>通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。<h3>Deadline: 2020-03-27T23:55:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231771/introduction"><![CDATA[<h3>Description</h3>通过第二届海南大数据创新应用大赛将优选出全国大数据优秀应用和创新解决方案，并以科技扶持、产业发展资金或产业扶持、对接创投资本以及优先政府购买服务等方式吸引项目落地应用，可快速提升海南大数据应用水平，实现全国领先的工作目标，有力支撑海南自由贸易港建设。<h3>Deadline: 2020-04-01T23:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -783,6 +783,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://god.yanxishe.com/48</id>
+        <title><![CDATA[10种猴子分类]]></title>
+        
+        <updated>2020-03-27T16:39:51+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/48"/>
+        <summary>本赛题为入门级细粒度赛题，而且同步提供baseline</summary>
+        <content type="text/html" src="https://god.yanxishe.com/48"><![CDATA[<h3>Description</h3>本赛题为入门级细粒度赛题，而且同步提供baseline<h3>Deadline: 2020-04-26T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://god.yanxishe.com/46</id>
