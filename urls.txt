@@ -93,3 +93,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/33
 https://competition.huaweicloud.com/information/1000032499/introduction
 https://www.flyai.com/d/TextSQL
 https://god.yanxishe.com/48
+https://tianchi.aliyun.com/competition/entrance/231789/introduction
+https://tianchi.aliyun.com/competition/entrance/231788/introduction
