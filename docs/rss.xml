@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-28T15:58:18+08:00</updated>
+    <updated>2020-03-29T15:58:36+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-28T15:58:18+08:00</updated>
+        <updated>2020-03-29T15:58:36+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -739,14 +739,28 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231768/introduction</id>
-        <title><![CDATA[2020数字中国创新大赛—算法赛：智慧海洋建设(赛季 3)]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/231789/introduction</id>
+        <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: Image-based 3D Shape Retrieval(赛季 1)]]></title>
         
-        <updated>2020-03-21T22:45:00+08:00</updated>
+        <updated>2020-03-27T00:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/231768/introduction"/>
-        <summary>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231768/introduction"><![CDATA[<h3>Description</h3>赛题围绕“智慧海洋建设，赋能海上安全治理能力现代化”展开，希望参赛队伍通过分析渔船北斗和AIS设备位置数据，得出渔船的生产作业行为，并挖掘更多海洋通信导航设备的应用价值。<h3>Deadline: 2020-03-30T14:00:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/231789/introduction"/>
+        <summary>In this challenge, participants are required to retrieval the corresponding 3D shape given a 2D query image. We expect to foster the development of shape retrieval methods that are robust to slight occlusions and changes in diverse complicated surroundings.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231789/introduction"><![CDATA[<h3>Description</h3>In this challenge, participants are required to retrieval the corresponding 3D shape given a 2D query image. We expect to foster the development of shape retrieval methods that are robust to slight occlusions and changes in diverse complicated surroundings.<h3>Deadline: 2020-06-06T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231788/introduction</id>
+        <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: 3D Object Reconstruction from A Single Image(赛季 1)]]></title>
+        
+        <updated>2020-03-27T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231788/introduction"/>
+        <summary>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231788/introduction"><![CDATA[<h3>Description</h3>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.<h3>Deadline: 2020-06-06T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
