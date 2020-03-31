@@ -26,7 +26,7 @@ Deadline: 2020-07-01T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Jigsaw Multilingual Toxic Comment Classification <sup style="color:red">[new]<sup>  
+## Jigsaw Multilingual Toxic Comment Classification
 
 Link: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification  
 Description: Use TPUs to identify toxicity comments across multiple languages  
@@ -58,7 +58,7 @@ Deadline: 2020-05-28T07:59:00+0800
 Reward: 20000.0 USD  
 
 
-## Tweet Sentiment Extraction <sup style="color:red">[new]<sup>  
+## Tweet Sentiment Extraction
 
 Link: https://www.kaggle.com/c/tweet-sentiment-extraction  
 Description: Extract support phrases for sentiment labels  
