@@ -50,7 +50,7 @@ Deadline: 2020-08-31T08:00:00+0800
 Reward: 千万元项目资助  
 
 
-## EasyDL专业版定制模型挑战赛 <sup style="color:red">[new]<sup>  
+## EasyDL专业版定制模型挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/33  
 Description: 面向有算法基础的AI开发者，使用EasyDL专业版完成模型训练或部署，将从计算机视觉CV和自然语言处理NLP方向分别评选，能解决企业实际需求的作品可加分。  

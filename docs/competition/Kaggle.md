@@ -6,7 +6,7 @@
 
 Link: https://www.kaggle.com/c/deepfake-detection-challenge  
 Description: Identify videos with facial or voice manipulations  
-Deadline: 2020-04-01T07:59:00+0800  
+Deadline: 2020-04-23T07:59:00+0800  
 Reward: 1000000.0 USD  
 
 

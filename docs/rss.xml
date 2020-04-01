@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-03-31T15:58:25+08:00</updated>
+    <updated>2020-04-01T15:58:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-03-31T15:58:25+08:00</updated>
+        <updated>2020-04-01T15:58:19+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -416,35 +416,7 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.flyai.com/d/COVID-19</id>
-        <title><![CDATA[新冠肺炎疫情趋势预测]]></title>
-        
-        <updated>2020-02-19T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/COVID-19"/>
-        <summary>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委及国际官方机构公布的最新疫情数据；预测字段为：中国、中国湖北、韩国、日本、意大利。研究人员可每天提交最新预测模型，对未来30天内的国际疫情趋势进行预测。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/COVID-19"><![CDATA[<h3>Description</h3>本赛题为FlyAI抗疫特别赛—新冠肺炎疫情预测，每天上午10点和下午18点将实时更新来自国家各地卫健委及国际官方机构公布的最新疫情数据；预测字段为：中国、中国湖北、韩国、日本、意大利。研究人员可每天提交最新预测模型，对未来30天内的国际疫情趋势进行预测。<h3>Deadline: 2020-04-30T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 10,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
     
-    
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000032499/introduction</id>
-        <title><![CDATA[2020第二届华为云人工智能大赛 · 无人车挑战杯]]></title>
-        
-        <updated>2020-03-26T09:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000032499/introduction"/>
-        <summary>本大赛是在华为云人工智能平台（华为云一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）、IoT及无人驾驶小车基础上，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧的赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000032499/introduction"><![CDATA[<h3>Description</h3>本大赛是在华为云人工智能平台（华为云一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）、IoT及无人驾驶小车基础上，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧的赛事。<h3>Deadline: 2020-06-30T18:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
     
     
     
@@ -456,7 +428,7 @@
         
         <link href="https://www.kaggle.com/c/deepfake-detection-challenge"/>
         <summary>Identify videos with facial or voice manipulations</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/deepfake-detection-challenge"><![CDATA[<h3>Description</h3>Identify videos with facial or voice manipulations<h3>Deadline: 2020-04-01T07:59:00+08:00</h3><h3>Reward: 1000000.0 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/deepfake-detection-challenge"><![CDATA[<h3>Description</h3>Identify videos with facial or voice manipulations<h3>Deadline: 2020-04-23T07:59:00+08:00</h3><h3>Reward: 1000000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -746,7 +718,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231780/introduction"/>
         <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231780/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2020-04-05T19:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231780/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2020-06-09T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
