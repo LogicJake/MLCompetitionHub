@@ -2,6 +2,14 @@
 
 
 
+## 医疗文本分类
+
+Link: https://www.flyai.com/d/MedicalClass  
+Description: 人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。  
+Deadline: 未给出具体时间  
+Reward: 奖金池 ¥ 3,000  
+
+
 ## 耶鲁文本转SQL <sup style="color:red">[new]<sup>  
 
 Link: https://www.flyai.com/d/TextSQL  
