@@ -10,7 +10,7 @@ Deadline: 未给出具体时间
 Reward: 奖金池 ¥ 3,000  
 
 
-## 耶鲁文本转SQL <sup style="color:red">[new]<sup>  
+## 耶鲁文本转SQL
 
 Link: https://www.flyai.com/d/TextSQL  
 Description: 从IT时代进入到DT时代之后，数据库被视为互联网企业服务最重要的资源。数据库每天存储了大量的生产运营数据，而我们每天也会时时刻刻与数据库进行交互。
