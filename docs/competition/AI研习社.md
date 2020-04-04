@@ -2,7 +2,7 @@
 
 
 
-## 10种猴子分类 <sup style="color:red">[new]<sup>  
+## 10种猴子分类
 
 Link: https://god.yanxishe.com/48  
 Description: 本赛题为入门级细粒度赛题，而且同步提供baseline  
