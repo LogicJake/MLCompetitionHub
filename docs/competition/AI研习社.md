@@ -33,11 +33,3 @@ Description: 微博立场检测是一个新兴的研究课题，判断微博作�
 Deadline: 2020-04-12T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 看图识车
-
-Link: https://god.yanxishe.com/39  
-Description: 本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。  
-Deadline: 2020-04-05T23:59:59+0800  
-Reward: 3000.00  
-

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-05T15:58:22+08:00</updated>
+    <updated>2020-04-06T15:58:33+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -283,34 +283,6 @@
     
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html</id>
-        <title><![CDATA[AI战疫·小分子成药属性预测大赛]]></title>
-        
-        <updated>2020-03-05T12:40:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html"/>
-        <summary>“新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等应用场景中有着巨大的潜能。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI战疫·小分子成药属性预测大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>“新冠”病毒肆虐，令人谈“冠”色变，但至今尚未找到新冠肺炎的特效药。因为受成本、研发周期和成功率等因素的影响，药品研发难以一蹴而就。据《Nature》报道，新药研发成本约为26亿美元，耗时约10年，成功率不到1/10。随着AI领域的发展，人工智能技术在药物研发中的应用日益增多，药品研发领域逐渐迎来新的希望。AI在发掘药物靶点、挖掘候选药物、药物设计、药物合成等应用场景中有着巨大的潜能。<h3>Deadline: 2020-04-06T15:00:00+08:00</h3><h3>Reward: 330000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html</id>
-        <title><![CDATA[AI战疫·口罩佩戴检测大赛]]></title>
-        
-        <updated>2020-03-02T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html"/>
-        <summary>本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI战疫·口罩佩戴检测大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>本次口罩佩戴检测公益大赛，旨在督促大家科学合理佩戴口罩，规范使用，有效防护。<h3>Deadline: 2020-04-06T15:00:00+08:00</h3><h3>Reward: 330000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/城市交通流量时空预测_竞赛信息.html</id>
         <title><![CDATA[城市交通流量时空预测]]></title>
         
@@ -344,7 +316,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-05T15:58:22+08:00</updated>
+        <updated>2020-04-06T15:58:33+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -360,7 +332,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-05T15:58:22+08:00</updated>
+        <updated>2020-04-06T15:58:33+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -807,20 +779,6 @@
         <link href="https://god.yanxishe.com/44"/>
         <summary>微博立场检测是一个新兴的研究课题，判断微博作者对某个话题是持何种立场，立场有三种：FAVOR支持，AGAINST反对，NONE两者都不是</summary>
         <content type="text/html" src="https://god.yanxishe.com/44"><![CDATA[<h3>Description</h3>微博立场检测是一个新兴的研究课题，判断微博作者对某个话题是持何种立场，立场有三种：FAVOR支持，AGAINST反对，NONE两者都不是<h3>Deadline: 2020-04-12T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/39</id>
-        <title><![CDATA[看图识车]]></title>
-        
-        <updated>2020-03-06T19:01:16+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/39"/>
-        <summary>本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/39"><![CDATA[<h3>Description</h3>本次比赛难点在于不仅有汽车整体外观照片，还有汽车内饰、后视镜、座椅、车灯等局部照片。<h3>Deadline: 2020-04-05T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
