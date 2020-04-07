@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-06T15:58:33+08:00</updated>
+    <updated>2020-04-07T15:58:16+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -139,6 +139,48 @@
     
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_el/</id>
+        <title><![CDATA[CCKS 2020: Entity Linking]]></title>
+        
+        <updated>2020-04-07T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_el/"/>
+        <summary>CCKS 2020: Entity Linking</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_el/"><![CDATA[<h3>Description</h3>CCKS 2020: Entity Linking<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 45,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/kdd_didi/</id>
+        <title><![CDATA[KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform]]></title>
+        
+        <updated>2020-04-07T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/kdd_didi/"/>
+        <summary>KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/kdd_didi/"><![CDATA[<h3>Description</h3>KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform<h3>Deadline: 2020-07-17T08:00:00+08:00</h3><h3>Reward: $ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-04-07T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-07-13T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/molecule/</id>
         <title><![CDATA[BAAI Small Molecule Prediction Challenge]]></title>
         
@@ -153,20 +195,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
         <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
         
@@ -175,6 +203,20 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/haihua_wastesorting_task2/</id>
+        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 2]]></title>
+        
+        <updated>2020-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
+        <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -316,7 +358,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-06T15:58:33+08:00</updated>
+        <updated>2020-04-07T15:58:16+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -332,7 +374,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-06T15:58:33+08:00</updated>
+        <updated>2020-04-07T15:58:16+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -730,7 +772,7 @@
     
     <entry>
         <id>https://god.yanxishe.com/50</id>
-        <title><![CDATA[耶律大学文本转SQL]]></title>
+        <title><![CDATA[耶鲁大学文本转SQL]]></title>
         
         <updated>2020-04-04T15:26:05+08:00</updated>
         
