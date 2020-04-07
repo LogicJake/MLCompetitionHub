@@ -101,3 +101,6 @@ https://tianchi.aliyun.com/competition/entrance/231785/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/34
 https://www.flyai.com/d/MedicalClass
 https://god.yanxishe.com/50
+https://www.biendata.com/competition/ccks_2020_el/
+https://www.biendata.com/competition/kdd_didi/
+https://www.biendata.com/competition/ccks_2020_8/
