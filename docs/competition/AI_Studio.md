@@ -50,14 +50,6 @@ Deadline: 2020-04-29T08:00:00+0800
 Reward: ￥16,766  
 
 
-## PaddleHub：AI人像抠图创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/34  
-Description: 面向广泛的Python爱好者，使用PaddleHub进行人像语义分割实战，根据赛题要求完成AI合成效果。根据网友对项目代码和图片实现效果的认可度综合评分。  
-Deadline: 2020-04-08T08:00:00+0800  
-Reward: 特别礼包  
-
-
 ## Automatic Simultaneous Translation Challenge
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
