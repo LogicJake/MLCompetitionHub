@@ -62,6 +62,6 @@ Reward: 20000.0 USD
 
 Link: https://www.kaggle.com/c/tweet-sentiment-extraction  
 Description: Extract support phrases for sentiment labels  
-Deadline: 2020-06-03T07:59:00+0800  
+Deadline: 2020-06-17T07:59:00+0800  
 Reward: 15000.0 USD  
 

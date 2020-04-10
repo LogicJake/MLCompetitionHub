@@ -2,12 +2,12 @@
 
 
 
-## CCKS 2020: Entity Linking <sup style="color:red">[new]<sup>  
+## CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/ccks_2020_el/  
-Description: CCKS 2020: Entity Linking  
-Deadline: 2020-07-15T08:00:00+0800  
-Reward: ￥ 45,000  
+Link: https://www.biendata.com/competition/ccks_2020_5/  
+Description: CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥30,000  
 
 
 ## KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform <sup style="color:red">[new]<sup>  
@@ -16,6 +16,14 @@ Link: https://www.biendata.com/competition/kdd_didi/
 Description: KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform  
 Deadline: 2020-07-17T08:00:00+0800  
 Reward: $ 30,000  
+
+
+## CCKS 2020: Entity Linking <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/ccks_2020_el/  
+Description: CCKS 2020: Entity Linking  
+Deadline: 2020-07-15T08:00:00+0800  
+Reward: ￥ 45,000  
 
 
 ## GigaVision Challenge 2020
@@ -64,14 +72,6 @@ Link: https://www.biendata.com/competition/haihua_wastesorting_task2/
 Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
 Deadline: 2020-04-30T08:00:00+0800  
 Reward: ￥210,000  
-
-
-## BAAI: "INSPEC" Industrial Quality Prediction Challenge
-
-Link: https://www.biendata.com/competition/bosch/  
-Description: BAAI: "INSPEC" Industrial Quality Prediction Challenge  
-Deadline: 2020-04-09T08:00:00+0800  
-Reward: ￥100,000  
 
 
 ## BAAI MagicSpeechNet Domestic ASR Challenge
