@@ -1,11 +1,11 @@
-> 更新时间: 2020-04-10T16:01:32+0800 
+> 更新时间: 2020-04-11T16:01:28+0800 
 
 # 新上线比赛
 
 
-## CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology
-Link: https://www.biendata.com/competition/ccks_2020_5/  
-Description: CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥30,000  
+## 英文文本语义相似度
+Link: https://god.yanxishe.com/53  
+Description: 语义相似度是NLP的核心问题之一，对问答、翻译、检索等非常重要。  
+Deadline: 2020-05-10T23:59:59+0800  
+Reward: 3000.00  
 
