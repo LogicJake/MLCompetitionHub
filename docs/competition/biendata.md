@@ -42,10 +42,10 @@ Deadline: 2020-07-20T08:00:00+0800
 Reward: ￥ 20,000  
 
 
-## CCKS 2020 4
+## CCKS 2020: Event Extaction
 
 Link: https://www.biendata.com/competition/ccks_2020_4_2/  
-Description: CCKS 2020 4  
+Description: CCKS 2020: Event Extaction  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 20,000  
 
