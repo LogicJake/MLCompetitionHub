@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-11T15:58:24+08:00</updated>
+    <updated>2020-04-12T15:58:32+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-11T15:58:24+08:00</updated>
+        <updated>2020-04-12T15:58:32+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -388,7 +388,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-11T15:58:24+08:00</updated>
+        <updated>2020-04-12T15:58:32+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -711,20 +711,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231784/introduction</id>
-        <title><![CDATA[零基础入门数据挖掘 - 二手车交易价格预测(赛季 1)]]></title>
-        
-        <updated>2020-03-12T18:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231784/introduction"/>
-        <summary>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231784/introduction"><![CDATA[<h3>Description</h3>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。<h3>Deadline: 2020-04-11T19:30:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
         <title><![CDATA[CVPR2020 AliProducts: Large-scale Product Recognition(赛季 1)]]></title>
         
@@ -746,7 +732,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
         <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-12T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-13T14:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
