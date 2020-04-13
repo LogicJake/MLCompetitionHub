@@ -18,7 +18,7 @@ Deadline: 2020-07-17T08:00:00+0800
 Reward: $ 30,000  
 
 
-## CCKS 2020: Entity Linking <sup style="color:red">[new]<sup>  
+## CCKS 2020: Entity Linking
 
 Link: https://www.biendata.com/competition/ccks_2020_el/  
 Description: CCKS 2020: Entity Linking  
@@ -26,12 +26,12 @@ Deadline: 2020-07-15T08:00:00+0800
 Reward: ￥ 45,000  
 
 
-## GigaVision Challenge 2020
+## GigaVision Challenge 2020: Task 1
 
 Link: https://www.biendata.com/competition/gigavision/  
-Description: GigaVision Challenge 2020  
+Description: GigaVision Challenge 2020: Task 1  
 Deadline: 2020-07-01T08:00:00+0800  
-Reward: ￥ 70,000  
+Reward: ￥ 35,000  
 
 
 ## Event and Entity Extraction from Financial Texts (Chinese Text Data)
