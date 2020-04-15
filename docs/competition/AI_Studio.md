@@ -50,18 +50,18 @@ Deadline: 2020-04-29T08:00:00+0800
 Reward: ￥16,766  
 
 
+## PaddleHub：人脸检测主题创意赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/35  
+Description: PaddleHub创意赛第二期来了！这次我们为大家带来了人脸检测和人脸关键点检测的一系列模型，本次比赛更有全新奖品加入，等你来拿。优秀的创意项目更有机会获得百度推广，快来参加吧。  
+Deadline: 2020-04-29T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## Automatic Simultaneous Translation Challenge
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
 Description: We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.  
 Deadline: 2020-04-20T08:00:00+0800  
 Reward: USD 1,500  
-
-
-## 中国人工智能大赛·语言与知识技术竞赛（个人赛）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/25  
-Description: 需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-04-28T08:00:00+0800  
-Reward: ￥122,000  
 

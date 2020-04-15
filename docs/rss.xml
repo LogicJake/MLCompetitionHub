@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-14T15:58:27+08:00</updated>
+    <updated>2020-04-15T15:58:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -95,6 +95,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/35</id>
+        <title><![CDATA[PaddleHub：人脸检测主题创意赛]]></title>
+        
+        <updated>2020-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/35"/>
+        <summary>PaddleHub创意赛第二期来了！这次我们为大家带来了人脸检测和人脸关键点检测的一系列模型，本次比赛更有全新奖品加入，等你来拿。优秀的创意项目更有机会获得百度推广，快来参加吧。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/35"><![CDATA[<h3>Description</h3>PaddleHub创意赛第二期来了！这次我们为大家带来了人脸检测和人脸关键点检测的一系列模型，本次比赛更有全新奖品加入，等你来拿。优秀的创意项目更有机会获得百度推广，快来参加吧。<h3>Deadline: 2020-04-29T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/18</id>
         <title><![CDATA[Automatic Simultaneous Translation Challenge]]></title>
         
@@ -103,20 +117,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/18"/>
         <summary>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/18"><![CDATA[<h3>Description</h3>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.<h3>Deadline: 2020-04-20T08:00:00+08:00</h3><h3>Reward: USD 1,500</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/25</id>
-        <title><![CDATA[中国人工智能大赛·语言与知识技术竞赛（个人赛）]]></title>
-        
-        <updated>2019-12-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/25"/>
-        <summary>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/25"><![CDATA[<h3>Description</h3>需前往大赛官网报名，本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-04-28T08:00:00+08:00</h3><h3>Reward: ￥122,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -133,6 +133,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_5/"/>
         <summary>CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_5/"><![CDATA[<h3>Description</h3>CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_el/</id>
+        <title><![CDATA[CCKS 2020: Entity Linking]]></title>
+        
+        <updated>2020-04-06T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_el/"/>
+        <summary>CCKS 2020: Entity Linking</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_el/"><![CDATA[<h3>Description</h3>CCKS 2020: Entity Linking<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 45,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -161,6 +175,34 @@
         <link href="https://www.biendata.com/competition/gigavision/"/>
         <summary>GigaVision Challenge 2020: Task 1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/gigavision/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 1<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/gigavision1/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/gigavision1/"/>
+        <summary>GigaVision Challenge 2020: Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-04-13T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-07-13T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -209,34 +251,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-04-13T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-07-13T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_el/</id>
-        <title><![CDATA[CCKS 2020: Entity Linking]]></title>
-        
-        <updated>2020-04-06T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_el/"/>
-        <summary>CCKS 2020: Entity Linking</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_el/"><![CDATA[<h3>Description</h3>CCKS 2020: Entity Linking<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 45,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/molecule/</id>
         <title><![CDATA[BAAI Small Molecule Prediction Challenge]]></title>
         
@@ -259,20 +273,6 @@
         <link href="https://www.biendata.com/competition/haihua_wastesorting_task2/"/>
         <summary>2020 Haihua AI Challenge·Waste Sorting Task 2</summary>
         <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task2/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 2<h3>Deadline: 2020-04-30T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/haihua_wastesorting_task1/</id>
-        <title><![CDATA[2020 Haihua AI Challenge·Waste Sorting Task 1]]></title>
-        
-        <updated>2020-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/haihua_wastesorting_task1/"/>
-        <summary>2020 Haihua AI Challenge·Waste Sorting Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/haihua_wastesorting_task1/"><![CDATA[<h3>Description</h3>2020 Haihua AI Challenge·Waste Sorting Task 1<h3>Deadline: 2020-04-15T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-14T15:58:27+08:00</updated>
+        <updated>2020-04-15T15:58:09+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -388,7 +388,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-14T15:58:27+08:00</updated>
+        <updated>2020-04-15T15:58:09+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -613,6 +613,34 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231786/introduction</id>
+        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall(赛季 1)]]></title>
+        
+        <updated>2020-03-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231786/introduction"/>
+        <summary>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231786/introduction"><![CDATA[<h3>Description</h3>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231785/introduction</id>
+        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing(赛季 1)]]></title>
+        
+        <updated>2020-03-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231785/introduction"/>
+        <summary>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231785/introduction"><![CDATA[<h3>Description</h3>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231789/introduction</id>
         <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: Image-based 3D Shape Retrieval(赛季 1)]]></title>
         
@@ -655,34 +683,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231786/introduction</id>
-        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall(赛季 1)]]></title>
-        
-        <updated>2020-03-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231786/introduction"/>
-        <summary>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231786/introduction"><![CDATA[<h3>Description</h3>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231785/introduction</id>
-        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing(赛季 1)]]></title>
-        
-        <updated>2020-03-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231785/introduction"/>
-        <summary>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231785/introduction"><![CDATA[<h3>Description</h3>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
         <title><![CDATA[CVPR 2020 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
         
@@ -718,35 +718,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231777/introduction"/>
         <summary>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231777/introduction"><![CDATA[<h3>Description</h3>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。<h3>Deadline: 2020-04-15T23:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231784/introduction</id>
-        <title><![CDATA[零基础入门数据挖掘 - 二手车交易价格预测(赛季 1)]]></title>
-        
-        <updated>2020-03-12T18:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231784/introduction"/>
-        <summary>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231784/introduction"><![CDATA[<h3>Description</h3>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。<h3>Deadline: 2020-04-15T10:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
-        <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛(赛季 2)]]></title>
-        
-        <updated>2020-03-20T20:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
-        <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-14T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231777/introduction"><![CDATA[<h3>Description</h3>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。<h3>Deadline: 2020-04-15T22:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
