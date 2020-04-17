@@ -113,3 +113,6 @@ https://www.biendata.com/competition/ccks_2020_3/
 https://aistudio.baidu.com/aistudio/competition/detail/35
 https://www.biendata.com/competition/gigavision1/
 https://www.biendata.com/competition/ccks_2020_6/
+https://www.biendata.com/competition/ccks_2020_7_4/
+https://competition.huaweicloud.com/information/1000037843/introduction
+https://competition.huaweicloud.com/information/1000038439/introduction
