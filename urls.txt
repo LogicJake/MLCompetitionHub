@@ -120,3 +120,4 @@ https://www.biendata.com/competition/ccks_2020_7_3/
 https://competition.huaweicloud.com/information/1000040088/introduction
 https://competition.huaweicloud.com/information/1000040092/introduction
 https://god.yanxishe.com/54
+https://www.flyai.com/d/WeatherClassification
