@@ -2,6 +2,15 @@
 
 
 
+## 常见天气分类 <sup style="color:red">[new]<sup>  
+
+Link: https://www.flyai.com/d/WeatherClassification  
+Description: 图像分类是视觉计算领域中的基础细分领域，本次比赛围绕气象业务场景，根据官方提供的图片数据建立精准的算法模型，能够区分晴天、多云、下雨、下雪、薄雾、雷雨，共6种天气现象。
+随着人工智能的技术落地，将人工智能图像技术落地到气象观测、预报及服务领域中具有重要的研究意义，同时也助力气象领域专业化人才的发展。  
+Deadline: 2020-05-18T20:00:00+0800  
+Reward: 奖金池 ¥ 1,000  
+
+
 ## 医疗文本分类
 
 Link: https://www.flyai.com/d/MedicalClass  

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-18T15:58:35+08:00</updated>
+    <updated>2020-04-19T15:58:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -400,7 +400,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-18T15:58:35+08:00</updated>
+        <updated>2020-04-19T15:58:15+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -413,10 +413,26 @@
     
     
     <entry>
+        <id>https://www.flyai.com/d/WeatherClassification</id>
+        <title><![CDATA[常见天气分类]]></title>
+        
+        <updated>2020-04-18T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/WeatherClassification"/>
+        <summary>图像分类是视觉计算领域中的基础细分领域，本次比赛围绕气象业务场景，根据官方提供的图片数据建立精准的算法模型，能够区分晴天、多云、下雨、下雪、薄雾、雷雨，共6种天气现象。
+随着人工智能的技术落地，将人工智能图像技术落地到气象观测、预报及服务领域中具有重要的研究意义，同时也助力气象领域专业化人才的发展。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/WeatherClassification"><![CDATA[<h3>Description</h3>图像分类是视觉计算领域中的基础细分领域，本次比赛围绕气象业务场景，根据官方提供的图片数据建立精准的算法模型，能够区分晴天、多云、下雨、下雪、薄雾、雷雨，共6种天气现象。
+随着人工智能的技术落地，将人工智能图像技术落地到气象观测、预报及服务领域中具有重要的研究意义，同时也助力气象领域专业化人才的发展。<h3>Deadline: 2020-05-18T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 1,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-18T15:58:35+08:00</updated>
+        <updated>2020-04-19T15:58:15+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
