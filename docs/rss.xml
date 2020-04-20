@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-19T15:58:15+08:00</updated>
+    <updated>2020-04-20T15:58:31+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -125,20 +125,6 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
-        <title><![CDATA[CCKS 2020]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
-        <summary>CCKS 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
         <title><![CDATA[CCKS 2020]]></title>
         
@@ -147,6 +133,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
         <summary>CCKS 2020</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
+        <title><![CDATA[CCKS 2020]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
+        <summary>CCKS 2020</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -209,20 +209,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/gigavision1/</id>
-        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/gigavision1/"/>
-        <summary>GigaVision Challenge 2020: Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/gigavision/</id>
         <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
         
@@ -237,28 +223,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-04-13T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-07-13T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
-        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
+        <id>https://www.biendata.com/competition/gigavision1/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
-        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/gigavision1/"/>
+        <summary>GigaVision Challenge 2020: Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -279,6 +251,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-04-13T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-07-13T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Extaction]]></title>
         
@@ -287,6 +273,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
         <summary>CCKS 2020: Event Extaction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Extaction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
+        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
+        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -400,7 +400,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-19T15:58:15+08:00</updated>
+        <updated>2020-04-20T15:58:31+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -432,7 +432,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-19T15:58:15+08:00</updated>
+        <updated>2020-04-20T15:58:31+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -824,6 +824,20 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
+        <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛(赛季 2)]]></title>
+        
+        <updated>2020-03-20T20:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
+        <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-04-28T00:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -893,20 +907,6 @@
         <link href="https://god.yanxishe.com/48"/>
         <summary>本赛题为入门级细粒度赛题，而且同步提供baseline</summary>
         <content type="text/html" src="https://god.yanxishe.com/48"><![CDATA[<h3>Description</h3>本赛题为入门级细粒度赛题，而且同步提供baseline<h3>Deadline: 2020-04-26T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/46</id>
-        <title><![CDATA[职荐专场--真假职位信息检测]]></title>
-        
-        <updated>2020-03-20T17:48:42+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/46"/>
-        <summary>通过互联网寻找职位信息已经成为当前重要求职手段，判断求职信息真假是一个有趣的赛题。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/46"><![CDATA[<h3>Description</h3>通过互联网寻找职位信息已经成为当前重要求职手段，判断求职信息真假是一个有趣的赛题。<h3>Deadline: 2020-04-19T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
