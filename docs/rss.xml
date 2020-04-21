@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-04-21T12:47:15+08:00</updated>
+    <updated>2020-04-21T15:58:33+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -400,7 +400,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-04-21T12:47:15+08:00</updated>
+        <updated>2020-04-21T15:58:33+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -432,7 +432,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-04-21T12:47:15+08:00</updated>
+        <updated>2020-04-21T15:58:33+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -497,8 +497,8 @@
         <updated>2020-04-16T10:00:00+08:00</updated>
         
         <link href="https://competition.huaweicloud.com/information/1000038439/introduction"/>
-        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前须在大赛官网sodic.com.cn注册报名】</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000038439/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前须在大赛官网sodic.com.cn注册报名】<h3>Deadline: 2020-06-19T23:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000038439/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-06-19T23:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -511,8 +511,8 @@
         <updated>2020-04-16T10:00:00+08:00</updated>
         
         <link href="https://competition.huaweicloud.com/information/1000040088/introduction"/>
-        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前可在大赛官网sodic.com.cn注册报名】</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040088/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前可在大赛官网sodic.com.cn注册报名】<h3>Deadline: 2020-06-19T14:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040088/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-06-19T14:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -525,8 +525,8 @@
         <updated>2020-04-16T00:00:00+08:00</updated>
         
         <link href="https://competition.huaweicloud.com/information/1000040092/introduction"/>
-        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前须在大赛官网sodic.com.cn注册报名】</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040092/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。【参赛者5月4日前须在大赛官网sodic.com.cn注册报名】<h3>Deadline: 2020-06-19T14:56:27+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040092/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-06-19T14:56:27+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -819,6 +819,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231777/introduction"/>
         <summary>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231777/introduction"><![CDATA[<h3>Description</h3>面对新型肺炎疫情，饿了么和广大商家一起，全力组织防护用品供给，平抑价格，增加骑士运力，持续实施最高等级的卫生安全举措，一起来为平台物流效率贡献力量。<h3>Deadline: 2020-05-20T23:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231784/introduction</id>
+        <title><![CDATA[零基础入门数据挖掘 - 二手车交易价格预测(赛季 2)]]></title>
+        
+        <updated>2020-04-21T15:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231784/introduction"/>
+        <summary>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231784/introduction"><![CDATA[<h3>Description</h3>本次赛事是Datawhale与天池共同发起的零基础入门系列赛事第一场 —— 零基础入门数据挖掘-二手车交易价格预测，赛题以二手车市场为背景，要求选手预测二手汽车的交易价格，这是一个典型的回归问题。<h3>Deadline: 2021-03-31T10:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
