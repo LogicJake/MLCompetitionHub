@@ -62,6 +62,6 @@ Reward: 特别礼包
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
 Description: We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.  
-Deadline: 2020-04-20T08:00:00+0800  
+Deadline: 2020-04-25T08:00:00+0800  
 Reward: USD 1,500  
 
