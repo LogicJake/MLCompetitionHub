@@ -121,3 +121,4 @@ https://competition.huaweicloud.com/information/1000040088/introduction
 https://competition.huaweicloud.com/information/1000040092/introduction
 https://god.yanxishe.com/54
 https://www.flyai.com/d/WeatherClassification
+https://www.kaggle.com/c/prostate-cancer-grade-assessment
