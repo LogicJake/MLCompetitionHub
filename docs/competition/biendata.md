@@ -4,7 +4,7 @@
 
 ## CCKS 2020 <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
+Link: https://www.biendata.com/competition/ccks_2020_7_3/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
@@ -12,7 +12,7 @@ Reward: ￥ 15,000
 
 ## CCKS 2020 <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
+Link: https://www.biendata.com/competition/ccks_2020_7_4/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  

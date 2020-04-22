@@ -6,7 +6,7 @@
 
 Link: https://www.kaggle.com/c/deepfake-detection-challenge  
 Description: Identify videos with facial or voice manipulations  
-Deadline: 2020-04-23T07:59:00+0800  
+Deadline: 2020-04-25T07:59:00+0800  
 Reward: 1000000.0 USD  
 
 
@@ -32,6 +32,14 @@ Link: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
 Description: Use TPUs to identify toxicity comments across multiple languages  
 Deadline: 2020-06-23T07:59:00+0800  
 Reward: 50000.0 USD  
+
+
+## Prostate cANcer graDe Assessment (PANDA) Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  
+Description: Prostate cancer diagnosis using the Gleason grading system  
+Deadline: 2020-07-23T07:59:00+0800  
+Reward: 25000.0 USD  
 
 
 ## University of Liverpool - Ion Switching
