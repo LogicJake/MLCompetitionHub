@@ -2,14 +2,6 @@
 
 
 
-## Deepfake Detection Challenge
-
-Link: https://www.kaggle.com/c/deepfake-detection-challenge  
-Description: Identify videos with facial or voice manipulations  
-Deadline: 2020-04-25T07:59:00+0800  
-Reward: 1000000.0 USD  
-
-
 ## M5 Forecasting - Accuracy
 
 Link: https://www.kaggle.com/c/m5-forecasting-accuracy  
@@ -39,6 +31,14 @@ Reward: 50000.0 USD
 Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  
 Description: Prostate cancer diagnosis using the Gleason grading system  
 Deadline: 2020-07-23T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
+## TReNDS Neuroimaging <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/trends-assessment-prediction  
+Description: Multiscanner normative age and assessments prediction with brain function, structure, and connectivity  
+Deadline: 2020-06-30T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
