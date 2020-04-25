@@ -2,9 +2,41 @@
 
 
 
+## KDD Cup 2020
+
+Link: https://www.biendata.com/competition/kddcup_2020/  
+Description: KDD Cup 2020  
+Deadline: 2020-03-14T08:00:00+0800  
+Reward: 20,000  
+
+
+## CCKS 2020 <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/ccks_2020_7_2/  
+Description: CCKS 2020  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
+## Medical Entity Recognition <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/ccks_2020_2_1/  
+Description: Medical Entity Recognition  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## Medical Entity Extraction <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/ccks_2020_2_2/  
+Description: Medical Entity Extraction  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥15,000  
+
+
 ## CCKS 2020
 
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
+Link: https://www.biendata.com/competition/ccks_2020_7_3/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
@@ -12,7 +44,7 @@ Reward: ￥ 15,000
 
 ## CCKS 2020
 
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
+Link: https://www.biendata.com/competition/ccks_2020_7_4/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
@@ -66,12 +98,12 @@ Deadline: 2020-07-01T08:00:00+0800
 Reward: ￥ 35,000  
 
 
-## Event and Entity Extraction from Financial Texts (Chinese Text Data)
+## CCKS 2020—Finance <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/ccks_2020_4_1/  
-Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
+Link: https://www.biendata.com/competition/ccks_2020_3/  
+Description: CCKS 2020—Finance  
 Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 20,000  
+Reward: ￥ 44,500  
 
 
 ## CCKS
@@ -90,12 +122,12 @@ Deadline: 2020-07-20T08:00:00+0800
 Reward: ￥ 20,000  
 
 
-## CCKS 2020—Finance <sup style="color:red">[new]<sup>  
+## Event and Entity Extraction from Financial Texts (Chinese Text Data)
 
-Link: https://www.biendata.com/competition/ccks_2020_3/  
-Description: CCKS 2020—Finance  
+Link: https://www.biendata.com/competition/ccks_2020_4_1/  
+Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
 Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 44,500  
+Reward: ￥ 20,000  
 
 
 ## 2020 Haihua AI Challenge·Waste Sorting Task 2

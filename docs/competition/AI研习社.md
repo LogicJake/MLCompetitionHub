@@ -2,7 +2,7 @@
 
 
 
-## 102种鲜花分类 <sup style="color:red">[new]<sup>  
+## 102种鲜花分类
 
 Link: https://god.yanxishe.com/54  
 Description: 数据集包含102种鲜花，其中多类鲜花非常类似，请使用该数据集训练模型，并对测试集进行分类。  
