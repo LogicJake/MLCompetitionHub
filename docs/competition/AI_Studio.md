@@ -58,14 +58,6 @@ Deadline: 2020-04-29T08:00:00+0800
 Reward: 特别礼包  
 
 
-## Automatic Simultaneous Translation Challenge
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
-Description: We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.  
-Deadline: 2020-04-25T08:00:00+0800  
-Reward: USD 1,500  
-
-
 ## MarTech Challenge Track1 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
