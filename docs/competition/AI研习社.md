@@ -2,6 +2,14 @@
 
 
 
+## 金融用户评论分类 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/56  
+Description: 本次比赛属于长文本分类，判断用户评论属于何种金融业务。  
+Deadline: 2020-05-26T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 102种鲜花分类
 
 Link: https://god.yanxishe.com/54  
@@ -23,13 +31,5 @@ Reward: 3000.00
 Link: https://god.yanxishe.com/50  
 Description: 数据库可以说是互联网的基础之一，是互联网企业最重要的资源。本次比赛的任务是将文本转为SQL。  
 Deadline: 2020-05-04T23:59:59+0800  
-Reward: 3000.00  
-
-
-## 10种猴子分类
-
-Link: https://god.yanxishe.com/48  
-Description: 本赛题为入门级细粒度赛题，而且同步提供baseline  
-Deadline: 2020-04-26T23:59:59+0800  
 Reward: 3000.00  
 
