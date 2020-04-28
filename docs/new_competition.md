@@ -1,17 +1,17 @@
-> 更新时间: 2020-04-27T16:01:23+0800 
+> 更新时间: 2020-04-28T16:01:41+0800 
 
 # 新上线比赛
 
 
-## 创新创业活力指数大赛
-Link: https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769  
-Description: 赛题提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。  
-Deadline: 2020-06-17T00:00:00+0800  
-Reward: 20W奖金+30W创业基金  
+## 2020国际大数据竞赛：高传染性传染病的传播趋势预测
+Link: https://aistudio.baidu.com/aistudio/competition/detail/36  
+Description: 2020第六届百度&西安交大大数据竞赛暨IKCEST第二届“一带一路”国际大数据竞赛  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥200,000  
 
-## 金融用户评论分类
-Link: https://god.yanxishe.com/56  
-Description: 本次比赛属于长文本分类，判断用户评论属于何种金融业务。  
-Deadline: 2020-05-26T23:59:59+0800  
-Reward: 3000.00  
+## ALASKA2 Image Steganalysis
+Link: https://www.kaggle.com/c/alaska2-image-steganalysis  
+Description: Detect secret data hidden within digital images  
+Deadline: 2020-07-21T07:59:00+0800  
+Reward: 25000.0 USD  
 
