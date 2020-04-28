@@ -34,6 +34,14 @@ Deadline: 2020-07-23T07:59:00+0800
 Reward: 25000.0 USD  
 
 
+## ALASKA2 Image Steganalysis <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/alaska2-image-steganalysis  
+Description: Detect secret data hidden within digital images  
+Deadline: 2020-07-21T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
 ## TReNDS Neuroimaging <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/trends-assessment-prediction  

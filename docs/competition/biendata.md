@@ -98,7 +98,15 @@ Deadline: 2020-07-01T08:00:00+0800
 Reward: ￥ 35,000  
 
 
-## CCKS 2020—Finance <sup style="color:red">[new]<sup>  
+## CCKS 2020: Event Extaction
+
+Link: https://www.biendata.com/competition/ccks_2020_4_2/  
+Description: CCKS 2020: Event Extaction  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 20,000  
+
+
+## CCKS 2020—Finance
 
 Link: https://www.biendata.com/competition/ccks_2020_3/  
 Description: CCKS 2020—Finance  
@@ -112,14 +120,6 @@ Link: https://www.biendata.com/competition/ccks_2020_8/
 Description: CCKS  
 Deadline: 2020-07-13T08:00:00+0800  
 Reward: ￥ 30,000  
-
-
-## CCKS 2020: Event Extaction
-
-Link: https://www.biendata.com/competition/ccks_2020_4_2/  
-Description: CCKS 2020: Event Extaction  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 20,000  
 
 
 ## Event and Entity Extraction from Financial Texts (Chinese Text Data)
