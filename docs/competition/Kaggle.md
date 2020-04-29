@@ -26,7 +26,7 @@ Deadline: 2020-06-23T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Prostate cANcer graDe Assessment (PANDA) Challenge <sup style="color:red">[new]<sup>  
+## Prostate cANcer graDe Assessment (PANDA) Challenge
 
 Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  
 Description: Prostate cancer diagnosis using the Gleason grading system  

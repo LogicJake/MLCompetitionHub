@@ -3,7 +3,6 @@
 * [进行中比赛](competition/)
   * [AI Studio](competition/AI_Studio.md)
   * [biendata](competition/biendata.md)
-  * [DataFountain](competition/DataFountain.md)
   * [DC竞赛](competition/DC竞赛.md)
   * [百度点石](competition/百度点石.md)
   * [FlyAI](competition/FlyAI.md)
