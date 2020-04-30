@@ -36,7 +36,7 @@ Reward: ￥15,000
 
 ## CCKS 2020
 
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
+Link: https://www.biendata.com/competition/ccks_2020_7_3/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
@@ -44,7 +44,7 @@ Reward: ￥ 15,000
 
 ## CCKS 2020
 
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
+Link: https://www.biendata.com/competition/ccks_2020_7_4/  
 Description: CCKS 2020  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
@@ -82,18 +82,18 @@ Deadline: 2020-07-17T08:00:00+0800
 Reward: $ 30,000  
 
 
-## GigaVision Challenge 2020: Task 1
-
-Link: https://www.biendata.com/competition/gigavision/  
-Description: GigaVision Challenge 2020: Task 1  
-Deadline: 2020-07-01T08:00:00+0800  
-Reward: ￥ 35,000  
-
-
 ## GigaVision Challenge 2020: Task 2
 
 Link: https://www.biendata.com/competition/gigavision1/  
 Description: GigaVision Challenge 2020: Task 2  
+Deadline: 2020-07-01T08:00:00+0800  
+Reward: ￥ 35,000  
+
+
+## GigaVision Challenge 2020: Task 1
+
+Link: https://www.biendata.com/competition/gigavision/  
+Description: GigaVision Challenge 2020: Task 1  
 Deadline: 2020-07-01T08:00:00+0800  
 Reward: ￥ 35,000  
 
@@ -104,14 +104,6 @@ Link: https://www.biendata.com/competition/ccks_2020_4_2/
 Description: CCKS 2020: Event Extaction  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 20,000  
-
-
-## CCKS 2020—Finance
-
-Link: https://www.biendata.com/competition/ccks_2020_3/  
-Description: CCKS 2020—Finance  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 44,500  
 
 
 ## CCKS
@@ -130,10 +122,10 @@ Deadline: 2020-07-20T08:00:00+0800
 Reward: ￥ 20,000  
 
 
-## 2020 Haihua AI Challenge·Waste Sorting Task 2
+## CCKS 2020—Finance
 
-Link: https://www.biendata.com/competition/haihua_wastesorting_task2/  
-Description: 2020 Haihua AI Challenge·Waste Sorting Task 2  
-Deadline: 2020-04-30T08:00:00+0800  
-Reward: ￥210,000  
+Link: https://www.biendata.com/competition/ccks_2020_3/  
+Description: CCKS 2020—Finance  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 44,500  
 
