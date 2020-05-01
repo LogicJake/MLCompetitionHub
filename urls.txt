@@ -131,3 +131,6 @@ https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769
 https://god.yanxishe.com/56
 https://aistudio.baidu.com/aistudio/competition/detail/36
 https://www.kaggle.com/c/alaska2-image-steganalysis
+https://www.flyai.com/d/COVIDClassification
+https://www.nishika.com/competitions/5
+https://god.yanxishe.com/58
