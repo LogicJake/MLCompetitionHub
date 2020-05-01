@@ -42,7 +42,7 @@ Deadline: 2020-07-21T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## TReNDS Neuroimaging <sup style="color:red">[new]<sup>  
+## TReNDS Neuroimaging
 
 Link: https://www.kaggle.com/c/trends-assessment-prediction  
 Description: Multiscanner normative age and assessments prediction with brain function, structure, and connectivity  
@@ -55,14 +55,6 @@ Reward: 25000.0 USD
 Link: https://www.kaggle.com/c/liverpool-ion-switching  
 Description: Identify the number of channels open at each time point  
 Deadline: 2020-05-26T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
-## Google Cloud & NCAA® March Madness Analytics
-
-Link: https://www.kaggle.com/c/march-madness-analytics-2020  
-Description: Uncover the madness of March Madness®  
-Deadline: 2020-05-01T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
