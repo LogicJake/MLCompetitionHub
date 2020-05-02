@@ -2,6 +2,14 @@
 
 
 
+## 北京垃圾分类识别 <sup style="color:red">[new]<sup>  
+
+Link: https://www.flyai.com/d/BeijingGarbage  
+Description: 5月1日起，新版《北京市生活垃圾管理条例》（以下简称新《条例》）正式实施。为配合《条例》的实施，北京市还印发了《北京市生活垃圾分类工作行动方案》以及四个实施办法。本赛题要求参赛者基于深度学习技术建立准确的垃圾分类模型，利用技术手段改善人居生活环境！  
+Deadline: 2020-06-01T20:00:00+0800  
+Reward: 奖金池 ¥ 3,000  
+
+
 ## CT影像诊断新冠肺炎 <sup style="color:red">[new]<sup>  
 
 Link: https://www.flyai.com/d/COVIDClassification  
