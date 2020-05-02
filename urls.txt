@@ -134,3 +134,4 @@ https://www.kaggle.com/c/alaska2-image-steganalysis
 https://www.flyai.com/d/COVIDClassification
 https://www.nishika.com/competitions/5
 https://god.yanxishe.com/58
+https://www.flyai.com/d/BeijingGarbage
