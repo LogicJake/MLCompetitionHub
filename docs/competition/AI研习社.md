@@ -10,7 +10,7 @@ Deadline: 2020-05-30T23:59:59+0800
 Reward: 5000.00  
 
 
-## 金融用户评论分类 <sup style="color:red">[new]<sup>  
+## 金融用户评论分类
 
 Link: https://god.yanxishe.com/56  
 Description: 本次比赛属于长文本分类，判断用户评论属于何种金融业务。  
