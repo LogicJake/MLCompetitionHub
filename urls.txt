@@ -135,3 +135,4 @@ https://www.flyai.com/d/COVIDClassification
 https://www.nishika.com/competitions/5
 https://god.yanxishe.com/58
 https://www.flyai.com/d/BeijingGarbage
+https://www.kaggle.com/c/global-wheat-detection
