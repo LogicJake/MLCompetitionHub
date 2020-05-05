@@ -33,11 +33,3 @@ Description: 语义相似度是NLP的核心问题之一，对问答、翻译、�
 Deadline: 2020-05-10T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 耶鲁大学文本转SQL
-
-Link: https://god.yanxishe.com/50  
-Description: 数据库可以说是互联网的基础之一，是互联网企业最重要的资源。本次比赛的任务是将文本转为SQL。  
-Deadline: 2020-05-04T23:59:59+0800  
-Reward: 3000.00  
-
