@@ -50,10 +50,10 @@ Deadline: 2020-05-20T08:00:00+0800
 Reward: ￥70,000  
 
 
-## Automatic Simultaneous Translation Challenge
+## MarTech Challenge Track1 用户购买预测
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/18  
-Description: We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.  
-Deadline: 2020-05-07T08:00:00+0800  
-Reward: USD 1,500  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
+Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
+Deadline: 2020-05-17T08:00:00+0800  
+Reward: 特别礼包  
 

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-05T15:58:33+08:00</updated>
+    <updated>2020-05-06T15:58:28+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -95,14 +95,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/18</id>
-        <title><![CDATA[Automatic Simultaneous Translation Challenge]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/21</id>
+        <title><![CDATA[MarTech Challenge Track1 用户购买预测]]></title>
         
-        <updated>2019-12-31T08:00:00+08:00</updated>
+        <updated>2020-01-12T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/18"/>
-        <summary>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/18"><![CDATA[<h3>Description</h3>We introduce two submission tracks in this workshop: a shared task track for simultaneous translation quality and latency competition; and a research track for related research paper submissions.<h3>Deadline: 2020-05-07T08:00:00+08:00</h3><h3>Reward: USD 1,500</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/21"/>
+        <summary>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/21"><![CDATA[<h3>Description</h3>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率<h3>Deadline: 2020-05-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -154,27 +154,13 @@
     
     <entry>
         <id>https://www.biendata.com/competition/ccks_2020_2_2/</id>
-        <title><![CDATA[Medical Entity Extraction]]></title>
+        <title><![CDATA[Medical Event Extraction]]></title>
         
         <updated>2020-05-06T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_2/"/>
-        <summary>Medical Entity Extraction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_2/"><![CDATA[<h3>Description</h3>Medical Entity Extraction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
-        <title><![CDATA[CCKS 2020]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
-        <summary>CCKS 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <summary>Medical Event Extraction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_2/"><![CDATA[<h3>Description</h3>Medical Event Extraction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -182,13 +168,27 @@
     
     <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020]]></title>
+        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
         
         <updated>2020-04-17T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <summary>CCKS 2020: COVID 19 Question-answering</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
+        <title><![CDATA[CCKS 2020: Link Prediction]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
+        <summary>CCKS 2020: Link Prediction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -196,13 +196,13 @@
     
     <entry>
         <id>https://www.biendata.com/competition/ccks_2020_6/</id>
-        <title><![CDATA[ccks_2020_ali]]></title>
+        <title><![CDATA[CCKS 2020: Product Entity Query]]></title>
         
         <updated>2020-04-16T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_6/"/>
-        <summary>ccks_2020_ali</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_6/"><![CDATA[<h3>Description</h3>ccks_2020_ali<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <summary>CCKS 2020: Product Entity Query</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_6/"><![CDATA[<h3>Description</h3>CCKS 2020: Product Entity Query<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -251,20 +251,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/gigavision1/</id>
-        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/gigavision1/"/>
-        <summary>GigaVision Challenge 2020: Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/gigavision/</id>
         <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
         
@@ -279,14 +265,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
-        <title><![CDATA[CCKS 2020: Event Extaction]]></title>
+        <id>https://www.biendata.com/competition/gigavision1/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
-        <summary>CCKS 2020: Event Extaction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Extaction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/gigavision1/"/>
+        <summary>GigaVision Challenge 2020: Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -322,13 +308,27 @@
     
     <entry>
         <id>https://www.biendata.com/competition/ccks_2020_3/</id>
-        <title><![CDATA[CCKS 2020—Finance]]></title>
+        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
         
         <updated>2020-04-21T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
-        <summary>CCKS 2020—Finance</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020—Finance<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <summary>CCKS 2020: Finance Entity Extraction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
+        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
+        <summary>CCKS 2020: Event Element Extaction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +372,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-05T15:58:33+08:00</updated>
+        <updated>2020-05-06T15:58:28+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -432,7 +432,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-05T15:58:33+08:00</updated>
+        <updated>2020-05-06T15:58:28+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -825,20 +825,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231772/introduction"/>
         <summary>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-05-06T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231775/introduction</id>
-        <title><![CDATA[PAKDD2020 阿里巴巴智能运维算法大赛(赛季 2)]]></title>
-        
-        <updated>2020-03-20T20:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231775/introduction"/>
-        <summary>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231775/introduction"><![CDATA[<h3>Description</h3>大规模硬盘故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2020-05-05T23:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
