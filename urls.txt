@@ -136,3 +136,5 @@ https://www.nishika.com/competitions/5
 https://god.yanxishe.com/58
 https://www.flyai.com/d/BeijingGarbage
 https://www.kaggle.com/c/global-wheat-detection
+https://aistudio.baidu.com/aistudio/competition/detail/37
+https://aistudio.baidu.com/aistudio/competition/detail/38
