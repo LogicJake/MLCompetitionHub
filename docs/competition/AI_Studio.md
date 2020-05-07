@@ -10,6 +10,22 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥200,000  
 
 
+## 全国大学生智能汽车竞赛线上选拔赛：人流密度检测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/37  
+Description: 第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。  
+Deadline: 2020-06-17T08:00:00+0800  
+Reward: 特别礼包  
+
+
+## 全国大学生智能汽车竞赛线上选拔赛：红绿灯检测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/38  
+Description: 第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。  
+Deadline: 2020-06-17T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## 2020语言与智能技术竞赛：机器阅读理解任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/28  
@@ -48,12 +64,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/32
 Description: 从自然语言文本中抽取事件并识别事件类型和事件元素。  
 Deadline: 2020-05-20T08:00:00+0800  
 Reward: ￥70,000  
-
-
-## MarTech Challenge Track1 用户购买预测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/21  
-Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
-Deadline: 2020-05-17T08:00:00+0800  
-Reward: 特别礼包  
 

@@ -10,7 +10,7 @@ Deadline: 2020-06-01T20:00:00+0800
 Reward: 奖金池 ¥ 3,000  
 
 
-## CT影像诊断新冠肺炎 <sup style="color:red">[new]<sup>  
+## CT影像诊断新冠肺炎
 
 Link: https://www.flyai.com/d/COVIDClassification  
 Description: 本赛题是一个图像二分类任务，基于2019年新冠肺炎CT医学影像数据，要求参赛者搭建算法模型，通过CT医学影像诊断患者是否感染新冠肺炎。对医学领域的人工智能技术落地研究有着重要意义。  

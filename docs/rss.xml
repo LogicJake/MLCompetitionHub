@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-06T15:58:28+08:00</updated>
+    <updated>2020-05-07T15:59:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,34 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/36"/>
         <summary>2020第六届百度&西安交大大数据竞赛暨IKCEST第二届“一带一路”国际大数据竞赛</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/36"><![CDATA[<h3>Description</h3>2020第六届百度&西安交大大数据竞赛暨IKCEST第二届“一带一路”国际大数据竞赛<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/37</id>
+        <title><![CDATA[全国大学生智能汽车竞赛线上选拔赛：人流密度检测]]></title>
+        
+        <updated>2020-05-07T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/37"/>
+        <summary>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/37"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/38</id>
+        <title><![CDATA[全国大学生智能汽车竞赛线上选拔赛：红绿灯检测]]></title>
+        
+        <updated>2020-05-07T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/38"/>
+        <summary>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/38"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -94,20 +122,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/21</id>
-        <title><![CDATA[MarTech Challenge Track1 用户购买预测]]></title>
-        
-        <updated>2020-01-12T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/21"/>
-        <summary>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/21"><![CDATA[<h3>Description</h3>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率<h3>Deadline: 2020-05-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -126,13 +140,13 @@
     
     <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_2/</id>
-        <title><![CDATA[CCKS 2020]]></title>
+        <title><![CDATA[CCKS 2020: Relation Prediction]]></title>
         
         <updated>2020-05-30T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_7_2/"/>
-        <summary>CCKS 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_2/"><![CDATA[<h3>Description</h3>CCKS 2020<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <summary>CCKS 2020: Relation Prediction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Relation Prediction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -167,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020: COVID 19 Question-answering</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
         <title><![CDATA[CCKS 2020: Link Prediction]]></title>
         
@@ -189,6 +189,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
         <summary>CCKS 2020: Link Prediction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
+        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
+        <summary>CCKS 2020: COVID 19 Question-answering</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -279,6 +293,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
+        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
+        
+        <updated>2020-04-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
+        <summary>CCKS 2020: Finance Entity Extraction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_8/</id>
         <title><![CDATA[CCKS]]></title>
         
@@ -301,20 +329,6 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
         <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
-        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
-        
-        <updated>2020-04-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
-        <summary>CCKS 2020: Finance Entity Extraction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -372,7 +386,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-06T15:58:28+08:00</updated>
+        <updated>2020-05-07T15:59:10+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -432,7 +446,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-06T15:58:28+08:00</updated>
+        <updated>2020-05-07T15:59:10+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -824,7 +838,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231772/introduction"/>
         <summary>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-05-06T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-05-07T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
