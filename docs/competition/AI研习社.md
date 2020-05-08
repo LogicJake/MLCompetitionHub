@@ -2,7 +2,7 @@
 
 
 
-## LOL排位赛胜负推测 <sup style="color:red">[new]<sup>  
+## LOL排位赛胜负推测
 
 Link: https://god.yanxishe.com/58  
 Description: LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。  

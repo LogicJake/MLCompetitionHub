@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-07T15:59:10+08:00</updated>
+    <updated>2020-05-08T15:58:38+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -125,6 +125,20 @@
     
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_1/</id>
+        <title><![CDATA[CCKS 2020: Type Inference]]></title>
+        
+        <updated>2020-05-06T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_1/"/>
+        <summary>CCKS 2020: Type Inference</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_1/"><![CDATA[<h3>Description</h3>CCKS 2020: Type Inference<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/kddcup_2020/</id>
         <title><![CDATA[KDD Cup 2020]]></title>
         
@@ -156,7 +170,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_2_1/</id>
         <title><![CDATA[Medical Entity Recognition]]></title>
         
-        <updated>2020-05-06T08:00:00+08:00</updated>
+        <updated>2020-05-15T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_1/"/>
         <summary>Medical Entity Recognition</summary>
@@ -170,7 +184,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_2_2/</id>
         <title><![CDATA[Medical Event Extraction]]></title>
         
-        <updated>2020-05-06T08:00:00+08:00</updated>
+        <updated>2020-05-15T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_2/"/>
         <summary>Medical Event Extraction</summary>
@@ -386,7 +400,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-07T15:59:10+08:00</updated>
+        <updated>2020-05-08T15:58:38+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -446,7 +460,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-07T15:59:10+08:00</updated>
+        <updated>2020-05-08T15:58:38+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -680,7 +694,7 @@
         
         <link href="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"/>
         <summary>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"><![CDATA[<h3>Description</h3>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。<h3>Deadline: 2020-06-15T00:00:00+08:00</h3><h3>Reward: 奖金21.6W+30W创业基金</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"><![CDATA[<h3>Description</h3>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。<h3>Deadline: 2020-06-15T00:00:00+08:00</h3><h3>Reward: 奖金21.6W+创业基金30W</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -733,6 +747,34 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231786/introduction</id>
+        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall(赛季 1)]]></title>
+        
+        <updated>2020-03-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231786/introduction"/>
+        <summary>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231786/introduction"><![CDATA[<h3>Description</h3>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231785/introduction</id>
+        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing(赛季 1)]]></title>
+        
+        <updated>2020-03-23T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231785/introduction"/>
+        <summary>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231785/introduction"><![CDATA[<h3>Description</h3>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231787/introduction</id>
         <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(赛季 1)]]></title>
         
@@ -775,34 +817,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231786/introduction</id>
-        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Multimodalities Recall(赛季 1)]]></title>
-        
-        <updated>2020-03-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231786/introduction"/>
-        <summary>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231786/introduction"><![CDATA[<h3>Description</h3>Nowadays, the demand to facilitate an effective semantic understanding and retrieval of multimodal contents keeps emerging. This track focuses on query-based product image retrieval for modern e-commerce system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231785/introduction</id>
-        <title><![CDATA[KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing(赛季 1)]]></title>
-        
-        <updated>2020-03-23T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231785/introduction"/>
-        <summary>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231785/introduction"><![CDATA[<h3>Description</h3>Learning from logged data is prone to exploitation and can lead to severe Matthew’s effects, especially with short-term goals such as CTR. This track focuses on bias reduction when learning a recommender system.<h3>Deadline: 2020-06-11T23:00:00+08:00</h3><h3>Reward: $17500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
         <title><![CDATA[CVPR 2020 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
         
@@ -832,13 +846,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231772/introduction</id>
-        <title><![CDATA[淘宝直播商品识别大赛(赛季 1)]]></title>
+        <title><![CDATA[淘宝直播商品识别大赛(赛季 2)]]></title>
         
-        <updated>2020-01-17T00:00:00+08:00</updated>
+        <updated>2020-05-08T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/231772/introduction"/>
         <summary>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-05-07T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231772/introduction"><![CDATA[<h3>Description</h3>直播带货是淘宝连接商品和消费者的重要方式，买家在观看直播的过程对喜爱的商品进行购买。本赛题要求选手通过计算机视觉、自然语言处理等人工智能算法，把视频中正在讲解的商品识别出来，提升用户在淘宝直播中的购买体验。<h3>Deadline: 2020-06-03T23:55:00+08:00</h3><h3>Reward: ￥240000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

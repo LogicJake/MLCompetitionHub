@@ -2,6 +2,14 @@
 
 
 
+## CCKS 2020: Type Inference <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/ccks_2020_7_1/  
+Description: CCKS 2020: Type Inference  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
 ## KDD Cup 2020
 
 Link: https://www.biendata.com/competition/kddcup_2020/  
