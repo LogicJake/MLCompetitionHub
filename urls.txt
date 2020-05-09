@@ -139,3 +139,7 @@ https://www.kaggle.com/c/global-wheat-detection
 https://aistudio.baidu.com/aistudio/competition/detail/37
 https://aistudio.baidu.com/aistudio/competition/detail/38
 https://www.biendata.com/competition/ccks_2020_7_1/
+https://ai.futurelab.tv/contest_detail/19
+https://ai.futurelab.tv/contest_detail/18
+https://ai.futurelab.tv/contest_detail/16
+https://ai.futurelab.tv/contest_detail/8
