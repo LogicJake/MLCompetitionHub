@@ -26,6 +26,14 @@ Deadline: 2020-06-17T08:00:00+0800
 Reward: 特别礼包  
 
 
+## MarTech Challenge Track 2 点击反欺诈预测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/22  
+Description: 提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为。  
+Deadline: 2020-07-05T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## 2020语言与智能技术竞赛：机器阅读理解任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/28  
@@ -64,4 +72,12 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/32
 Description: 从自然语言文本中抽取事件并识别事件类型和事件元素。  
 Deadline: 2020-05-20T08:00:00+0800  
 Reward: ￥70,000  
+
+
+## 常规赛：问答摘要与推理
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/3  
+Description: 要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。  
+Deadline: 2021-01-01T08:00:00+0800  
+Reward: 总计250,000  
 
