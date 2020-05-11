@@ -15,7 +15,7 @@ Reward: ￥200,000
 Link: https://aistudio.baidu.com/aistudio/competition/detail/37  
 Description: 第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。  
 Deadline: 2020-06-17T08:00:00+0800  
-Reward: 特别礼包  
+Reward: M型车模  
 
 
 ## 全国大学生智能汽车竞赛线上选拔赛：红绿灯检测 <sup style="color:red">[new]<sup>  
@@ -23,7 +23,7 @@ Reward: 特别礼包
 Link: https://aistudio.baidu.com/aistudio/competition/detail/38  
 Description: 第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。  
 Deadline: 2020-06-17T08:00:00+0800  
-Reward: 特别礼包  
+Reward: M型车模  
 
 
 ## MarTech Challenge Track 2 点击反欺诈预测 <sup style="color:red">[new]<sup>  

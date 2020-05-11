@@ -25,11 +25,3 @@ Description: 数据集包含102种鲜花，其中多类鲜花非常类似，请�
 Deadline: 2020-05-17T23:59:59+0800  
 Reward: 5000.00  
 
-
-## 英文文本语义相似度
-
-Link: https://god.yanxishe.com/53  
-Description: 语义相似度是NLP的核心问题之一，对问答、翻译、检索等非常重要。  
-Deadline: 2020-05-10T23:59:59+0800  
-Reward: 3000.00  
-

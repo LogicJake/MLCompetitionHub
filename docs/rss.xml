@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-10T15:58:47+08:00</updated>
+    <updated>2020-05-11T15:58:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -32,7 +32,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/37"/>
         <summary>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/37"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/37"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为人流密度检测。要求选手使用飞桨对于给定的图片，统计图片中的总人数。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: M型车模</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -46,7 +46,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/38"/>
         <summary>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/38"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/38"><![CDATA[<h3>Description</h3>第十五届全国大学生智能汽车竞赛线上选拔赛，赛题为红绿灯检测。要求选手使用飞桨设计出高效、准确的红绿灯检测算法。综合两场比赛成绩选拔出top100团队，获赠M型车模一台。<h3>Deadline: 2020-06-17T08:00:00+08:00</h3><h3>Reward: M型车模</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -428,7 +428,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -488,7 +488,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -518,7 +518,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -532,7 +532,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -546,7 +546,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -560,7 +560,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-10T15:58:47+08:00</updated>
+        <updated>2020-05-11T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -999,20 +999,6 @@
         <link href="https://god.yanxishe.com/54"/>
         <summary>数据集包含102种鲜花，其中多类鲜花非常类似，请使用该数据集训练模型，并对测试集进行分类。</summary>
         <content type="text/html" src="https://god.yanxishe.com/54"><![CDATA[<h3>Description</h3>数据集包含102种鲜花，其中多类鲜花非常类似，请使用该数据集训练模型，并对测试集进行分类。<h3>Deadline: 2020-05-17T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/53</id>
-        <title><![CDATA[英文文本语义相似度]]></title>
-        
-        <updated>2020-04-10T16:33:04+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/53"/>
-        <summary>语义相似度是NLP的核心问题之一，对问答、翻译、检索等非常重要。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/53"><![CDATA[<h3>Description</h3>语义相似度是NLP的核心问题之一，对问答、翻译、检索等非常重要。<h3>Deadline: 2020-05-10T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
