@@ -62,7 +62,7 @@ Reward: ￥ 15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_6/  
 Description: CCKS 2020: Product Entity Query  
-Deadline: 2020-07-20T08:00:00+0800  
+Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 15,000  
 
 

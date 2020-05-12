@@ -66,7 +66,7 @@ Deadline: 2020-05-28T07:59:00+0800
 Reward: 20000.0 USD  
 
 
-## Global Wheat Detection  <sup style="color:red">[new]<sup>  
+## Global Wheat Detection 
 
 Link: https://www.kaggle.com/c/global-wheat-detection  
 Description: Can you help identify wheat heads using image analysis?  
