@@ -2,7 +2,7 @@
 
 
 
-## CCKS 2020: Type Inference <sup style="color:red">[new]<sup>  
+## CCKS 2020: Type Inference
 
 Link: https://www.biendata.com/competition/ccks_2020_7_1/  
 Description: CCKS 2020: Type Inference  
@@ -42,18 +42,18 @@ Deadline: 2020-07-20T08:00:00+0800
 Reward: ￥15,000  
 
 
-## CCKS 2020: Link Prediction
-
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
-Description: CCKS 2020: Link Prediction  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
 ## CCKS 2020: COVID 19 Question-answering
 
 Link: https://www.biendata.com/competition/ccks_2020_7_4/  
 Description: CCKS 2020: COVID 19 Question-answering  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
+## CCKS 2020: Link Prediction
+
+Link: https://www.biendata.com/competition/ccks_2020_7_3/  
+Description: CCKS 2020: Link Prediction  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
 
@@ -70,7 +70,7 @@ Reward: ￥ 15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_5/  
 Description: CCKS 2020: Evaluation of Automated Construction of Financial Knowledge Graph Based on Ontology  
-Deadline: 2020-07-20T08:00:00+0800  
+Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥30,000  
 
 
@@ -78,7 +78,7 @@ Reward: ￥30,000
 
 Link: https://www.biendata.com/competition/ccks_2020_el/  
 Description: CCKS 2020: Entity Linking  
-Deadline: 2020-07-15T08:00:00+0800  
+Deadline: 2020-09-21T08:00:00+0800  
 Reward: ￥ 45,000  
 
 
@@ -90,14 +90,6 @@ Deadline: 2020-07-17T08:00:00+0800
 Reward: $ 30,000  
 
 
-## GigaVision Challenge 2020: Task 2
-
-Link: https://www.biendata.com/competition/gigavision1/  
-Description: GigaVision Challenge 2020: Task 2  
-Deadline: 2020-07-01T08:00:00+0800  
-Reward: ￥ 35,000  
-
-
 ## GigaVision Challenge 2020: Task 1
 
 Link: https://www.biendata.com/competition/gigavision/  
@@ -106,20 +98,12 @@ Deadline: 2020-07-01T08:00:00+0800
 Reward: ￥ 35,000  
 
 
-## CCKS 2020: Finance Entity Extraction
+## GigaVision Challenge 2020: Task 2
 
-Link: https://www.biendata.com/competition/ccks_2020_3/  
-Description: CCKS 2020: Finance Entity Extraction  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 44,500  
-
-
-## CCKS
-
-Link: https://www.biendata.com/competition/ccks_2020_8/  
-Description: CCKS  
-Deadline: 2020-07-13T08:00:00+0800  
-Reward: ￥ 30,000  
+Link: https://www.biendata.com/competition/gigavision1/  
+Description: GigaVision Challenge 2020: Task 2  
+Deadline: 2020-07-01T08:00:00+0800  
+Reward: ￥ 35,000  
 
 
 ## Event and Entity Extraction from Financial Texts (Chinese Text Data)
@@ -136,4 +120,20 @@ Link: https://www.biendata.com/competition/ccks_2020_4_2/
 Description: CCKS 2020: Event Element Extaction  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 20,000  
+
+
+## CCKS
+
+Link: https://www.biendata.com/competition/ccks_2020_8/  
+Description: CCKS  
+Deadline: 2020-09-20T08:00:00+0800  
+Reward: ￥ 30,000  
+
+
+## CCKS 2020: Finance Entity Extraction
+
+Link: https://www.biendata.com/competition/ccks_2020_3/  
+Description: CCKS 2020: Finance Entity Extraction  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 44,500  
 
