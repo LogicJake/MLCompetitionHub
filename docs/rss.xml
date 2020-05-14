@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-13T15:58:18+08:00</updated>
+    <updated>2020-05-14T15:58:33+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -428,7 +428,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -488,7 +488,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -512,13 +512,31 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.flyai.com/d/TextSQL</id>
+        <title><![CDATA[耶鲁文本转SQL]]></title>
+        
+        <updated>2020-03-26T20:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/TextSQL"/>
+        <summary>从IT时代进入到DT时代之后，数据库被视为互联网企业服务最重要的资源。数据库每天存储了大量的生产运营数据，而我们每天也会时时刻刻与数据库进行交互。
+一般情况下查询数据库的数据需要使用专业的SQL语句进行查询，这样的查询效率很缓慢，同时对非专业人士来讲门槛太高，即使目前有相关的条件筛选等交互查询界面，但对使用的边界性有一定的限制。使用 NL2SQL 的技术方案，缩短用户与数据库之间的距离，用户可以更自由地表达自己的查询意图，同时减轻目前技术方案的繁琐、开发者的繁琐工作。
+本赛题主要是英文文本转SQL任务，要求参赛者建立准确的模型识别自然语言意图达到数据的准确查询。本数据集是由11名耶鲁学生注释的大规模数据，它由200个数据库中的10,181个问题和5,693个唯一复杂SQL查询组成，其中多个表覆盖138个不同的域。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/TextSQL"><![CDATA[<h3>Description</h3>从IT时代进入到DT时代之后，数据库被视为互联网企业服务最重要的资源。数据库每天存储了大量的生产运营数据，而我们每天也会时时刻刻与数据库进行交互。
+一般情况下查询数据库的数据需要使用专业的SQL语句进行查询，这样的查询效率很缓慢，同时对非专业人士来讲门槛太高，即使目前有相关的条件筛选等交互查询界面，但对使用的边界性有一定的限制。使用 NL2SQL 的技术方案，缩短用户与数据库之间的距离，用户可以更自由地表达自己的查询意图，同时减轻目前技术方案的繁琐、开发者的繁琐工作。
+本赛题主要是英文文本转SQL任务，要求参赛者建立准确的模型识别自然语言意图达到数据的准确查询。本数据集是由11名耶鲁学生注释的大规模数据，它由200个数据库中的10,181个问题和5,693个唯一复杂SQL查询组成，其中多个表覆盖138个不同的域。<h3>Deadline: 2020-04-27T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -532,7 +550,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -546,7 +564,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -560,7 +578,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-13T15:58:18+08:00</updated>
+        <updated>2020-05-14T15:58:33+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
