@@ -2,6 +2,14 @@
 
 
 
+## 知乎文本摘要 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/61  
+Description: 文本摘要是NLP领域经典任务之一，在当前互联网时代，用户可以通过自动文本摘要对海量文本信息进行简化处理。  
+Deadline: 2020-06-15T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## LOL排位赛胜负推测
 
 Link: https://god.yanxishe.com/58  
