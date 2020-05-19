@@ -145,3 +145,4 @@ https://ai.futurelab.tv/contest_detail/16
 https://ai.futurelab.tv/contest_detail/8
 https://aistudio.baidu.com/aistudio/competition/detail/22
 https://god.yanxishe.com/61
+https://aistudio.baidu.com/aistudio/competition/detail/39
