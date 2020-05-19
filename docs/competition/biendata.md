@@ -42,18 +42,18 @@ Deadline: 2020-07-20T08:00:00+0800
 Reward: ￥15,000  
 
 
-## CCKS 2020: COVID 19 Question-answering
-
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
-Description: CCKS 2020: COVID 19 Question-answering  
-Deadline: 2020-07-20T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
 ## CCKS 2020: Link Prediction
 
 Link: https://www.biendata.com/competition/ccks_2020_7_3/  
 Description: CCKS 2020: Link Prediction  
+Deadline: 2020-07-20T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
+## CCKS 2020: COVID 19 Question-answering
+
+Link: https://www.biendata.com/competition/ccks_2020_7_4/  
+Description: CCKS 2020: COVID 19 Question-answering  
 Deadline: 2020-07-20T08:00:00+0800  
 Reward: ￥ 15,000  
 
@@ -90,18 +90,18 @@ Deadline: 2020-07-17T08:00:00+0800
 Reward: $ 30,000  
 
 
-## GigaVision Challenge 2020: Task 1
-
-Link: https://www.biendata.com/competition/gigavision/  
-Description: GigaVision Challenge 2020: Task 1  
-Deadline: 2020-07-01T08:00:00+0800  
-Reward: ￥ 35,000  
-
-
 ## GigaVision Challenge 2020: Task 2
 
 Link: https://www.biendata.com/competition/gigavision1/  
 Description: GigaVision Challenge 2020: Task 2  
+Deadline: 2020-07-01T08:00:00+0800  
+Reward: ￥ 35,000  
+
+
+## GigaVision Challenge 2020: Task 1
+
+Link: https://www.biendata.com/competition/gigavision/  
+Description: GigaVision Challenge 2020: Task 1  
 Deadline: 2020-07-01T08:00:00+0800  
 Reward: ￥ 35,000  
 
@@ -112,6 +112,14 @@ Link: https://www.biendata.com/competition/ccks_2020_4_2/
 Description: CCKS 2020: Event Element Extaction  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 20,000  
+
+
+## CCKS
+
+Link: https://www.biendata.com/competition/ccks_2020_8/  
+Description: CCKS  
+Deadline: 2020-09-20T08:00:00+0800  
+Reward: ￥ 30,000  
 
 
 ## CCKS 2020: Finance Entity Extraction
@@ -128,12 +136,4 @@ Link: https://www.biendata.com/competition/ccks_2020_4_1/
 Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 20,000  
-
-
-## CCKS
-
-Link: https://www.biendata.com/competition/ccks_2020_8/  
-Description: CCKS  
-Deadline: 2020-09-20T08:00:00+0800  
-Reward: ￥ 30,000  
 

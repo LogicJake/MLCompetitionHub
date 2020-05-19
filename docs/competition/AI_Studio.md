@@ -2,6 +2,14 @@
 
 
 
+## 2020百度之星开发者大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/39  
+Description: 要求参赛者对于同一地点不同时间拍摄的两个图像序列，设计一个交通标志检测与匹配模型，给出两组序列图像中交通标志的匹配关系。  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥120,000  
+
+
 ## 2020国际大数据竞赛：高传染性传染病的传播趋势预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/36  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/32
 Description: 从自然语言文本中抽取事件并识别事件类型和事件元素。  
 Deadline: 2020-05-20T08:00:00+0800  
 Reward: ￥70,000  
-
-
-## 常规赛：问答摘要与推理
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/3  
-Description: 要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。  
-Deadline: 2021-01-01T08:00:00+0800  
-Reward: 总计250,000  
 

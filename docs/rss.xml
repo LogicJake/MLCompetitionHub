@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-18T15:58:31+08:00</updated>
+    <updated>2020-05-19T15:58:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/39</id>
+        <title><![CDATA[2020百度之星开发者大赛]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/39"/>
+        <summary>要求参赛者对于同一地点不同时间拍摄的两个图像序列，设计一个交通标志检测与匹配模型，给出两组序列图像中交通标志的匹配关系。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/39"><![CDATA[<h3>Description</h3>要求参赛者对于同一地点不同时间拍摄的两个图像序列，设计一个交通标志检测与匹配模型，给出两组序列图像中交通标志的匹配关系。<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/36</id>
@@ -136,20 +150,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/3</id>
-        <title><![CDATA[常规赛：问答摘要与推理]]></title>
-        
-        <updated>2018-09-28T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/3"/>
-        <summary>要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/3"><![CDATA[<h3>Description</h3>要求使用汽车大师提供的11万条技师与用户的多轮对话与诊断建议报告数据建立模型，基于对话文本、用户问题、车型与车系，输出包含摘要与推断的报告文本，考验模型的归纳总结与推断能力。<h3>Deadline: 2021-01-01T08:00:00+08:00</h3><h3>Reward: 总计250,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -223,20 +223,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020: COVID 19 Question-answering</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
         <title><![CDATA[CCKS 2020: Link Prediction]]></title>
         
@@ -245,6 +231,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
         <summary>CCKS 2020: Link Prediction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
+        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
+        <summary>CCKS 2020: COVID 19 Question-answering</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-07-20T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -307,20 +307,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/gigavision/</id>
-        <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/gigavision/"/>
-        <summary>GigaVision Challenge 2020: Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 1<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/gigavision1/</id>
         <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
         
@@ -335,6 +321,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/gigavision/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/gigavision/"/>
+        <summary>GigaVision Challenge 2020: Task 1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 1<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
         
@@ -343,6 +343,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
         <summary>CCKS 2020: Event Element Extaction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-04-13T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -376,37 +390,9 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-04-13T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
     
     
     
-    
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/城市交通流量时空预测_竞赛信息.html</id>
-        <title><![CDATA[城市交通流量时空预测]]></title>
-        
-        <updated>2019-09-23T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/城市交通流量时空预测_竞赛信息.html"/>
-        <summary>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/城市交通流量时空预测_竞赛信息.html"><![CDATA[<h3>Description</h3>为深入贯彻落实习近平总书记视察山东重要讲话、重要指示批示精神，加快实施《数字山东发展规划（2018-2022年）》，推进数字山东建设，培育富有活力的数字经济，由山东省大数据局主办，青岛市大数据发展管理局承办的山东省数据应用（青岛）创新创业大赛在9月23日正式启动。大赛将通过算法赛和创意赛相结合的模式，创新政府数据开放模式，广泛征集汇聚社会数据，探索政府数据和社会数据融合发展方向。同时大赛将紧扣城市发展和便民服务等主题，引入基金参与，通过金融助力数字产业发展，协助企业入住产业园区，扶持优秀成果产业转化，打造大数据领域双招双引新平台。<h3>Deadline: 2020-06-20T00:00:00+08:00</h3><h3>Reward: 60000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://www.dcjingsai.com/common/cmpt/识别失信企业大赛_竞赛信息.html</id>
@@ -428,7 +414,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -488,7 +474,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -536,7 +522,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -550,7 +536,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -564,7 +550,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -578,7 +564,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-18T15:58:31+08:00</updated>
+        <updated>2020-05-19T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
