@@ -146,3 +146,7 @@ https://ai.futurelab.tv/contest_detail/8
 https://aistudio.baidu.com/aistudio/competition/detail/22
 https://god.yanxishe.com/61
 https://aistudio.baidu.com/aistudio/competition/detail/39
+https://www.biendata.com/competition/chaindream_nd_task1/
+https://www.biendata.com/competition/chaindream_task2/
+https://www.biendata.com/competition/chaindream_task1/
+https://www.biendata.com/competition/chaindream_task3/
