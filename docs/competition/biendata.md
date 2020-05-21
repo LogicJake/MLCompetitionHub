@@ -2,20 +2,12 @@
 
 
 
-## Chain Dream  - AI Competition : Name Disambiguation <sup style="color:red">[new]<sup>  
+## Chain Dream  - Blockchain Competition Task 3 <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/chaindream_nd_task1/  
-Description: Chain Dream  - AI Competition : Name Disambiguation  
-Deadline: 2020-11-02T08:00:00+0800  
-Reward: ￥150,000  
-
-
-## Chain Dream  - Blockchain Competition Task 2 <sup style="color:red">[new]<sup>  
-
-Link: https://www.biendata.com/competition/chaindream_task2/  
-Description: Chain Dream  - Blockchain Competition Task 2  
-Deadline: 2021-04-02T08:00:00+0800  
-Reward: ￥60,000  
+Link: https://www.biendata.com/competition/chaindream_task3/  
+Description: Chain Dream  - Blockchain Competition Task 3  
+Deadline: 2021-04-30T08:00:00+0800  
+Reward: ￥80,000  
 
 
 ## Chain Dream  - Blockchain Competition Task 1 <sup style="color:red">[new]<sup>  
@@ -26,12 +18,20 @@ Deadline: 2021-04-01T08:00:00+0800
 Reward: ￥60,000  
 
 
-## Chain Dream  - Blockchain Competition Task 3 <sup style="color:red">[new]<sup>  
+## Chain Dream  - Blockchain Competition Task 2 <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.com/competition/chaindream_task3/  
-Description: Chain Dream  - Blockchain Competition Task 3  
-Deadline: 2021-04-30T08:00:00+0800  
-Reward: ￥80,000  
+Link: https://www.biendata.com/competition/chaindream_task2/  
+Description: Chain Dream  - Blockchain Competition Task 2  
+Deadline: 2021-04-02T08:00:00+0800  
+Reward: ￥60,000  
+
+
+## Chain Dream  - AI Competition : Name Disambiguation <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/chaindream_nd_task1/  
+Description: Chain Dream  - AI Competition : Name Disambiguation  
+Deadline: 2020-11-02T08:00:00+0800  
+Reward: ￥150,000  
 
 
 ## CCKS 2020: Type Inference
@@ -62,7 +62,7 @@ Reward: ￥ 15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_2_1/  
 Description: Medical Entity Recognition  
-Deadline: 2020-07-20T08:00:00+0800  
+Deadline: 2020-09-10T08:00:00+0800  
 Reward: ￥15,000  
 
 
@@ -70,7 +70,7 @@ Reward: ￥15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_2_2/  
 Description: Medical Event Extraction  
-Deadline: 2020-07-20T08:00:00+0800  
+Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥15,000  
 
 
@@ -138,20 +138,20 @@ Deadline: 2020-07-01T08:00:00+0800
 Reward: ￥ 35,000  
 
 
+## Event and Entity Extraction from Financial Texts (Chinese Text Data)
+
+Link: https://www.biendata.com/competition/ccks_2020_4_1/  
+Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥ 20,000  
+
+
 ## CCKS 2020: Finance Entity Extraction
 
 Link: https://www.biendata.com/competition/ccks_2020_3/  
 Description: CCKS 2020: Finance Entity Extraction  
 Deadline: 2020-09-20T08:00:00+0800  
 Reward: ￥ 44,500  
-
-
-## CCKS 2020: Event Element Extaction
-
-Link: https://www.biendata.com/competition/ccks_2020_4_2/  
-Description: CCKS 2020: Event Element Extaction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 20,000  
 
 
 ## CCKS
@@ -162,10 +162,10 @@ Deadline: 2020-09-20T08:00:00+0800
 Reward: ￥ 30,000  
 
 
-## Event and Entity Extraction from Financial Texts (Chinese Text Data)
+## CCKS 2020: Event Element Extaction
 
-Link: https://www.biendata.com/competition/ccks_2020_4_1/  
-Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
+Link: https://www.biendata.com/competition/ccks_2020_4_2/  
+Description: CCKS 2020: Event Element Extaction  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 20,000  
 
