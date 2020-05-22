@@ -1,29 +1,11 @@
-> 更新时间: 2020-05-21T16:02:11+0800 
+> 更新时间: 2020-05-22T16:01:47+0800 
 
 # 新上线比赛
 
 
-## 预测分析·员工满意度预测
-Link: https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc  
-Description: DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
-
-## 文本分析·疫情期间谣言分析
-Link: https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c  
-Description: DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 热点赛  
-
-## ReID·行人重识别
-Link: https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472  
-Description: DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 经典赛  
-
-## Spark“数字人体”AI挑战赛——脊柱疾病智能诊断大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531796/introduction  
-Description: 召集全球开发者利用人工智能技术探索高效准确的脊柱退化性疾病自动诊断，并积极推动相关技术的临床应用  
-Deadline: 2020-07-17T00:00:00+0800  
-Reward: ￥460000  
+## 北京数智医保创新竞赛
+Link: https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8  
+Description: “北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。  
+Deadline: 2020-09-11T00:00:00+0800  
+Reward: 医保局战略合作伙伴机会 证书及奖杯  
 
