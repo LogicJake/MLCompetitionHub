@@ -2,7 +2,7 @@
 
 
 
-## 知乎文本摘要 <sup style="color:red">[new]<sup>  
+## 知乎文本摘要
 
 Link: https://god.yanxishe.com/61  
 Description: 文本摘要是NLP领域经典任务之一，在当前互联网时代，用户可以通过自动文本摘要对海量文本信息进行简化处理。  

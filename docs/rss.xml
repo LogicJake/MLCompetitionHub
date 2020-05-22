@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-21T15:58:40+08:00</updated>
+    <updated>2020-05-22T15:58:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -90,7 +90,7 @@
         
         <link href="https://www.biendata.com/competition/chaindream_task3/"/>
         <summary>Chain Dream  - Blockchain Competition Task 3</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task3/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 3<h3>Deadline: 2021-04-30T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task3/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 3<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -104,7 +104,7 @@
         
         <link href="https://www.biendata.com/competition/chaindream_task1/"/>
         <summary>Chain Dream  - Blockchain Competition Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 1<h3>Deadline: 2021-04-01T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -118,7 +118,7 @@
         
         <link href="https://www.biendata.com/competition/chaindream_task2/"/>
         <summary>Chain Dream  - Blockchain Competition Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task2/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 2<h3>Deadline: 2021-04-02T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task2/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -132,7 +132,7 @@
         
         <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
         <summary>Chain Dream  - AI Competition : Name Disambiguation</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - AI Competition : Name Disambiguation<h3>Deadline: 2020-11-02T08:00:00+08:00</h3><h3>Reward: ￥150,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - AI Competition : Name Disambiguation<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥150,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -156,11 +156,11 @@
         <id>https://www.biendata.com/competition/kddcup_2020/</id>
         <title><![CDATA[KDD Cup 2020]]></title>
         
-        <updated>2020-04-15T08:00:00+08:00</updated>
+        <updated>2020-04-24T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/kddcup_2020/"/>
         <summary>KDD Cup 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/kddcup_2020/"><![CDATA[<h3>Description</h3>KDD Cup 2020<h3>Deadline: 2020-03-14T08:00:00+08:00</h3><h3>Reward: 20,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/kddcup_2020/"><![CDATA[<h3>Description</h3>KDD Cup 2020<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -170,7 +170,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_7_2/</id>
         <title><![CDATA[CCKS 2020: Relation Prediction]]></title>
         
-        <updated>2020-05-30T08:00:00+08:00</updated>
+        <updated>2020-04-24T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_7_2/"/>
         <summary>CCKS 2020: Relation Prediction</summary>
@@ -184,11 +184,11 @@
         <id>https://www.biendata.com/competition/ccks_2020_2_1/</id>
         <title><![CDATA[Medical Entity Recognition]]></title>
         
-        <updated>2020-05-15T08:00:00+08:00</updated>
+        <updated>2020-04-21T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_1/"/>
         <summary>Medical Entity Recognition</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_1/"><![CDATA[<h3>Description</h3>Medical Entity Recognition<h3>Deadline: 2020-09-10T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_1/"><![CDATA[<h3>Description</h3>Medical Entity Recognition<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -198,7 +198,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_2_2/</id>
         <title><![CDATA[Medical Event Extraction]]></title>
         
-        <updated>2020-05-15T08:00:00+08:00</updated>
+        <updated>2020-04-21T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_2/"/>
         <summary>Medical Event Extraction</summary>
@@ -272,7 +272,7 @@
         
         <link href="https://www.biendata.com/competition/ccks_2020_el/"/>
         <summary>CCKS 2020: Entity Linking</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_el/"><![CDATA[<h3>Description</h3>CCKS 2020: Entity Linking<h3>Deadline: 2020-09-21T08:00:00+08:00</h3><h3>Reward: ￥ 45,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_el/"><![CDATA[<h3>Description</h3>CCKS 2020: Entity Linking<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 45,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -282,7 +282,7 @@
         <id>https://www.biendata.com/competition/kdd_didi/</id>
         <title><![CDATA[KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform]]></title>
         
-        <updated>2020-04-07T08:00:00+08:00</updated>
+        <updated>2020-04-02T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/kdd_didi/"/>
         <summary>KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform</summary>
@@ -338,7 +338,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_3/</id>
         <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
         
-        <updated>2020-04-21T08:00:00+08:00</updated>
+        <updated>2020-03-20T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
@@ -352,7 +352,7 @@
         <id>https://www.biendata.com/competition/ccks_2020_8/</id>
         <title><![CDATA[CCKS]]></title>
         
-        <updated>2020-04-13T08:00:00+08:00</updated>
+        <updated>2020-03-20T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
         <summary>CCKS</summary>
@@ -386,7 +386,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -446,7 +446,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -494,7 +494,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -508,7 +508,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -522,7 +522,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -536,7 +536,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-21T15:58:40+08:00</updated>
+        <updated>2020-05-22T15:58:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -749,6 +749,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8</id>
+        <title><![CDATA[北京数智医保创新竞赛]]></title>
+        
+        <updated>2020-05-22T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"/>
+        <summary>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"><![CDATA[<h3>Description</h3>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。<h3>Deadline: 2020-09-11T00:00:00+08:00</h3><h3>Reward: 医保局战略合作伙伴机会 证书及奖杯</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769</id>
         <title><![CDATA[创新活力数据分析大赛]]></title>
         
@@ -769,22 +783,10 @@
         <updated>2020-05-21T14:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"/>
-        <summary>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"><![CDATA[<h3>Description</h3>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c</id>
-        <title><![CDATA[文本分析·疫情期间谣言分析]]></title>
-        
-        <updated>2020-05-21T14:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"/>
-        <summary>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"><![CDATA[<h3>Description</h3>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 热点赛</h3>]]></content>
+        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -797,8 +799,26 @@
         <updated>2020-05-21T14:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"/>
-        <summary>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"><![CDATA[<h3>Description</h3>DataJoy® 练习赛是和鲸（Heywhale）社区的自有练习赛品牌，面向所有希望通过练习来提升自我、结识友人的数据科学领域人才，旨在打造一个新手友好、自由交流、开源分享的数据科学练习环境。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 经典赛</h3>]]></content>
+        <summary>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
+基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"><![CDATA[<h3>Description</h3>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
+基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 经典赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c</id>
+        <title><![CDATA[文本分析·疫情期间谣言分析]]></title>
+        
+        <updated>2020-05-21T14:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"/>
+        <summary>DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
+选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"><![CDATA[<h3>Description</h3>DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
+选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。<h3>Deadline: 2020-12-31T00:00:00+08:00</h3><h3>Reward: 热点赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>

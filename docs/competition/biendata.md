@@ -6,7 +6,7 @@
 
 Link: https://www.biendata.com/competition/chaindream_task3/  
 Description: Chain Dream  - Blockchain Competition Task 3  
-Deadline: 2021-04-30T08:00:00+0800  
+Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥80,000  
 
 
@@ -14,7 +14,7 @@ Reward: ￥80,000
 
 Link: https://www.biendata.com/competition/chaindream_task1/  
 Description: Chain Dream  - Blockchain Competition Task 1  
-Deadline: 2021-04-01T08:00:00+0800  
+Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥60,000  
 
 
@@ -22,7 +22,7 @@ Reward: ￥60,000
 
 Link: https://www.biendata.com/competition/chaindream_task2/  
 Description: Chain Dream  - Blockchain Competition Task 2  
-Deadline: 2021-04-02T08:00:00+0800  
+Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥60,000  
 
 
@@ -30,7 +30,7 @@ Reward: ￥60,000
 
 Link: https://www.biendata.com/competition/chaindream_nd_task1/  
 Description: Chain Dream  - AI Competition : Name Disambiguation  
-Deadline: 2020-11-02T08:00:00+0800  
+Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥150,000  
 
 
@@ -46,11 +46,11 @@ Reward: ￥ 15,000
 
 Link: https://www.biendata.com/competition/kddcup_2020/  
 Description: KDD Cup 2020  
-Deadline: 2020-03-14T08:00:00+0800  
+Deadline: 2020-07-01T08:00:00+0800  
 Reward: 20,000  
 
 
-## CCKS 2020: Relation Prediction <sup style="color:red">[new]<sup>  
+## CCKS 2020: Relation Prediction
 
 Link: https://www.biendata.com/competition/ccks_2020_7_2/  
 Description: CCKS 2020: Relation Prediction  
@@ -58,15 +58,15 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥ 15,000  
 
 
-## Medical Entity Recognition <sup style="color:red">[new]<sup>  
+## Medical Entity Recognition
 
 Link: https://www.biendata.com/competition/ccks_2020_2_1/  
 Description: Medical Entity Recognition  
-Deadline: 2020-09-10T08:00:00+0800  
+Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥15,000  
 
 
-## Medical Event Extraction <sup style="color:red">[new]<sup>  
+## Medical Event Extraction
 
 Link: https://www.biendata.com/competition/ccks_2020_2_2/  
 Description: Medical Event Extraction  
@@ -110,7 +110,7 @@ Reward: ￥30,000
 
 Link: https://www.biendata.com/competition/ccks_2020_el/  
 Description: CCKS 2020: Entity Linking  
-Deadline: 2020-09-21T08:00:00+0800  
+Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 45,000  
 
 
