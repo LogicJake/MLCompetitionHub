@@ -2,6 +2,14 @@
 
 
 
+## 验证码识别大赛（一） <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/66  
+Description: 验证码广泛应用于互联网行业，形式多种多样。本系列为验证码识别挑战赛的第一场，数据集内验证码内容为常见的英文字母。  
+Deadline: 2020-06-21T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 知乎文本摘要
 
 Link: https://god.yanxishe.com/61  
