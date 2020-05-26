@@ -50,14 +50,6 @@ Deadline: 2020-06-30T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## University of Liverpool - Ion Switching
-
-Link: https://www.kaggle.com/c/liverpool-ion-switching  
-Description: Identify the number of channels open at each time point  
-Deadline: 2020-05-26T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Abstraction and Reasoning Challenge
 
 Link: https://www.kaggle.com/c/abstraction-and-reasoning-challenge  
