@@ -2,7 +2,7 @@
 
 
 
-## 2020百度之星开发者大赛 <sup style="color:red">[new]<sup>  
+## 2020百度之星开发者大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/39  
 Description: 要求参赛者对于同一地点不同时间拍摄的两个图像序列，设计一个交通标志检测与匹配模型，给出两组序列图像中交通标志的匹配关系。  

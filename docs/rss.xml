@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-26T15:59:11+08:00</updated>
+    <updated>2020-05-27T15:58:46+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -83,6 +83,20 @@
     
     
     <entry>
+        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
+        <title><![CDATA[Chain Dream  - AI Competition : Name Disambiguation]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
+        <summary>Chain Dream  - AI Competition : Name Disambiguation</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - AI Competition : Name Disambiguation<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥150,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/chaindream_task3/</id>
         <title><![CDATA[Chain Dream  - Blockchain Competition Task 3]]></title>
         
@@ -91,20 +105,6 @@
         <link href="https://www.biendata.com/competition/chaindream_task3/"/>
         <summary>Chain Dream  - Blockchain Competition Task 3</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_task3/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 3<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_task1/</id>
-        <title><![CDATA[Chain Dream  - Blockchain Competition Task 1]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_task1/"/>
-        <summary>Chain Dream  - Blockchain Competition Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -125,14 +125,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
-        <title><![CDATA[Chain Dream  - AI Competition : Name Disambiguation]]></title>
+        <id>https://www.biendata.com/competition/chaindream_task1/</id>
+        <title><![CDATA[Chain Dream  - Blockchain Competition Task 1]]></title>
         
         <updated>2020-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
-        <summary>Chain Dream  - AI Competition : Name Disambiguation</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - AI Competition : Name Disambiguation<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥150,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_task1/"/>
+        <summary>Chain Dream  - Blockchain Competition Task 1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task1/"><![CDATA[<h3>Description</h3>Chain Dream  - Blockchain Competition Task 1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -321,14 +321,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
-        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
-        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -349,20 +349,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
         
@@ -371,6 +357,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
         <summary>CCKS 2020: Event Element Extaction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
+        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
+        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -386,7 +386,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -446,7 +446,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -494,7 +494,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -508,7 +508,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -522,7 +522,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -536,7 +536,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-26T15:59:11+08:00</updated>
+        <updated>2020-05-27T15:58:46+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -757,6 +757,48 @@
         <link href="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"/>
         <summary>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"><![CDATA[<h3>Description</h3>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。<h3>Deadline: 2020-06-15T00:00:00+08:00</h3><h3>Reward: 奖金21.6W+创业基金30W</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc</id>
+        <title><![CDATA[上外语言数据分析：台湾大陆政策分析与预测]]></title>
+        
+        <updated>2020-05-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d</id>
+        <title><![CDATA[上外语言数据分析：美国对华政策分析与预测]]></title>
+        
+        <updated>2020-05-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f</id>
+        <title><![CDATA[上外语言数据分析：美国外交政策分析与预测]]></title>
+        
+        <updated>2020-05-25T11:58:15+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1051,20 +1093,6 @@
         <link href="https://god.yanxishe.com/58"/>
         <summary>LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。</summary>
         <content type="text/html" src="https://god.yanxishe.com/58"><![CDATA[<h3>Description</h3>LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。<h3>Deadline: 2020-05-30T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/56</id>
-        <title><![CDATA[金融用户评论分类]]></title>
-        
-        <updated>2020-04-26T17:01:58+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/56"/>
-        <summary>本次比赛属于长文本分类，判断用户评论属于何种金融业务。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/56"><![CDATA[<h3>Description</h3>本次比赛属于长文本分类，判断用户评论属于何种金融业务。<h3>Deadline: 2020-05-26T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
