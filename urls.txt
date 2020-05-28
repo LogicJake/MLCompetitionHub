@@ -161,3 +161,5 @@ https://tianchi.aliyun.com/competition/entrance/531797/introduction
 https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc
 https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d
 https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f
+https://www.kaggle.com/c/siim-isic-melanoma-classification
+https://god.yanxishe.com/62
