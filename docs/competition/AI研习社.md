@@ -2,6 +2,14 @@
 
 
 
+## 多维度内容识别挑战赛-初赛 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/62  
+Description: 今年AI研习社联合极链科技一起举办多维度内容识别挑战赛。为了使更多兴趣爱好者能更方便的参加多维度识别任务，本次比赛数据集将对视频中的关键帧进行提取以图片形式发布。  
+Deadline: 2020-06-12T23:59:59+0800  
+Reward: 0.00  
+
+
 ## 验证码识别大赛（一） <sup style="color:red">[new]<sup>  
 
 Link: https://god.yanxishe.com/66  

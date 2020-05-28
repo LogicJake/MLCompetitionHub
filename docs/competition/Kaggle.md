@@ -26,6 +26,14 @@ Deadline: 2020-06-23T07:59:00+0800
 Reward: 50000.0 USD  
 
 
+## SIIM-ISIC Melanoma Classification <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/siim-isic-melanoma-classification  
+Description: Identify melanoma in lesion images  
+Deadline: 2020-08-18T07:59:00+0800  
+Reward: 30000.0 USD  
+
+
 ## Prostate cANcer graDe Assessment (PANDA) Challenge
 
 Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  
@@ -48,14 +56,6 @@ Link: https://www.kaggle.com/c/trends-assessment-prediction
 Description: Multiscanner normative age and assessments prediction with brain function, structure, and connectivity  
 Deadline: 2020-06-30T07:59:00+0800  
 Reward: 25000.0 USD  
-
-
-## Abstraction and Reasoning Challenge
-
-Link: https://www.kaggle.com/c/abstraction-and-reasoning-challenge  
-Description: Create an AI capable of solving reasoning tasks it has never seen before  
-Deadline: 2020-05-28T07:59:00+0800  
-Reward: 20000.0 USD  
 
 
 ## Global Wheat Detection 

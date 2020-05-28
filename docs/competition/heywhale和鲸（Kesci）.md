@@ -42,7 +42,7 @@ Deadline: 2020-06-23T12:00:00+0800
 Reward: 总奖金池￥9,900+实验室助理名额+论文署名  
 
 
-## 预测分析·员工满意度预测 <sup style="color:red">[new]<sup>  
+## 预测分析·员工满意度预测
 
 Link: https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc  
 Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
@@ -51,7 +51,7 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 新人赛  
 
 
-## ReID·行人重识别 <sup style="color:red">[new]<sup>  
+## ReID·行人重识别
 
 Link: https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472  
 Description: DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
@@ -60,7 +60,7 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 经典赛  
 
 
-## 文本分析·疫情期间谣言分析 <sup style="color:red">[new]<sup>  
+## 文本分析·疫情期间谣言分析
 
 Link: https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c  
 Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
