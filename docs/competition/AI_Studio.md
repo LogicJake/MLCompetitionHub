@@ -10,7 +10,7 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥120,000  
 
 
-## 2020国际大数据竞赛：高传染性传染病的传播趋势预测
+## 2020国际大数据竞赛：高致病性传染病的传播趋势预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/36  
 Description: 2020第六届百度&西安交大大数据竞赛暨IKCEST第二届“一带一路”国际大数据竞赛  

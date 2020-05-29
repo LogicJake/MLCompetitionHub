@@ -126,7 +126,7 @@ Reward: $ 30,000
 
 Link: https://www.biendata.com/competition/gigavision/  
 Description: GigaVision Challenge 2020: Task 1  
-Deadline: 2020-07-01T08:00:00+0800  
+Deadline: 2020-07-15T08:00:00+0800  
 Reward: ￥ 35,000  
 
 
@@ -134,7 +134,7 @@ Reward: ￥ 35,000
 
 Link: https://www.biendata.com/competition/gigavision1/  
 Description: GigaVision Challenge 2020: Task 2  
-Deadline: 2020-07-01T08:00:00+0800  
+Deadline: 2020-07-15T08:00:00+0800  
 Reward: ￥ 35,000  
 
 
