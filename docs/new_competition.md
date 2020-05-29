@@ -1,17 +1,29 @@
-> 更新时间: 2020-05-28T16:02:46+0800 
+> 更新时间: 2020-05-29T16:02:30+0800 
 
 # 新上线比赛
 
 
-## SIIM-ISIC Melanoma Classification
-Link: https://www.kaggle.com/c/siim-isic-melanoma-classification  
-Description: Identify melanoma in lesion images  
-Deadline: 2020-08-18T07:59:00+0800  
-Reward: 30000.0 USD  
+## 位置信息识别
+Link: https://www.dcjingsai.com/common/cmpt/位置信息识别_竞赛信息.html  
+Description: 2020首届数字四川创新大赛是由四川省大数据中心主办。“位置信息识别”是三大算法对抗赛之一。  
+Deadline: 2020-09-20T15:00:00+0800  
+Reward: 100000  
 
-## 多维度内容识别挑战赛-初赛
-Link: https://god.yanxishe.com/62  
-Description: 今年AI研习社联合极链科技一起举办多维度内容识别挑战赛。为了使更多兴趣爱好者能更方便的参加多维度识别任务，本次比赛数据集将对视频中的关键帧进行提取以图片形式发布。  
-Deadline: 2020-06-12T23:59:59+0800  
-Reward: 0.00  
+## “地面哨兵”挑战赛可疑物品识别
+Link: http://www.turingtopia.com/competitionnew/detail/26d840236b034e07a7b4443640321b1f/sketch  
+Description: “地面哨兵”挑战赛可疑物品识别  
+Deadline: 2020-06-22T11:00:00+0800  
+Reward: 0  
+
+## “地面哨兵”挑战赛无约束人脸识别
+Link: http://www.turingtopia.com/competitionnew/detail/544b6c73103a480d936d68e5c029faa1/sketch  
+Description: “地面哨兵”挑战赛无约束人脸识别  
+Deadline: 2020-06-22T11:00:00+0800  
+Reward: 0  
+
+## “地面哨兵”挑战赛人员危险行为识别
+Link: http://www.turingtopia.com/competitionnew/detail/e5a90f650c79444fa0906cd86fff07f9/sketch  
+Description: “地面哨兵”挑战赛人员危险行为识别  
+Deadline: 2020-06-22T11:00:00+0800  
+Reward: 0  
 

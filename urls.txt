@@ -163,3 +163,7 @@ https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d
 https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f
 https://www.kaggle.com/c/siim-isic-melanoma-classification
 https://god.yanxishe.com/62
+https://www.dcjingsai.com/common/cmpt/位置信息识别_竞赛信息.html
+http://www.turingtopia.com/competitionnew/detail/26d840236b034e07a7b4443640321b1f/sketch
+http://www.turingtopia.com/competitionnew/detail/544b6c73103a480d936d68e5c029faa1/sketch
+http://www.turingtopia.com/competitionnew/detail/e5a90f650c79444fa0906cd86fff07f9/sketch
