@@ -25,11 +25,3 @@ Description: 文本摘要是NLP领域经典任务之一，在当前互联网时�
 Deadline: 2020-06-15T23:59:59+0800  
 Reward: 3000.00  
 
-
-## LOL排位赛胜负推测
-
-Link: https://god.yanxishe.com/58  
-Description: LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。  
-Deadline: 2020-05-30T23:59:59+0800  
-Reward: 5000.00  
-

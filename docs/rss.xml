@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-30T15:58:51+08:00</updated>
+    <updated>2020-05-31T15:59:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -428,7 +428,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -488,7 +488,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -536,7 +536,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -550,7 +550,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -564,7 +564,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -578,7 +578,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-30T15:58:51+08:00</updated>
+        <updated>2020-05-31T15:59:01+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -626,7 +626,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000040092/introduction"/>
         <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040092/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-06-19T14:56:27+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000040092/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-06-19T14:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -777,6 +777,126 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8</id>
+        <title><![CDATA[北京数智医保创新竞赛]]></title>
+        
+        <updated>2020-05-22T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"/>
+        <summary>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"><![CDATA[<h3>Description</h3>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。<h3>Deadline: 2020-09-11T00:00:00+08:00</h3><h3>Reward: 医保局战略合作伙伴机会 证书及奖杯</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769</id>
+        <title><![CDATA[创新活力数据分析大赛]]></title>
+        
+        <updated>2020-04-27T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"/>
+        <summary>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"><![CDATA[<h3>Description</h3>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。<h3>Deadline: 2020-06-15T00:00:00+08:00</h3><h3>Reward: 奖金21.6W+创业基金30W</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc</id>
+        <title><![CDATA[上外语言数据分析：台湾大陆政策分析与预测]]></title>
+        
+        <updated>2020-05-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebe37cd909915002d2fd6fc"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d</id>
+        <title><![CDATA[上外语言数据分析：美国对华政策分析与预测]]></title>
+        
+        <updated>2020-05-25T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec7767b4f90aa002cf1702d"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f</id>
+        <title><![CDATA[上外语言数据分析：美国外交政策分析与预测]]></title>
+        
+        <updated>2020-05-25T11:58:15+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f"/>
+        <summary>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec7809b4f90aa002cf1707f"><![CDATA[<h3>Description</h3>上海外国语大学语料库研究院希望通过交叉学科的科研众包，汇集数据分析的人才，运用数据分析与挖掘方法，分台湾大陆政策分析与预测、美国对华政策分析与预测、美国外交政策分析与预测三个课题，来促进交叉领域的高效合作，并希望各参与人员一起推动上外语料库的建设效率，推动语料库的落地建设，提升语料库的应用价值。<h3>Deadline: 2020-06-23T12:00:00+08:00</h3><h3>Reward: 总奖金池￥9,900+实验室助理名额+论文署名</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc</id>
+        <title><![CDATA[预测分析·员工满意度预测]]></title>
+        
+        <updated>2020-05-21T14:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"/>
+        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472</id>
+        <title><![CDATA[ReID·行人重识别]]></title>
+        
+        <updated>2020-05-21T14:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"/>
+        <summary>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
+基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"><![CDATA[<h3>Description</h3>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
+基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 经典赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c</id>
+        <title><![CDATA[文本分析·疫情期间谣言分析]]></title>
+        
+        <updated>2020-05-21T14:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"/>
+        <summary>DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
+选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"><![CDATA[<h3>Description</h3>DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
+选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。<h3>Deadline: 2020-12-31T00:00:00+08:00</h3><h3>Reward: 热点赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://www.nishika.com/competitions/5</id>
         <title><![CDATA[日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
         
@@ -877,6 +997,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
+        <title><![CDATA[CVPR 2020 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
+        
+        <updated>2020-02-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/231780/introduction"/>
+        <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231780/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2020-06-09T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231787/introduction</id>
         <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(赛季 1)]]></title>
         
@@ -913,20 +1047,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231788/introduction"/>
         <summary>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231788/introduction"><![CDATA[<h3>Description</h3>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.<h3>Deadline: 2020-07-25T16:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
-        <title><![CDATA[CVPR 2020 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
-        
-        <updated>2020-02-25T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231780/introduction"/>
-        <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231780/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2020-06-09T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1043,20 +1163,6 @@
         <link href="https://god.yanxishe.com/61"/>
         <summary>文本摘要是NLP领域经典任务之一，在当前互联网时代，用户可以通过自动文本摘要对海量文本信息进行简化处理。</summary>
         <content type="text/html" src="https://god.yanxishe.com/61"><![CDATA[<h3>Description</h3>文本摘要是NLP领域经典任务之一，在当前互联网时代，用户可以通过自动文本摘要对海量文本信息进行简化处理。<h3>Deadline: 2020-06-15T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/58</id>
-        <title><![CDATA[LOL排位赛胜负推测]]></title>
-        
-        <updated>2020-04-30T16:28:32+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/58"/>
-        <summary>LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/58"><![CDATA[<h3>Description</h3>LOL作为全球最具影响力的电竞游戏之一，受到游戏玩家的热捧。本次比赛任务是根据游戏玩家数据推测胜负。<h3>Deadline: 2020-05-30T23:59:59+08:00</h3><h3>Reward: 5000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
