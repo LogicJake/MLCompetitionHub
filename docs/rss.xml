@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-05-31T15:59:01+08:00</updated>
+    <updated>2020-06-01T15:58:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -381,6 +381,20 @@
     
     
     <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/厦门大数据安全开放创新应用大赛（算法赛）_竞赛信息.html</id>
+        <title><![CDATA[厦门大数据安全开放创新应用大赛（算法赛）]]></title>
+        
+        <updated>2020-06-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/厦门大数据安全开放创新应用大赛（算法赛）_竞赛信息.html"/>
+        <summary>以城市交通特征为理论基础，利用交通大数据技术手段将道路、车辆、用户以及交通管理部门联系起来，建立高精度、高质量的交通算法模型，充分利用各种资源，以达到缓解节假日厦门城市交通拥堵问题，进一步提高路网运行效率。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/厦门大数据安全开放创新应用大赛（算法赛）_竞赛信息.html"><![CDATA[<h3>Description</h3>以城市交通特征为理论基础，利用交通大数据技术手段将道路、车辆、用户以及交通管理部门联系起来，建立高精度、高质量的交通算法模型，充分利用各种资源，以达到缓解节假日厦门城市交通拥堵问题，进一步提高路网运行效率。<h3>Deadline: 2020-08-16T00:00:00+08:00</h3><h3>Reward: 55000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/空气质量预测（2020数字四川创新大赛）_竞赛信息.html</id>
         <title><![CDATA[空气质量预测（2020数字四川创新大赛）]]></title>
         
@@ -428,7 +442,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -488,7 +502,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -536,7 +550,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -550,7 +564,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -564,7 +578,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -578,7 +592,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-05-31T15:59:01+08:00</updated>
+        <updated>2020-06-01T15:58:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
