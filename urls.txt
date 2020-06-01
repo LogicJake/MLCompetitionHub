@@ -169,3 +169,4 @@ http://www.turingtopia.com/competitionnew/detail/544b6c73103a480d936d68e5c029faa
 http://www.turingtopia.com/competitionnew/detail/e5a90f650c79444fa0906cd86fff07f9/sketch
 https://www.dcjingsai.com/common/cmpt/空气质量预测（2020数字四川创新大赛）_竞赛信息.html
 https://www.dcjingsai.com/common/cmpt/诈骗电话识别_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/厦门大数据安全开放创新应用大赛（算法赛）_竞赛信息.html
