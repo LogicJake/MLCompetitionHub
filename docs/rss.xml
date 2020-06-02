@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-06-01T15:58:54+08:00</updated>
+    <updated>2020-06-02T15:58:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -442,7 +442,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -502,7 +502,7 @@
         <id>https://www.flyai.com/d/MedicalClass</id>
         <title><![CDATA[医疗文本分类]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://www.flyai.com/d/MedicalClass"/>
         <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
@@ -550,7 +550,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -564,7 +564,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -578,7 +578,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -592,7 +592,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-06-01T15:58:54+08:00</updated>
+        <updated>2020-06-02T15:58:34+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -654,7 +654,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000037843/introduction"/>
         <summary>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000037843/introduction"><![CDATA[<h3>Description</h3>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。<h3>Deadline: 2020-08-10T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000037843/introduction"><![CDATA[<h3>Description</h3>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。<h3>Deadline: 2020-08-10T22:43:19+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -903,6 +903,22 @@
 选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c"><![CDATA[<h3>Description</h3>DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
 选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。<h3>Deadline: 2020-12-31T00:00:00+08:00</h3><h3>Reward: 热点赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3</id>
+        <title><![CDATA[预测分析·客户购买预测]]></title>
+        
+        <updated>2018-12-26T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"/>
+        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2022-12-25T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
