@@ -171,3 +171,5 @@ https://www.dcjingsai.com/common/cmpt/空气质量预测（2020数字四川创�
 https://www.dcjingsai.com/common/cmpt/诈骗电话识别_竞赛信息.html
 https://www.dcjingsai.com/common/cmpt/厦门大数据安全开放创新应用大赛（算法赛）_竞赛信息.html
 https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3
+https://www.biendata.com/competition/chaindream_nd_task2/
+https://www.dcjingsai.com/common/cmpt/首届“马栏山”杯国际音视频算法大赛_竞赛信息.html

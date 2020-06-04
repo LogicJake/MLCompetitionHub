@@ -1,5 +1,19 @@
-> 更新时间: 2020-06-03T16:01:51+0800 
+> 更新时间: 2020-06-04T16:14:59+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## Chain Dream  - AI Competition : Name Disambiguation
+Link: https://www.biendata.com/competition/chaindream_nd_task2/  
+Description: Chain Dream  - AI Competition : Name Disambiguation  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥75,000  
+
+## 首届“马栏山”杯国际音视频算法大赛
+Link: https://www.dcjingsai.com/common/cmpt/首届“马栏山”杯国际音视频算法大赛_竞赛信息.html  
+Description: 
+首届“马栏山”杯国际音视频算法大赛由中国工业与数学应用学会、中国人工智能学会指导，湖南省互联网信息办公室、湖南省科学技术协会主办，中国（长沙）马栏山视频文创产业园、芒果TV承办，中国计算机学会支持，以搭建专业技术交流平台，遴选杰出算法人才为目的，面向全社会及高等院校、科研单位、互联网企业等征集创新数据挖掘方式和机器学习算法。
+本次算法大赛分为图像、推荐、画质优化三大类型三道赛题，紧扣音视频行业相关AI算法技术，旨在汇聚行业顶尖技术人才，鼓励优质技术人才积极进取，持续提升算法技术水准，共探产业未来。  
+Deadline: 2020-06-15T15:00:00+0800  
+Reward: 1199000  
+
