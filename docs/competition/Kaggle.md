@@ -26,7 +26,7 @@ Deadline: 2020-06-23T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## SIIM-ISIC Melanoma Classification <sup style="color:red">[new]<sup>  
+## SIIM-ISIC Melanoma Classification
 
 Link: https://www.kaggle.com/c/siim-isic-melanoma-classification  
 Description: Identify melanoma in lesion images  
