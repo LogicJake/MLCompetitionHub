@@ -10,6 +10,14 @@ Deadline: 2020-06-12T23:59:59+0800
 Reward: 0.00  
 
 
+## 对话系统中的口语理解 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/69  
+Description: 对话系统是人工智能非常重要的落地应用，AI的很多问题都可以表现在对话、交互过程中，因此无论是学术界还是工业界都非常重视对话系统。  
+Deadline: 2020-07-05T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 验证码识别大赛（一）
 
 Link: https://god.yanxishe.com/66  
