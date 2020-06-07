@@ -18,12 +18,12 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥75,000  
 
 
-## ChainDream  - Blockchain Competition Task 3
+## Chain Dream  - AI Competition : Name Disambiguation
 
-Link: https://www.biendata.com/competition/chaindream_task3/  
-Description: ChainDream  - Blockchain Competition Task 3  
+Link: https://www.biendata.com/competition/chaindream_nd_task1/  
+Description: Chain Dream  - AI Competition : Name Disambiguation  
 Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥80,000  
+Reward: ￥75,000  
 
 
 ## ChainDream  - Blockchain Competition Task 2
@@ -34,12 +34,12 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥60,000  
 
 
-## Chain Dream  - AI Competition : Name Disambiguation
+## ChainDream  - Blockchain Competition Task 3
 
-Link: https://www.biendata.com/competition/chaindream_nd_task1/  
-Description: Chain Dream  - AI Competition : Name Disambiguation  
+Link: https://www.biendata.com/competition/chaindream_task3/  
+Description: ChainDream  - Blockchain Competition Task 3  
 Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥75,000  
+Reward: ￥80,000  
 
 
 ## CCKS 2020: Type Inference
@@ -82,18 +82,18 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥15,000  
 
 
-## CCKS 2020: Link Prediction
-
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
-Description: CCKS 2020: Link Prediction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
 ## CCKS 2020: COVID 19 Question-answering
 
 Link: https://www.biendata.com/competition/ccks_2020_7_4/  
 Description: CCKS 2020: COVID 19 Question-answering  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
+## CCKS 2020: Link Prediction
+
+Link: https://www.biendata.com/competition/ccks_2020_7_3/  
+Description: CCKS 2020: Link Prediction  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 15,000  
 
@@ -154,12 +154,12 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥ 20,000  
 
 
-## CCKS
+## Event and Entity Extraction from Financial Texts (Chinese Text Data)
 
-Link: https://www.biendata.com/competition/ccks_2020_8/  
-Description: CCKS  
-Deadline: 2020-09-20T08:00:00+0800  
-Reward: ￥ 30,000  
+Link: https://www.biendata.com/competition/ccks_2020_4_1/  
+Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥ 20,000  
 
 
 ## CCKS 2020: Finance Entity Extraction
@@ -170,10 +170,10 @@ Deadline: 2020-09-20T08:00:00+0800
 Reward: ￥ 44,500  
 
 
-## Event and Entity Extraction from Financial Texts (Chinese Text Data)
+## CCKS
 
-Link: https://www.biendata.com/competition/ccks_2020_4_1/  
-Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 20,000  
+Link: https://www.biendata.com/competition/ccks_2020_8/  
+Description: CCKS  
+Deadline: 2020-09-20T08:00:00+0800  
+Reward: ￥ 30,000  
 
