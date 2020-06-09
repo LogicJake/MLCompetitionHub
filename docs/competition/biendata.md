@@ -2,42 +2,34 @@
 
 
 
-## Chain Dream  - AI Competition : MOOCCube <sup style="color:red">[new]<sup>  
+## Chain Dream : Construction of COVID-19 Knoledge Graph Task2 <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/  
+Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task2  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## Chain Dream : Construction of COVID-19 Knoledge Graph Task1 <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/  
+Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task1  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## Chain Dream : MOOCCube Student Behaviour Prediction Task2 <sup style="color:red">[new]<sup>  
 
 Link: https://www.biendata.com/competition/chaindream_mooccube_task2/  
-Description: Chain Dream  - AI Competition : MOOCCube  
+Description: Chain Dream : MOOCCube Student Behaviour Prediction Task2  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥75,000  
 
 
-## Chain Dream  - AI Competition : MOOCCube <sup style="color:red">[new]<sup>  
+## Chain Dream : MOOCCube Student Behaviour Prediction Task1 <sup style="color:red">[new]<sup>  
 
 Link: https://www.biendata.com/competition/chaindream_mooccube_task1/  
-Description: Chain Dream  - AI Competition : MOOCCube  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥75,000  
-
-
-## ChainDream  - Blockchain Competition Task 1
-
-Link: https://www.biendata.com/competition/chaindream_task1/  
-Description: ChainDream  - Blockchain Competition Task 1  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥60,000  
-
-
-## Chain Dream  - AI Competition : Name Disambiguation
-
-Link: https://www.biendata.com/competition/chaindream_nd_task2/  
-Description: Chain Dream  - AI Competition : Name Disambiguation  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥75,000  
-
-
-## Chain Dream  - AI Competition : Name Disambiguation
-
-Link: https://www.biendata.com/competition/chaindream_nd_task1/  
-Description: Chain Dream  - AI Competition : Name Disambiguation  
+Description: Chain Dream : MOOCCube Student Behaviour Prediction Task1  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥75,000  
 
@@ -50,12 +42,36 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥60,000  
 
 
+## Chain Dream : Name Disambiguation Task1
+
+Link: https://www.biendata.com/competition/chaindream_nd_task1/  
+Description: Chain Dream : Name Disambiguation Task1  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥75,000  
+
+
+## Chain Dream : Name Disambiguation Task2
+
+Link: https://www.biendata.com/competition/chaindream_nd_task2/  
+Description: Chain Dream : Name Disambiguation Task2  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥75,000  
+
+
 ## ChainDream  - Blockchain Competition Task 3
 
 Link: https://www.biendata.com/competition/chaindream_task3/  
 Description: ChainDream  - Blockchain Competition Task 3  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥80,000  
+
+
+## ChainDream  - Blockchain Competition Task 1
+
+Link: https://www.biendata.com/competition/chaindream_task1/  
+Description: ChainDream  - Blockchain Competition Task 1  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥60,000  
 
 
 ## CCKS 2020: Type Inference
@@ -146,18 +162,18 @@ Deadline: 2020-07-17T08:00:00+0800
 Reward: $ 30,000  
 
 
-## GigaVision Challenge 2020: Task 1
-
-Link: https://www.biendata.com/competition/gigavision/  
-Description: GigaVision Challenge 2020: Task 1  
-Deadline: 2020-07-15T08:00:00+0800  
-Reward: ￥ 35,000  
-
-
 ## GigaVision Challenge 2020: Task 2
 
 Link: https://www.biendata.com/competition/gigavision1/  
 Description: GigaVision Challenge 2020: Task 2  
+Deadline: 2020-07-15T08:00:00+0800  
+Reward: ￥ 35,000  
+
+
+## GigaVision Challenge 2020: Task 1
+
+Link: https://www.biendata.com/competition/gigavision/  
+Description: GigaVision Challenge 2020: Task 1  
 Deadline: 2020-07-15T08:00:00+0800  
 Reward: ￥ 35,000  
 
