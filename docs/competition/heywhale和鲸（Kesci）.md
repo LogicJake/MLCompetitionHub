@@ -69,34 +69,34 @@ Deadline: 2020-12-31T00:00:00+0800
 Reward: 热点赛  
 
 
-## 赛题一：全球疫情舆情演化分析
+## COVID-19：全球疫情舆情演化分析
 
 Link: https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627  
 Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题一：全球疫情舆情演化分析  
 Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题，奖金共20000元。  
+Reward: 四个赛题共计 ¥ 20,000  
 
 
-## 赛题二：突发公共卫生事件应对分析
+## COVID-19：突发公共卫生事件应对分析
 
 Link: https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e  
-Description: 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：全球疫情舆情演化分析  
+Description: 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：突发公共卫生事件应对分析  
 Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题，奖金共20000元。  
+Reward: 四个赛题共计 ¥ 20,000  
 
 
-## 赛题三：学术共同体与学术交流分析
+## COVID-19：学术共同体与学术交流分析
 
 Link: https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：全球疫情舆情演化分析  
+Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：学术共同体与学术交流分析  
 Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题，奖金共20000元。  
+Reward: 四个赛题共计 ¥20,000  
 
 
-## 赛题四：冠状病毒相关研究演化分析
+## COVID-19：冠状病毒相关研究演化分析
 
 Link: https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：全球疫情舆情演化分析  
+Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析  
 Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题，奖金共20000元。  
+Reward: 四个赛题共计 ¥ 20,000  
 

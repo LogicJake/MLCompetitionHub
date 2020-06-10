@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-06-09T15:58:26+08:00</updated>
+    <updated>2020-06-10T15:58:42+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -83,20 +83,6 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
         <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
         
@@ -139,14 +125,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_task2/</id>
-        <title><![CDATA[ChainDream  - Blockchain Competition Task 2]]></title>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
         
-        <updated>2020-05-20T08:00:00+08:00</updated>
+        <updated>2020-06-08T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_task2/"/>
-        <summary>ChainDream  - Blockchain Competition Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task2/"><![CDATA[<h3>Description</h3>ChainDream  - Blockchain Competition Task 2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -167,6 +153,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
+        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
+        <summary>2020 ChainDream Competition - Block Chain Track</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
         <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
         
@@ -175,34 +175,6 @@
         <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
         <summary>Chain Dream : Name Disambiguation Task2</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_task3/</id>
-        <title><![CDATA[ChainDream  - Blockchain Competition Task 3]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_task3/"/>
-        <summary>ChainDream  - Blockchain Competition Task 3</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task3/"><![CDATA[<h3>Description</h3>ChainDream  - Blockchain Competition Task 3<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_task1/</id>
-        <title><![CDATA[ChainDream  - Blockchain Competition Task 1]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_task1/"/>
-        <summary>ChainDream  - Blockchain Competition Task 1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_task1/"><![CDATA[<h3>Description</h3>ChainDream  - Blockchain Competition Task 1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -363,20 +335,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/gigavision1/</id>
-        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/gigavision1/"/>
-        <summary>GigaVision Challenge 2020: Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/gigavision/</id>
         <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
         
@@ -391,14 +349,28 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
-        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
+        <id>https://www.biendata.com/competition/gigavision1/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
-        <summary>CCKS 2020: Finance Entity Extraction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <link href="https://www.biendata.com/competition/gigavision1/"/>
+        <summary>GigaVision Challenge 2020: Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
+        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
+        <summary>CCKS 2020: Event Element Extaction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -419,14 +391,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
-        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
+        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
-        <summary>CCKS 2020: Event Element Extaction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
+        <summary>CCKS 2020: Finance Entity Extraction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -530,7 +502,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-06-09T15:58:26+08:00</updated>
+        <updated>2020-06-10T15:58:42+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -543,90 +515,14 @@
     
     
     <entry>
-        <id>https://www.flyai.com/d/BeijingGarbage</id>
-        <title><![CDATA[北京垃圾分类识别]]></title>
+        <id>https://www.flyai.com/d/MedicalQA</id>
+        <title><![CDATA[医疗智能问答]]></title>
         
-        <updated>2020-05-01T12:00:00+08:00</updated>
+        <updated>2020-06-09T12:00:00+08:00</updated>
         
-        <link href="https://www.flyai.com/d/BeijingGarbage"/>
-        <summary>5月1日起，新版《北京市生活垃圾管理条例》（以下简称新《条例》）正式实施。为配合《条例》的实施，北京市还印发了《北京市生活垃圾分类工作行动方案》以及四个实施办法。本赛题要求参赛者基于深度学习技术建立准确的垃圾分类模型，利用技术手段改善人居生活环境！</summary>
-        <content type="text/html" src="https://www.flyai.com/d/BeijingGarbage"><![CDATA[<h3>Description</h3>5月1日起，新版《北京市生活垃圾管理条例》（以下简称新《条例》）正式实施。为配合《条例》的实施，北京市还印发了《北京市生活垃圾分类工作行动方案》以及四个实施办法。本赛题要求参赛者基于深度学习技术建立准确的垃圾分类模型，利用技术手段改善人居生活环境！<h3>Deadline: 2020-06-01T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/COVIDClassification</id>
-        <title><![CDATA[CT影像诊断新冠肺炎]]></title>
-        
-        <updated>2020-04-30T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/COVIDClassification"/>
-        <summary>本赛题是一个图像二分类任务，基于2019年新冠肺炎CT医学影像数据，要求参赛者搭建算法模型，通过CT医学影像诊断患者是否感染新冠肺炎。对医学领域的人工智能技术落地研究有着重要意义。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/COVIDClassification"><![CDATA[<h3>Description</h3>本赛题是一个图像二分类任务，基于2019年新冠肺炎CT医学影像数据，要求参赛者搭建算法模型，通过CT医学影像诊断患者是否感染新冠肺炎。对医学领域的人工智能技术落地研究有着重要意义。<h3>Deadline: 2020-05-30T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 1,500</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/WeatherClassification</id>
-        <title><![CDATA[常见天气分类]]></title>
-        
-        <updated>2020-04-18T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/WeatherClassification"/>
-        <summary>图像分类是视觉计算领域中的基础细分领域，本次比赛围绕气象业务场景，根据官方提供的图片数据建立精准的算法模型，能够区分晴天、多云、下雨、下雪、薄雾、雷雨，共6种天气现象。
-随着人工智能的技术落地，将人工智能图像技术落地到气象观测、预报及服务领域中具有重要的研究意义，同时也助力气象领域专业化人才的发展。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/WeatherClassification"><![CDATA[<h3>Description</h3>图像分类是视觉计算领域中的基础细分领域，本次比赛围绕气象业务场景，根据官方提供的图片数据建立精准的算法模型，能够区分晴天、多云、下雨、下雪、薄雾、雷雨，共6种天气现象。
-随着人工智能的技术落地，将人工智能图像技术落地到气象观测、预报及服务领域中具有重要的研究意义，同时也助力气象领域专业化人才的发展。<h3>Deadline: 2020-05-18T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 1,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/MedicalClass</id>
-        <title><![CDATA[医疗文本分类]]></title>
-        
-        <updated>2020-06-09T15:58:26+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/MedicalClass"/>
-        <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/MedicalClass"><![CDATA[<h3>Description</h3>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗文本分类是借助深度学习的技术优势，根据文本的特征将其分到预先设定的类别中。在解决医疗诊断任务的情况下必须满足预测模型的准确性，对数据的处理能力，对诊断结果的解释能力，保证最终结果的一个可靠性。<h3>Deadline: 未给出具体时间</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/FishClassification</id>
-        <title><![CDATA[水下鱼类物种识别(FlyAI2.0 竞赛框架)]]></title>
-        
-        <updated>2020-03-20T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/FishClassification"/>
-        <summary>该数据集是从实时视频数据中获取的，整个数据集分为21个聚类，每个聚类由一个有代表性的鱼物种表示。该数据集的数据非常不平衡，其中最常见的物种大约是最不常见物种的1000倍。本赛题采用FlyAI2.0新框架进行训练，进入详情页查看更新内容描述。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/FishClassification"><![CDATA[<h3>Description</h3>该数据集是从实时视频数据中获取的，整个数据集分为21个聚类，每个聚类由一个有代表性的鱼物种表示。该数据集的数据非常不平衡，其中最常见的物种大约是最不常见物种的1000倍。本赛题采用FlyAI2.0新框架进行训练，进入详情页查看更新内容描述。<h3>Deadline: 2020-04-20T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.flyai.com/d/TextSQL</id>
-        <title><![CDATA[耶鲁文本转SQL]]></title>
-        
-        <updated>2020-03-26T20:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/TextSQL"/>
-        <summary>从IT时代进入到DT时代之后，数据库被视为互联网企业服务最重要的资源。数据库每天存储了大量的生产运营数据，而我们每天也会时时刻刻与数据库进行交互。
-一般情况下查询数据库的数据需要使用专业的SQL语句进行查询，这样的查询效率很缓慢，同时对非专业人士来讲门槛太高，即使目前有相关的条件筛选等交互查询界面，但对使用的边界性有一定的限制。使用 NL2SQL 的技术方案，缩短用户与数据库之间的距离，用户可以更自由地表达自己的查询意图，同时减轻目前技术方案的繁琐、开发者的繁琐工作。
-本赛题主要是英文文本转SQL任务，要求参赛者建立准确的模型识别自然语言意图达到数据的准确查询。本数据集是由11名耶鲁学生注释的大规模数据，它由200个数据库中的10,181个问题和5,693个唯一复杂SQL查询组成，其中多个表覆盖138个不同的域。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/TextSQL"><![CDATA[<h3>Description</h3>从IT时代进入到DT时代之后，数据库被视为互联网企业服务最重要的资源。数据库每天存储了大量的生产运营数据，而我们每天也会时时刻刻与数据库进行交互。
-一般情况下查询数据库的数据需要使用专业的SQL语句进行查询，这样的查询效率很缓慢，同时对非专业人士来讲门槛太高，即使目前有相关的条件筛选等交互查询界面，但对使用的边界性有一定的限制。使用 NL2SQL 的技术方案，缩短用户与数据库之间的距离，用户可以更自由地表达自己的查询意图，同时减轻目前技术方案的繁琐、开发者的繁琐工作。
-本赛题主要是英文文本转SQL任务，要求参赛者建立准确的模型识别自然语言意图达到数据的准确查询。本数据集是由11名耶鲁学生注释的大规模数据，它由200个数据库中的10,181个问题和5,693个唯一复杂SQL查询组成，其中多个表覆盖138个不同的域。<h3>Deadline: 2020-04-27T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
+        <link href="https://www.flyai.com/d/MedicalQA"/>
+        <summary>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗问答是自然语言处理领域的一个重要的方向，旨在让用户直接用自然语言提问并获得答案。通过建立可靠的算法模型，帮助用户缩短等待专业医生解决问题的问诊时间，同时在业务方面减少问诊医生的时间成本，协助问诊医生提供基础、可靠的问诊回复率。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/MedicalQA"><![CDATA[<h3>Description</h3>人工智能技术在越来越多的医疗场景中体现出应用价值，医疗问答是自然语言处理领域的一个重要的方向，旨在让用户直接用自然语言提问并获得答案。通过建立可靠的算法模型，帮助用户缩短等待专业医生解决问题的问诊时间，同时在业务方面减少问诊医生的时间成本，协助问诊医生提供基础、可靠的问诊回复率。<h3>Deadline: 2020-07-20T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
         <author>
             <name><![CDATA[FlyAI]]></name>
         </author>
@@ -638,7 +534,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-06-09T15:58:26+08:00</updated>
+        <updated>2020-06-10T15:58:42+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -652,7 +548,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-06-09T15:58:26+08:00</updated>
+        <updated>2020-06-10T15:58:42+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -666,7 +562,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-06-09T15:58:26+08:00</updated>
+        <updated>2020-06-10T15:58:42+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -680,7 +576,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-06-09T15:58:26+08:00</updated>
+        <updated>2020-06-10T15:58:42+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -998,13 +894,13 @@
     
     <entry>
         <id>https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627</id>
-        <title><![CDATA[赛题一：全球疫情舆情演化分析]]></title>
+        <title><![CDATA[COVID-19：全球疫情舆情演化分析]]></title>
         
         <updated>2020-05-18T00:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627"/>
         <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题一：全球疫情舆情演化分析</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题一：全球疫情舆情演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题，奖金共20000元。</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题一：全球疫情舆情演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题共计 ¥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1012,13 +908,13 @@
     
     <entry>
         <id>https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e</id>
-        <title><![CDATA[赛题二：突发公共卫生事件应对分析]]></title>
+        <title><![CDATA[COVID-19：突发公共卫生事件应对分析]]></title>
         
         <updated>2020-05-18T00:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e"/>
-        <summary>数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：全球疫情舆情演化分析</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e"><![CDATA[<h3>Description</h3>数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：全球疫情舆情演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题，奖金共20000元。</h3>]]></content>
+        <summary>数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：突发公共卫生事件应对分析</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e"><![CDATA[<h3>Description</h3>数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：突发公共卫生事件应对分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题共计 ¥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1026,13 +922,13 @@
     
     <entry>
         <id>https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f</id>
-        <title><![CDATA[赛题三：学术共同体与学术交流分析]]></title>
+        <title><![CDATA[COVID-19：学术共同体与学术交流分析]]></title>
         
         <updated>2020-05-18T00:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f"/>
-        <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：全球疫情舆情演化分析</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：全球疫情舆情演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题，奖金共20000元。</h3>]]></content>
+        <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：学术共同体与学术交流分析</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：学术共同体与学术交流分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题共计 ¥20,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1040,13 +936,13 @@
     
     <entry>
         <id>https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a</id>
-        <title><![CDATA[赛题四：冠状病毒相关研究演化分析]]></title>
+        <title><![CDATA[COVID-19：冠状病毒相关研究演化分析]]></title>
         
         <updated>2020-05-18T00:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a"/>
-        <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：全球疫情舆情演化分析</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：全球疫情舆情演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题，奖金共20000元。</h3>]]></content>
+        <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题共计 ¥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1155,20 +1051,6 @@
     </entry>
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/231780/introduction</id>
-        <title><![CDATA[CVPR 2020 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
-        
-        <updated>2020-02-25T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/231780/introduction"/>
-        <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231780/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2020-06-09T23:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231787/introduction</id>
         <title><![CDATA[IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(赛季 1)]]></title>
         
@@ -1219,6 +1101,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531805/introduction"/>
         <summary>从时域天文大数据中发现微引力透镜和恒星耀发候选体这两种短时标稀有天体光变事件。计算任务为：从光变曲线（时序数据）中发现稀有异常子序列模式。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531805/introduction"><![CDATA[<h3>Description</h3>从时域天文大数据中发现微引力透镜和恒星耀发候选体这两种短时标稀有天体光变事件。计算任务为：从光变曲线（时序数据）中发现稀有异常子序列模式。<h3>Deadline: 2020-08-01T00:00:00+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531804/introduction</id>
+        <title><![CDATA[太阳风暴识别和预警人工智能挑战赛——赛道二：太阳风暴智能预警(赛季 1)]]></title>
+        
+        <updated>2020-05-28T18:10:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531804/introduction"/>
+        <summary>太阳耀斑的爆发能量来源于活动区的磁场，利用太阳活动区磁场观测图和对应的耀斑事件标签，开展人工智能方法建立对太阳耀斑预报模型。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531804/introduction"><![CDATA[<h3>Description</h3>太阳耀斑的爆发能量来源于活动区的磁场，利用太阳活动区磁场观测图和对应的耀斑事件标签，开展人工智能方法建立对太阳耀斑预报模型。<h3>Deadline: 2020-07-26T23:59:00+08:00</h3><h3>Reward: ￥600000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
