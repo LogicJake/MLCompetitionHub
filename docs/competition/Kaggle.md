@@ -34,6 +34,14 @@ Deadline: 2020-08-18T07:59:00+0800
 Reward: 30000.0 USD  
 
 
+## Cornell Birdcall Identification <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/birdsong-recognition  
+Description: Build tools for bird population monitoring  
+Deadline: 2020-09-16T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
 ## Prostate cANcer graDe Assessment (PANDA) Challenge
 
 Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  

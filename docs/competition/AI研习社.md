@@ -33,11 +33,3 @@ Description: 验证码广泛应用于互联网行业，形式多种多样。本�
 Deadline: 2020-06-21T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 知乎文本摘要
-
-Link: https://god.yanxishe.com/61  
-Description: 文本摘要是NLP领域经典任务之一，在当前互联网时代，用户可以通过自动文本摘要对海量文本信息进行简化处理。  
-Deadline: 2020-06-15T23:59:59+0800  
-Reward: 3000.00  
-
