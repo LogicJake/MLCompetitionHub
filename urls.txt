@@ -188,3 +188,8 @@ https://www.flyai.com/d/MedicalQA
 https://tianchi.aliyun.com/competition/entrance/531804/introduction
 https://god.yanxishe.com/71
 https://god.yanxishe.com/65
+https://competition.huaweicloud.com/information/1000041242/introduction
+https://competition.huaweicloud.com/information/1000041241/introduction
+https://competition.huaweicloud.com/information/1000041227/introduction
+https://www.kaggle.com/c/birdsong-recognition
+http://www.turingtopia.com/competitionnew/detail/29f3f7e8911941fb909abd1e89932906/sketch
