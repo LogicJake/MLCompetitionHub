@@ -73,11 +73,3 @@ Description: Can you help identify wheat heads using image analysis?
 Deadline: 2020-08-05T07:59:00+0800  
 Reward: 15000.0 USD  
 
-
-## Tweet Sentiment Extraction
-
-Link: https://www.kaggle.com/c/tweet-sentiment-extraction  
-Description: Extract support phrases for sentiment labels  
-Deadline: 2020-06-17T07:59:00+0800  
-Reward: 15000.0 USD  
-

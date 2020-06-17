@@ -2,6 +2,14 @@
 
 
 
+## 2020创青春·交子杯新网银行金融科技挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff  
+Description: 2020“创青春.交子杯”新网银行金融科技挑战赛，是“创青春”青年创新创业大赛的专项赛。设AI算法、移动互联（H5小游戏+AI对抗）两个赛道。毕业三年内社会人士、在校大学生（含本、硕/博士研究生等）均可参赛。大赛旨在发掘金融科技和人工智能领域的优秀青年，培养将学科技能应用于金融实践的未来高科技领军人才，打造全国具有卓越影响力的专项赛事，助力西部金融科技发展，动员更多青年为推动治蜀兴川再上新台阶贡献青春力量。  
+Deadline: 2020-09-01T00:00:00+0800  
+Reward:   
+
+
 ## 北京数智医保创新竞赛
 
 Link: https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8  
@@ -10,12 +18,12 @@ Deadline: 2020-09-11T00:00:00+0800
 Reward: 医保局战略合作伙伴机会 证书及奖杯  
 
 
-## 创新活力数据分析大赛
+## “2020创青春·交子杯”  AI算法赛道新手训练营 <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769  
-Description: 本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。  
-Deadline: 2020-06-26T00:00:00+0800  
-Reward: 奖金21.6W+创业基金30W  
+Link: https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b  
+Description: [AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。  
+Deadline: 2021-09-01T00:00:00+0800  
+Reward:   
 
 
 ## 上外语言数据分析：台湾大陆政策分析与预测
@@ -91,12 +99,4 @@ Link: https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f
 Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：学术共同体与学术交流分析  
 Deadline: 2020-06-30T23:59:00+0800  
 Reward: 四个赛题共计 ¥20,000  
-
-
-## COVID-19：冠状病毒相关研究演化分析
-
-Link: https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析  
-Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题共计 ¥ 20,000  
 
