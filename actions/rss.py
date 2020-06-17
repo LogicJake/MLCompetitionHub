@@ -1,5 +1,6 @@
 import copy
 from datetime import datetime, timedelta
+from xml.sax.saxutils import escape
 
 from jinja2 import Environment, PackageLoader
 
@@ -28,10 +29,13 @@ def generate(datas_):
                 deadline = deadline.strftime(STANDARD_TIME_FORMAT)
 
             content = '<h3>Description</h3>{}<h3>Deadline: {}</h3><h3>Reward: {}</h3>'.format(
-                description, deadline, reward)
+                escape(description), deadline, reward)
             c['start_time'] = start_time
             c['deadline'] = deadline
             c['content'] = content
+            c['name'] = escape(c['name'])
+            c['description'] = escape(c['description'])
+            c['url'] = escape(c['url'])
 
     update = datetime.utcnow() + timedelta(hours=8)
     update = update.strftime(STANDARD_TIME_FORMAT)
