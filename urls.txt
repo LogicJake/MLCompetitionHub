@@ -193,3 +193,6 @@ https://competition.huaweicloud.com/information/1000041241/introduction
 https://competition.huaweicloud.com/information/1000041227/introduction
 https://www.kaggle.com/c/birdsong-recognition
 http://www.turingtopia.com/competitionnew/detail/29f3f7e8911941fb909abd1e89932906/sketch
+https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff
+https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b
+https://tianchi.aliyun.com/competition/entrance/531803/introduction
