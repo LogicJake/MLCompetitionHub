@@ -10,7 +10,7 @@ Deadline: 2020-07-04T23:59:59+0800
 Reward: 3000.00  
 
 
-## 验证码识别挑战赛（二）-- 中文验证码识别 <sup style="color:red">[new]<sup>  
+## 验证码识别挑战赛（二）-- 中文验证码识别
 
 Link: https://god.yanxishe.com/71  
 Description: 本次比赛是验证码识别挑战赛第二场，中文验证码识别。  
