@@ -196,3 +196,11 @@ http://www.turingtopia.com/competitionnew/detail/29f3f7e8911941fb909abd1e8993290
 https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff
 https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b
 https://tianchi.aliyun.com/competition/entrance/531803/introduction
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-自然场景文字检测挑战赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-婴儿啼哭声识别挑战赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-视频广告场景识别挑战赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-事件抽取挑战赛_竞赛信息.html
+https://tianchi.aliyun.com/competition/entrance/531806/introduction
