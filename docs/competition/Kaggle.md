@@ -18,14 +18,6 @@ Deadline: 2020-07-01T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Jigsaw Multilingual Toxic Comment Classification
-
-Link: https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification  
-Description: Use TPUs to identify toxicity comments across multiple languages  
-Deadline: 2020-06-23T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
 ## SIIM-ISIC Melanoma Classification
 
 Link: https://www.kaggle.com/c/siim-isic-melanoma-classification  
@@ -34,7 +26,7 @@ Deadline: 2020-08-18T07:59:00+0800
 Reward: 30000.0 USD  
 
 
-## Cornell Birdcall Identification <sup style="color:red">[new]<sup>  
+## Cornell Birdcall Identification
 
 Link: https://www.kaggle.com/c/birdsong-recognition  
 Description: Build tools for bird population monitoring  
