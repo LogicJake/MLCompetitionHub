@@ -204,3 +204,5 @@ https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战
 https://www.dcjingsai.com/common/cmpt/AI开发者大赛-视频广告场景识别挑战赛_竞赛信息.html
 https://www.dcjingsai.com/common/cmpt/AI开发者大赛-事件抽取挑战赛_竞赛信息.html
 https://tianchi.aliyun.com/competition/entrance/531806/introduction
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-语种识别挑战赛_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html
