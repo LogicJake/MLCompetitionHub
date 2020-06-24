@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-06-23T15:58:11+08:00</updated>
+    <updated>2020-06-24T15:58:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -409,6 +409,20 @@
     </entry>
     
     <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html</id>
+        <title><![CDATA[AI开发者大赛-温室温度预测挑战赛]]></title>
+        
+        <updated>2020-06-22T10:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"/>
+        <summary>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html</id>
         <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道]]></title>
         
@@ -481,20 +495,6 @@
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-温室温度预测挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"/>
-        <summary>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-视频广告场景识别挑战赛_竞赛信息.html</id>
         <title><![CDATA[AI开发者大赛-视频广告场景识别挑战赛]]></title>
         
@@ -544,7 +544,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-06-23T15:58:11+08:00</updated>
+        <updated>2020-06-24T15:58:11+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -555,6 +555,22 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.flyai.com/d/BaldClassification</id>
+        <title><![CDATA[秃头识别趣味新手赛]]></title>
+        
+        <updated>2020-06-23T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/BaldClassification"/>
+        <summary>FlyAI提供的处理后数据集包含9000多张图像，其中训练集和验证集划分比例为7:3；
+通过训练秃头数据集，可以快速算出合影、视频、或区域街景中，目标区域中的“含秃率”。也可以在皮肤科、内分泌科、脱发专科门诊，协助医生进行病理性脱发的病程判定。还可以成为植发医院的销售线索工具，无论是在密集人群中发现目标群体，还是对比特定区域之间的目标群体密度，都可以进行尝试。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/BaldClassification"><![CDATA[<h3>Description</h3>FlyAI提供的处理后数据集包含9000多张图像，其中训练集和验证集划分比例为7:3；
+通过训练秃头数据集，可以快速算出合影、视频、或区域街景中，目标区域中的“含秃率”。也可以在皮肤科、内分泌科、脱发专科门诊，协助医生进行病理性脱发的病程判定。还可以成为植发医院的销售线索工具，无论是在密集人群中发现目标群体，还是对比特定区域之间的目标群体密度，都可以进行尝试。<h3>Deadline: 2020-07-23T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.flyai.com/d/MedicalQA</id>
@@ -576,7 +592,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-06-23T15:58:11+08:00</updated>
+        <updated>2020-06-24T15:58:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -590,7 +606,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-06-23T15:58:11+08:00</updated>
+        <updated>2020-06-24T15:58:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -604,7 +620,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-06-23T15:58:11+08:00</updated>
+        <updated>2020-06-24T15:58:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -618,7 +634,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-06-23T15:58:11+08:00</updated>
+        <updated>2020-06-24T15:58:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -1023,6 +1039,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531806/introduction</id>
+        <title><![CDATA[CIKM2020 安全AI挑战者计划第四期：通用目标检测的对抗攻击(赛季 1)]]></title>
+        
+        <updated>2020-06-01T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531806/introduction"/>
+        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531806/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2020-09-03T11:41:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531798/introduction</id>
         <title><![CDATA[MEDIA AI阿里巴巴文娱算法挑战赛 - 视频时序事件检测赛道(赛季 1)]]></title>
         
@@ -1087,20 +1117,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/231788/introduction"/>
         <summary>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231788/introduction"><![CDATA[<h3>Description</h3>In this challenge, participants will reconstruct a 3D shape from a single RGB image. The objects contained in the input RGB images may slightly occluded or patrially incompleted.<h3>Deadline: 2020-07-25T16:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531806/introduction</id>
-        <title><![CDATA[CIKM2020 安全AI挑战者计划第四期：通用目标检测的对抗攻击(赛季 1)]]></title>
-        
-        <updated>2020-06-01T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531806/introduction"/>
-        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531806/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2020-09-03T11:41:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1175,6 +1191,20 @@
         <link href="https://god.yanxishe.com/65"/>
         <summary>本次比赛为多维度内容识别挑战赛-复赛，初赛前20名可进入复赛，免费领取600元GPU资源。</summary>
         <content type="text/html" src="https://god.yanxishe.com/65"><![CDATA[<h3>Description</h3>本次比赛为多维度内容识别挑战赛-复赛，初赛前20名可进入复赛，免费领取600元GPU资源。<h3>Deadline: 2020-07-04T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://god.yanxishe.com/74</id>
+        <title><![CDATA[潮流商品标签识别]]></title>
+        
+        <updated>2020-06-24T12:00:00+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/74"/>
+        <summary>不断增长的电子商务行业为我们提供了大量数据，等待我们去挖掘和研究。计算机视觉技术可以帮助我们在专业拍摄的产品图像中识别出产品的多个属性标签，以便于我们将产品快速的分类，同时也为后续的数据挖掘提供了便利。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/74"><![CDATA[<h3>Description</h3>不断增长的电子商务行业为我们提供了大量数据，等待我们去挖掘和研究。计算机视觉技术可以帮助我们在专业拍摄的产品图像中识别出产品的多个属性标签，以便于我们将产品快速的分类，同时也为后续的数据挖掘提供了便利。<h3>Deadline: 2020-07-23T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>

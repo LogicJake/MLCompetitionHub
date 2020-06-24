@@ -10,6 +10,14 @@ Deadline: 2020-07-04T23:59:59+0800
 Reward: 3000.00  
 
 
+## 潮流商品标签识别 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/74  
+Description: 不断增长的电子商务行业为我们提供了大量数据，等待我们去挖掘和研究。计算机视觉技术可以帮助我们在专业拍摄的产品图像中识别出产品的多个属性标签，以便于我们将产品快速的分类，同时也为后续的数据挖掘提供了便利。  
+Deadline: 2020-07-23T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 验证码识别挑战赛（二）-- 中文验证码识别
 
 Link: https://god.yanxishe.com/71  
