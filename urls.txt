@@ -206,3 +206,5 @@ https://www.dcjingsai.com/common/cmpt/AI开发者大赛-事件抽取挑战赛_�
 https://tianchi.aliyun.com/competition/entrance/531806/introduction
 https://www.dcjingsai.com/common/cmpt/AI开发者大赛-语种识别挑战赛_竞赛信息.html
 https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html
+https://www.flyai.com/d/BaldClassification
+https://god.yanxishe.com/74
