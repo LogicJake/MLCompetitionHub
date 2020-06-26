@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-06-25T15:58:26+08:00</updated>
+    <updated>2020-06-26T15:58:26+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -335,6 +335,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
         
@@ -371,20 +385,6 @@
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -544,7 +544,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-06-25T15:58:26+08:00</updated>
+        <updated>2020-06-26T15:58:26+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -592,7 +592,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-06-25T15:58:26+08:00</updated>
+        <updated>2020-06-26T15:58:26+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -606,7 +606,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-06-25T15:58:26+08:00</updated>
+        <updated>2020-06-26T15:58:26+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -620,7 +620,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-06-25T15:58:26+08:00</updated>
+        <updated>2020-06-26T15:58:26+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -634,7 +634,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-06-25T15:58:26+08:00</updated>
+        <updated>2020-06-26T15:58:26+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -973,20 +973,6 @@
         <link href="https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a"/>
         <summary> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a"><![CDATA[<h3>Description</h3> 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析<h3>Deadline: 2020-06-30T23:59:00+08:00</h3><h3>Reward: 四个赛题共计 ¥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769</id>
-        <title><![CDATA[创新活力数据分析大赛]]></title>
-        
-        <updated>2020-04-27T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"/>
-        <summary>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5e9022f753a63b002c0cf769"><![CDATA[<h3>Description</h3>本赛题是数据分析类型的题目。提供江苏地区的创投数据，涉及公司的工商信息，主创人员信息等。参赛选手需要结合创投行业知识，深入分析时间或空间范围内创新创业活力的数据表达以及可能的影响因子并且对于南京江北新区创投相关政策提供指导。<h3>Deadline: 2020-06-26T00:00:00+08:00</h3><h3>Reward: 奖金21.6W+创业基金30W</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
