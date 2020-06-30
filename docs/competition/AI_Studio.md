@@ -22,6 +22,6 @@ Reward: ￥200,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/22  
 Description: 提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为。  
-Deadline: 2020-07-12T08:00:00+0800  
+Deadline: 2020-07-14T08:00:00+0800  
 Reward: 特别礼包  
 

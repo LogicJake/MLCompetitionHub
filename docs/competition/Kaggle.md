@@ -50,14 +50,6 @@ Deadline: 2020-07-21T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## TReNDS Neuroimaging
-
-Link: https://www.kaggle.com/c/trends-assessment-prediction  
-Description: Multiscanner normative age and assessments prediction with brain function, structure, and connectivity  
-Deadline: 2020-06-30T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Global Wheat Detection 
 
 Link: https://www.kaggle.com/c/global-wheat-detection  

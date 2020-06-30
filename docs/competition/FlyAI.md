@@ -2,7 +2,7 @@
 
 
 
-## 秃头识别趣味新手赛 <sup style="color:red">[new]<sup>  
+## 秃头识别趣味新手赛
 
 Link: https://www.flyai.com/d/BaldClassification  
 Description: FlyAI提供的处理后数据集包含9000多张图像，其中训练集和验证集划分比例为7:3；
