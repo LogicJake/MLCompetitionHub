@@ -2,22 +2,6 @@
 
 
 
-## M5 Forecasting - Accuracy
-
-Link: https://www.kaggle.com/c/m5-forecasting-accuracy  
-Description: Estimate the unit sales of Walmart retail goods  
-Deadline: 2020-07-01T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
-## M5 Forecasting - Uncertainty
-
-Link: https://www.kaggle.com/c/m5-forecasting-uncertainty  
-Description:  Estimate the uncertainty distribution of Walmart unit sales.    
-Deadline: 2020-07-01T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
 ## SIIM-ISIC Melanoma Classification
 
 Link: https://www.kaggle.com/c/siim-isic-melanoma-classification  
@@ -31,6 +15,14 @@ Reward: 30000.0 USD
 Link: https://www.kaggle.com/c/birdsong-recognition  
 Description: Build tools for bird population monitoring  
 Deadline: 2020-09-16T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
+## Google Landmark Retrieval 2020 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/landmark-retrieval-2020  
+Description: Given an image, can you find all of the same landmarks in a dataset?  
+Deadline: 2020-08-18T07:59:00+0800  
 Reward: 25000.0 USD  
 
 

@@ -53,34 +53,11 @@ Deadline: 2020-12-31T00:00:00+0800
 Reward: 热点赛  
 
 
-## COVID-19：全球疫情舆情演化分析
+## 预测分析·客户购买预测
 
-Link: https://www.kesci.com/home/competition/5ebdf7ea909915002d2fd627  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题一：全球疫情舆情演化分析  
-Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题共计 ¥ 20,000  
-
-
-## COVID-19：突发公共卫生事件应对分析
-
-Link: https://www.kesci.com/home/competition/5ebdfb01909915002d2fd63e  
-Description: 数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题二：突发公共卫生事件应对分析  
-Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题共计 ¥ 20,000  
-
-
-## COVID-19：学术共同体与学术交流分析
-
-Link: https://www.kesci.com/home/competition/5ebdfdf1909915002d2fd64f  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题三：学术共同体与学术交流分析  
-Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题共计 ¥20,000  
-
-
-## COVID-19：冠状病毒相关研究演化分析
-
-Link: https://www.kesci.com/home/competition/5ebe0366909915002d2fd66a  
-Description:  数据战“疫”，创新智“汇”：COVID-19数据竞赛赛题四：冠状病毒相关研究演化分析  
-Deadline: 2020-06-30T23:59:00+0800  
-Reward: 四个赛题共计 ¥ 20,000  
+Link: https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。  
+Deadline: 2022-12-25T00:00:00+0800  
+Reward: 新人赛  
 
