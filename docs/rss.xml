@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-07-01T15:58:30+08:00</updated>
+    <updated>2020-07-02T15:59:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -167,20 +167,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/kddcup_2020/</id>
-        <title><![CDATA[KDD Cup 2020]]></title>
-        
-        <updated>2020-04-24T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/kddcup_2020/"/>
-        <summary>KDD Cup 2020</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/kddcup_2020/"><![CDATA[<h3>Description</h3>KDD Cup 2020<h3>Deadline: 2020-07-01T08:00:00+08:00</h3><h3>Reward: 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_2/</id>
         <title><![CDATA[CCKS 2020: Relation Prediction]]></title>
         
@@ -223,20 +209,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020: COVID 19 Question-answering</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
         <title><![CDATA[CCKS 2020: Link Prediction]]></title>
         
@@ -245,6 +217,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
         <summary>CCKS 2020: Link Prediction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
+        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
+        <summary>CCKS 2020: COVID 19 Question-answering</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -314,7 +300,7 @@
         
         <link href="https://www.biendata.com/competition/gigavision1/"/>
         <summary>GigaVision Challenge 2020: Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-07-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-08-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -349,20 +335,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
         
@@ -385,6 +357,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
         <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -544,7 +530,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-07-01T15:58:30+08:00</updated>
+        <updated>2020-07-02T15:59:06+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -592,7 +578,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-07-01T15:58:30+08:00</updated>
+        <updated>2020-07-02T15:59:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -606,7 +592,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-07-01T15:58:30+08:00</updated>
+        <updated>2020-07-02T15:59:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -620,7 +606,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-07-01T15:58:30+08:00</updated>
+        <updated>2020-07-02T15:59:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -634,7 +620,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-07-01T15:58:30+08:00</updated>
+        <updated>2020-07-02T15:59:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -946,7 +932,7 @@
         <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
 本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2022-12-25T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
+本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2030-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
