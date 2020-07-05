@@ -2,14 +2,6 @@
 
 
 
-## 多维度内容识别挑战赛-复赛
-
-Link: https://god.yanxishe.com/65  
-Description: 本次比赛为多维度内容识别挑战赛-复赛，初赛前20名可进入复赛，免费领取600元GPU资源。  
-Deadline: 2020-07-04T23:59:59+0800  
-Reward: 3000.00  
-
-
 ## 知乎问题自动标注 <sup style="color:red">[new]<sup>  
 
 Link: https://god.yanxishe.com/75  
