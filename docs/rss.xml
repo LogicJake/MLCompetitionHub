@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-07-06T15:58:14+08:00</updated>
+    <updated>2020-07-07T15:58:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -55,14 +55,14 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_mooccube_task2/</id>
-        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task2]]></title>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
         
         <updated>2020-06-08T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_mooccube_task2/"/>
-        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task2/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -97,14 +97,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
+        <id>https://www.biendata.com/competition/chaindream_mooccube_task2/</id>
+        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task2]]></title>
         
         <updated>2020-06-08T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_mooccube_task2/"/>
+        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task2/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -125,20 +125,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
-        <summary>Chain Dream : Name Disambiguation Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
         <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
         
@@ -147,6 +133,20 @@
         <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
         <summary>Chain Dream : Name Disambiguation Task1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
+        <summary>Chain Dream : Name Disambiguation Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -293,20 +293,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/gigavision1/</id>
-        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/gigavision1/"/>
-        <summary>GigaVision Challenge 2020: Task 2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-08-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/gigavision/</id>
         <title><![CDATA[GigaVision Challenge 2020: Task 1]]></title>
         
@@ -321,28 +307,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
-        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        <id>https://www.biendata.com/competition/gigavision1/</id>
+        <title><![CDATA[GigaVision Challenge 2020: Task 2]]></title>
         
         <updated>2020-03-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
-        <summary>CCKS 2020: Event Element Extaction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
-        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
-        <summary>CCKS 2020: Finance Entity Extraction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <link href="https://www.biendata.com/competition/gigavision1/"/>
+        <summary>GigaVision Challenge 2020: Task 2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/gigavision1/"><![CDATA[<h3>Description</h3>GigaVision Challenge 2020: Task 2<h3>Deadline: 2020-08-15T08:00:00+08:00</h3><h3>Reward: ￥ 35,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -371,6 +343,34 @@
         <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
         <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_3/</id>
+        <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
+        <summary>CCKS 2020: Finance Entity Extraction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
+        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
+        <summary>CCKS 2020: Event Element Extaction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -530,7 +530,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-07-06T15:58:14+08:00</updated>
+        <updated>2020-07-07T15:58:06+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -541,22 +541,6 @@
     </entry>
     
     
-    
-    <entry>
-        <id>https://www.flyai.com/d/BaldClassification</id>
-        <title><![CDATA[秃头识别趣味新手赛]]></title>
-        
-        <updated>2020-06-23T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/BaldClassification"/>
-        <summary>FlyAI提供的处理后数据集包含9000多张图像，其中训练集和验证集划分比例为7:3；
-通过训练秃头数据集，可以快速算出合影、视频、或区域街景中，目标区域中的“含秃率”。也可以在皮肤科、内分泌科、脱发专科门诊，协助医生进行病理性脱发的病程判定。还可以成为植发医院的销售线索工具，无论是在密集人群中发现目标群体，还是对比特定区域之间的目标群体密度，都可以进行尝试。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/BaldClassification"><![CDATA[<h3>Description</h3>FlyAI提供的处理后数据集包含9000多张图像，其中训练集和验证集划分比例为7:3；
-通过训练秃头数据集，可以快速算出合影、视频、或区域街景中，目标区域中的“含秃率”。也可以在皮肤科、内分泌科、脱发专科门诊，协助医生进行病理性脱发的病程判定。还可以成为植发医院的销售线索工具，无论是在密集人群中发现目标群体，还是对比特定区域之间的目标群体密度，都可以进行尝试。<h3>Deadline: 2020-07-23T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 2,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://www.flyai.com/d/MedicalQA</id>
@@ -578,7 +562,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-07-06T15:58:14+08:00</updated>
+        <updated>2020-07-07T15:58:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -592,7 +576,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-07-06T15:58:14+08:00</updated>
+        <updated>2020-07-07T15:58:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -606,7 +590,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-07-06T15:58:14+08:00</updated>
+        <updated>2020-07-07T15:58:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -620,7 +604,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-07-06T15:58:14+08:00</updated>
+        <updated>2020-07-07T15:58:06+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -696,7 +680,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000038439/introduction"/>
         <summary>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000038439/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-07-10T18:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000038439/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020深圳开放数据应用创新大赛，大赛以“数聚粤港澳，智汇大湾区”为主题，面向全球征集基于开放数据的创新应用解决方案及优秀算法代码。<h3>Deadline: 2020-07-10T23:59:59+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
