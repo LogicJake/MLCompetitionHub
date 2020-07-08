@@ -2,6 +2,14 @@
 
 
 
+## 2020 DIGIX全球校园AI算法精英大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html  
+Description: 广聚全球校园精英 挑战AI算法极限  
+Deadline: 2020-10-31T00:00:00+0800  
+Reward: $158000  
+
+
 ## AI开发者大赛-温室温度预测挑战赛
 
 Link: https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html  
@@ -72,14 +80,6 @@ Reward: 77500
 
 Link: https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html  
 Description: 农业生产中，由于过程的主体是生物，存在多样性和变异性、个体与群体差异性，农业大数据中存在许多的专业名词，如农作物、病虫害、土壤修复、施肥方案、生理胁迫、种苗、疑难杂症、缺素、天气条件、地理信息等，尤其是非结构化的数据快速增长，如何挖掘数据价值、提高数据分析应用能力、减少数据冗余和数据垃圾，是农业大数据面临的重要问题。  
-Deadline: 2020-10-25T00:00:00+0800  
-Reward: 77500  
-
-
-## AI开发者大赛-脑PET图像分析和疾病预测挑战赛
-
-Link: https://www.dcjingsai.com/common/cmpt/AI开发者大赛-脑PET图像分析和疾病预测挑战赛_竞赛信息.html  
-Description: 脑PET(Positron Emission Tomography )全称为脑部正电子发射计算机断层显像，是反映脑部病变的基因、分子、代谢及功能状态的显像。它是利用正电子核素标记葡萄糖等人体代谢物作为显像剂，通过病灶对显像剂的摄取来反映其代谢变化，从而为临床提供疾病的生物代谢信息，为脑癫痫病、脑肿瘤、帕金森病、阿尔茨海默综合症等提供了有效的检测手段。可利用脑PET图像检测出早期阿尔茨海默综合症病灶，并提前介入治疗，从而延缓发病，对后续患者康复治疗有着积极的意义。因此本赛题以阿尔茨海默综合症为例对脑PET图像进行分析与疾病预测。  
 Deadline: 2020-10-25T00:00:00+0800  
 Reward: 77500  
 
