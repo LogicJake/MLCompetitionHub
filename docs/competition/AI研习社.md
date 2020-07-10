@@ -2,6 +2,14 @@
 
 
 
+## 心脏病诊断结果预测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/77  
+Description: 本数据集来自加州大学欧文分校（UCI）机器学习与智能系统中心，具体包含了患者的14个属性（年龄、胆固醇、血压等等），选手以此来建立心脏病诊断模型。  
+Deadline: 2020-08-08T23:59:59+0800  
+Reward: 1000.00  
+
+
 ## 知乎问题自动标注
 
 Link: https://god.yanxishe.com/75  
