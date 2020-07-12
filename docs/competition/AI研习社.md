@@ -25,11 +25,3 @@ Description: 不断增长的电子商务行业为我们提供了大量数据，�
 Deadline: 2020-07-23T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 验证码识别挑战赛（二）-- 中文验证码识别
-
-Link: https://god.yanxishe.com/71  
-Description: 本次比赛是验证码识别挑战赛第二场，中文验证码识别。  
-Deadline: 2020-07-11T23:59:59+0800  
-Reward: 3000.00  
-
