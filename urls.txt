@@ -216,3 +216,4 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 https://tianchi.aliyun.com/competition/entrance/531809/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/41
 https://god.yanxishe.com/77
+https://tianchi.aliyun.com/competition/entrance/531800/introduction
