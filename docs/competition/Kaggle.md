@@ -2,7 +2,7 @@
 
 
 
-## OSIC Pulmonary Fibrosis Progression <sup style="color:red">[new]<sup>  
+## OSIC Pulmonary Fibrosis Progression
 
 Link: https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression  
 Description: Predict lung function decline  

@@ -2,7 +2,7 @@
 
 
 
-## 2020 DIGIX全球校园AI算法精英大赛 <sup style="color:red">[new]<sup>  
+## 2020 DIGIX全球校园AI算法精英大赛
 
 Link: https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html  
 Description: 广聚全球校园精英 挑战AI算法极限  
