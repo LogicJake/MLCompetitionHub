@@ -18,7 +18,7 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥200,000  
 
 
-## 睿聚杯2020全国高校法律科技创新大赛 <sup style="color:red">[new]<sup>  
+## 睿聚杯2020全国高校法律科技创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/41  
 Description: 利用飞桨模型和算法对输入的文本、要素及人名进行匹配判断，判断在当前输入文本中，与要素相对应的人名。  
