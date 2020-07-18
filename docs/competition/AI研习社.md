@@ -2,6 +2,14 @@
 
 
 
+## 电影用户评价预测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/79  
+Description: 本次比赛数据集包含多个用户对多部电影的评级数据，也包括电影元数据信息和用户属性信息。  
+Deadline: 2020-08-15T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 心脏病诊断结果预测
 
 Link: https://god.yanxishe.com/77  

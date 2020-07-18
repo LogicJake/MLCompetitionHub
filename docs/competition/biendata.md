@@ -90,18 +90,18 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥15,000  
 
 
-## CCKS 2020: COVID 19 Question-answering
-
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
-Description: CCKS 2020: COVID 19 Question-answering  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
 ## CCKS 2020: Link Prediction
 
 Link: https://www.biendata.com/competition/ccks_2020_7_3/  
 Description: CCKS 2020: Link Prediction  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥ 15,000  
+
+
+## CCKS 2020: COVID 19 Question-answering
+
+Link: https://www.biendata.com/competition/ccks_2020_7_4/  
+Description: CCKS 2020: COVID 19 Question-answering  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 15,000  
 
@@ -128,14 +128,6 @@ Link: https://www.biendata.com/competition/ccks_2020_el/
 Description: CCKS 2020: Entity Linking  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥ 45,000  
-
-
-## KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform
-
-Link: https://www.biendata.com/competition/kdd_didi/  
-Description: KDD CUP 2020: Learning to Dispatch and Reposition on a Mobility-on-Demand Platform  
-Deadline: 2020-07-17T08:00:00+0800  
-Reward: $ 30,000  
 
 
 ## GigaVision Challenge 2020: Task 2
