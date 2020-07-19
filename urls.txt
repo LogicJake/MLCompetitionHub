@@ -220,3 +220,6 @@ https://tianchi.aliyun.com/competition/entrance/531800/introduction
 https://www.dcjingsai.com/common/cmpt/AI开发者大赛-X光安检违禁品识别挑战赛_竞赛信息.html
 https://www.flyai.com/d/TBDetection
 https://god.yanxishe.com/79
+https://zindi.africa/competitions/ai4d-african-language-dataset-challenge
+https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge
+https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge

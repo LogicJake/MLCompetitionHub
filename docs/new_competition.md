@@ -1,19 +1,23 @@
-> 更新时间: 2020-07-18T16:28:29+0800 
+> 更新时间: 2020-07-19T16:28:23+0800 
 
 # 新上线比赛
 
 
-## 结核杆菌目标检测
-Link: https://www.flyai.com/d/TBDetection  
-Description: 结核病（Tuberculosis，TB)是由结核分枝杆菌（Mycobacterium tuberculosis) 引起的一种慢性人畜共患病，它不受年龄、性别、种族、职业、地区的影响，人体许多器官、系统均可患结核病，其中以肺结核最为常见。结核病既是一个公共卫生问题，也是一个社会经济问题，对人类的公共健康构成很大威胁，因此对其快速诊断检测就至关重要。
-染色处理可以使得结核杆菌在显微镜拍摄的医学图像中显现，医生则可以通过检测图像中的结核杆菌辅助诊断患者是否有结核病。
-通过构建准确率的目标检测模型可实现由智能系统辅助医生进行检测工作，应用于目前的医疗检测产品中能够满足真实的结核病检测需求。  
-Deadline: 2020-08-22T20:00:00+0800  
-Reward: 奖金池 ¥ 3,000  
+## GIZ AI4D Africa Language Challenge - Round 2
+Link: https://zindi.africa/competitions/ai4d-african-language-dataset-challenge  
+Description: Calling on the Zindi community to help uncover and create African Language Datasets for improved representation in the field of NLP  
+Deadline: 2020-08-03T07:59:00+0800  
+Reward: $6,000 USD  
 
-## 电影用户评价预测
-Link: https://god.yanxishe.com/79  
-Description: 本次比赛数据集包含多个用户对多部电影的评级数据，也包括电影元数据信息和用户属性信息。  
-Deadline: 2020-08-15T23:59:59+0800  
-Reward: 3000.00  
+## Zimnat Insurance Recommendation Challenge
+Link: https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge  
+Description: Can you predict which insurance products existing clients will want next?  
+Deadline: 2020-09-14T07:59:00+0800  
+Reward: $5,000 USD  
+
+## Akeed Restaurant Recommendation Challenge
+Link: https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge  
+Description: Predict which restaurants in Oman customers will most likely order from   
+Deadline: 2020-08-17T07:59:00+0800  
+Reward: $3,000 USD  
 
