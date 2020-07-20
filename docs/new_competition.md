@@ -1,23 +1,13 @@
-> 更新时间: 2020-07-19T16:28:23+0800 
+> 更新时间: 2020-07-20T16:02:21+0800 
 
 # 新上线比赛
 
 
-## GIZ AI4D Africa Language Challenge - Round 2
-Link: https://zindi.africa/competitions/ai4d-african-language-dataset-challenge  
-Description: Calling on the Zindi community to help uncover and create African Language Datasets for improved representation in the field of NLP  
-Deadline: 2020-08-03T07:59:00+0800  
-Reward: $6,000 USD  
-
-## Zimnat Insurance Recommendation Challenge
-Link: https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge  
-Description: Can you predict which insurance products existing clients will want next?  
-Deadline: 2020-09-14T07:59:00+0800  
-Reward: $5,000 USD  
-
-## Akeed Restaurant Recommendation Challenge
-Link: https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge  
-Description: Predict which restaurants in Oman customers will most likely order from   
-Deadline: 2020-08-17T07:59:00+0800  
-Reward: $3,000 USD  
+## 第二届翼支付杯大数据建模大赛-信用风险用户识别
+Link: https://www.dcjingsai.com/common/cmpt/第二届翼支付杯大数据建模大赛-信用风险用户识别_竞赛信息.html  
+Description: 天翼电子商务有限公司是中国电信股份有限公司全资子公司，是中国人民银行核准的第三方支付机构，中国证监会核准的基金支付结算机构，现已拥有支付、供应链融资、保险、消费金融、征信、信息技术等互联网金融关键要素。天翼电子商务有限公司秉承“响应监管、服务民生、资源共享、合作多赢”的理念，一直致力于让客户尽情享受安全便捷的金融新生活。
+央行发布《金融科技FinTech》报告，强调金融科技成为推动金融转型升级的新引擎，成为促进普惠金融发展的新机遇。运用大数据、人工智能等技术建立金融风控模型，有效甄别高风险交易，智能感知异常交易，实现风险早识别、早预警、早处置，提升金融风险防范能力，是 “金融+科技”成果的显著体现。
+天翼电子商务有限公司积极研究探索“金融科技FinTech”技术并努力应用到实际业务中，挖掘更多金融科技在实际普惠金融业务的应用方案。此次第二届翼支付杯大数据建模大赛将为校园新生力量提供才华施展的舞台和交流学习的通道，在实践中磨炼数据挖掘的专业能力，帮助学生完成从校园到社会的角色转变。  
+Deadline: 2020-09-20T00:00:00+0800  
+Reward: 161700  
 
