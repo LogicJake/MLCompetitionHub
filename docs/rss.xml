@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-07-22T16:00:01+08:00</updated>
+    <updated>2020-07-23T16:00:18+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -520,7 +520,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-07-22T16:00:01+08:00</updated>
+        <updated>2020-07-23T16:00:18+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -588,7 +588,7 @@ Bald Classification Dataset（秃头数据集）由 Ashish Jangra 于今年 5 �
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-07-22T16:00:01+08:00</updated>
+        <updated>2020-07-23T16:00:18+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -602,7 +602,7 @@ Bald Classification Dataset（秃头数据集）由 Ashish Jangra 于今年 5 �
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-07-22T16:00:01+08:00</updated>
+        <updated>2020-07-23T16:00:18+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -616,7 +616,7 @@ Bald Classification Dataset（秃头数据集）由 Ashish Jangra 于今年 5 �
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-07-22T16:00:01+08:00</updated>
+        <updated>2020-07-23T16:00:18+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -630,7 +630,7 @@ Bald Classification Dataset（秃头数据集）由 Ashish Jangra 于今年 5 �
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-07-22T16:00:01+08:00</updated>
+        <updated>2020-07-23T16:00:18+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -765,20 +765,6 @@ Bald Classification Dataset（秃头数据集）由 Ashish Jangra 于今年 5 �
         <link href="https://www.kaggle.com/c/landmark-retrieval-2020"/>
         <summary>Given an image, can you find all of the same landmarks in a dataset?</summary>
         <content type="text/html" src="https://www.kaggle.com/c/landmark-retrieval-2020"><![CDATA[<h3>Description</h3>Given an image, can you find all of the same landmarks in a dataset?<h3>Deadline: 2020-08-18T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/prostate-cancer-grade-assessment</id>
-        <title><![CDATA[Prostate cANcer graDe Assessment (PANDA) Challenge]]></title>
-        
-        <updated>2020-04-22T00:38:33+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/prostate-cancer-grade-assessment"/>
-        <summary>Prostate cancer diagnosis using the Gleason grading system</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/prostate-cancer-grade-assessment"><![CDATA[<h3>Description</h3>Prostate cancer diagnosis using the Gleason grading system<h3>Deadline: 2020-07-23T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

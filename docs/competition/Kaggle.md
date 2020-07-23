@@ -34,14 +34,6 @@ Deadline: 2020-08-18T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## Prostate cANcer graDe Assessment (PANDA) Challenge
-
-Link: https://www.kaggle.com/c/prostate-cancer-grade-assessment  
-Description: Prostate cancer diagnosis using the Gleason grading system  
-Deadline: 2020-07-23T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Global Wheat Detection 
 
 Link: https://www.kaggle.com/c/global-wheat-detection  
