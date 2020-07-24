@@ -2,7 +2,7 @@
 
 
 
-## 结核杆菌目标检测 <sup style="color:red">[new]<sup>  
+## 结核杆菌目标检测
 
 Link: https://www.flyai.com/d/TBDetection  
 Description: 结核病（Tuberculosis，TB)是由结核分枝杆菌（Mycobacterium tuberculosis) 引起的一种慢性人畜共患病，它不受年龄、性别、种族、职业、地区的影响，人体许多器官、系统均可患结核病，其中以肺结核最为常见。结核病既是一个公共卫生问题，也是一个社会经济问题，对人类的公共健康构成很大威胁，因此对其快速诊断检测就至关重要。
