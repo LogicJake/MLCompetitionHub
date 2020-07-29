@@ -2,7 +2,7 @@
 
 
 
-## Jリーグプレイヤーの出場時間予測 <sup style="color:red">[new]<sup>  
+## Jリーグプレイヤーの出場時間予測
 
 Link: https://www.nishika.com/competitions/6  
 Description: Jリーグプレイヤーの出場時間予測  
