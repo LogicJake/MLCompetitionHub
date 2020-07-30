@@ -231,3 +231,4 @@ https://www.flyai.com/d/StockPredict
 https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4
 https://zindi.africa/competitions/usaids-intelligent-forecasting-challenge-model-future-contraceptive-use
 https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛信息.html
+https://www.kaggle.com/c/landmark-recognition-2020
