@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-07-29T16:00:01+08:00</updated>
+    <updated>2020-07-30T16:00:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -520,7 +520,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-07-29T16:00:01+08:00</updated>
+        <updated>2020-07-30T16:00:03+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -531,6 +531,24 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.flyai.com/d/TBDetection</id>
+        <title><![CDATA[结核杆菌目标检测]]></title>
+        
+        <updated>2020-07-17T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/TBDetection"/>
+        <summary>结核病（Tuberculosis，TB)是由结核分枝杆菌（Mycobacterium tuberculosis) 引起的一种慢性人畜共患病，它不受年龄、性别、种族、职业、地区的影响，人体许多器官、系统均可患结核病，其中以肺结核最为常见。结核病既是一个公共卫生问题，也是一个社会经济问题，对人类的公共健康构成很大威胁，因此对其快速诊断检测就至关重要。
+染色处理可以使得结核杆菌在显微镜拍摄的医学图像中显现，医生则可以通过检测图像中的结核杆菌辅助诊断患者是否有结核病。
+通过构建准确率的目标检测模型可实现由智能系统辅助医生进行检测工作，应用于目前的医疗检测产品中能够满足真实的结核病检测需求。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/TBDetection"><![CDATA[<h3>Description</h3>结核病（Tuberculosis，TB)是由结核分枝杆菌（Mycobacterium tuberculosis) 引起的一种慢性人畜共患病，它不受年龄、性别、种族、职业、地区的影响，人体许多器官、系统均可患结核病，其中以肺结核最为常见。结核病既是一个公共卫生问题，也是一个社会经济问题，对人类的公共健康构成很大威胁，因此对其快速诊断检测就至关重要。
+染色处理可以使得结核杆菌在显微镜拍摄的医学图像中显现，医生则可以通过检测图像中的结核杆菌辅助诊断患者是否有结核病。
+通过构建准确率的目标检测模型可实现由智能系统辅助医生进行检测工作，应用于目前的医疗检测产品中能够满足真实的结核病检测需求。<h3>Deadline: 2020-08-30T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.flyai.com/d/StockPredict</id>
@@ -554,7 +572,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-07-29T16:00:01+08:00</updated>
+        <updated>2020-07-30T16:00:03+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -568,7 +586,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-07-29T16:00:01+08:00</updated>
+        <updated>2020-07-30T16:00:03+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -582,7 +600,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-07-29T16:00:01+08:00</updated>
+        <updated>2020-07-30T16:00:03+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -596,7 +614,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-07-29T16:00:01+08:00</updated>
+        <updated>2020-07-30T16:00:03+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -703,6 +721,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kaggle.com/c/siim-isic-melanoma-classification"/>
         <summary>Identify melanoma in lesion images</summary>
         <content type="text/html" src="https://www.kaggle.com/c/siim-isic-melanoma-classification"><![CDATA[<h3>Description</h3>Identify melanoma in lesion images<h3>Deadline: 2020-08-18T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/landmark-recognition-2020</id>
+        <title><![CDATA[Google Landmark Recognition 2020]]></title>
+        
+        <updated>2020-07-30T05:35:48+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/landmark-recognition-2020"/>
+        <summary>Label famous (and not-so-famous) landmarks in images</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/landmark-recognition-2020"><![CDATA[<h3>Description</h3>Label famous (and not-so-famous) landmarks in images<h3>Deadline: 2020-09-30T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -1101,20 +1133,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://god.yanxishe.com/77"/>
         <summary>本数据集来自加州大学欧文分校（UCI）机器学习与智能系统中心，具体包含了患者的14个属性（年龄、胆固醇、血压等等），选手以此来建立心脏病诊断模型。</summary>
         <content type="text/html" src="https://god.yanxishe.com/77"><![CDATA[<h3>Description</h3>本数据集来自加州大学欧文分校（UCI）机器学习与智能系统中心，具体包含了患者的14个属性（年龄、胆固醇、血压等等），选手以此来建立心脏病诊断模型。<h3>Deadline: 2020-08-08T23:59:59+08:00</h3><h3>Reward: 1000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/75</id>
-        <title><![CDATA[知乎问题自动标注]]></title>
-        
-        <updated>2020-06-30T11:13:38+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/75"/>
-        <summary>知乎是国内知名问答社区，凭借专业、友善的社区氛围，聚集了各行各业的专家，将高质量的内容成规模生产。在知乎海量的数据中，添加正确的标签能使用户更容易搜索到想看的内容，同时有利于数据挖掘。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/75"><![CDATA[<h3>Description</h3>知乎是国内知名问答社区，凭借专业、友善的社区氛围，聚集了各行各业的专家，将高质量的内容成规模生产。在知乎海量的数据中，添加正确的标签能使用户更容易搜索到想看的内容，同时有利于数据挖掘。<h3>Deadline: 2020-07-29T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
