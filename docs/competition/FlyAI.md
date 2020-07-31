@@ -12,7 +12,7 @@ Deadline: 2020-08-30T20:00:00+0800
 Reward: 奖金池 ¥ 3,000  
 
 
-## A股股票趋势走向预测 <sup style="color:red">[new]<sup>  
+## A股股票趋势走向预测
 
 Link: https://www.flyai.com/d/StockPredict  
 Description: 通过对股票数据分析，投资者和交易者可以做出股票买卖决策。使用时间序列预测分析技术可实现对股票走向趋势预测，研究和评估过去及现在的数据有助于投资者和交易者在市场中获得优势，从而做出明智的决策。 
