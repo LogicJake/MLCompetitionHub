@@ -18,7 +18,7 @@ Deadline: 2020-09-11T00:00:00+0800
 Reward: 医保局战略合作伙伴机会 证书及奖杯  
 
 
-## 长三角科创共同体挖掘数据竞赛 <sup style="color:red">[new]<sup>  
+## 长三角科创共同体挖掘数据竞赛
 
 Link: https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4  
 Description: 敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛  
