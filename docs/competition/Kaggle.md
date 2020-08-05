@@ -41,11 +41,3 @@ Description: Given an image, can you find all of the same landmarks in a dataset
 Deadline: 2020-08-18T07:59:00+0800  
 Reward: 25000.0 USD  
 
-
-## Global Wheat Detection 
-
-Link: https://www.kaggle.com/c/global-wheat-detection  
-Description: Can you help identify wheat heads using image analysis?  
-Deadline: 2020-08-05T07:59:00+0800  
-Reward: 15000.0 USD  
-
