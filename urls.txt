@@ -234,3 +234,4 @@ https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛�
 https://www.kaggle.com/c/landmark-recognition-2020
 https://god.yanxishe.com/82
 https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189
+https://competition.huaweicloud.com/information/1000041300/introduction
