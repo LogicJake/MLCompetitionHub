@@ -18,7 +18,7 @@ Deadline: 2020-08-18T07:59:00+0800
 Reward: 30000.0 USD  
 
 
-## Google Landmark Recognition 2020 <sup style="color:red">[new]<sup>  
+## Google Landmark Recognition 2020
 
 Link: https://www.kaggle.com/c/landmark-recognition-2020  
 Description: Label famous (and not-so-famous) landmarks in images  
