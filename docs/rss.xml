@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-06T16:00:03+08:00</updated>
+    <updated>2020-08-07T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -520,7 +520,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-06T16:00:03+08:00</updated>
+        <updated>2020-08-07T16:00:08+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -554,7 +554,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-06T16:00:03+08:00</updated>
+        <updated>2020-08-07T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -568,7 +568,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-06T16:00:03+08:00</updated>
+        <updated>2020-08-07T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -582,7 +582,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-06T16:00:03+08:00</updated>
+        <updated>2020-08-07T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -596,7 +596,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-06T16:00:03+08:00</updated>
+        <updated>2020-08-07T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -686,7 +686,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://competition.huaweicloud.com/information/1000037843/introduction"/>
         <summary>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000037843/introduction"><![CDATA[<h3>Description</h3>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。<h3>Deadline: 2020-08-06T22:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000037843/introduction"><![CDATA[<h3>Description</h3>该赛事由清华大学、中国人工智能学会和华为技术有限公司联合举办，华为云大数据平台提供支持，以企业真实场景和实际数据为基础，面向全球开放的高端算法竞赛。<h3>Deadline: 2020-08-10T12:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -1055,20 +1055,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://tianchi.aliyun.com/competition/entrance/231787/introduction"/>
         <summary>In this challenge, participants are required to label each foreground pixel with the appropriate object and instance. We include this challenge because it will motivate vision based image generation, thereby improving relevant industrial production chains, for example by partially reducing the requirement for expensive 3D rendering.</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/231787/introduction"><![CDATA[<h3>Description</h3>In this challenge, participants are required to label each foreground pixel with the appropriate object and instance. We include this challenge because it will motivate vision based image generation, thereby improving relevant industrial production chains, for example by partially reducing the requirement for expensive 3D rendering.<h3>Deadline: 2020-08-08T23:55:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531812/introduction</id>
-        <title><![CDATA[安全AI挑战者计划第五期：伪造图像的对抗攻击(赛季 1)]]></title>
-        
-        <updated>2020-07-23T18:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531812/introduction"/>
-        <summary>全球首个针对证件文档类图像伪造的对抗攻击竞赛，“造假王”来袭！伪造出你的专属证件图像，视觉无痕迹且骗过识别系统，即为目标。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531812/introduction"><![CDATA[<h3>Description</h3>全球首个针对证件文档类图像伪造的对抗攻击竞赛，“造假王”来袭！伪造出你的专属证件图像，视觉无痕迹且骗过识别系统，即为目标。<h3>Deadline: 2020-11-09T00:00:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
