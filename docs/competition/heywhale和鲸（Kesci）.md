@@ -2,7 +2,7 @@
 
 
 
-## Workshop | Python 气象数据分析 <sup style="color:red">[new]<sup>  
+## Workshop | Python 气象数据分析
 
 Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
 Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
