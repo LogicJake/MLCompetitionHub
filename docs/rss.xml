@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-13T16:00:04+08:00</updated>
+    <updated>2020-08-14T16:00:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -534,7 +534,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-13T16:00:04+08:00</updated>
+        <updated>2020-08-14T16:00:54+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -547,28 +547,10 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     
     
     <entry>
-        <id>https://www.flyai.com/d/StockPredict</id>
-        <title><![CDATA[A股股票趋势走向预测]]></title>
-        
-        <updated>2020-07-24T12:00:00+08:00</updated>
-        
-        <link href="https://www.flyai.com/d/StockPredict"/>
-        <summary>通过对股票数据分析，投资者和交易者可以做出股票买卖决策。使用时间序列预测分析技术可实现对股票走向趋势预测，研究和评估过去及现在的数据有助于投资者和交易者在市场中获得优势，从而做出明智的决策。 
-数据集包含从1990年开始到2019年的全部数据集，2020年的数据作为评估集进行评估。本赛题要求参赛者构建准确的股票预测模型，使用预测结果反向误差率作为评估指标，反向误差率越高，排名越靠前。</summary>
-        <content type="text/html" src="https://www.flyai.com/d/StockPredict"><![CDATA[<h3>Description</h3>通过对股票数据分析，投资者和交易者可以做出股票买卖决策。使用时间序列预测分析技术可实现对股票走向趋势预测，研究和评估过去及现在的数据有助于投资者和交易者在市场中获得优势，从而做出明智的决策。 
-数据集包含从1990年开始到2019年的全部数据集，2020年的数据作为评估集进行评估。本赛题要求参赛者构建准确的股票预测模型，使用预测结果反向误差率作为评估指标，反向误差率越高，排名越靠前。<h3>Deadline: 2020-08-31T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 4,000</h3>]]></content>
-        <author>
-            <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-13T16:00:04+08:00</updated>
+        <updated>2020-08-14T16:00:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -582,7 +564,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-13T16:00:04+08:00</updated>
+        <updated>2020-08-14T16:00:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -596,7 +578,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-13T16:00:04+08:00</updated>
+        <updated>2020-08-14T16:00:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -610,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-13T16:00:04+08:00</updated>
+        <updated>2020-08-14T16:00:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -1021,6 +1003,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     
     
     
+    
+    <entry>
+        <id>https://god.yanxishe.com/84</id>
+        <title><![CDATA[美丽城市--垃圾分类识别]]></title>
+        
+        <updated>2020-08-14T11:00:00+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/84"/>
+        <summary>垃圾分类作为创建文明城市、改善人居环境的一项重点工作。按照住建部规划，今年年底，46个重点城市基本建成垃圾分类处理系统，其他地级城市实现公共机构生活垃圾分类全覆盖。本次比赛的任务就是垃圾分类识别。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/84"><![CDATA[<h3>Description</h3>垃圾分类作为创建文明城市、改善人居环境的一项重点工作。按照住建部规划，今年年底，46个重点城市基本建成垃圾分类处理系统，其他地级城市实现公共机构生活垃圾分类全覆盖。本次比赛的任务就是垃圾分类识别。<h3>Deadline: 2020-09-13T23:59:59+08:00</h3><h3>Reward: 2000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://god.yanxishe.com/83</id>

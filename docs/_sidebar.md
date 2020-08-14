@@ -6,7 +6,6 @@
   * [DataFountain](competition/DataFountain.md)
   * [DC竞赛](competition/DC竞赛.md)
   * [百度点石](competition/百度点石.md)
-  * [FlyAI](competition/FlyAI.md)
   * [AI FUTURELAB](competition/AI_FUTURELAB.md)
   * [华为云大赛（人工智能赛）](competition/华为云大赛（人工智能赛）.md)
   * [Kaggle](competition/Kaggle.md)
