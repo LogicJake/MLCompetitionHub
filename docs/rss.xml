@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-14T16:00:54+08:00</updated>
+    <updated>2020-08-15T16:00:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -534,7 +534,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-14T16:00:54+08:00</updated>
+        <updated>2020-08-15T16:00:19+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -550,7 +550,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-14T16:00:54+08:00</updated>
+        <updated>2020-08-15T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -564,7 +564,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-14T16:00:54+08:00</updated>
+        <updated>2020-08-15T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -578,7 +578,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-14T16:00:54+08:00</updated>
+        <updated>2020-08-15T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -592,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-14T16:00:54+08:00</updated>
+        <updated>2020-08-15T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -613,20 +613,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://competition.huaweicloud.com/information/1000041300/introduction"/>
         <summary>本赛事是由中国国际智能产业博览会、重庆两江新区管委会与华为联合发起的人工智能交流赛事，面向全国的企业、个人、高校师生开放。</summary>
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041300/introduction"><![CDATA[<h3>Description</h3>本赛事是由中国国际智能产业博览会、重庆两江新区管委会与华为联合发起的人工智能交流赛事，面向全国的企业、个人、高校师生开放。<h3>Deadline: 2020-09-10T18:00:59+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000032499/introduction</id>
-        <title><![CDATA[2020第二届华为云人工智能大赛 · 无人车挑战杯]]></title>
-        
-        <updated>2020-06-15T09:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000032499/introduction"/>
-        <summary>本大赛是在华为云人工智能平台（华为云一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）及无人驾驶小车基础上，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧的赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000032499/introduction"><![CDATA[<h3>Description</h3>本大赛是在华为云人工智能平台（华为云一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）及无人驾驶小车基础上，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧的赛事。<h3>Deadline: 2020-08-14T18:00:00+08:00</h3><h3>Reward: ￥630000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -726,7 +712,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://www.kaggle.com/c/global-wheat-detection"/>
         <summary>Can you help identify wheat heads using image analysis?</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/global-wheat-detection"><![CDATA[<h3>Description</h3>Can you help identify wheat heads using image analysis?<h3>Deadline: 2020-08-15T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/global-wheat-detection"><![CDATA[<h3>Description</h3>Can you help identify wheat heads using image analysis?<h3>Deadline: 2020-08-18T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
