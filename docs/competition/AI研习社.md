@@ -33,11 +33,3 @@ Description: 自动光学检测可以显著降低工业质量控制成本，本�
 Deadline: 2020-08-22T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 电影用户评价预测
-
-Link: https://god.yanxishe.com/79  
-Description: 本次比赛数据集包含多个用户对多部电影的评级数据，也包括电影元数据信息和用户属性信息。  
-Deadline: 2020-08-15T23:59:59+0800  
-Reward: 3000.00  
-
