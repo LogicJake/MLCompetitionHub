@@ -17,11 +17,3 @@ Description: Can you predict which insurance products existing clients will want
 Deadline: 2020-09-14T07:59:00+0800  
 Reward: $5,000 USD  
 
-
-## Akeed Restaurant Recommendation Challenge
-
-Link: https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge  
-Description: Predict which restaurants in Oman customers will most likely order from   
-Deadline: 2020-08-17T07:59:00+0800  
-Reward: $3,000 USD  
-

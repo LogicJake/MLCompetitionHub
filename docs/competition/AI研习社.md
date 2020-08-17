@@ -10,7 +10,7 @@ Deadline: 2020-09-13T23:59:59+0800
 Reward: 2000.00  
 
 
-## 人脸检测--国外名人识别 <sup style="color:red">[new]<sup>  
+## 人脸检测--国外名人识别
 
 Link: https://god.yanxishe.com/83  
 Description: 本次比赛人脸数据来自互联网，每张照片都有对应的人物姓名。比赛任务：根据测试集给出的照片，识别照片人物的姓名。  
