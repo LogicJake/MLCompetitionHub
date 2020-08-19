@@ -2,6 +2,30 @@
 
 
 
+## 2020“海上争锋”中国智能船艇挑战赛：海上争锋2020（D组） <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246  
+Description:   
+Deadline: 2020-10-18T00:00:00+0800  
+Reward: ￥50,000  
+
+
+## 2020“海上争锋”中国智能船艇挑战赛：无人商船自主避障算法赛（C组） <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3  
+Description:   
+Deadline: 2020-10-18T00:00:00+0800  
+Reward: ￥25,000  
+
+
+## 2020“海上争锋”中国智能船艇挑战赛：智能船艇概念设计（A组） <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190  
+Description:   
+Deadline: 2020-10-18T00:00:00+0800  
+Reward: ￥19,000  
+
+
 ## Workshop | Python 气象数据分析
 
 Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
@@ -67,13 +91,4 @@ Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，
 选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。  
 Deadline: 2020-12-31T00:00:00+0800  
 Reward: 热点赛  
-
-
-## 预测分析·客户购买预测
-
-Link: https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。  
-Deadline: 2030-12-31T00:00:00+0800  
-Reward: 新人赛  
 

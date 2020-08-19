@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-18T16:00:03+08:00</updated>
+    <updated>2020-08-19T16:00:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -293,6 +293,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
         <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
         
@@ -315,20 +329,6 @@
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -548,7 +548,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-18T16:00:03+08:00</updated>
+        <updated>2020-08-19T16:00:19+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -564,7 +564,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-18T16:00:03+08:00</updated>
+        <updated>2020-08-19T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -578,7 +578,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-18T16:00:03+08:00</updated>
+        <updated>2020-08-19T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -592,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-18T16:00:03+08:00</updated>
+        <updated>2020-08-19T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -606,7 +606,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-18T16:00:03+08:00</updated>
+        <updated>2020-08-19T16:00:19+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -617,6 +617,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     </entry>
     
     
+    
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000041306/introduction</id>
+        <title><![CDATA[2020年东风公司智能制造大数据创意大赛]]></title>
+        
+        <updated>2020-08-19T09:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041306/introduction"/>
+        <summary>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041306/introduction"><![CDATA[<h3>Description</h3>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。<h3>Deadline: 2020-09-08T18:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://competition.huaweicloud.com/information/1000041300/introduction</id>
@@ -698,13 +712,55 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://www.kaggle.com/c/global-wheat-detection"/>
         <summary>Can you help identify wheat heads using image analysis?</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/global-wheat-detection"><![CDATA[<h3>Description</h3>Can you help identify wheat heads using image analysis?<h3>Deadline: 2020-08-19T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/global-wheat-detection"><![CDATA[<h3>Description</h3>Can you help identify wheat heads using image analysis?<h3>Deadline: 2020-08-20T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246</id>
+        <title><![CDATA[2020“海上争锋”中国智能船艇挑战赛：海上争锋2020（D组）]]></title>
+        
+        <updated>2020-08-19T13:28:33+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246"><![CDATA[<h3>Description</h3><h3>Deadline: 2020-10-18T00:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3</id>
+        <title><![CDATA[2020“海上争锋”中国智能船艇挑战赛：无人商船自主避障算法赛（C组）]]></title>
+        
+        <updated>2020-08-19T11:33:17+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3"><![CDATA[<h3>Description</h3><h3>Deadline: 2020-10-18T00:00:00+08:00</h3><h3>Reward: ￥25,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190</id>
+        <title><![CDATA[2020“海上争锋”中国智能船艇挑战赛：智能船艇概念设计（A组）]]></title>
+        
+        <updated>2020-08-19T11:06:47+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190"><![CDATA[<h3>Description</h3><h3>Deadline: 2020-10-18T00:00:00+08:00</h3><h3>Reward: ￥19,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189</id>
@@ -824,22 +880,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3</id>
-        <title><![CDATA[预测分析·客户购买预测]]></title>
-        
-        <updated>2018-12-26T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"/>
-        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2030-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -918,13 +958,13 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531796/introduction</id>
-        <title><![CDATA[Spark“数字人体”AI挑战赛——脊柱疾病智能诊断大赛(赛季 1)]]></title>
+        <title><![CDATA[Spark“数字人体”AI挑战赛——脊柱疾病智能诊断大赛(赛季 2)]]></title>
         
-        <updated>2020-05-20T14:00:00+08:00</updated>
+        <updated>2020-08-18T01:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531796/introduction"/>
         <summary>召集全球开发者利用人工智能技术探索高效准确的脊柱退化性疾病自动诊断，并积极推动相关技术的临床应用</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531796/introduction"><![CDATA[<h3>Description</h3>召集全球开发者利用人工智能技术探索高效准确的脊柱退化性疾病自动诊断，并积极推动相关技术的临床应用<h3>Deadline: 2020-08-20T23:55:00+08:00</h3><h3>Reward: ￥460000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531796/introduction"><![CDATA[<h3>Description</h3>召集全球开发者利用人工智能技术探索高效准确的脊柱退化性疾病自动诊断，并积极推动相关技术的临床应用<h3>Deadline: 2020-09-21T23:55:00+08:00</h3><h3>Reward: ￥460000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
