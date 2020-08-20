@@ -25,11 +25,3 @@ Description: Build tools for bird population monitoring
 Deadline: 2020-09-16T07:59:00+0800  
 Reward: 25000.0 USD  
 
-
-## Global Wheat Detection 
-
-Link: https://www.kaggle.com/c/global-wheat-detection  
-Description: Can you help identify wheat heads using image analysis?  
-Deadline: 2020-08-20T07:59:00+0800  
-Reward: 15000.0 USD  
-
