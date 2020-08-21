@@ -2,7 +2,15 @@
 
 
 
-## 美丽城市--垃圾分类识别 <sup style="color:red">[new]<sup>  
+## 图书评分预测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/85  
+Description: 本次比赛属于推荐系统系列第二场，数据集来自一个网络图书社区。  
+Deadline: 2020-09-20T23:59:59+0800  
+Reward: 3000.00  
+
+
+## 美丽城市--垃圾分类识别
 
 Link: https://god.yanxishe.com/84  
 Description: 垃圾分类作为创建文明城市、改善人居环境的一项重点工作。按照住建部规划，今年年底，46个重点城市基本建成垃圾分类处理系统，其他地级城市实现公共机构生活垃圾分类全覆盖。本次比赛的任务就是垃圾分类识别。  

@@ -58,6 +58,14 @@ Deadline: 2020-09-11T00:00:00+0800
 Reward: 医保局战略合作伙伴机会 证书及奖杯  
 
 
+## 智算之道——人工智能应用挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
+Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
+Deadline: 2020-10-31T23:59:00+0800  
+Reward: ¥ 150,000  
+
+
 ## 长三角科创共同体挖掘数据竞赛
 
 Link: https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4  
@@ -90,13 +98,4 @@ Description: DataJoy® 经典赛难度较高，复刻全球经典大型数据科
 基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。  
 Deadline: 2042-12-31T00:00:00+0800  
 Reward: 经典赛  
-
-
-## 文本分析·疫情期间谣言分析
-
-Link: https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c  
-Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
-选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。  
-Deadline: 2020-12-31T00:00:00+0800  
-Reward: 热点赛  
 
