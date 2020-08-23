@@ -33,11 +33,3 @@ Description: 关系抽取(Relation Extracion,RE)是信息抽取(Information Extr
 Deadline: 2020-08-29T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 工业表面纹理缺陷检测
-
-Link: https://god.yanxishe.com/80  
-Description: 自动光学检测可以显著降低工业质量控制成本，本次比赛要求选手训练一个表面纹理缺陷检测的模型，自动识别工业产品表面缺陷。  
-Deadline: 2020-08-22T23:59:59+0800  
-Reward: 3000.00  
-
