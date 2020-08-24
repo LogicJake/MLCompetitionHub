@@ -2,6 +2,62 @@
 
 
 
+## 千言数据集：机器同传 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/44  
+Description: 针对机器同传质量和延时进行优化  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：文本相似度 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/45  
+Description: 识别两段文本在语义上是否相似  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：信息抽取 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/46  
+Description: 从非结构化自然语言文本中提取实体、关系、事件等结构化知识  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：语义解析 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/47  
+Description: 将用户输入的自然语言问题转成可与数据库操作的SQL查询语句  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：开放域对话 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/48  
+Description: 建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：机器阅读理解 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/49  
+Description: 让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：情感分析 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/50  
+Description: 识别和提取文本中的倾向、立场、评价、观点等主观信息  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
 ## 百度人工智能开源大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/42  
@@ -24,20 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/36
 Description: 2020 IKCEST第二届“一带一路”国际大数据竞赛暨第六届百度&西安交大大数据竞赛  
 Deadline: 2020-09-30T08:00:00+0800  
 Reward: ￥200,000  
-
-
-## 睿聚杯2020全国高校法律科技创新大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/41  
-Description: 利用飞桨模型和算法对输入的文本、要素及人名进行匹配判断，判断在当前输入文本中，与要素相对应的人名。  
-Deadline: 2020-09-13T08:00:00+0800  
-Reward: ￥50,000  
-
-
-## EasyDL产业智能创新大赛 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/43  
-Description: 本次比赛为EasyDL联合乌镇镇政府、桐乡市经济和信息化局、桐乡市工业互联网联合会共同举办，欢迎有场景和业务需求的企业与个人参加比赛。  
-Deadline: 2020-10-22T08:00:00+0800  
-Reward: ￥160,000  
 
