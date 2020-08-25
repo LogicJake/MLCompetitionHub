@@ -2,14 +2,6 @@
 
 
 
-## 智算之道——人工智能应用挑战赛 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
-Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
-Deadline: 2020-10-31T23:59:00+0800  
-Reward: ¥ 150,000  
-
-
 ## 2020“海上争锋”中国智能船艇挑战赛：实海域目标识别算法赛（B组） <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/5f3ccfb655d565002c6ae2ba  
@@ -40,6 +32,14 @@ Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190
 Description:   
 Deadline: 2020-10-18T00:00:00+0800  
 Reward: ￥19,000  
+
+
+## 智算之道——人工智能应用挑战赛
+
+Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
+Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
+Deadline: 2020-10-31T23:59:00+0800  
+Reward: ¥ 150,000  
 
 
 ## Workshop | Python 气象数据分析
@@ -80,22 +80,4 @@ Link: https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8
 Description: “北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。  
 Deadline: 2020-09-11T00:00:00+0800  
 Reward: 医保局战略合作伙伴机会 证书及奖杯  
-
-
-## 预测分析·员工满意度预测
-
-Link: https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
-
-
-## ReID·行人重识别
-
-Link: https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472  
-Description: DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
-基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 经典赛  
 
