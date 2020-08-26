@@ -258,3 +258,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/48
 https://aistudio.baidu.com/aistudio/competition/detail/49
 https://aistudio.baidu.com/aistudio/competition/detail/50
 https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
+https://tianchi.aliyun.com/competition/entrance/531826/introduction
+https://tianchi.aliyun.com/competition/entrance/531824/introduction
