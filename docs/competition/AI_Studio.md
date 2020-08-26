@@ -42,7 +42,7 @@ Deadline: 2023-01-01T08:00:00+0800
 Reward: 0  
 
 
-## 千言数据集：机器阅读理解 <sup style="color:red">[new]<sup>  
+## 千言数据集：阅读理解 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/49  
 Description: 让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力  

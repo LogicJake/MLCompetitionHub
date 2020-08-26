@@ -10,7 +10,7 @@ Deadline: 2020-10-18T00:00:00+0800
 Reward: ￥25,000  
 
 
-## 2020“海上争锋”中国智能船艇挑战赛：海上争锋2020（D组） <sup style="color:red">[new]<sup>  
+## 2020“海上争锋”中国智能船艇挑战赛：海上争锋2020（D组）
 
 Link: https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246  
 Description:   
@@ -18,7 +18,7 @@ Deadline: 2020-10-18T00:00:00+0800
 Reward: ￥50,000  
 
 
-## 2020“海上争锋”中国智能船艇挑战赛：无人商船自主避障算法赛（C组） <sup style="color:red">[new]<sup>  
+## 2020“海上争锋”中国智能船艇挑战赛：无人商船自主避障算法赛（C组）
 
 Link: https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3  
 Description:   
@@ -26,7 +26,7 @@ Deadline: 2020-10-18T00:00:00+0800
 Reward: ￥25,000  
 
 
-## 2020“海上争锋”中国智能船艇挑战赛：智能船艇概念设计（A组） <sup style="color:red">[new]<sup>  
+## 2020“海上争锋”中国智能船艇挑战赛：智能船艇概念设计（A组）
 
 Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190  
 Description:   
