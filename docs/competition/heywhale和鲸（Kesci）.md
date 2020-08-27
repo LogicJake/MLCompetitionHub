@@ -2,7 +2,15 @@
 
 
 
-## 2020“海上争锋”中国智能船艇挑战赛：实海域目标识别算法赛（B组） <sup style="color:red">[new]<sup>  
+## 智算之道——人工智能应用挑战赛
+
+Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
+Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
+Deadline: 2020-10-31T23:59:00+0800  
+Reward: ¥ 150,000  
+
+
+## 2020“海上争锋”中国智能船艇挑战赛：实海域目标识别算法赛（B组）
 
 Link: https://www.kesci.com/home/competition/5f3ccfb655d565002c6ae2ba  
 Description:   
@@ -34,19 +42,11 @@ Deadline: 2020-10-18T00:00:00+0800
 Reward: ￥19,000  
 
 
-## 智算之道——人工智能应用挑战赛
-
-Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
-Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
-Deadline: 2020-10-31T23:59:00+0800  
-Reward: ¥ 150,000  
-
-
 ## Workshop | Python 气象数据分析
 
 Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
 Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
-Deadline: 2020-09-07T21:00:00+0800  
+Deadline: 2020-09-09T00:00:00+0800  
 Reward: 气象数据分析+项目实战  
 
 
