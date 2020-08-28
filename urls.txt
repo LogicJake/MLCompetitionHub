@@ -261,3 +261,7 @@ https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
 https://tianchi.aliyun.com/competition/entrance/531826/introduction
 https://tianchi.aliyun.com/competition/entrance/531824/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/51
+https://www.datafountain.cn/competitions/451
+https://www.datafountain.cn/competitions/450
+https://god.yanxishe.com/86
+https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge
