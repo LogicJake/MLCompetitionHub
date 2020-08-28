@@ -10,7 +10,7 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥100,000  
 
 
-## EasyDL X 乌镇 产业智能创新大赛 <sup style="color:red">[new]<sup>  
+## EasyDL X 乌镇 产业智能创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/43  
 Description: 本次比赛为EasyDL联合乌镇镇政府、桐乡市经济和信息化局、桐乡市工业互联网联合会共同举办，欢迎有场景和业务需求的企业与个人参加比赛。  

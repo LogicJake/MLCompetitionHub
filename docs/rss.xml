@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-27T15:59:55+08:00</updated>
+    <updated>2020-08-28T15:59:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -476,6 +476,34 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.datafountain.cn/competitions/451</id>
+        <title><![CDATA[风电机组异常数据识别与清洗 ]]></title>
+        
+        <updated>2020-08-28T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/451"/>
+        <summary>风电机组异常数据识别与清洗 </summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/451"><![CDATA[<h3>Description</h3>风电机组异常数据识别与清洗 <h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥188000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/450</id>
+        <title><![CDATA[光伏功率异常数据识别与清洗]]></title>
+        
+        <updated>2020-08-28T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/450"/>
+        <summary>光伏功率异常数据识别与清洗</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/450"><![CDATA[<h3>Description</h3>光伏功率异常数据识别与清洗<h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥188000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -632,7 +660,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-27T15:59:55+08:00</updated>
+        <updated>2020-08-28T15:59:54+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -648,7 +676,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-27T15:59:55+08:00</updated>
+        <updated>2020-08-28T15:59:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -662,7 +690,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-27T15:59:55+08:00</updated>
+        <updated>2020-08-28T15:59:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -676,7 +704,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-27T15:59:55+08:00</updated>
+        <updated>2020-08-28T15:59:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -690,7 +718,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-27T15:59:55+08:00</updated>
+        <updated>2020-08-28T15:59:54+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -882,7 +910,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4"/>
         <summary>敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4"><![CDATA[<h3>Description</h3>敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛<h3>Deadline: 2020-09-14T23:59:00+08:00</h3><h3>Reward: ¥14,000</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4"><![CDATA[<h3>Description</h3>敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛<h3>Deadline: 2020-09-28T23:59:00+08:00</h3><h3>Reward: ¥14,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1113,6 +1141,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     
     
     <entry>
+        <id>https://god.yanxishe.com/86</id>
+        <title><![CDATA[手写英文姓名识别挑战赛]]></title>
+        
+        <updated>2020-08-28T11:24:55+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/86"/>
+        <summary>相对于前两次OCR比赛，本次比赛数据全部都是手写，由于每个人的书写风格差异巨大，机器识别这些数据是非常困难的</summary>
+        <content type="text/html" src="https://god.yanxishe.com/86"><![CDATA[<h3>Description</h3>相对于前两次OCR比赛，本次比赛数据全部都是手写，由于每个人的书写风格差异巨大，机器识别这些数据是非常困难的<h3>Deadline: 2020-09-27T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://god.yanxishe.com/85</id>
         <title><![CDATA[图书评分预测]]></title>
         
@@ -1193,6 +1235,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge"/>
         <summary>Can you predict which insurance products existing clients will want next?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge"><![CDATA[<h3>Description</h3>Can you predict which insurance products existing clients will want next?<h3>Deadline: 2020-09-14T07:59:00+08:00</h3><h3>Reward: $5,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge</id>
+        <title><![CDATA[CGIAR Wheat Growth Stage Challenge]]></title>
+        
+        <updated>2020-08-28T15:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge"/>
+        <summary>Predict which phase of growth wheat crops are in using photos taken by farmers in India</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge"><![CDATA[<h3>Description</h3>Predict which phase of growth wheat crops are in using photos taken by farmers in India<h3>Deadline: 2020-10-05T07:59:00+08:00</h3><h3>Reward: $3,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

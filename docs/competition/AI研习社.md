@@ -2,7 +2,15 @@
 
 
 
-## 图书评分预测 <sup style="color:red">[new]<sup>  
+## 手写英文姓名识别挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/86  
+Description: 相对于前两次OCR比赛，本次比赛数据全部都是手写，由于每个人的书写风格差异巨大，机器识别这些数据是非常困难的  
+Deadline: 2020-09-27T23:59:59+0800  
+Reward: 3000.00  
+
+
+## 图书评分预测
 
 Link: https://god.yanxishe.com/85  
 Description: 本次比赛属于推荐系统系列第二场，数据集来自一个网络图书社区。  

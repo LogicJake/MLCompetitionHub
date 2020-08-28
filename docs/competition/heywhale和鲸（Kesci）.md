@@ -54,7 +54,7 @@ Reward: 气象数据分析+项目实战
 
 Link: https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4  
 Description: 敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛  
-Deadline: 2020-09-14T23:59:00+0800  
+Deadline: 2020-09-28T23:59:00+0800  
 Reward: ¥14,000  
 
 
