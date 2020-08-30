@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-29T15:59:54+08:00</updated>
+    <updated>2020-08-30T15:59:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -660,7 +660,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-29T15:59:54+08:00</updated>
+        <updated>2020-08-30T15:59:51+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -676,7 +676,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-29T15:59:54+08:00</updated>
+        <updated>2020-08-30T15:59:51+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -690,7 +690,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-29T15:59:54+08:00</updated>
+        <updated>2020-08-30T15:59:51+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -704,7 +704,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-29T15:59:54+08:00</updated>
+        <updated>2020-08-30T15:59:51+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -718,7 +718,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-29T15:59:54+08:00</updated>
+        <updated>2020-08-30T15:59:51+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -1191,20 +1191,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://god.yanxishe.com/83"/>
         <summary>本次比赛人脸数据来自互联网，每张照片都有对应的人物姓名。比赛任务：根据测试集给出的照片，识别照片人物的姓名。</summary>
         <content type="text/html" src="https://god.yanxishe.com/83"><![CDATA[<h3>Description</h3>本次比赛人脸数据来自互联网，每张照片都有对应的人物姓名。比赛任务：根据测试集给出的照片，识别照片人物的姓名。<h3>Deadline: 2020-09-09T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/82</id>
-        <title><![CDATA[英文文本实体关系抽取]]></title>
-        
-        <updated>2020-07-31T10:37:15+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/82"/>
-        <summary>关系抽取(Relation Extracion,RE)是信息抽取(Information Extraction,IE)关键子任务之一，关系抽取不但是知识图谱构建中的重要环节，在自动问答、自动摘要、情感分析等技术中也被广泛使用。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/82"><![CDATA[<h3>Description</h3>关系抽取(Relation Extracion,RE)是信息抽取(Information Extraction,IE)关键子任务之一，关系抽取不但是知识图谱构建中的重要环节，在自动问答、自动摘要、情感分析等技术中也被广泛使用。<h3>Deadline: 2020-08-29T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
