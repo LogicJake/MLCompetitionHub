@@ -10,7 +10,7 @@ Deadline: 2020-10-07T07:59:00+0800
 Reward: 55000.0 USD  
 
 
-## Lyft Motion Prediction for Autonomous Vehicles <sup style="color:red">[new]<sup>  
+## Lyft Motion Prediction for Autonomous Vehicles
 
 Link: https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles  
 Description: Build motion prediction models for self-driving vehicles   

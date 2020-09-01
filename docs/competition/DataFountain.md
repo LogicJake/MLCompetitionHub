@@ -31,7 +31,7 @@ Reward: ￥1980000
 Link: https://www.datafountain.cn/competitions/451  
 Description: 风电机组异常数据识别与清洗   
 Deadline: 2020-11-24T23:59:59+0800  
-Reward: ￥188000  
+Reward: ￥90000  
 
 
 ## 光伏功率异常数据识别与清洗 <sup style="color:red">[new]<sup>  
@@ -39,5 +39,5 @@ Reward: ￥188000
 Link: https://www.datafountain.cn/competitions/450  
 Description: 光伏功率异常数据识别与清洗  
 Deadline: 2020-11-24T23:59:59+0800  
-Reward: ￥188000  
+Reward: ￥90000  
 

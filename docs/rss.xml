@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-08-30T19:52:50+08:00</updated>
+    <updated>2020-09-01T16:00:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -484,7 +484,7 @@
         
         <link href="https://www.datafountain.cn/competitions/451"/>
         <summary>风电机组异常数据识别与清洗 </summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/451"><![CDATA[<h3>Description</h3>风电机组异常数据识别与清洗 <h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥188000</h3>]]></content>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/451"><![CDATA[<h3>Description</h3>风电机组异常数据识别与清洗 <h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥90000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -498,7 +498,7 @@
         
         <link href="https://www.datafountain.cn/competitions/450"/>
         <summary>光伏功率异常数据识别与清洗</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/450"><![CDATA[<h3>Description</h3>光伏功率异常数据识别与清洗<h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥188000</h3>]]></content>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/450"><![CDATA[<h3>Description</h3>光伏功率异常数据识别与清洗<h3>Deadline: 2020-11-24T23:59:59+08:00</h3><h3>Reward: ￥90000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -547,6 +547,54 @@
         <link href="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"/>
         <summary>广聚全球校园精英 挑战AI算法极限</summary>
         <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>广聚全球校园精英 挑战AI算法极限<h3>Deadline: 2020-10-31T00:00:00+08:00</h3><h3>Reward: 158000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）_竞赛信息.html</id>
+        <title><![CDATA[2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）]]></title>
+        
+        <updated>2020-06-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）_竞赛信息.html"/>
+        <summary>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）_竞赛信息.html"><![CDATA[<h3>Description</h3>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。<h3>Deadline: 2020-12-18T23:59:59+08:00</h3><h3>Reward: 210000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html</id>
+        <title><![CDATA[2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）]]></title>
+        
+        <updated>2020-06-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html"/>
+        <summary>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html"><![CDATA[<h3>Description</h3>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。<h3>Deadline: 2020-12-15T23:59:59+08:00</h3><h3>Reward: 210000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—不定向算法赛_竞赛信息.html</id>
+        <title><![CDATA[2020中国华录杯·数据湖算法大赛—不定向算法赛]]></title>
+        
+        <updated>2020-06-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—不定向算法赛_竞赛信息.html"/>
+        <summary>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—不定向算法赛_竞赛信息.html"><![CDATA[<h3>Description</h3>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
+本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。<h3>Deadline: 2020-12-18T23:59:59+08:00</h3><h3>Reward: 210000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -610,57 +658,13 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html"/>
-        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，利用心电图来解开人类情感状态的密码。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，利用心电图来解开人类情感状态的密码。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-自然场景文字检测挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-自然场景文字检测挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-自然场景文字检测挑战赛_竞赛信息.html"/>
-        <summary>讯飞翻译机是人们出国旅游、学习、商务洽谈的好帮手。除了具有出色的语音翻译功能，讯飞翻译机还拥有强大的拍照翻译能力，能帮助使用者轻松看懂路牌、菜单、说明书、产品包装、商品标签、书刊杂志、景点介绍等。
-精确地检测图片中的文字是拍照翻译的前提，同时也是一个难点问题，这是因为自然场景中的文字往往有着复杂的背景、多样的形状、颜色、大小、风格等特征。因此，如何提升文字检测效果以保证最终翻译结果的准确性，是一项十分具有挑战性的任务。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-自然场景文字检测挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>讯飞翻译机是人们出国旅游、学习、商务洽谈的好帮手。除了具有出色的语音翻译功能，讯飞翻译机还拥有强大的拍照翻译能力，能帮助使用者轻松看懂路牌、菜单、说明书、产品包装、商品标签、书刊杂志、景点介绍等。
-精确地检测图片中的文字是拍照翻译的前提，同时也是一个难点问题，这是因为自然场景中的文字往往有着复杂的背景、多样的形状、颜色、大小、风格等特征。因此，如何提升文字检测效果以保证最终翻译结果的准确性，是一项十分具有挑战性的任务。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-语种识别挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-语种识别挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-语种识别挑战赛_竞赛信息.html"/>
-        <summary>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“多语种语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛活动以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛将从真实场景和实际应用出发，新增了更具挑战性、更加务实的任务，期待业内同仁们能在这些任务上相互切磋、共同进步。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-语种识别挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“多语种语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛活动以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛将从真实场景和实际应用出发，新增了更具挑战性、更加务实的任务，期待业内同仁们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-08-30T19:52:50+08:00</updated>
+        <updated>2020-09-01T16:00:04+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -676,7 +680,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-30T19:52:50+08:00</updated>
+        <updated>2020-09-01T16:00:04+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -690,7 +694,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-08-30T19:52:50+08:00</updated>
+        <updated>2020-09-01T16:00:04+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -704,7 +708,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-08-30T19:52:50+08:00</updated>
+        <updated>2020-09-01T16:00:04+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -718,7 +722,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-08-30T19:52:50+08:00</updated>
+        <updated>2020-09-01T16:00:04+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -819,6 +823,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c</id>
+        <title><![CDATA[2020上海新能源汽车大数据竞赛]]></title>
+        
+        <updated>2020-09-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c"/>
+        <summary>2020上海新能源汽车大数据竞赛秉承“开放、创新”的主旨，依托上海市新能源汽车运行数据，聚焦行业热点问题，实现算法创新和人才挖掘，推进新能源汽车大数据分析与应用技术发展。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c"><![CDATA[<h3>Description</h3>2020上海新能源汽车大数据竞赛秉承“开放、创新”的主旨，依托上海市新能源汽车运行数据，聚焦行业热点问题，实现算法创新和人才挖掘，推进新能源汽车大数据分析与应用技术发展。<h3>Deadline: 2020-11-20T23:59:00+08:00</h3><h3>Reward: ￥34,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1</id>
         <title><![CDATA[智算之道——人工智能应用挑战赛]]></title>
         
@@ -827,6 +845,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1"/>
         <summary>“人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1"><![CDATA[<h3>Description</h3>“人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求<h3>Deadline: 2020-10-31T23:59:00+08:00</h3><h3>Reward: ¥ 150,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a</id>
+        <title><![CDATA[医学统计·数据分析入门]]></title>
+        
+        <updated>2020-08-31T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a"/>
+        <summary>本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a"><![CDATA[<h3>Description</h3>本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用<h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -925,34 +957,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"/>
         <summary>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"><![CDATA[<h3>Description</h3>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。<h3>Deadline: 2021-09-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff</id>
-        <title><![CDATA[2020创青春·交子杯新网银行金融科技挑战赛]]></title>
-        
-        <updated>2020-06-17T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff"/>
-        <summary>2020“创青春.交子杯”新网银行金融科技挑战赛，是“创青春”青年创新创业大赛的专项赛。设AI算法、移动互联（H5小游戏+AI对抗）两个赛道。毕业三年内社会人士、在校大学生（含本、硕/博士研究生等）均可参赛。大赛旨在发掘金融科技和人工智能领域的优秀青年，培养将学科技能应用于金融实践的未来高科技领军人才，打造全国具有卓越影响力的专项赛事，助力西部金融科技发展，动员更多青年为推动治蜀兴川再上新台阶贡献青春力量。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ece329073a1b3002c9f1bff"><![CDATA[<h3>Description</h3>2020“创青春.交子杯”新网银行金融科技挑战赛，是“创青春”青年创新创业大赛的专项赛。设AI算法、移动互联（H5小游戏+AI对抗）两个赛道。毕业三年内社会人士、在校大学生（含本、硕/博士研究生等）均可参赛。大赛旨在发掘金融科技和人工智能领域的优秀青年，培养将学科技能应用于金融实践的未来高科技领军人才，打造全国具有卓越影响力的专项赛事，助力西部金融科技发展，动员更多青年为推动治蜀兴川再上新台阶贡献青春力量。<h3>Deadline: 2020-09-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8</id>
-        <title><![CDATA[北京数智医保创新竞赛]]></title>
-        
-        <updated>2020-05-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"/>
-        <summary>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5eb3c4baa05545002d2163f8"><![CDATA[<h3>Description</h3>“北京数智医保创新竞赛”，主题为“创新北京、智慧医保”。意为此次医保竞赛通过比赛形式征集“高精尖”创新企业及前沿产品，以政商合作促进医保与高新技术融合发展。鼓励具备人工智能、大数据分析与挖掘等“高精尖”科技的高新技术企业、高校、研究机构等参与医疗保障管理服务，将成熟的创新科技技术转化为实践。<h3>Deadline: 2020-09-11T00:00:00+08:00</h3><h3>Reward: 医保局战略合作伙伴机会 证书及奖杯</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1074,7 +1078,7 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531809/introduction"/>
         <summary>本赛题要求参赛者通过计算机视觉等人工智能算法，基于视频图像中识别到的路面状态来判断道路通行状态，从而提高道路路况状态判断的准确性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531809/introduction"><![CDATA[<h3>Description</h3>本赛题要求参赛者通过计算机视觉等人工智能算法，基于视频图像中识别到的路面状态来判断道路通行状态，从而提高道路路况状态判断的准确性。<h3>Deadline: 2020-08-31T14:35:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531809/introduction"><![CDATA[<h3>Description</h3>本赛题要求参赛者通过计算机视觉等人工智能算法，基于视频图像中识别到的路面状态来判断道路通行状态，从而提高道路路况状态判断的准确性。<h3>Deadline: 2020-09-05T11:55:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1197,20 +1201,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     </entry>
     
     
-    
-    <entry>
-        <id>https://zindi.africa/competitions/usaids-intelligent-forecasting-challenge-model-future-contraceptive-use</id>
-        <title><![CDATA[USAID's Intelligent Forecasting Challenge: Model Future Contraceptive Use]]></title>
-        
-        <updated>2020-07-27T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/usaids-intelligent-forecasting-challenge-model-future-contraceptive-use"/>
-        <summary>Build and validate your models on Zindi. Make your final submission directly to USAID.</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/usaids-intelligent-forecasting-challenge-model-future-contraceptive-use"><![CDATA[<h3>Description</h3>Build and validate your models on Zindi. Make your final submission directly to USAID.<h3>Deadline: 2020-08-31T07:59:00+08:00</h3><h3>Reward: $25,000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge</id>
