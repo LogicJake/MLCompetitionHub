@@ -18,6 +18,14 @@ Deadline: 2020-10-31T23:59:00+0800
 Reward: ¥ 150,000  
 
 
+## 长三角科创共同体挖掘数据竞赛
+
+Link: https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4  
+Description: 敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛  
+Deadline: 2020-09-28T23:59:00+0800  
+Reward: ¥14,000  
+
+
 ## 医学统计·数据分析入门 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a  
@@ -64,14 +72,6 @@ Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189
 Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
 Deadline: 2020-09-09T00:00:00+0800  
 Reward: 气象数据分析+项目实战  
-
-
-## 长三角科创共同体挖掘数据竞赛
-
-Link: https://www.kesci.com/home/competition/5f1ab33cb4ac2e002c161dd4  
-Description: 敬业乐群，科创协同：长三角科创共同体挖掘数据竞赛  
-Deadline: 2020-09-28T23:59:00+0800  
-Reward: ¥14,000  
 
 
 ## “2020创青春·交子杯”  AI算法赛道新手训练营
