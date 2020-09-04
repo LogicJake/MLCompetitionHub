@@ -10,7 +10,7 @@ Deadline: 2020-09-14T07:59:00+0800
 Reward: $5,000 USD  
 
 
-## CGIAR Wheat Growth Stage Challenge <sup style="color:red">[new]<sup>  
+## CGIAR Wheat Growth Stage Challenge
 
 Link: https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge  
 Description: Predict which phase of growth wheat crops are in using photos taken by farmers in India  

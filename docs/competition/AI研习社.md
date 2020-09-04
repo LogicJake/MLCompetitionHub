@@ -2,7 +2,7 @@
 
 
 
-## 手写英文姓名识别挑战赛 <sup style="color:red">[new]<sup>  
+## 手写英文姓名识别挑战赛
 
 Link: https://god.yanxishe.com/86  
 Description: 相对于前两次OCR比赛，本次比赛数据全部都是手写，由于每个人的书写风格差异巨大，机器识别这些数据是非常困难的  
