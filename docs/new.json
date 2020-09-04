@@ -1,1 +1,1 @@
-[]
+[{"name": "常规赛：MarTech Challenge 点击反欺诈预测", "url": "https://aistudio.baidu.com/aistudio/competition/detail/52", "description": "提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为", "deadline": "2023-01-01T08:00:00+08:00", "reward": "特别礼包", "start_time": "2020-09-01T08:00:00+08:00"}, {"name": "Mechanisms of Action (MoA) Prediction", "url": "https://www.kaggle.com/c/lish-moa", "description": "Can you improve the algorithm that classifies drugs based on their biological activity?", "deadline": "2020-12-01T07:59:00+08:00", "reward": "30000.0 USD", "start_time": "2020-09-03T23:00:10+08:00"}]
