@@ -2,6 +2,14 @@
 
 
 
+## 视觉SLAM挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/87  
+Description: 本次比赛由AI研习社和Indemind联合举办，数据集使用双目视觉惯性模组采集。  
+Deadline: 2020-10-03T23:59:59+0800  
+Reward: 5000.00  
+
+
 ## 手写英文姓名识别挑战赛
 
 Link: https://god.yanxishe.com/86  

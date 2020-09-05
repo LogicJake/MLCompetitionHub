@@ -14,7 +14,7 @@ Reward: ￥34,000
 
 Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1  
 Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
-Deadline: 2020-10-31T23:59:00+0800  
+Deadline: 2020-10-25T23:59:00+0800  
 Reward: ¥ 150,000  
 
 
