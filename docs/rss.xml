@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-06T16:00:12+08:00</updated>
+    <updated>2020-09-07T15:59:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -209,20 +209,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
-        <summary>Chain Dream : Name Disambiguation Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
         <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
         
@@ -231,6 +217,20 @@
         <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
         <summary>2020 ChainDream Competition - Block Chain Track</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
+        <summary>Chain Dream : Name Disambiguation Task1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -307,20 +307,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020: COVID 19 Question-answering</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
         <title><![CDATA[CCKS 2020: Link Prediction]]></title>
         
@@ -329,6 +315,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
         <summary>CCKS 2020: Link Prediction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
+        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
+        
+        <updated>2020-04-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
+        <summary>CCKS 2020: COVID 19 Question-answering</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -555,6 +555,22 @@
     </entry>
     
     <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html</id>
+        <title><![CDATA[TrafficHUT基于航拍视频的车辆轨迹识别竞赛]]></title>
+        
+        <updated>2020-09-07T08:00:01+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html"/>
+        <summary>本次竞赛主要用由竞赛组织方提供无人机航拍视频，参赛者/机构使用独立开发的视频车辆轨迹识别程序，生成针对到每辆车的车辆轨迹数据。
+征集基于航拍视频的车辆轨迹识别跟踪算法，高精度还原车辆行驶轨迹，建立中国开放标准轨迹数据集。大赛获胜团队将有机会与主办方开展深入合作。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html"><![CDATA[<h3>Description</h3>本次竞赛主要用由竞赛组织方提供无人机航拍视频，参赛者/机构使用独立开发的视频车辆轨迹识别程序，生成针对到每辆车的车辆轨迹数据。
+征集基于航拍视频的车辆轨迹识别跟踪算法，高精度还原车辆行驶轨迹，建立中国开放标准轨迹数据集。大赛获胜团队将有机会与主办方开展深入合作。<h3>Deadline: 2020-12-19T12:00:00+08:00</h3><h3>Reward: ¥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/第二届翼支付杯大数据建模大赛-信用风险用户识别_竞赛信息.html</id>
         <title><![CDATA[第二届翼支付杯大数据建模大赛-信用风险用户识别]]></title>
         
@@ -644,27 +660,13 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"/>
-        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-06T16:00:12+08:00</updated>
+        <updated>2020-09-07T15:59:49+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -680,7 +682,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-06T16:00:12+08:00</updated>
+        <updated>2020-09-07T15:59:49+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -694,7 +696,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-06T16:00:12+08:00</updated>
+        <updated>2020-09-07T15:59:49+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -708,7 +710,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-06T16:00:12+08:00</updated>
+        <updated>2020-09-07T15:59:49+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -722,7 +724,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-06T16:00:12+08:00</updated>
+        <updated>2020-09-07T15:59:49+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -837,6 +839,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82</id>
+        <title><![CDATA[医学数据挖掘算法评测大赛 | 任务1：公众健康问句分类]]></title>
+        
+        <updated>2020-09-07T12:01:14+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82"/>
+        <summary>随着健康医疗信息化的发展以及云计算、物联网、移动智能等技术在健康医疗领域的广泛应用，在医疗服务、健康保健和卫生管理过程中产生了海量数据集，形成了医学大数据。医学数据挖掘算法是发挥医学大数据价值的重要技术手段。为促进数据挖掘算法更好地支撑智能化医学信息系统，中华医学会医学信息学分会特组织开展医学数据挖掘评测活动，评价算法在特定医学应用场景中的准确性和适应性。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82"><![CDATA[<h3>Description</h3>随着健康医疗信息化的发展以及云计算、物联网、移动智能等技术在健康医疗领域的广泛应用，在医疗服务、健康保健和卫生管理过程中产生了海量数据集，形成了医学大数据。医学数据挖掘算法是发挥医学大数据价值的重要技术手段。为促进数据挖掘算法更好地支撑智能化医学信息系统，中华医学会医学信息学分会特组织开展医学数据挖掘评测活动，评价算法在特定医学应用场景中的准确性和适应性。<h3>Deadline: 2020-10-23T20:00:00+08:00</h3><h3>Reward: 论文发表机会+奖金+证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c</id>
         <title><![CDATA[2020上海新能源汽车大数据竞赛]]></title>
         
@@ -943,34 +959,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190"><![CDATA[<h3>Description</h3><h3>Deadline: 2020-10-18T00:00:00+08:00</h3><h3>Reward: ￥19,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189</id>
-        <title><![CDATA[Workshop | Python 气象数据分析]]></title>
-        
-        <updated>2020-08-02T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189"/>
-        <summary>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189"><![CDATA[<h3>Description</h3>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。<h3>Deadline: 2020-09-09T00:00:00+08:00</h3><h3>Reward: 气象数据分析+项目实战</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b</id>
-        <title><![CDATA[“2020创青春·交子杯”  AI算法赛道新手训练营]]></title>
-        
-        <updated>2020-06-17T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"/>
-        <summary>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"><![CDATA[<h3>Description</h3>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。<h3>Deadline: 2021-09-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1107,20 +1095,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://tianchi.aliyun.com/competition/entrance/531815/introduction"/>
         <summary>Robot manipulation and grasping in the context of table organization</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531815/introduction"><![CDATA[<h3>Description</h3>Robot manipulation and grasping in the context of table organization<h3>Deadline: 2020-10-29T00:00:00+08:00</h3><h3>Reward: $18000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531798/introduction</id>
-        <title><![CDATA[MEDIA AI阿里巴巴文娱算法挑战赛 - 视频时序事件检测赛道(赛季 2)]]></title>
-        
-        <updated>2020-08-10T23:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531798/introduction"/>
-        <summary>视频时序事件检测(temporal event detection)的目标是在视频中识别特定的事件并定位相应的时间段。时序事件检测作为视频理解的基础技术之一，具有广泛的应用前景，包括智能生产、视频智能剪辑、智能监控、视频内容检索等。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531798/introduction"><![CDATA[<h3>Description</h3>视频时序事件检测(temporal event detection)的目标是在视频中识别特定的事件并定位相应的时间段。时序事件检测作为视频理解的基础技术之一，具有广泛的应用前景，包括智能生产、视频智能剪辑、智能监控、视频内容检索等。<h3>Deadline: 2020-09-06T23:55:00+08:00</h3><h3>Reward: ￥380000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

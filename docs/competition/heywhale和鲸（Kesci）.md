@@ -2,6 +2,14 @@
 
 
 
+## 医学数据挖掘算法评测大赛 | 任务1：公众健康问句分类 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82  
+Description: 随着健康医疗信息化的发展以及云计算、物联网、移动智能等技术在健康医疗领域的广泛应用，在医疗服务、健康保健和卫生管理过程中产生了海量数据集，形成了医学大数据。医学数据挖掘算法是发挥医学大数据价值的重要技术手段。为促进数据挖掘算法更好地支撑智能化医学信息系统，中华医学会医学信息学分会特组织开展医学数据挖掘评测活动，评价算法在特定医学应用场景中的准确性和适应性。  
+Deadline: 2020-10-23T20:00:00+0800  
+Reward: 论文发表机会+奖金+证书  
+
+
 ## 2020上海新能源汽车大数据竞赛 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c  
@@ -26,7 +34,7 @@ Deadline: 2020-09-28T23:59:00+0800
 Reward: ¥14,000  
 
 
-## 医学统计·数据分析入门 <sup style="color:red">[new]<sup>  
+## 医学统计·数据分析入门
 
 Link: https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a  
 Description: 本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用  
@@ -64,20 +72,4 @@ Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190
 Description:   
 Deadline: 2020-10-18T00:00:00+0800  
 Reward: ￥19,000  
-
-
-## Workshop | Python 气象数据分析
-
-Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
-Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
-Deadline: 2020-09-09T00:00:00+0800  
-Reward: 气象数据分析+项目实战  
-
-
-## “2020创青春·交子杯”  AI算法赛道新手训练营
-
-Link: https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b  
-Description: [AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。  
-Deadline: 2021-09-01T00:00:00+0800  
-Reward:   
 
