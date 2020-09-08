@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-07T15:59:49+08:00</updated>
+    <updated>2020-09-08T15:59:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-07T15:59:49+08:00</updated>
+        <updated>2020-09-08T15:59:53+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -682,7 +682,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-07T15:59:49+08:00</updated>
+        <updated>2020-09-08T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -696,7 +696,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-07T15:59:49+08:00</updated>
+        <updated>2020-09-08T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -710,7 +710,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-07T15:59:49+08:00</updated>
+        <updated>2020-09-08T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -724,7 +724,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-07T15:59:49+08:00</updated>
+        <updated>2020-09-08T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -744,7 +744,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://competition.huaweicloud.com/information/1000041306/introduction"/>
         <summary>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041306/introduction"><![CDATA[<h3>Description</h3>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。<h3>Deadline: 2020-09-08T18:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041306/introduction"><![CDATA[<h3>Description</h3>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。<h3>Deadline: 2020-09-15T18:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -1073,6 +1073,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531809/introduction</id>
+        <title><![CDATA[阿里巴巴高德地图AMAP-TECH算法大赛 - 基于车载视频图像的动态路况分析(赛季 2)]]></title>
+        
+        <updated>2020-09-08T11:15:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531809/introduction"/>
+        <summary>本赛题要求参赛者通过计算机视觉等人工智能算法，基于视频图像中识别到的路面状态来判断道路通行状态，从而提高道路路况状态判断的准确性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531809/introduction"><![CDATA[<h3>Description</h3>本赛题要求参赛者通过计算机视觉等人工智能算法，基于视频图像中识别到的路面状态来判断道路通行状态，从而提高道路路况状态判断的准确性。<h3>Deadline: 2020-10-13T23:55:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531796/introduction</id>
         <title><![CDATA[Spark“数字人体”AI挑战赛——脊柱疾病智能诊断大赛(赛季 2)]]></title>
         
@@ -1101,6 +1115,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531798/introduction</id>
+        <title><![CDATA[MEDIA AI阿里巴巴文娱算法挑战赛 - 视频时序事件检测赛道(赛季 2)]]></title>
+        
+        <updated>2020-08-10T23:55:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531798/introduction"/>
+        <summary>视频时序事件检测(temporal event detection)的目标是在视频中识别特定的事件并定位相应的时间段。时序事件检测作为视频理解的基础技术之一，具有广泛的应用前景，包括智能生产、视频智能剪辑、智能监控、视频内容检索等。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531798/introduction"><![CDATA[<h3>Description</h3>视频时序事件检测(temporal event detection)的目标是在视频中识别特定的事件并定位相应的时间段。时序事件检测作为视频理解的基础技术之一，具有广泛的应用前景，包括智能生产、视频智能剪辑、智能监控、视频内容检索等。<h3>Deadline: 2020-09-20T23:55:00+08:00</h3><h3>Reward: ￥380000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531797/introduction</id>
         <title><![CDATA[MEDIA AI阿里巴巴文娱算法挑战赛 - 高精度视频人物分割赛道(赛季 2)]]></title>
         
@@ -1108,7 +1136,7 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531797/introduction"/>
         <summary>视频物体分割（Video Object Segmentation)是计算机视觉最近两三年兴起的一个研究领域，其目的是从视频所有图像帧中把感兴趣的物体区域的分割出来。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531797/introduction"><![CDATA[<h3>Description</h3>视频物体分割（Video Object Segmentation)是计算机视觉最近两三年兴起的一个研究领域，其目的是从视频所有图像帧中把感兴趣的物体区域的分割出来。<h3>Deadline: 2020-09-08T23:55:00+08:00</h3><h3>Reward: ￥380000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531797/introduction"><![CDATA[<h3>Description</h3>视频物体分割（Video Object Segmentation)是计算机视觉最近两三年兴起的一个研究领域，其目的是从视频所有图像帧中把感兴趣的物体区域的分割出来。<h3>Deadline: 2020-09-20T23:55:00+08:00</h3><h3>Reward: ￥380000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

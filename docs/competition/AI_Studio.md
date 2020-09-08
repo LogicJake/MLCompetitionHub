@@ -18,7 +18,7 @@ Deadline: 2020-10-22T08:00:00+0800
 Reward: ￥160,000  
 
 
-## 常规赛：MarTech Challenge 用户购买预测 <sup style="color:red">[new]<sup>  
+## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
 Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
@@ -26,7 +26,7 @@ Deadline: 2023-01-01T08:00:00+0800
 Reward: 特别礼包  
 
 
-## 常规赛：MarTech Challenge 点击反欺诈预测 <sup style="color:red">[new]<sup>  
+## 常规赛：MarTech Challenge 点击反欺诈预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/52  
 Description: 提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为  
