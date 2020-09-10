@@ -275,3 +275,4 @@ https://www.kaggle.com/c/lish-moa
 https://god.yanxishe.com/87
 https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html
 https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82
+https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection
