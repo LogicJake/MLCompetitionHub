@@ -26,6 +26,14 @@ Deadline: 2020-11-26T07:59:00+0800
 Reward: 30000.0 USD  
 
 
+## RSNA-STR Pulmonary Embolism Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection  
+Description: Classify Pulmonary Embolism cases in chest CT scans  
+Deadline: 2020-10-27T07:59:00+0800  
+Reward: 30000.0 USD  
+
+
 ## Google Landmark Recognition 2020
 
 Link: https://www.kaggle.com/c/landmark-recognition-2020  
