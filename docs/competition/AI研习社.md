@@ -2,7 +2,7 @@
 
 
 
-## 视觉SLAM挑战赛 <sup style="color:red">[new]<sup>  
+## 视觉SLAM挑战赛
 
 Link: https://god.yanxishe.com/87  
 Description: 本次比赛由AI研习社和Indemind联合举办，数据集使用双目视觉惯性模组采集。  
