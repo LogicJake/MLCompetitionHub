@@ -278,3 +278,5 @@ https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82
 https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection
 https://www.kaggle.com/c/stanford-covid-vaccine
 https://tianchi.aliyun.com/competition/entrance/531831/introduction
+https://god.yanxishe.com/88
+https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter

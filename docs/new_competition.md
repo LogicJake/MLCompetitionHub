@@ -1,17 +1,17 @@
-> 更新时间: 2020-09-11T16:02:56+0800 
+> 更新时间: 2020-09-12T16:02:54+0800 
 
 # 新上线比赛
 
 
-## OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
-Link: https://www.kaggle.com/c/stanford-covid-vaccine  
-Description: Urgent need to bring the COVID-19 vaccine to mass production  
-Deadline: 2020-10-06T07:59:00+0800  
-Reward: 25000.0 USD  
+## 媒体文章自动摘要
+Link: https://god.yanxishe.com/88  
+Description: 本次比赛数据来自互联网，内容是教育培训行业主流媒体历史文章，选手任务：训练模型从测试集数据自动提取摘要。  
+Deadline: 2020-10-10T23:59:59+0800  
+Reward: 3000.00  
 
-## 阿里云数智服务创新挑战赛——服务调度比赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531831/introduction  
-Description: 与全球卓越的技术人才，共同打造数智化、全周期共生型服务的极致体验，一道践行“全速重构，数智未来“。  
-Deadline: 2020-11-30T23:59:00+0800  
-Reward: ￥140000  
+## GIZ NLP Agricultural Keyword Spotter
+Link: https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter  
+Description: Classify audio utterances in Luganda and English from Uganda  
+Deadline: 2020-11-30T07:59:00+0800  
+Reward: $7,000 USD  
 
