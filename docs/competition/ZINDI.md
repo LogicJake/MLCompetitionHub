@@ -2,6 +2,14 @@
 
 
 
+## GIZ NLP Agricultural Keyword Spotter <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter  
+Description: Classify audio utterances in Luganda and English from Uganda  
+Deadline: 2020-11-30T07:59:00+0800  
+Reward: $7,000 USD  
+
+
 ## Zimnat Insurance Recommendation Challenge
 
 Link: https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge  

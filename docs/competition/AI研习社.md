@@ -2,6 +2,14 @@
 
 
 
+## 媒体文章自动摘要 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/88  
+Description: 本次比赛数据来自互联网，内容是教育培训行业主流媒体历史文章，选手任务：训练模型从测试集数据自动提取摘要。  
+Deadline: 2020-10-10T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 视觉SLAM挑战赛
 
 Link: https://god.yanxishe.com/87  
