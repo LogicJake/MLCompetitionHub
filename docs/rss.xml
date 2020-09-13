@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-12T16:00:03+08:00</updated>
+    <updated>2020-09-13T16:00:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-12T16:00:03+08:00</updated>
+        <updated>2020-09-13T16:00:11+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -682,7 +682,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-12T16:00:03+08:00</updated>
+        <updated>2020-09-13T16:00:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -696,7 +696,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-12T16:00:03+08:00</updated>
+        <updated>2020-09-13T16:00:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -710,7 +710,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-12T16:00:03+08:00</updated>
+        <updated>2020-09-13T16:00:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -724,7 +724,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-12T16:00:03+08:00</updated>
+        <updated>2020-09-13T16:00:11+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -1065,20 +1065,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://tianchi.aliyun.com/competition/entrance/531812/introduction"/>
         <summary>全球首个针对证件文档类图像伪造的对抗攻击竞赛，“造假王”来袭！伪造出你的专属证件图像，视觉无痕迹且骗过识别系统，即为目标。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531812/introduction"><![CDATA[<h3>Description</h3>全球首个针对证件文档类图像伪造的对抗攻击竞赛，“造假王”来袭！伪造出你的专属证件图像，视觉无痕迹且骗过识别系统，即为目标。<h3>Deadline: 2020-09-28T10:00:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531806/introduction</id>
-        <title><![CDATA[CIKM2020 安全AI挑战者计划第四期：通用目标检测的对抗攻击(赛季 1)]]></title>
-        
-        <updated>2020-06-01T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531806/introduction"/>
-        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531806/introduction"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2020-09-12T23:55:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
