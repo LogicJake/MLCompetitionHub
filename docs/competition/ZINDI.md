@@ -10,14 +10,6 @@ Deadline: 2020-11-30T07:59:00+0800
 Reward: $7,000 USD  
 
 
-## Zimnat Insurance Recommendation Challenge
-
-Link: https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge  
-Description: Can you predict which insurance products existing clients will want next?  
-Deadline: 2020-09-14T07:59:00+0800  
-Reward: $5,000 USD  
-
-
 ## CGIAR Wheat Growth Stage Challenge
 
 Link: https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge  

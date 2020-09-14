@@ -29,7 +29,7 @@ Deadline: 2020-12-18T23:59:59+0800
 Reward: 210000  
 
 
-## TrafficHUT基于航拍视频的车辆轨迹识别竞赛 <sup style="color:red">[new]<sup>  
+## TrafficHUT基于航拍视频的车辆轨迹识别竞赛
 
 Link: https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html  
 Description: 本次竞赛主要用由竞赛组织方提供无人机航拍视频，参赛者/机构使用独立开发的视频车辆轨迹识别程序，生成针对到每辆车的车辆轨迹数据。
