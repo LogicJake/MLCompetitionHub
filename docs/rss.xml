@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-14T16:00:05+08:00</updated>
+    <updated>2020-09-15T16:00:21+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -209,14 +209,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
+        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
+        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
         
         <updated>2020-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
-        <summary>Chain Dream : Name Disambiguation Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
+        <summary>2020 ChainDream Competition - Block Chain Track</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -237,14 +237,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
-        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
+        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
         
         <updated>2020-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
-        <summary>2020 ChainDream Competition - Block Chain Track</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
+        <summary>Chain Dream : Name Disambiguation Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -405,20 +405,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
-        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
-        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_3/</id>
         <title><![CDATA[CCKS 2020: Finance Entity Extraction]]></title>
         
@@ -427,6 +413,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
+        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
+        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -610,7 +610,7 @@
         
         <link href="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"/>
         <summary>广聚全球校园精英 挑战AI算法极限</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>广聚全球校园精英 挑战AI算法极限<h3>Deadline: 2020-10-31T00:00:00+08:00</h3><h3>Reward: 158000</h3>]]></content>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>广聚全球校园精英 挑战AI算法极限<h3>Deadline: 2020-11-05T00:00:00+08:00</h3><h3>Reward: 158000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-14T16:00:05+08:00</updated>
+        <updated>2020-09-15T16:00:21+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -682,7 +682,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-14T16:00:05+08:00</updated>
+        <updated>2020-09-15T16:00:21+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -696,7 +696,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-14T16:00:05+08:00</updated>
+        <updated>2020-09-15T16:00:21+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -710,7 +710,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-14T16:00:05+08:00</updated>
+        <updated>2020-09-15T16:00:21+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -724,7 +724,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-14T16:00:05+08:00</updated>
+        <updated>2020-09-15T16:00:21+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>

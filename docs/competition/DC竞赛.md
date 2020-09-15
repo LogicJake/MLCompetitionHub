@@ -60,7 +60,7 @@ Reward: ￥60000
 
 Link: https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html  
 Description: 广聚全球校园精英 挑战AI算法极限  
-Deadline: 2020-10-31T00:00:00+0800  
+Deadline: 2020-11-05T00:00:00+0800  
 Reward: 158000  
 
 
