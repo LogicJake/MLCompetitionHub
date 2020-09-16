@@ -49,11 +49,3 @@ Description: Label famous (and not-so-famous) landmarks in images
 Deadline: 2020-09-30T07:59:00+0800  
 Reward: 25000.0 USD  
 
-
-## Cornell Birdcall Identification
-
-Link: https://www.kaggle.com/c/birdsong-recognition  
-Description: Build tools for bird population monitoring  
-Deadline: 2020-09-16T07:59:00+0800  
-Reward: 25000.0 USD  
-
