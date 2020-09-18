@@ -2,7 +2,7 @@
 
 
 
-## 媒体文章自动摘要 <sup style="color:red">[new]<sup>  
+## 媒体文章自动摘要
 
 Link: https://god.yanxishe.com/88  
 Description: 本次比赛数据来自互联网，内容是教育培训行业主流媒体历史文章，选手任务：训练模型从测试集数据自动提取摘要。  

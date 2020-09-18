@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-17T16:00:01+08:00</updated>
+    <updated>2020-09-18T16:00:25+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,6 +153,34 @@
     
     
     <entry>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
+        
+        <updated>2020-06-08T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_mooccube_task1/</id>
+        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task1]]></title>
+        
+        <updated>2020-06-08T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_mooccube_task1/"/>
+        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task1/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/chaindream_mooccube_task2/</id>
         <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task2]]></title>
         
@@ -181,48 +209,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_mooccube_task1/</id>
-        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task1]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_mooccube_task1/"/>
-        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task1/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
-        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
-        <summary>2020 ChainDream Competition - Block Chain Track</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
         <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
         
@@ -245,6 +231,20 @@
         <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
         <summary>Chain Dream : Name Disambiguation Task1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
+        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
+        <summary>2020 ChainDream Competition - Block Chain Track</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -391,6 +391,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
+        <title><![CDATA[CCKS]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
+        <summary>CCKS</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
         <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
         
@@ -413,20 +427,6 @@
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -596,7 +596,7 @@
         
         <link href="https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛信息.html"/>
         <summary>超分辨率是计算机视觉领域的核心算法之一，受到学术界和工业界的关注，其目的是从低分辨率的图片（视频）恢复出高分辨率的清晰图片（视频）。该技术在实时音视频通话（RTE）有着重要的实用价值，如何将超分辨率算法应用到RTE，是工业界亟待解决的问题。本次竞赛的目的，旨在吸引更多研究人员参与超分辨率算法的研究，推动超分辨率算法在RTE场景应用，促进工业界与学术界的深度合作。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>超分辨率是计算机视觉领域的核心算法之一，受到学术界和工业界的关注，其目的是从低分辨率的图片（视频）恢复出高分辨率的清晰图片（视频）。该技术在实时音视频通话（RTE）有着重要的实用价值，如何将超分辨率算法应用到RTE，是工业界亟待解决的问题。本次竞赛的目的，旨在吸引更多研究人员参与超分辨率算法的研究，推动超分辨率算法在RTE场景应用，促进工业界与学术界的深度合作。<h3>Deadline: 2020-09-21T14:00:00+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>超分辨率是计算机视觉领域的核心算法之一，受到学术界和工业界的关注，其目的是从低分辨率的图片（视频）恢复出高分辨率的清晰图片（视频）。该技术在实时音视频通话（RTE）有着重要的实用价值，如何将超分辨率算法应用到RTE，是工业界亟待解决的问题。本次竞赛的目的，旨在吸引更多研究人员参与超分辨率算法的研究，推动超分辨率算法在RTE场景应用，促进工业界与学术界的深度合作。<h3>Deadline: 2020-09-21T12:00:00+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-17T16:00:01+08:00</updated>
+        <updated>2020-09-18T16:00:25+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -679,18 +679,62 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     
     
     <entry>
-        <id>https://competition.huaweicloud.com/information/1000041306/introduction</id>
-        <title><![CDATA[2020年东风公司智能制造大数据创意大赛]]></title>
+        <id>https://ai.futurelab.tv/contest_detail/19</id>
+        <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-08-19T09:00:00+08:00</updated>
+        <updated>2020-09-18T16:00:25+08:00</updated>
         
-        <link href="https://competition.huaweicloud.com/information/1000041306/introduction"/>
-        <summary>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041306/introduction"><![CDATA[<h3>Description</h3>“东风智能制造”开发者创意大赛是东风公司举办的第三届、公司级大数据创意赛事，本次赛事既是延续，也是承接（它将作为东风工业互联网2020行动举措之一，即工业APP孵化课题）。<h3>Deadline: 2020-09-17T18:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <link href="https://ai.futurelab.tv/contest_detail/19"/>
+        <summary>语音-跨设备说话人识别</summary>
+        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/19"><![CDATA[<h3>Description</h3>语音-跨设备说话人识别<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥144000</h3>]]></content>
         <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+            <name><![CDATA[AI FUTURELAB]]></name>
         </author>
     </entry>
+    
+    <entry>
+        <id>https://ai.futurelab.tv/contest_detail/18</id>
+        <title><![CDATA[图像-海洋生物探索]]></title>
+        
+        <updated>2020-09-18T16:00:25+08:00</updated>
+        
+        <link href="https://ai.futurelab.tv/contest_detail/18"/>
+        <summary>图像-海洋生物探索</summary>
+        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/18"><![CDATA[<h3>Description</h3>图像-海洋生物探索<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥144000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI FUTURELAB]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://ai.futurelab.tv/contest_detail/16</id>
+        <title><![CDATA[心理疏导线索]]></title>
+        
+        <updated>2020-09-18T16:00:25+08:00</updated>
+        
+        <link href="https://ai.futurelab.tv/contest_detail/16"/>
+        <summary>心理疏导线索</summary>
+        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/16"><![CDATA[<h3>Description</h3>心理疏导线索<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥8000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI FUTURELAB]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://ai.futurelab.tv/contest_detail/8</id>
+        <title><![CDATA[病毒传播模型预测]]></title>
+        
+        <updated>2020-09-18T16:00:25+08:00</updated>
+        
+        <link href="https://ai.futurelab.tv/contest_detail/8"/>
+        <summary>病毒传播模型预测</summary>
+        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/8"><![CDATA[<h3>Description</h3>病毒传播模型预测<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥8000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI FUTURELAB]]></name>
+        </author>
+    </entry>
+    
+    
     
     
     
@@ -1141,6 +1185,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter"/>
         <summary>Classify audio utterances in Luganda and English from Uganda</summary>
         <content type="text/html" src="https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter"><![CDATA[<h3>Description</h3>Classify audio utterances in Luganda and English from Uganda<h3>Deadline: 2020-11-30T07:59:00+08:00</h3><h3>Reward: $7,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge</id>
+        <title><![CDATA[Uber Nairobi Ambulance Perambulation Challenge]]></title>
+        
+        <updated>2020-09-17T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge"/>
+        <summary>Can you use ML to create an optimised ambulance deployment strategy in Nairobi?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge"><![CDATA[<h3>Description</h3>Can you use ML to create an optimised ambulance deployment strategy in Nairobi?<h3>Deadline: 2021-01-25T07:59:00+08:00</h3><h3>Reward: $6,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
