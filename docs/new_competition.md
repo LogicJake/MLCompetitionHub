@@ -1,11 +1,11 @@
-> 更新时间: 2020-09-18T16:03:07+0800 
+> 更新时间: 2020-09-19T16:03:05+0800 
 
 # 新上线比赛
 
 
-## Uber Nairobi Ambulance Perambulation Challenge
-Link: https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge  
-Description: Can you use ML to create an optimised ambulance deployment strategy in Nairobi?  
-Deadline: 2021-01-25T07:59:00+0800  
-Reward: $6,000 USD  
+## AI艺术鉴赏挑战赛 - 看画猜作者
+Link: https://god.yanxishe.com/90  
+Description: “抽象是艺术史上的自然进步，然而算法捕捉到了这一点”。本次比赛的任务就是训练模型，识别名画的作者。  
+Deadline: 2020-10-17T23:59:59+0800  
+Reward: 3000.00  
 
