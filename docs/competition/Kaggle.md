@@ -26,7 +26,7 @@ Deadline: 2020-11-26T07:59:00+0800
 Reward: 30000.0 USD  
 
 
-## RSNA-STR Pulmonary Embolism Detection
+## RSNA STR Pulmonary Embolism Detection
 
 Link: https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection  
 Description: Classify Pulmonary Embolism cases in chest CT scans  
