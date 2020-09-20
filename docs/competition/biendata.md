@@ -2,14 +2,6 @@
 
 
 
-## Chain Dream : Construction of COVID-19 Knoledge Graph Task1
-
-Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/  
-Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task1  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥50,000  
-
-
 ## Chain Dream : MOOCCube Student Behaviour Prediction Task1
 
 Link: https://www.biendata.com/competition/chaindream_mooccube_task1/  
@@ -30,6 +22,14 @@ Reward: ￥75,000
 
 Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/  
 Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task2  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## Chain Dream : Construction of COVID-19 Knoledge Graph Task1
+
+Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/  
+Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task1  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥50,000  
 
@@ -130,22 +130,6 @@ Deadline: 2020-09-30T08:00:00+0800
 Reward: ￥ 45,000  
 
 
-## CCKS 2020: Event Element Extaction
-
-Link: https://www.biendata.com/competition/ccks_2020_4_2/  
-Description: CCKS 2020: Event Element Extaction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 20,000  
-
-
-## CCKS
-
-Link: https://www.biendata.com/competition/ccks_2020_8/  
-Description: CCKS  
-Deadline: 2020-09-20T08:00:00+0800  
-Reward: ￥ 30,000  
-
-
 ## Event and Entity Extraction from Financial Texts (Chinese Text Data)
 
 Link: https://www.biendata.com/competition/ccks_2020_4_1/  
@@ -160,4 +144,12 @@ Link: https://www.biendata.com/competition/ccks_2020_3/
 Description: CCKS 2020: Finance Entity Extraction  
 Deadline: 2020-09-20T08:00:00+0800  
 Reward: ￥ 44,500  
+
+
+## CCKS 2020: Event Element Extaction
+
+Link: https://www.biendata.com/competition/ccks_2020_4_2/  
+Description: CCKS 2020: Event Element Extaction  
+Deadline: 2020-09-30T08:00:00+0800  
+Reward: ￥ 20,000  
 

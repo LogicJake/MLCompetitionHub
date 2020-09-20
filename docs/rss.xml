@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-19T15:59:53+08:00</updated>
+    <updated>2020-09-20T15:59:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,20 +153,6 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_mooccube_task1/</id>
         <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task1]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
         <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
+        
+        <updated>2020-06-08T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -377,34 +377,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
-        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
-        <summary>CCKS 2020: Event Element Extaction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_8/</id>
-        <title><![CDATA[CCKS]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_8/"/>
-        <summary>CCKS</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_8/"><![CDATA[<h3>Description</h3>CCKS<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
         <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
         
@@ -427,6 +399,20 @@
         <link href="https://www.biendata.com/competition/ccks_2020_3/"/>
         <summary>CCKS 2020: Finance Entity Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Finance Entity Extraction<h3>Deadline: 2020-09-20T08:00:00+08:00</h3><h3>Reward: ￥ 44,500</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
+        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
+        
+        <updated>2020-03-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
+        <summary>CCKS 2020: Event Element Extaction</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -571,24 +557,6 @@
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/第二届翼支付杯大数据建模大赛-信用风险用户识别_竞赛信息.html</id>
-        <title><![CDATA[第二届翼支付杯大数据建模大赛-信用风险用户识别]]></title>
-        
-        <updated>2020-07-20T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/第二届翼支付杯大数据建模大赛-信用风险用户识别_竞赛信息.html"/>
-        <summary>天翼电子商务有限公司是中国电信股份有限公司全资子公司，是中国人民银行核准的第三方支付机构，中国证监会核准的基金支付结算机构，现已拥有支付、供应链融资、保险、消费金融、征信、信息技术等互联网金融关键要素。天翼电子商务有限公司秉承“响应监管、服务民生、资源共享、合作多赢”的理念，一直致力于让客户尽情享受安全便捷的金融新生活。
-央行发布《金融科技FinTech》报告，强调金融科技成为推动金融转型升级的新引擎，成为促进普惠金融发展的新机遇。运用大数据、人工智能等技术建立金融风控模型，有效甄别高风险交易，智能感知异常交易，实现风险早识别、早预警、早处置，提升金融风险防范能力，是 “金融+科技”成果的显著体现。
-天翼电子商务有限公司积极研究探索“金融科技FinTech”技术并努力应用到实际业务中，挖掘更多金融科技在实际普惠金融业务的应用方案。此次第二届翼支付杯大数据建模大赛将为校园新生力量提供才华施展的舞台和交流学习的通道，在实践中磨炼数据挖掘的专业能力，帮助学生完成从校园到社会的角色转变。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/第二届翼支付杯大数据建模大赛-信用风险用户识别_竞赛信息.html"><![CDATA[<h3>Description</h3>天翼电子商务有限公司是中国电信股份有限公司全资子公司，是中国人民银行核准的第三方支付机构，中国证监会核准的基金支付结算机构，现已拥有支付、供应链融资、保险、消费金融、征信、信息技术等互联网金融关键要素。天翼电子商务有限公司秉承“响应监管、服务民生、资源共享、合作多赢”的理念，一直致力于让客户尽情享受安全便捷的金融新生活。
-央行发布《金融科技FinTech》报告，强调金融科技成为推动金融转型升级的新引擎，成为促进普惠金融发展的新机遇。运用大数据、人工智能等技术建立金融风控模型，有效甄别高风险交易，智能感知异常交易，实现风险早识别、早预警、早处置，提升金融风险防范能力，是 “金融+科技”成果的显著体现。
-天翼电子商务有限公司积极研究探索“金融科技FinTech”技术并努力应用到实际业务中，挖掘更多金融科技在实际普惠金融业务的应用方案。此次第二届翼支付杯大数据建模大赛将为校园新生力量提供才华施展的舞台和交流学习的通道，在实践中磨炼数据挖掘的专业能力，帮助学生完成从校园到社会的角色转变。<h3>Deadline: 2020-09-19T23:59:59+08:00</h3><h3>Reward: 161700</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/超分辨率图像性能挑战赛_竞赛信息.html</id>
         <title><![CDATA[超分辨率图像性能挑战赛]]></title>
         
@@ -660,13 +628,27 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html</id>
+        <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道]]></title>
+        
+        <updated>2020-06-22T10:00:00+08:00</updated>
+        
+        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"/>
+        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。</summary>
+        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-19T15:59:53+08:00</updated>
+        <updated>2020-09-20T15:59:59+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -682,7 +664,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-19T15:59:53+08:00</updated>
+        <updated>2020-09-20T15:59:59+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -696,7 +678,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-19T15:59:53+08:00</updated>
+        <updated>2020-09-20T15:59:59+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -710,7 +692,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-19T15:59:53+08:00</updated>
+        <updated>2020-09-20T15:59:59+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -724,7 +706,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-19T15:59:53+08:00</updated>
+        <updated>2020-09-20T15:59:59+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
