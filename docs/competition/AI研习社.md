@@ -33,11 +33,3 @@ Description: 相对于前两次OCR比赛，本次比赛数据全部都是手写�
 Deadline: 2020-09-27T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 图书评分预测
-
-Link: https://god.yanxishe.com/85  
-Description: 本次比赛属于推荐系统系列第二场，数据集来自一个网络图书社区。  
-Deadline: 2020-09-20T23:59:59+0800  
-Reward: 3000.00  
-
