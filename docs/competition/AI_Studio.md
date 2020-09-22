@@ -34,6 +34,14 @@ Deadline: 2023-01-01T08:00:00+0800
 Reward: 特别礼包  
 
 
+## 2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别） <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/53  
+Description: 源于百度地图真实场景数据的车道线检测问题  
+Deadline: 2020-12-22T08:00:00+0800  
+Reward: ￥210000  
+
+
 ## 千言数据集：机器同传
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/44  
@@ -70,14 +78,6 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/48  
 Description: 建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：阅读理解
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/49  
-Description: 让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 
