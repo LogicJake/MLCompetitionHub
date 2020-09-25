@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-24T16:00:06+08:00</updated>
+    <updated>2020-09-25T16:00:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -286,7 +286,7 @@
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_1/"/>
         <summary>Medical Entity Recognition</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_1/"><![CDATA[<h3>Description</h3>Medical Entity Recognition<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_1/"><![CDATA[<h3>Description</h3>Medical Entity Recognition<h3>Deadline: 2020-10-08T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -300,7 +300,7 @@
         
         <link href="https://www.biendata.com/competition/ccks_2020_2_2/"/>
         <summary>Medical Event Extraction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_2/"><![CDATA[<h3>Description</h3>Medical Event Extraction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_2/"><![CDATA[<h3>Description</h3>Medical Event Extraction<h3>Deadline: 2020-10-08T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -634,7 +634,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-24T16:00:06+08:00</updated>
+        <updated>2020-09-25T16:00:08+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -647,10 +647,26 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     
     
     <entry>
+        <id>https://www.flyai.com/d/HandwritingEnglishRecognition</id>
+        <title><![CDATA[手写英文字体识别（名企内推）]]></title>
+        
+        <updated>2020-09-16T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/HandwritingEnglishRecognition"/>
+        <summary>该数据集包含通过慈善项目收集的超过40万个手写英文姓名。由于个人手写风格的差异化，对于机器识别手写字符来说仍然构成困难的挑战，所以要求参赛者通过建立预测模型实现精准的手写字体识别。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/HandwritingEnglishRecognition"><![CDATA[<h3>Description</h3>该数据集包含通过慈善项目收集的超过40万个手写英文姓名。由于个人手写风格的差异化，对于机器识别手写字符来说仍然构成困难的挑战，所以要求参赛者通过建立预测模型实现精准的手写字体识别。<h3>Deadline: 2020-10-16T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-24T16:00:06+08:00</updated>
+        <updated>2020-09-25T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -664,7 +680,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-24T16:00:06+08:00</updated>
+        <updated>2020-09-25T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -678,7 +694,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-24T16:00:06+08:00</updated>
+        <updated>2020-09-25T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -692,7 +708,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-24T16:00:06+08:00</updated>
+        <updated>2020-09-25T16:00:08+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>

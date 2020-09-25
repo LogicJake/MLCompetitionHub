@@ -78,7 +78,7 @@ Reward: ￥ 15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_2_1/  
 Description: Medical Entity Recognition  
-Deadline: 2020-09-30T08:00:00+0800  
+Deadline: 2020-10-08T08:00:00+0800  
 Reward: ￥15,000  
 
 
@@ -86,7 +86,7 @@ Reward: ￥15,000
 
 Link: https://www.biendata.com/competition/ccks_2020_2_2/  
 Description: Medical Event Extraction  
-Deadline: 2020-09-30T08:00:00+0800  
+Deadline: 2020-10-08T08:00:00+0800  
 Reward: ￥15,000  
 
 
