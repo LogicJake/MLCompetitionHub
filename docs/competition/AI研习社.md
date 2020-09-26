@@ -2,7 +2,7 @@
 
 
 
-## AI艺术鉴赏挑战赛 - 看画猜作者 <sup style="color:red">[new]<sup>  
+## AI艺术鉴赏挑战赛 - 看画猜作者
 
 Link: https://god.yanxishe.com/90  
 Description: “抽象是艺术史上的自然进步，然而算法捕捉到了这一点”。本次比赛的任务就是训练模型，识别名画的作者。  
