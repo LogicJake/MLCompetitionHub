@@ -25,11 +25,3 @@ Description: 本次比赛由AI研习社和Indemind联合举办，数据集使用
 Deadline: 2020-10-03T23:59:59+0800  
 Reward: 5000.00  
 
-
-## 手写英文姓名识别挑战赛
-
-Link: https://god.yanxishe.com/86  
-Description: 相对于前两次OCR比赛，本次比赛数据全部都是手写，由于每个人的书写风格差异巨大，机器识别这些数据是非常困难的  
-Deadline: 2020-09-27T23:59:59+0800  
-Reward: 3000.00  
-
