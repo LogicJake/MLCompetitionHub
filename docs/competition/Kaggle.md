@@ -49,3 +49,11 @@ Description: Label famous (and not-so-famous) landmarks in images
 Deadline: 2020-09-30T07:59:00+0800  
 Reward: 25000.0 USD  
 
+
+## Google Research Football with Manchester City F.C. <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/google-football  
+Description: Train agents to master the world's most popular sport  
+Deadline: 2020-12-01T07:59:00+0800  
+Reward: 6000.0 USD  
+

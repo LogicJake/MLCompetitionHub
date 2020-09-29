@@ -34,7 +34,7 @@ Deadline: 2023-01-01T08:00:00+0800
 Reward: 特别礼包  
 
 
-## 2020中国华录杯·数据湖算法大赛 — 飞桨赛道 <sup style="color:red">[new]<sup>  
+## 2020中国华录杯·数据湖算法大赛 — 飞桨赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/53  
 Description: 源于百度地图真实场景数据的车道线检测问题  
