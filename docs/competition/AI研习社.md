@@ -2,6 +2,14 @@
 
 
 
+## 员工离职预测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/93  
+Description: 本次比赛给出了员工满意度、平均工作时长的数据、岗位、薪水等数据，要求预测员工的离职情况。  
+Deadline: 2020-10-29T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## AI艺术鉴赏挑战赛 - 看画猜作者
 
 Link: https://god.yanxishe.com/90  

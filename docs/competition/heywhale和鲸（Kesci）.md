@@ -2,6 +2,14 @@
 
 
 
+## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
+Description: 第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。  
+Deadline: 2020-10-30T00:00:00+0800  
+Reward:   
+
+
 ## 医学数据挖掘算法评测大赛 | 任务1：公众健康问句分类
 
 Link: https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82  
@@ -64,12 +72,4 @@ Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190
 Description:   
 Deadline: 2020-10-18T00:00:00+0800  
 Reward: ￥19,000  
-
-
-## Workshop | Python 气象数据分析
-
-Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
-Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
-Deadline: 2021-09-30T00:00:00+0800  
-Reward: 气象数据分析+项目实战  
 
