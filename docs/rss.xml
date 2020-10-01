@@ -3,26 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-09-30T16:00:09+08:00</updated>
+    <updated>2020-10-01T16:00:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/42</id>
-        <title><![CDATA[百度人工智能开源大赛]]></title>
-        
-        <updated>2020-08-10T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/42"/>
-        <summary>本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/42"><![CDATA[<h3>Description</h3>本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/43</id>
@@ -181,20 +167,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_mooccube_task2/</id>
         <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task2]]></title>
         
@@ -209,28 +181,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task2]]></title>
         
-        <updated>2020-05-20T08:00:00+08:00</updated>
+        <updated>2020-06-08T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
-        <summary>Chain Dream : Name Disambiguation Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
-        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
-        <summary>2020 ChainDream Competition - Block Chain Track</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -251,28 +209,28 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_1/</id>
-        <title><![CDATA[CCKS 2020: Type Inference]]></title>
+        <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
+        <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
         
-        <updated>2020-05-06T08:00:00+08:00</updated>
+        <updated>2020-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_7_1/"/>
-        <summary>CCKS 2020: Type Inference</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_1/"><![CDATA[<h3>Description</h3>CCKS 2020: Type Inference<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
+        <summary>2020 ChainDream Competition - Block Chain Track</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_2/</id>
-        <title><![CDATA[CCKS 2020: Relation Prediction]]></title>
+        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
         
-        <updated>2020-04-24T08:00:00+08:00</updated>
+        <updated>2020-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.com/competition/ccks_2020_7_2/"/>
-        <summary>CCKS 2020: Relation Prediction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Relation Prediction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
+        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
+        <summary>Chain Dream : Name Disambiguation Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -301,76 +259,6 @@
         <link href="https://www.biendata.com/competition/ccks_2020_2_2/"/>
         <summary>Medical Event Extraction</summary>
         <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_2_2/"><![CDATA[<h3>Description</h3>Medical Event Extraction<h3>Deadline: 2020-10-08T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_3/</id>
-        <title><![CDATA[CCKS 2020: Link Prediction]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_3/"/>
-        <summary>CCKS 2020: Link Prediction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_3/"><![CDATA[<h3>Description</h3>CCKS 2020: Link Prediction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_7_4/</id>
-        <title><![CDATA[CCKS 2020: COVID 19 Question-answering]]></title>
-        
-        <updated>2020-04-17T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_7_4/"/>
-        <summary>CCKS 2020: COVID 19 Question-answering</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_7_4/"><![CDATA[<h3>Description</h3>CCKS 2020: COVID 19 Question-answering<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_6/</id>
-        <title><![CDATA[CCKS 2020: Product Entity Query]]></title>
-        
-        <updated>2020-04-16T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_6/"/>
-        <summary>CCKS 2020: Product Entity Query</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_6/"><![CDATA[<h3>Description</h3>CCKS 2020: Product Entity Query<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_2/</id>
-        <title><![CDATA[CCKS 2020: Event Element Extaction]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_4_2/"/>
-        <summary>CCKS 2020: Event Element Extaction</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_2/"><![CDATA[<h3>Description</h3>CCKS 2020: Event Element Extaction<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/ccks_2020_4_1/</id>
-        <title><![CDATA[Event and Entity Extraction from Financial Texts (Chinese Text Data)]]></title>
-        
-        <updated>2020-03-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/ccks_2020_4_1/"/>
-        <summary>Event and Entity Extraction from Financial Texts (Chinese Text Data)</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/ccks_2020_4_1/"><![CDATA[<h3>Description</h3>Event and Entity Extraction from Financial Texts (Chinese Text Data)<h3>Deadline: 2020-09-30T08:00:00+08:00</h3><h3>Reward: ￥ 20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -704,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-09-30T16:00:09+08:00</updated>
+        <updated>2020-10-01T16:00:07+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -736,7 +624,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-09-30T16:00:09+08:00</updated>
+        <updated>2020-10-01T16:00:07+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -750,7 +638,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-09-30T16:00:09+08:00</updated>
+        <updated>2020-10-01T16:00:07+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -764,7 +652,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-09-30T16:00:09+08:00</updated>
+        <updated>2020-10-01T16:00:07+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -778,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-09-30T16:00:09+08:00</updated>
+        <updated>2020-10-01T16:00:07+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>

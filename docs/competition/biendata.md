@@ -18,14 +18,6 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥75,000  
 
 
-## Chain Dream : Construction of COVID-19 Knoledge Graph Task2
-
-Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/  
-Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task2  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥50,000  
-
-
 ## Chain Dream : MOOCCube Student Behaviour Prediction Task2
 
 Link: https://www.biendata.com/competition/chaindream_mooccube_task2/  
@@ -34,10 +26,18 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥75,000  
 
 
-## Chain Dream : Name Disambiguation Task2
+## Chain Dream : Construction of COVID-19 Knoledge Graph Task2
 
-Link: https://www.biendata.com/competition/chaindream_nd_task2/  
-Description: Chain Dream : Name Disambiguation Task2  
+Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/  
+Description: Chain Dream : Construction of COVID-19 Knoledge Graph Task2  
+Deadline: 2020-11-15T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## Chain Dream : Name Disambiguation Task1
+
+Link: https://www.biendata.com/competition/chaindream_nd_task1/  
+Description: Chain Dream : Name Disambiguation Task1  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥75,000  
 
@@ -50,28 +50,12 @@ Deadline: 2020-11-15T08:00:00+0800
 Reward: ￥200,000  
 
 
-## Chain Dream : Name Disambiguation Task1
+## Chain Dream : Name Disambiguation Task2
 
-Link: https://www.biendata.com/competition/chaindream_nd_task1/  
-Description: Chain Dream : Name Disambiguation Task1  
+Link: https://www.biendata.com/competition/chaindream_nd_task2/  
+Description: Chain Dream : Name Disambiguation Task2  
 Deadline: 2020-11-15T08:00:00+0800  
 Reward: ￥75,000  
-
-
-## CCKS 2020: Type Inference
-
-Link: https://www.biendata.com/competition/ccks_2020_7_1/  
-Description: CCKS 2020: Type Inference  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
-## CCKS 2020: Relation Prediction
-
-Link: https://www.biendata.com/competition/ccks_2020_7_2/  
-Description: CCKS 2020: Relation Prediction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
 
 
 ## Medical Entity Recognition
@@ -88,44 +72,4 @@ Link: https://www.biendata.com/competition/ccks_2020_2_2/
 Description: Medical Event Extraction  
 Deadline: 2020-10-08T08:00:00+0800  
 Reward: ￥15,000  
-
-
-## CCKS 2020: Link Prediction
-
-Link: https://www.biendata.com/competition/ccks_2020_7_3/  
-Description: CCKS 2020: Link Prediction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
-## CCKS 2020: COVID 19 Question-answering
-
-Link: https://www.biendata.com/competition/ccks_2020_7_4/  
-Description: CCKS 2020: COVID 19 Question-answering  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
-## CCKS 2020: Product Entity Query
-
-Link: https://www.biendata.com/competition/ccks_2020_6/  
-Description: CCKS 2020: Product Entity Query  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 15,000  
-
-
-## CCKS 2020: Event Element Extaction
-
-Link: https://www.biendata.com/competition/ccks_2020_4_2/  
-Description: CCKS 2020: Event Element Extaction  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 20,000  
-
-
-## Event and Entity Extraction from Financial Texts (Chinese Text Data)
-
-Link: https://www.biendata.com/competition/ccks_2020_4_1/  
-Description: Event and Entity Extraction from Financial Texts (Chinese Text Data)  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥ 20,000  
 

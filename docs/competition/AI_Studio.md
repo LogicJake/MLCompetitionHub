@@ -2,14 +2,6 @@
 
 
 
-## 百度人工智能开源大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/42  
-Description: 本次大赛设立了面向观点型问题的机器阅读理解任务，个人参赛者需要给出答案段落摘要所包含的是非观点极性。  
-Deadline: 2020-09-30T08:00:00+0800  
-Reward: ￥100,000  
-
-
 ## EasyDL X 乌镇 产业智能创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/43  
