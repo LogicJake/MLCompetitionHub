@@ -2,7 +2,7 @@
 
 
 
-## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别 <sup style="color:red">[new]<sup>  
+## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别
 
 Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
 Description: 第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。  

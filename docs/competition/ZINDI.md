@@ -17,11 +17,3 @@ Description: Can you use ML to create an optimised ambulance deployment strategy
 Deadline: 2021-01-25T07:59:00+0800  
 Reward: $6,000 USD  
 
-
-## CGIAR Wheat Growth Stage Challenge
-
-Link: https://zindi.africa/competitions/cgiar-wheat-growth-stage-challenge  
-Description: Predict which phase of growth wheat crops are in using photos taken by farmers in India  
-Deadline: 2020-10-05T07:59:00+0800  
-Reward: $3,000 USD  
-
