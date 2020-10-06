@@ -2,6 +2,14 @@
 
 
 
+## Riiid! Answer Correctness Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/riiid-test-answer-prediction  
+Description: Track knowledge states of 1M+ students in the wild  
+Deadline: 2021-01-08T07:59:00+0800  
+Reward: 100000.0 USD  
+
+
 ## OSIC Pulmonary Fibrosis Progression
 
 Link: https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression  
@@ -38,11 +46,11 @@ Reward: 30000.0 USD
 
 Link: https://www.kaggle.com/c/stanford-covid-vaccine  
 Description: Urgent need to bring the COVID-19 vaccine to mass production  
-Deadline: 2020-10-06T07:59:00+0800  
+Deadline: 2020-10-07T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
-## Google Research Football with Manchester City F.C. <sup style="color:red">[new]<sup>  
+## Google Research Football with Manchester City F.C.
 
 Link: https://www.kaggle.com/c/google-football  
 Description: Train agents to master the world's most popular sport  
