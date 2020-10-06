@@ -294,3 +294,4 @@ https://www.datafountain.cn/competitions/467
 https://www.datafountain.cn/competitions/466
 https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4
 https://god.yanxishe.com/93
+https://www.kaggle.com/c/riiid-test-answer-prediction
