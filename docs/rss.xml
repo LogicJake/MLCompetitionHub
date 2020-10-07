@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-06T16:01:08+08:00</updated>
+    <updated>2020-10-07T15:59:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -592,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-06T16:01:08+08:00</updated>
+        <updated>2020-10-07T15:59:52+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -624,7 +624,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-06T16:01:08+08:00</updated>
+        <updated>2020-10-07T15:59:52+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -638,7 +638,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-06T16:01:08+08:00</updated>
+        <updated>2020-10-07T15:59:52+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -652,7 +652,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-06T16:01:08+08:00</updated>
+        <updated>2020-10-07T15:59:52+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-06T16:01:08+08:00</updated>
+        <updated>2020-10-07T15:59:52+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -689,20 +689,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kaggle.com/c/riiid-test-answer-prediction"/>
         <summary>Track knowledge states of 1M+ students in the wild</summary>
         <content type="text/html" src="https://www.kaggle.com/c/riiid-test-answer-prediction"><![CDATA[<h3>Description</h3>Track knowledge states of 1M+ students in the wild<h3>Deadline: 2021-01-08T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression</id>
-        <title><![CDATA[OSIC Pulmonary Fibrosis Progression]]></title>
-        
-        <updated>2020-07-08T01:00:16+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression"/>
-        <summary>Predict lung function decline</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression"><![CDATA[<h3>Description</h3>Predict lung function decline<h3>Deadline: 2020-10-07T07:59:00+08:00</h3><h3>Reward: 55000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -745,20 +731,6 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <link href="https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection"/>
         <summary>Classify Pulmonary Embolism cases in chest CT scans</summary>
         <content type="text/html" src="https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection"><![CDATA[<h3>Description</h3>Classify Pulmonary Embolism cases in chest CT scans<h3>Deadline: 2020-10-27T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/stanford-covid-vaccine</id>
-        <title><![CDATA[OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction]]></title>
-        
-        <updated>2020-09-11T09:31:20+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/stanford-covid-vaccine"/>
-        <summary>Urgent need to bring the COVID-19 vaccine to mass production</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/stanford-covid-vaccine"><![CDATA[<h3>Description</h3>Urgent need to bring the COVID-19 vaccine to mass production<h3>Deadline: 2020-10-07T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

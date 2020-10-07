@@ -2,7 +2,7 @@
 
 
 
-## 员工离职预测 <sup style="color:red">[new]<sup>  
+## 员工离职预测
 
 Link: https://god.yanxishe.com/93  
 Description: 本次比赛给出了员工满意度、平均工作时长的数据、岗位、薪水等数据，要求预测员工的离职情况。  
