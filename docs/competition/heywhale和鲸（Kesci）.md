@@ -73,3 +73,19 @@ Description:
 Deadline: 2020-10-18T00:00:00+0800  
 Reward: ￥19,000  
 
+
+## Workshop | Python 气象数据分析
+
+Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
+Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
+Deadline: 2021-09-30T00:00:00+0800  
+Reward: 气象数据分析+项目实战  
+
+
+## “2020创青春·交子杯”  AI算法赛道新手训练营
+
+Link: https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b  
+Description: [AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。  
+Deadline: 2021-09-01T00:00:00+0800  
+Reward:   
+
