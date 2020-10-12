@@ -2,14 +2,6 @@
 
 
 
-## EasyDL X 乌镇 产业智能创新大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/43  
-Description: 本次比赛为EasyDL联合乌镇镇政府、桐乡市经济和信息化局、桐乡市工业互联网联合会共同举办，欢迎有场景和业务需求的企业与个人参加比赛。  
-Deadline: 2020-10-22T08:00:00+0800  
-Reward: ￥160,000  
-
-
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -70,6 +62,22 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/48  
 Description: 建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：阅读理解
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/49  
+Description: 让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 0  
+
+
+## 千言数据集：情感分析
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/50  
+Description: 识别和提取文本中的倾向、立场、评价、观点等主观信息  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 
