@@ -2,6 +2,14 @@
 
 
 
+## 2020 CCF BDCI : 遥感影像地块分割 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/54  
+Description: 2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。  
+Deadline: 2020-12-31T08:00:00+0800  
+Reward: ¥100,000 + 特别礼包  
+
+
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -70,14 +78,6 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/49  
 Description: 让机器阅读文本然后回答和阅读内容相关的问题， 阅读理解旨在使机器具备理解自然语言的能力  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：情感分析
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/50  
-Description: 识别和提取文本中的倾向、立场、评价、观点等主观信息  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 

@@ -2,6 +2,14 @@
 
 
 
+## 遥感影像地块分割
+
+Link: https://www.datafountain.cn/competitions/475  
+Description: 遥感影像地块分割  
+Deadline: 2020-12-31T23:59:59+0800  
+Reward: ￥100000  
+
+
 ## 房产行业聊天问答匹配
 
 Link: https://www.datafountain.cn/competitions/474  

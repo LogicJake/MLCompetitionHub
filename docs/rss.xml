@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-12T16:00:12+08:00</updated>
+    <updated>2020-10-13T16:00:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/54</id>
+        <title><![CDATA[2020 CCF BDCI : 遥感影像地块分割]]></title>
+        
+        <updated>2020-10-13T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/54"/>
+        <summary>2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/54"><![CDATA[<h3>Description</h3>2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ¥100,000 + 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/51</id>
@@ -136,20 +150,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/50</id>
-        <title><![CDATA[千言数据集：情感分析]]></title>
-        
-        <updated>2020-08-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/50"/>
-        <summary>识别和提取文本中的倾向、立场、评价、观点等主观信息</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/50"><![CDATA[<h3>Description</h3>识别和提取文本中的倾向、立场、评价、观点等主观信息<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -251,6 +251,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/475</id>
+        <title><![CDATA[遥感影像地块分割]]></title>
+        
+        <updated>2020-09-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/475"/>
+        <summary>遥感影像地块分割</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/475"><![CDATA[<h3>Description</h3>遥感影像地块分割<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/474</id>
@@ -578,7 +592,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-12T16:00:12+08:00</updated>
+        <updated>2020-10-13T16:00:05+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -610,7 +624,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-12T16:00:12+08:00</updated>
+        <updated>2020-10-13T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -624,7 +638,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-12T16:00:12+08:00</updated>
+        <updated>2020-10-13T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -638,7 +652,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-12T16:00:12+08:00</updated>
+        <updated>2020-10-13T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -652,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-12T16:00:12+08:00</updated>
+        <updated>2020-10-13T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>

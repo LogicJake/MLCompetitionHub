@@ -2,7 +2,7 @@
 
 
 
-## Riiid! Answer Correctness Prediction <sup style="color:red">[new]<sup>  
+## Riiid! Answer Correctness Prediction
 
 Link: https://www.kaggle.com/c/riiid-test-answer-prediction  
 Description: Track knowledge states of 1M+ students in the wild  
