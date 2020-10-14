@@ -297,3 +297,6 @@ https://god.yanxishe.com/93
 https://www.kaggle.com/c/riiid-test-answer-prediction
 https://aistudio.baidu.com/aistudio/competition/detail/54
 https://www.datafountain.cn/competitions/475
+https://www.datafountain.cn/competitions/472
+https://competition.huaweicloud.com/information/1000041319/introduction
+https://www.kaggle.com/c/cdp-unlocking-climate-solutions
