@@ -10,6 +10,14 @@ Deadline: 2021-01-08T07:59:00+0800
 Reward: 100000.0 USD  
 
 
+## CDP: Unlocking Climate Solutions <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/cdp-unlocking-climate-solutions  
+Description: City-Business Collaboration for a Sustainable Future  
+Deadline: 2020-12-03T07:59:00+0800  
+Reward: 91000.0 USD  
+
+
 ## Mechanisms of Action (MoA) Prediction
 
 Link: https://www.kaggle.com/c/lish-moa  

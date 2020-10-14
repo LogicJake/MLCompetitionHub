@@ -18,6 +18,14 @@ Deadline: 2020-12-12T23:59:59+0800
 Reward: ￥100000  
 
 
+## 非结构化商业文本信息中隐私信息识别
+
+Link: https://www.datafountain.cn/competitions/472  
+Description: 非结构化商业文本信息中隐私信息识别  
+Deadline: 2020-12-12T23:59:59+0800  
+Reward: ￥20000  
+
+
 ## 面向数据安全治理的数据内容智能发现与分级分类
 
 Link: https://www.datafountain.cn/competitions/471  
@@ -30,7 +38,7 @@ Reward: ￥50000
 
 Link: https://www.datafountain.cn/competitions/470  
 Description: 千言：多技能对话  
-Deadline: 2020-12-12T23:59:59+0800  
+Deadline: 2021-01-01T23:59:59+0800  
 Reward: ￥50000  
 
 
