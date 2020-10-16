@@ -302,3 +302,4 @@ https://competition.huaweicloud.com/information/1000041319/introduction
 https://www.kaggle.com/c/cdp-unlocking-climate-solutions
 https://aistudio.baidu.com/aistudio/competition/detail/55
 https://www.kaggle.com/c/nfl-big-data-bowl-2021
+https://competition.huaweicloud.com/information/1000041322/introduction
