@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-15T15:59:53+08:00</updated>
+    <updated>2020-10-16T16:00:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -606,7 +606,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-15T15:59:53+08:00</updated>
+        <updated>2020-10-16T16:00:05+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -638,7 +638,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-15T15:59:53+08:00</updated>
+        <updated>2020-10-16T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -652,7 +652,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-15T15:59:53+08:00</updated>
+        <updated>2020-10-16T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -666,7 +666,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-15T15:59:53+08:00</updated>
+        <updated>2020-10-16T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -680,7 +680,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-15T15:59:53+08:00</updated>
+        <updated>2020-10-16T16:00:05+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -691,6 +691,20 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     </entry>
     
     
+    
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000041322/introduction</id>
+        <title><![CDATA[“华为云杯”2020人工智能创新应用大赛]]></title>
+        
+        <updated>2020-10-14T10:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041322/introduction"/>
+        <summary>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041322/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。<h3>Deadline: 2020-12-08T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://competition.huaweicloud.com/information/1000041319/introduction</id>
