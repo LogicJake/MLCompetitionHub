@@ -2,6 +2,14 @@
 
 
 
+## 高铁乘客数量检测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/94  
+Description: 我国高铁快速发展，高铁已经成为很多人出行的首选手段，  本次比赛会给到某条高铁线路2年的客流量，要求预测某段时间内高铁客流量。  
+Deadline: 2020-11-14T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 员工离职预测
 
 Link: https://god.yanxishe.com/93  
