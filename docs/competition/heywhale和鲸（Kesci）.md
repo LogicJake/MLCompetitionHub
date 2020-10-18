@@ -42,38 +42,6 @@ Deadline: 2021-12-31T00:00:00+0800
 Reward: 新人赛  
 
 
-## 2020“海上争锋”中国智能船艇挑战赛：实海域目标识别算法赛（B组）
-
-Link: https://www.kesci.com/home/competition/5f3ccfb655d565002c6ae2ba  
-Description:   
-Deadline: 2020-10-18T00:00:00+0800  
-Reward: ￥25,000  
-
-
-## 2020“海上争锋”中国智能船艇挑战赛：海上争锋2020（D组）
-
-Link: https://www.kesci.com/home/competition/5f3cb5b155d565002c6ae246  
-Description:   
-Deadline: 2020-10-18T00:00:00+0800  
-Reward: ￥50,000  
-
-
-## 2020“海上争锋”中国智能船艇挑战赛：无人商船自主避障算法赛（C组）
-
-Link: https://www.kesci.com/home/competition/5f3c9bad55d565002c6ae1d3  
-Description:   
-Deadline: 2020-10-18T00:00:00+0800  
-Reward: ￥25,000  
-
-
-## 2020“海上争锋”中国智能船艇挑战赛：智能船艇概念设计（A组）
-
-Link: https://www.kesci.com/home/competition/5f3c8dd555d565002c6ae190  
-Description:   
-Deadline: 2020-10-18T00:00:00+0800  
-Reward: ￥19,000  
-
-
 ## Workshop | Python 气象数据分析
 
 Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189  
@@ -88,4 +56,31 @@ Link: https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b
 Description: [AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。  
 Deadline: 2021-09-01T00:00:00+0800  
 Reward:   
+
+
+## 预测分析·员工满意度预测
+
+Link: https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 新人赛  
+
+
+## ReID·行人重识别
+
+Link: https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472  
+Description: DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
+基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 经典赛  
+
+
+## 文本分析·疫情期间谣言分析
+
+Link: https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c  
+Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
+选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。  
+Deadline: 2020-12-31T00:00:00+0800  
+Reward: 热点赛  
 
