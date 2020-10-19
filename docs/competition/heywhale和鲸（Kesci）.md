@@ -2,6 +2,14 @@
 
 
 
+## 数字电网开发者大会 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f8d070f23f41e002c3f27b3  
+Description: 为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，积极与各方携手共建开放共享的能源生态圈，导入行业内外优势要素，推动数字电网高质量发展,南方电网公司举办首届数字电网开发者大会。  
+Deadline: 2020-11-26T22:00:00+0800  
+Reward: 获奖证书+百万级/千万级项目支持  
+
+
 ## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别
 
 Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
