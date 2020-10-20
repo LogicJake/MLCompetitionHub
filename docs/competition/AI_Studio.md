@@ -2,7 +2,7 @@
 
 
 
-## 2020 CCF BDCI 遥感影像地块分割 <sup style="color:red">[new]<sup>  
+## 2020 CCF BDCI 遥感影像地块分割
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/54  
 Description: 2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。  
