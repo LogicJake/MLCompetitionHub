@@ -10,7 +10,7 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥100,000 + 特别礼包  
 
 
-## 2020 CCF BDCI 千言：多技能对话 <sup style="color:red">[new]<sup>  
+## 2020 CCF BDCI 千言：多技能对话
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/55  
 Description: 2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。  
@@ -42,6 +42,14 @@ Deadline: 2020-12-22T08:00:00+0800
 Reward: ￥210，000  
 
 
+## 2020“智荟杯”浦发百度高校极客挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/56  
+Description: 本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。  
+Deadline: 2020-12-11T08:00:00+0800  
+Reward: 总奖池 ¥ 630,000  
+
+
 ## 千言数据集：机器同传
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/44  
@@ -70,14 +78,6 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/47  
 Description: 将用户输入的自然语言问题转成可与数据库操作的SQL查询语句  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：开放域对话
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/48  
-Description: 建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 
