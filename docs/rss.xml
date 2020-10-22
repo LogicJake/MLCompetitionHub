@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-21T15:59:54+08:00</updated>
+    <updated>2020-10-22T15:59:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/55"/>
         <summary>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/55"><![CDATA[<h3>Description</h3>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000 + 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/57</id>
+        <title><![CDATA[中国石油梦想云创新大赛]]></title>
+        
+        <updated>2020-10-21T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/57"/>
+        <summary>源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/57"><![CDATA[<h3>Description</h3>源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。<h3>Deadline: 2020-11-25T08:00:00+08:00</h3><h3>Reward: ￥300，000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/46"/>
         <summary>从非结构化自然语言文本中提取实体、关系、事件等结构化知识</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/46"><![CDATA[<h3>Description</h3>从非结构化自然语言文本中提取实体、关系、事件等结构化知识<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/47</id>
-        <title><![CDATA[千言数据集：语义解析]]></title>
-        
-        <updated>2020-08-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/47"/>
-        <summary>将用户输入的自然语言问题转成可与数据库操作的SQL查询语句</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/47"><![CDATA[<h3>Description</h3>将用户输入的自然语言问题转成可与数据库操作的SQL查询语句<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -586,27 +586,13 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html"/>
-        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，利用心电图来解开人类情感状态的密码。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-心电图赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，利用心电图来解开人类情感状态的密码。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-21T15:59:54+08:00</updated>
+        <updated>2020-10-22T15:59:53+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -617,6 +603,22 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.flyai.com/d/ButterflyClassification</id>
+        <title><![CDATA[1024程序员节—蝴蝶分类开源竞赛]]></title>
+        
+        <updated>2020-10-22T12:00:00+08:00</updated>
+        
+        <link href="https://www.flyai.com/d/ButterflyClassification"/>
+        <summary>细粒度图像分类问题是计算机视觉领域一项极具挑战的研究课题，为促进细粒度分类问题研究，本赛题结束后将开源优秀代码。欢迎更多算法科学家积极参与细粒度图像分类研究。
+本赛题任务主要是通过对200类蝴蝶建立精准的分类模型。数据集大约有20,223张，涵盖200个物种，116属，23个亚科和5个科的四个不同级别。</summary>
+        <content type="text/html" src="https://www.flyai.com/d/ButterflyClassification"><![CDATA[<h3>Description</h3>细粒度图像分类问题是计算机视觉领域一项极具挑战的研究课题，为促进细粒度分类问题研究，本赛题结束后将开源优秀代码。欢迎更多算法科学家积极参与细粒度图像分类研究。
+本赛题任务主要是通过对200类蝴蝶建立精准的分类模型。数据集大约有20,223张，涵盖200个物种，116属，23个亚科和5个科的四个不同级别。<h3>Deadline: 2020-11-30T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 3000+专属V100 GPU奖励</h3>]]></content>
+        <author>
+            <name><![CDATA[FlyAI]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.flyai.com/d/HandwritingEnglishRecognition</id>
@@ -638,7 +640,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-21T15:59:54+08:00</updated>
+        <updated>2020-10-22T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -652,7 +654,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-21T15:59:54+08:00</updated>
+        <updated>2020-10-22T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -666,7 +668,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-21T15:59:54+08:00</updated>
+        <updated>2020-10-22T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -680,7 +682,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-21T15:59:54+08:00</updated>
+        <updated>2020-10-22T15:59:53+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -844,7 +846,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4"/>
         <summary>第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4"><![CDATA[<h3>Description</h3>第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。<h3>Deadline: 2020-10-30T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4"><![CDATA[<h3>Description</h3>第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。<h3>Deadline: 2020-10-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1040,7 +1042,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531824/introduction"/>
         <summary>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531824/introduction"><![CDATA[<h3>Description</h3>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。<h3>Deadline: 2020-10-21T20:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531824/introduction"><![CDATA[<h3>Description</h3>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。<h3>Deadline: 2020-10-22T23:55:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1175,6 +1177,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge"/>
         <summary>Can you use ML to create an optimised ambulance deployment strategy in Nairobi?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge"><![CDATA[<h3>Description</h3>Can you use ML to create an optimised ambulance deployment strategy in Nairobi?<h3>Deadline: 2021-01-25T07:59:00+08:00</h3><h3>Reward: $6,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge</id>
+        <title><![CDATA[CGIAR Crop Yield Prediction Challenge]]></title>
+        
+        <updated>2020-10-21T09:59:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"/>
+        <summary>Can you predict maize yields on East African farms using satellite data?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict maize yields on East African farms using satellite data?<h3>Deadline: 2021-02-08T07:59:00+08:00</h3><h3>Reward: $3,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

@@ -18,6 +18,14 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥50,000 + 特别礼包  
 
 
+## 中国石油梦想云创新大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/57  
+Description: 源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。  
+Deadline: 2020-11-25T08:00:00+0800  
+Reward: ￥300，000  
+
+
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -70,14 +78,6 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/46  
 Description: 从非结构化自然语言文本中提取实体、关系、事件等结构化知识  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：语义解析
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/47  
-Description: 将用户输入的自然语言问题转成可与数据库操作的SQL查询语句  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 

@@ -17,3 +17,11 @@ Description: Can you use ML to create an optimised ambulance deployment strategy
 Deadline: 2021-01-25T07:59:00+0800  
 Reward: $6,000 USD  
 
+
+## CGIAR Crop Yield Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge  
+Description: Can you predict maize yields on East African farms using satellite data?  
+Deadline: 2021-02-08T07:59:00+0800  
+Reward: $3,000 USD  
+
