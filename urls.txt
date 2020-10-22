@@ -306,3 +306,6 @@ https://competition.huaweicloud.com/information/1000041322/introduction
 https://god.yanxishe.com/94
 https://www.kesci.com/home/competition/5f8d070f23f41e002c3f27b3
 https://aistudio.baidu.com/aistudio/competition/detail/56
+https://aistudio.baidu.com/aistudio/competition/detail/57
+https://www.flyai.com/d/ButterflyClassification
+https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge
