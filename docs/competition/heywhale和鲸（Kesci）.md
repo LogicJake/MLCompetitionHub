@@ -10,14 +10,6 @@ Deadline: 2020-11-26T22:00:00+0800
 Reward: 获奖证书+百万级/千万级项目支持  
 
 
-## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别
-
-Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
-Description: 第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。  
-Deadline: 2020-10-31T00:00:00+0800  
-Reward:   
-
-
 ## 医学数据挖掘算法评测大赛 | 任务1：公众健康问句分类
 
 Link: https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82  
@@ -40,6 +32,22 @@ Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1
 Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
 Deadline: 2020-10-25T23:59:00+0800  
 Reward: ¥ 150,000  
+
+
+## 数字电网开发者大会——多层次情绪识别算法研究 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f520330b4bec900380c780c  
+Description:   
+Deadline: 2020-11-26T20:00:00+0800  
+Reward:   
+
+
+## 数字电网开发者大会——数据治理智能化运行技术 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5f72c9d723f41e002c3ee2b6  
+Description:   
+Deadline: 2020-11-26T20:00:00+0800  
+Reward:   
 
 
 ## 医学统计·数据分析入门
