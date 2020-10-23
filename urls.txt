@@ -309,3 +309,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/56
 https://aistudio.baidu.com/aistudio/competition/detail/57
 https://www.flyai.com/d/ButterflyClassification
 https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge
+https://www.kesci.com/home/competition/5f520330b4bec900380c780c
+https://www.kesci.com/home/competition/5f72c9d723f41e002c3ee2b6
