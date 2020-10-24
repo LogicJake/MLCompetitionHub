@@ -2,6 +2,14 @@
 
 
 
+## 酒店评分预测 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/96  
+Description: 假日出行选择一个舒适的酒店十分重要，本次比赛内容就是根据顾客评价预测顾客对酒店的评分。  
+Deadline: 2020-11-21T23:59:59+0800  
+Reward: 2000.00  
+
+
 ## 高铁乘客数量检测
 
 Link: https://god.yanxishe.com/94  

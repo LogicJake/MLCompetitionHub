@@ -10,12 +10,12 @@ Deadline: 2020-11-26T22:00:00+0800
 Reward: 获奖证书+百万级/千万级项目支持  
 
 
-## 医学数据挖掘算法评测大赛 | 任务1：公众健康问句分类
+## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别
 
-Link: https://www.kesci.com/home/competition/5f2d0ea1b4ac2e002c164d82  
-Description: 随着健康医疗信息化的发展以及云计算、物联网、移动智能等技术在健康医疗领域的广泛应用，在医疗服务、健康保健和卫生管理过程中产生了海量数据集，形成了医学大数据。医学数据挖掘算法是发挥医学大数据价值的重要技术手段。为促进数据挖掘算法更好地支撑智能化医学信息系统，中华医学会医学信息学分会特组织开展医学数据挖掘评测活动，评价算法在特定医学应用场景中的准确性和适应性。  
-Deadline: 2020-10-23T20:00:00+0800  
-Reward: 论文发表机会+奖金+证书  
+Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
+Description: 第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。  
+Deadline: 2020-10-31T00:00:00+0800  
+Reward:   
 
 
 ## 2020上海新能源汽车大数据竞赛
@@ -32,22 +32,6 @@ Link: https://www.kesci.com/home/competition/5f360ba3a5c0e8002d5d03f1
 Description: “人工智能应用挑战赛”为“智算之道-2020中国软件行业智能应用程序设计大赛”的竞赛模块之一,旨在适应人工智能产业的快速发展,对接经济社会人才需求  
 Deadline: 2020-10-25T23:59:00+0800  
 Reward: ¥ 150,000  
-
-
-## 数字电网开发者大会——多层次情绪识别算法研究 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/5f520330b4bec900380c780c  
-Description:   
-Deadline: 2020-11-26T20:00:00+0800  
-Reward:   
-
-
-## 数字电网开发者大会——数据治理智能化运行技术 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/5f72c9d723f41e002c3ee2b6  
-Description:   
-Deadline: 2020-11-26T20:00:00+0800  
-Reward:   
 
 
 ## 医学统计·数据分析入门
@@ -99,4 +83,13 @@ Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，
 选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。  
 Deadline: 2020-12-31T00:00:00+0800  
 Reward: 热点赛  
+
+
+## 预测分析·客户购买预测
+
+Link: https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。  
+Deadline: 2030-12-31T00:00:00+0800  
+Reward: 新人赛  
 
