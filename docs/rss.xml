@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-24T15:59:52+08:00</updated>
+    <updated>2020-10-25T16:00:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -528,71 +528,13 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-温室温度预测挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"/>
-        <summary>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-温室温度预测挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>随着计算机技术的发展，我国逐渐实现了从传统农业到现代农业的转变，正逐步迈向智慧农业。温室是现代农业技术应用的典型场景，其内部环境具有可操作性，能人为形成适宜植物生长的小型封闭生态系统，提升农产品的产量和质量，因此被广泛应用于农业生产中。在温室的各项环境因子中，作物对温度最为敏感。温度的高低影响植株细胞的酶活性，从而影响作物的生长速度、产量和质量，因此温度对作物生长发育影响极大。为了保证农产品的产量和质量，应保证作物正常生长，需对温室温度进行精确的调控。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-农业问答数据处理挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html"/>
-        <summary>农业生产中，由于过程的主体是生物，存在多样性和变异性、个体与群体差异性，农业大数据中存在许多的专业名词，如农作物、病虫害、土壤修复、施肥方案、生理胁迫、种苗、疑难杂症、缺素、天气条件、地理信息等，尤其是非结构化的数据快速增长，如何挖掘数据价值、提高数据分析应用能力、减少数据冗余和数据垃圾，是农业大数据面临的重要问题。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-农业问答数据处理挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>农业生产中，由于过程的主体是生物，存在多样性和变异性、个体与群体差异性，农业大数据中存在许多的专业名词，如农作物、病虫害、土壤修复、施肥方案、生理胁迫、种苗、疑难杂症、缺素、天气条件、地理信息等，尤其是非结构化的数据快速增长，如何挖掘数据价值、提高数据分析应用能力、减少数据冗余和数据垃圾，是农业大数据面临的重要问题。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-X光安检违禁品识别挑战赛_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-X光安检违禁品识别挑战赛]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-X光安检违禁品识别挑战赛_竞赛信息.html"/>
-        <summary>讯飞看见X光智能安检信息化解决方案是针对安检场景推出的智能化、信息化解决方案，旨在将传统的安检业务场景，通过人工智能、大数据等先进技术手段进行赋能，辅助一线安检检查工作，为安检管理方提供量化数据与大数据预警等更多技术管理工具。
-X光安检机是目前我国使用最广泛的安检技术手段，广泛应用于城市轨交、铁路、机场、重点场馆、物流寄递等场景。使用人工智能技术，辅助一线安检员进行X光安检判图，可以有效降低因为人员疲劳或注意力不集中带来的漏报等问题。但在实际场景中，因物品的多样性、成像角度、遮挡等问题，为算法的开发带来了一定的挑战。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-X光安检违禁品识别挑战赛_竞赛信息.html"><![CDATA[<h3>Description</h3>讯飞看见X光智能安检信息化解决方案是针对安检场景推出的智能化、信息化解决方案，旨在将传统的安检业务场景，通过人工智能、大数据等先进技术手段进行赋能，辅助一线安检检查工作，为安检管理方提供量化数据与大数据预警等更多技术管理工具。
-X光安检机是目前我国使用最广泛的安检技术手段，广泛应用于城市轨交、铁路、机场、重点场馆、物流寄递等场景。使用人工智能技术，辅助一线安检员进行X光安检判图，可以有效降低因为人员疲劳或注意力不集中带来的漏报等问题。但在实际场景中，因物品的多样性、成像角度、遮挡等问题，为算法的开发带来了一定的挑战。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html</id>
-        <title><![CDATA[AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道]]></title>
-        
-        <updated>2020-06-22T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"/>
-        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/AI开发者大赛-多模态情感分析与识别挑战赛-音视频融合赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。当智能可以被模拟，人类的情绪与情感是否也可以模拟？如果与我们交互的机器，不再是冷冰冰的“机器”，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的人工智能才是真正实现了“有温度的”智能产品的梦想。然而，如何让机器能够有效感知我们的情绪状态呢？基于此，向广大人工智能开发者发起情感分析与识别的挑战，从听觉、视觉两个维度解开人类情感状态的密码。<h3>Deadline: 2020-10-25T00:00:00+08:00</h3><h3>Reward: 77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-24T15:59:52+08:00</updated>
+        <updated>2020-10-25T16:00:02+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -640,7 +582,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-24T15:59:52+08:00</updated>
+        <updated>2020-10-25T16:00:02+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -654,7 +596,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-24T15:59:52+08:00</updated>
+        <updated>2020-10-25T16:00:02+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -668,7 +610,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-24T15:59:52+08:00</updated>
+        <updated>2020-10-25T16:00:02+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -682,7 +624,7 @@ X光安检机是目前我国使用最广泛的安检技术手段，广泛应用�
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-24T15:59:52+08:00</updated>
+        <updated>2020-10-25T16:00:02+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
