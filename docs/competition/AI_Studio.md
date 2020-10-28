@@ -18,7 +18,7 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥50,000 + 特别礼包  
 
 
-## 中石油 · 第二届梦想云创新大赛 <sup style="color:red">[new]<sup>  
+## 中石油 · 第二届梦想云创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/57  
 Description: 源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。  
@@ -50,7 +50,7 @@ Deadline: 2020-12-22T08:00:00+0800
 Reward: ￥210，000  
 
 
-## 2020“智荟杯”浦发百度高校极客挑战赛 <sup style="color:red">[new]<sup>  
+## 2020“智荟杯”浦发百度高校极客挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/56  
 Description: 本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。  

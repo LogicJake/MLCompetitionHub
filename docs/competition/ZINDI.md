@@ -18,7 +18,7 @@ Deadline: 2021-01-25T07:59:00+0800
 Reward: $6,000 USD  
 
 
-## CGIAR Crop Yield Prediction Challenge <sup style="color:red">[new]<sup>  
+## CGIAR Crop Yield Prediction Challenge
 
 Link: https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge  
 Description: Can you predict maize yields on East African farms using satellite data?  
