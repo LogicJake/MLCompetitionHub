@@ -2,7 +2,7 @@
 
 
 
-## 1024程序员节—蝴蝶分类开源竞赛 <sup style="color:red">[new]<sup>  
+## 1024程序员节—蝴蝶分类开源竞赛
 
 Link: https://www.flyai.com/d/ButterflyClassification  
 Description: 细粒度图像分类问题是计算机视觉领域一项极具挑战的研究课题，为促进细粒度分类问题研究，本赛题结束后将开源优秀代码。欢迎更多算法科学家积极参与细粒度图像分类研究。
