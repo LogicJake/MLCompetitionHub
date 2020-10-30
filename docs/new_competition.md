@@ -1,11 +1,11 @@
-> 更新时间: 2020-10-29T16:03:54+0800 
+> 更新时间: 2020-10-30T16:02:37+0800 
 
 # 新上线比赛
 
 
-## 判例の個人情報の自動マスキング
-Link: https://www.nishika.com/competitions/7  
-Description: 判例の個人情報の自動マスキング  
-Deadline: 2021-01-14T13:59:00+0800  
-Reward: 16万円  
+## 图像场景分类挑战赛
+Link: https://god.yanxishe.com/97  
+Description: 数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。  
+Deadline: 2020-11-28T23:59:59+0800  
+Reward: 3000.00  
 
