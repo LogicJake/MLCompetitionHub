@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-10-29T16:00:02+08:00</updated>
+    <updated>2020-10-30T15:59:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -552,7 +552,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-10-29T16:00:02+08:00</updated>
+        <updated>2020-10-30T15:59:45+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -600,7 +600,7 @@
         <id>https://ai.futurelab.tv/contest_detail/19</id>
         <title><![CDATA[语音-跨设备说话人识别]]></title>
         
-        <updated>2020-10-29T16:00:02+08:00</updated>
+        <updated>2020-10-30T15:59:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/19"/>
         <summary>语音-跨设备说话人识别</summary>
@@ -614,7 +614,7 @@
         <id>https://ai.futurelab.tv/contest_detail/18</id>
         <title><![CDATA[图像-海洋生物探索]]></title>
         
-        <updated>2020-10-29T16:00:02+08:00</updated>
+        <updated>2020-10-30T15:59:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/18"/>
         <summary>图像-海洋生物探索</summary>
@@ -628,7 +628,7 @@
         <id>https://ai.futurelab.tv/contest_detail/16</id>
         <title><![CDATA[心理疏导线索]]></title>
         
-        <updated>2020-10-29T16:00:02+08:00</updated>
+        <updated>2020-10-30T15:59:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/16"/>
         <summary>心理疏导线索</summary>
@@ -642,7 +642,7 @@
         <id>https://ai.futurelab.tv/contest_detail/8</id>
         <title><![CDATA[病毒传播模型预测]]></title>
         
-        <updated>2020-10-29T16:00:02+08:00</updated>
+        <updated>2020-10-30T15:59:45+08:00</updated>
         
         <link href="https://ai.futurelab.tv/contest_detail/8"/>
         <summary>病毒传播模型预测</summary>
@@ -1059,6 +1059,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     
     
     <entry>
+        <id>https://god.yanxishe.com/97</id>
+        <title><![CDATA[图像场景分类挑战赛]]></title>
+        
+        <updated>2020-10-30T14:28:59+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/97"/>
+        <summary>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/97"><![CDATA[<h3>Description</h3>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。<h3>Deadline: 2020-11-28T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://god.yanxishe.com/96</id>
         <title><![CDATA[酒店评分预测]]></title>
         
@@ -1081,20 +1095,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://god.yanxishe.com/94"/>
         <summary>我国高铁快速发展，高铁已经成为很多人出行的首选手段，  本次比赛会给到某条高铁线路2年的客流量，要求预测某段时间内高铁客流量。</summary>
         <content type="text/html" src="https://god.yanxishe.com/94"><![CDATA[<h3>Description</h3>我国高铁快速发展，高铁已经成为很多人出行的首选手段，  本次比赛会给到某条高铁线路2年的客流量，要求预测某段时间内高铁客流量。<h3>Deadline: 2020-11-14T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/93</id>
-        <title><![CDATA[员工离职预测]]></title>
-        
-        <updated>2020-09-30T15:00:00+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/93"/>
-        <summary>本次比赛给出了员工满意度、平均工作时长的数据、岗位、薪水等数据，要求预测员工的离职情况。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/93"><![CDATA[<h3>Description</h3>本次比赛给出了员工满意度、平均工作时长的数据、岗位、薪水等数据，要求预测员工的离职情况。<h3>Deadline: 2020-10-29T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
