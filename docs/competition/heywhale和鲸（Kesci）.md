@@ -10,14 +10,6 @@ Deadline: 2020-11-26T22:00:00+0800
 Reward: 获奖证书+百万级/千万级项目支持  
 
 
-## 第五届中国创新挑战赛智慧教育专题赛：教育手写公式识别
-
-Link: https://www.kesci.com/home/competition/5f703ac023f41e002c3ed5e4  
-Description: 第五届中国创新挑战赛智慧教育专题赛旨在攻克复杂学习场景中的手写公式识别这一难点，进而推动业界对真实教育场景的OCR研究中相关方法的发展与突破。  
-Deadline: 2020-10-31T00:00:00+0800  
-Reward:   
-
-
 ## 2020上海新能源汽车大数据竞赛
 
 Link: https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c  
