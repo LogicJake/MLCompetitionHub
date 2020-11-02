@@ -2,7 +2,7 @@
 
 
 
-## 2020厦门国际银行数创金融杯建模大赛 <sup style="color:red">[new]<sup>  
+## 2020厦门国际银行数创金融杯建模大赛
 
 Link: https://www.dcjingsai.com/common/cmpt/2020厦门国际银行数创金融杯建模大赛_竞赛信息.html  
 Description:        此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。

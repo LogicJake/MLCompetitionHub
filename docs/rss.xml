@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-01T16:00:01+08:00</updated>
+    <updated>2020-11-02T15:59:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -46,7 +46,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/57"/>
         <summary>源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/57"><![CDATA[<h3>Description</h3>源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。<h3>Deadline: 2020-11-25T08:00:00+08:00</h3><h3>Reward: ￥300，000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/57"><![CDATA[<h3>Description</h3>源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。<h3>Deadline: 2020-11-25T08:00:00+08:00</h3><h3>Reward: ￥300,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -88,7 +88,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/53"/>
         <summary>源于百度地图真实场景数据的车道线检测问题</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/53"><![CDATA[<h3>Description</h3>源于百度地图真实场景数据的车道线检测问题<h3>Deadline: 2020-12-22T08:00:00+08:00</h3><h3>Reward: ￥210，000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/53"><![CDATA[<h3>Description</h3>源于百度地图真实场景数据的车道线检测问题<h3>Deadline: 2020-12-22T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -102,7 +102,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/56"/>
         <summary>本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/56"><![CDATA[<h3>Description</h3>本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。<h3>Deadline: 2020-12-11T08:00:00+08:00</h3><h3>Reward: 总奖池 ¥ 630,000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/56"><![CDATA[<h3>Description</h3>本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。<h3>Deadline: 2020-12-11T08:00:00+08:00</h3><h3>Reward: ¥ 630,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -160,35 +160,7 @@
         
         <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
         <summary>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2<h3>Deadline: 2020-11-30T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_mooccube_task2/</id>
-        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task2]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_mooccube_task2/"/>
-        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task2/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task2<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_mooccube_task1/</id>
-        <title><![CDATA[Chain Dream : MOOCCube Student Behaviour Prediction Task1]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_mooccube_task1/"/>
-        <summary>Chain Dream : MOOCCube Student Behaviour Prediction Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_mooccube_task1/"><![CDATA[<h3>Description</h3>Chain Dream : MOOCCube Student Behaviour Prediction Task1<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2<h3>Deadline: 2020-11-17T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -203,6 +175,20 @@
         <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
         <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-03T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
+        <summary>Chain Dream : Name Disambiguation Task1</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -231,20 +217,6 @@
         <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
         <summary>2020 ChainDream Competition - Block Chain Track</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task1/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_nd_task1/"/>
-        <summary>Chain Dream : Name Disambiguation Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -552,7 +524,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-01T16:00:01+08:00</updated>
+        <updated>2020-11-02T15:59:54+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -591,64 +563,6 @@
         <content type="text/html" src="https://www.flyai.com/d/HandwritingEnglishRecognition"><![CDATA[<h3>Description</h3>该数据集包含通过慈善项目收集的超过40万个手写英文姓名。由于个人手写风格的差异化，对于机器识别手写字符来说仍然构成困难的挑战，所以要求参赛者通过建立预测模型实现精准的手写字体识别。<h3>Deadline: 2020-10-16T20:00:00+08:00</h3><h3>Reward: 奖金池 ¥ 5,000</h3>]]></content>
         <author>
             <name><![CDATA[FlyAI]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://ai.futurelab.tv/contest_detail/19</id>
-        <title><![CDATA[语音-跨设备说话人识别]]></title>
-        
-        <updated>2020-11-01T16:00:01+08:00</updated>
-        
-        <link href="https://ai.futurelab.tv/contest_detail/19"/>
-        <summary>语音-跨设备说话人识别</summary>
-        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/19"><![CDATA[<h3>Description</h3>语音-跨设备说话人识别<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥144000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI FUTURELAB]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://ai.futurelab.tv/contest_detail/18</id>
-        <title><![CDATA[图像-海洋生物探索]]></title>
-        
-        <updated>2020-11-01T16:00:01+08:00</updated>
-        
-        <link href="https://ai.futurelab.tv/contest_detail/18"/>
-        <summary>图像-海洋生物探索</summary>
-        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/18"><![CDATA[<h3>Description</h3>图像-海洋生物探索<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥144000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI FUTURELAB]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://ai.futurelab.tv/contest_detail/16</id>
-        <title><![CDATA[心理疏导线索]]></title>
-        
-        <updated>2020-11-01T16:00:01+08:00</updated>
-        
-        <link href="https://ai.futurelab.tv/contest_detail/16"/>
-        <summary>心理疏导线索</summary>
-        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/16"><![CDATA[<h3>Description</h3>心理疏导线索<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥8000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI FUTURELAB]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://ai.futurelab.tv/contest_detail/8</id>
-        <title><![CDATA[病毒传播模型预测]]></title>
-        
-        <updated>2020-11-01T16:00:01+08:00</updated>
-        
-        <link href="https://ai.futurelab.tv/contest_detail/8"/>
-        <summary>病毒传播模型预测</summary>
-        <content type="text/html" src="https://ai.futurelab.tv/contest_detail/8"><![CDATA[<h3>Description</h3>病毒传播模型预测<h3>Deadline: 未给出具体时间</h3><h3>Reward: ￥8000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI FUTURELAB]]></name>
         </author>
     </entry>
     
@@ -915,20 +829,6 @@
         <link href="https://www.nishika.com/competitions/7"/>
         <summary>判例の個人情報の自動マスキング</summary>
         <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-14T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.nishika.com/competitions/6</id>
-        <title><![CDATA[Jリーグプレイヤーの出場時間予測]]></title>
-        
-        <updated>2020-07-22T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/6"/>
-        <summary>Jリーグプレイヤーの出場時間予測</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/6"><![CDATA[<h3>Description</h3>Jリーグプレイヤーの出場時間予測<h3>Deadline: 2020-10-14T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>
