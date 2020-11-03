@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-02T15:59:54+08:00</updated>
+    <updated>2020-11-03T16:00:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,20 +153,6 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knolwedge Graph Task2]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2<h3>Deadline: 2020-11-17T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
         <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
         
@@ -175,6 +161,20 @@
         <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
         <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-03T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
+        <title><![CDATA[Chain Dream : Construction of COVID-19 Knolwedge Graph Task2]]></title>
+        
+        <updated>2020-06-08T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"/>
+        <summary>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knolwedge Graph Task2<h3>Deadline: 2020-11-17T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -524,7 +524,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-02T15:59:54+08:00</updated>
+        <updated>2020-11-03T16:00:10+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
