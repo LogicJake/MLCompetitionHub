@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-03T16:00:10+08:00</updated>
+    <updated>2020-11-04T15:59:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,20 +153,6 @@
     
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/</id>
-        <title><![CDATA[Chain Dream : Construction of COVID-19 Knoledge Graph Task1]]></title>
-        
-        <updated>2020-06-08T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"/>
-        <summary>Chain Dream : Construction of COVID-19 Knoledge Graph Task1</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_knowledgegraph_19_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Construction of COVID-19 Knoledge Graph Task1<h3>Deadline: 2020-11-03T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/</id>
         <title><![CDATA[Chain Dream : Construction of COVID-19 Knolwedge Graph Task2]]></title>
         
@@ -195,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
-        <summary>Chain Dream : Name Disambiguation Task2</summary>
-        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.com/competition/chaindream_blockchain/</id>
         <title><![CDATA[2020 ChainDream Competition - Block Chain Track]]></title>
         
@@ -217,6 +189,20 @@
         <link href="https://www.biendata.com/competition/chaindream_blockchain/"/>
         <summary>2020 ChainDream Competition - Block Chain Track</summary>
         <content type="text/html" src="https://www.biendata.com/competition/chaindream_blockchain/"><![CDATA[<h3>Description</h3>2020 ChainDream Competition - Block Chain Track<h3>Deadline: 2020-11-15T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.com/competition/chaindream_nd_task2/</id>
+        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
+        
+        <updated>2020-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.com/competition/chaindream_nd_task2/"/>
+        <summary>Chain Dream : Name Disambiguation Task2</summary>
+        <content type="text/html" src="https://www.biendata.com/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -524,7 +510,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-03T16:00:10+08:00</updated>
+        <updated>2020-11-04T15:59:53+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -828,7 +814,7 @@
         
         <link href="https://www.nishika.com/competitions/7"/>
         <summary>判例の個人情報の自動マスキング</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-14T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
+        <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-14T13:59:00+08:00</h3><h3>Reward: 21万円</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>
@@ -877,20 +863,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531824/introduction"/>
         <summary>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531824/introduction"><![CDATA[<h3>Description</h3>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。<h3>Deadline: 2020-11-06T23:55:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531831/introduction</id>
-        <title><![CDATA[阿里云数智服务创新挑战赛——服务调度比赛(赛季 2)]]></title>
-        
-        <updated>2020-10-20T14:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531831/introduction"/>
-        <summary>与全球卓越的技术人才，共同打造数智化、全周期共生型服务的极致体验，一道践行“全速重构，数智未来“。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531831/introduction"><![CDATA[<h3>Description</h3>与全球卓越的技术人才，共同打造数智化、全周期共生型服务的极致体验，一道践行“全速重构，数智未来“。<h3>Deadline: 2020-11-03T23:55:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
