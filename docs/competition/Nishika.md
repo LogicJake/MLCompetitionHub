@@ -2,7 +2,7 @@
 
 
 
-## 判例の個人情報の自動マスキング <sup style="color:red">[new]<sup>  
+## 判例の個人情報の自動マスキング
 
 Link: https://www.nishika.com/competitions/7  
 Description: 判例の個人情報の自動マスキング  

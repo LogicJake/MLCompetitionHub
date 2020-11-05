@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-04T15:59:53+08:00</updated>
+    <updated>2020-11-05T16:00:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -427,22 +427,6 @@
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html</id>
-        <title><![CDATA[TrafficHUT基于航拍视频的车辆轨迹识别竞赛]]></title>
-        
-        <updated>2020-09-07T08:00:01+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html"/>
-        <summary>本次竞赛主要用由竞赛组织方提供无人机航拍视频，参赛者/机构使用独立开发的视频车辆轨迹识别程序，生成针对到每辆车的车辆轨迹数据。
-征集基于航拍视频的车辆轨迹识别跟踪算法，高精度还原车辆行驶轨迹，建立中国开放标准轨迹数据集。大赛获胜团队将有机会与主办方开展深入合作。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/TrafficHUT基于航拍视频的车辆轨迹识别竞赛_竞赛信息.html"><![CDATA[<h3>Description</h3>本次竞赛主要用由竞赛组织方提供无人机航拍视频，参赛者/机构使用独立开发的视频车辆轨迹识别程序，生成针对到每辆车的车辆轨迹数据。
-征集基于航拍视频的车辆轨迹识别跟踪算法，高精度还原车辆行驶轨迹，建立中国开放标准轨迹数据集。大赛获胜团队将有机会与主办方开展深入合作。<h3>Deadline: 2020-12-19T12:00:00+08:00</h3><h3>Reward: ¥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）_竞赛信息.html</id>
         <title><![CDATA[2020中国华录杯·数据湖算法大赛—定向算法赛（吸烟打电话检测）]]></title>
         
@@ -490,27 +474,13 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html</id>
-        <title><![CDATA[2020 DIGIX全球校园AI算法精英大赛]]></title>
-        
-        <updated>2020-07-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"/>
-        <summary>广聚全球校园精英 挑战AI算法极限</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020 DIGIX全球校园AI算法精英大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>广聚全球校园精英 挑战AI算法极限<h3>Deadline: 2020-11-05T00:00:00+08:00</h3><h3>Reward: 158000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-04T15:59:53+08:00</updated>
+        <updated>2020-11-05T16:00:09+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
