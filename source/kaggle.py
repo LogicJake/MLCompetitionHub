@@ -6,6 +6,11 @@ PLATFORM_NAME = 'Kaggle'
 
 
 def get_data():
+    """
+    Get a list
+
+    Args:
+    """
     url = 'https://www.kaggle.com/competitions.json?sortBy=grouped&group=general&page=1&pageSize=20'
 
     response = request(method='GET', url=url)

@@ -6,6 +6,11 @@ PLATFORM_NAME = '百度点石'
 
 
 def get_data():
+    """
+    Get competition data
+
+    Args:
+    """
     url = 'https://dianshi.bce.baidu.com/gemstone/competitionslist?type=-1'
 
     response = requests.get(url)

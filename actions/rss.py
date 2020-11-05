@@ -8,6 +8,12 @@ STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+08:00'
 
 
 def generate(datas_):
+    """
+    Generate the report
+
+    Args:
+        datas_: (str): write your description
+    """
     datas = copy.deepcopy(datas_)
 
     for data in datas:

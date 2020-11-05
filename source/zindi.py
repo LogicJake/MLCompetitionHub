@@ -6,6 +6,11 @@ PLATFORM_NAME = 'ZINDI'
 
 
 def get_data():
+    """
+    Get a list of the competition
+
+    Args:
+    """
     url = 'https://api.zindi.africa/v1/competitions?page=0&per_page=20&kind=competition&active=1&reward=prize'
 
     response = requests.get(url=url)

@@ -6,6 +6,11 @@ PLATFORM_NAME = 'AI研习社'
 
 
 def get_data():
+    """
+    Downloads a list of games
+
+    Args:
+    """
     url = 'https://api.yanxishe.com/aihub/match/default/index?page=1&size=10&tag=0&match_type=bonus'
 
     response = requests.get(url)

@@ -5,6 +5,12 @@ STANDARD_TIME_FORMAT = '%Y-%m-%dT%H:%M:%S+08:00'
 
 
 def generate(datas_):
+    """
+    Generate datascii file.
+
+    Args:
+        datas_: (str): write your description
+    """
     datas = copy.deepcopy(datas_)
 
     # 信息汇总

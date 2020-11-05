@@ -7,6 +7,11 @@ PLATFORM_NAME = 'AI Studio'
 
 
 def get_data():
+    """
+    Get a dict of the data
+
+    Args:
+    """
     url = 'https://aistudio.baidu.com/studio/match/list'
     data = {
         "p": 1,

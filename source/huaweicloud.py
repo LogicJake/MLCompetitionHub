@@ -6,6 +6,11 @@ PLATFORM_NAME = '华为云大赛（人工智能赛）'
 
 
 def get_data():
+    """
+    Get all competition data query
+
+    Args:
+    """
     url = 'https://competition.huaweicloud.com/competition/v1/categoryId/10001/competions?trackId=107&page_index=1&page_size=10&status=all'
 
     response = requests.get(url=url)

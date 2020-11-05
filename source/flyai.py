@@ -7,6 +7,11 @@ PLATFORM_NAME = 'FlyAI'
 
 
 def get_data():
+    """
+    Parse html data.
+
+    Args:
+    """
     url = 'https://www.flyai.com/'
 
     response = requests.get(url=url)

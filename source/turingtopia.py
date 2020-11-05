@@ -7,6 +7,11 @@ PLATFORM_NAME = '图灵联邦'
 
 
 def get_data():
+    """
+    Downloads data
+
+    Args:
+    """
     url = 'https://api.turingtopia.com/tuling/newCompetition/competitionList/get/competitionList?guid='
     data = {
         "competitionGrade": 2,

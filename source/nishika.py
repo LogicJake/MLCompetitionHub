@@ -6,6 +6,11 @@ PLATFORM_NAME = 'Nishika'
 
 
 def get_data():
+    """
+    Downloads data query
+
+    Args:
+    """
     url = 'https://api.nishika.com/competitions?format=json'
 
     response = requests.get(url)

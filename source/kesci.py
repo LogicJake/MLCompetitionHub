@@ -6,6 +6,11 @@ PLATFORM_NAME = 'heywhale和鲸（Kesci）'
 
 
 def get_data():
+    """
+    Get competition data
+
+    Args:
+    """
     url = 'https://www.kesci.com/v2/api/competitions?perPage=12&page=1&Status=1'
 
     response = requests.get(url=url)

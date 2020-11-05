@@ -8,6 +8,12 @@ MAX_INTERVAL_DAY = 7
 
 
 def generate(datas_):
+    """
+    Generate html file
+
+    Args:
+        datas_: (str): write your description
+    """
     datas = copy.deepcopy(datas_)
 
     now_time = datetime.utcnow() + timedelta(hours=8)

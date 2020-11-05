@@ -7,6 +7,11 @@ PLATFORM_NAME = 'biendata'
 
 
 def get_data():
+    """
+    Get html data dictionary of the html page.
+
+    Args:
+    """
     url = 'https://www.biendata.com/competition/'
 
     response = requests.get(url=url)

@@ -6,6 +6,11 @@ PLATFORM_NAME = 'DataFountain'
 
 
 def get_data():
+    """
+    Downloads data dicts
+
+    Args:
+    """
     url = 'https://www.datafountain.cn/api/competitions?search=&state=in_service&type=1&page=1&per_page=30&sort=latest&raceid=all'
 
     response = requests.get(url=url)

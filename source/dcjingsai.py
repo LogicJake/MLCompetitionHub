@@ -7,6 +7,11 @@ PLATFORM_NAME = 'DC竞赛'
 
 
 def get_data():
+    """
+    Get a dict
+
+    Args:
+    """
     url = 'https://www.dcjingsai.com/common/getNewCmptList.json'
     data = {
         'page': 1,

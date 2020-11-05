@@ -5,6 +5,11 @@ PLATFORM_NAME = 'AI FUTURELAB'
 
 
 def get_data():
+    """
+    Returns a list of the html data
+
+    Args:
+    """
     url = 'https://ai.futurelab.tv/contest/all'
 
     response = requests.get(url=url)

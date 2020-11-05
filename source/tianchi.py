@@ -6,6 +6,11 @@ PLATFORM_NAME = '天池'
 
 
 def get_data():
+    """
+    Downloads data
+
+    Args:
+    """
     url = 'https://tianchi.aliyun.com/competition/proxy/api/competition/api/race/listBrief?pageNum=1&pageSize=10&type=1&userId=-1'
 
     response = request(method='GET', url=url)
