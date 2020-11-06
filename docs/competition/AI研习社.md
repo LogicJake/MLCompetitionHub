@@ -2,7 +2,7 @@
 
 
 
-## 图像场景分类挑战赛 <sup style="color:red">[new]<sup>  
+## 图像场景分类挑战赛
 
 Link: https://god.yanxishe.com/97  
 Description: 数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。  
