@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-08T16:00:02+08:00</updated>
+    <updated>2020-11-09T16:00:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -480,7 +480,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-08T16:00:02+08:00</updated>
+        <updated>2020-11-09T16:00:06+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -807,18 +807,28 @@
     
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531826/introduction</id>
-        <title><![CDATA[“万创杯”中医药天池大数据竞赛——中医文献问题生成挑战(赛季 2)]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/531824/introduction</id>
+        <title><![CDATA[“万创杯”中医药天池大数据竞赛——中药说明书实体识别挑战(赛季 2)]]></title>
         
-        <updated>2020-10-10T23:55:00+08:00</updated>
+        <updated>2020-10-22T12:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/531826/introduction"/>
-        <summary>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。随着自然语言处理技术的不断发展，问题自动生成(Question Generation)作为一个重要的研究课题已经在很多实际应用场景中有落地，通过机器主动提问可以用来高效构建或者补充知识库，扩大数据集规模。问题生成技术已经应用到诸多实际应用场景中，如在医药领域，可以应用到自动问诊、辅助诊疗等场景。
-中医是中华民族的瑰宝，此次大赛将问题生成和中医药领域文本结合起来，设置了中医药文本的“问题生成”挑战任务，一方面可以将人工智能技术应用到中医领域发挥作用，另一方面也吸引更多的人工智能人才投入到中医药领域，让中医这个古老的领域重新焕发出更大的活力。
-作为本届中医药天池大数据竞赛的挑战任务之一，本次挑战任务与第六届中国健康信息处理大会（http://cips-chip.org.cn/）联合发布，保证比赛专业水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531826/introduction"><![CDATA[<h3>Description</h3>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。随着自然语言处理技术的不断发展，问题自动生成(Question Generation)作为一个重要的研究课题已经在很多实际应用场景中有落地，通过机器主动提问可以用来高效构建或者补充知识库，扩大数据集规模。问题生成技术已经应用到诸多实际应用场景中，如在医药领域，可以应用到自动问诊、辅助诊疗等场景。
-中医是中华民族的瑰宝，此次大赛将问题生成和中医药领域文本结合起来，设置了中医药文本的“问题生成”挑战任务，一方面可以将人工智能技术应用到中医领域发挥作用，另一方面也吸引更多的人工智能人才投入到中医药领域，让中医这个古老的领域重新焕发出更大的活力。
-作为本届中医药天池大数据竞赛的挑战任务之一，本次挑战任务与第六届中国健康信息处理大会（http://cips-chip.org.cn/）联合发布，保证比赛专业水平。<h3>Deadline: 2020-11-08T23:55:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/531824/introduction"/>
+        <summary>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531824/introduction"><![CDATA[<h3>Description</h3>疫情催化下，人工智能正在持续助力中医药传承创新加速发展，其中中医用药知识体系沉淀挖掘是一个基础工作。通过挖掘中药说明书构建中药合理用药的知识图谱，将为为中医规范诊疗奠定较好基础。挑战旨在通过抽取中药药品说明书中的关键信息，中医药药品知识库的目标。<h3>Deadline: 2020-11-12T23:55:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531831/introduction</id>
+        <title><![CDATA[阿里云数智服务创新挑战赛——服务调度比赛(赛季 2)]]></title>
+        
+        <updated>2020-10-20T14:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531831/introduction"/>
+        <summary>与全球卓越的技术人才，共同打造数智化、全周期共生型服务的极致体验，一道践行“全速重构，数智未来“。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531831/introduction"><![CDATA[<h3>Description</h3>与全球卓越的技术人才，共同打造数智化、全周期共生型服务的极致体验，一道践行“全速重构，数智未来“。<h3>Deadline: 2020-11-12T23:55:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
