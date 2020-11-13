@@ -2,6 +2,14 @@
 
 
 
+## 评论情感词提取 <sup style="color:red">[new]<sup>  
+
+Link: https://god.yanxishe.com/103  
+Description: 用语言表达情感是很重要的。但是，哪一个词才是情感的引子呢？  
+Deadline: 2020-12-12T23:59:59+0800  
+Reward: 3000.00  
+
+
 ## 图像场景分类挑战赛
 
 Link: https://god.yanxishe.com/97  
