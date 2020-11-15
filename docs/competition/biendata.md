@@ -10,14 +10,6 @@ Deadline: 2020-11-17T08:00:00+0800
 Reward: ￥50,000  
 
 
-## 2020 ChainDream Competition - Block Chain Track
-
-Link: https://www.biendata.com/competition/chaindream_blockchain/  
-Description: 2020 ChainDream Competition - Block Chain Track  
-Deadline: 2020-11-15T08:00:00+0800  
-Reward: ￥200,000  
-
-
 ## Chain Dream : Name Disambiguation Task2
 
 Link: https://www.biendata.com/competition/chaindream_nd_task2/  
