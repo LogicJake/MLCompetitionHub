@@ -2,14 +2,6 @@
 
 
 
-## Chain Dream : Construction of COVID-19 Knolwedge Graph Task2
-
-Link: https://www.biendata.com/competition/chaindream_knowledgegraph_19_task2/  
-Description: Chain Dream : Construction of COVID-19 Knolwedge Graph Task2  
-Deadline: 2020-11-17T08:00:00+0800  
-Reward: ￥50,000  
-
-
 ## Chain Dream : Name Disambiguation Task2
 
 Link: https://www.biendata.com/competition/chaindream_nd_task2/  

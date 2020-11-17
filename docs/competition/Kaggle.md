@@ -26,6 +26,22 @@ Deadline: 2020-12-03T07:59:00+0800
 Reward: 91000.0 USD  
 
 
+## NFL 1st and Future - Impact Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/nfl-impact-detection  
+Description: Detect helmet impacts in videos of NFL plays  
+Deadline: 2021-01-05T07:59:00+0800  
+Reward: 75000.0 USD  
+
+
+## HuBMAP: Hacking the Kidney <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  
+Description: Identify glomeruli in human kidney tissue images  
+Deadline: 2021-02-02T07:59:00+0800  
+Reward: 60000.0 USD  
+
+
 ## Mechanisms of Action (MoA) Prediction
 
 Link: https://www.kaggle.com/c/lish-moa  
