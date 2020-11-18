@@ -58,6 +58,14 @@ Deadline: 2020-11-26T07:59:00+0800
 Reward: 30000.0 USD  
 
 
+## Rainforest Connection Species Audio Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/rfcx-species-audio-detection  
+Description: Automate the detection of bird and frog species in a tropical soundscape  
+Deadline: 2021-02-18T07:59:00+0800  
+Reward: 15000.0 USD  
+
+
 ## Google Research Football with Manchester City F.C.
 
 Link: https://www.kaggle.com/c/google-football  
