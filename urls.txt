@@ -319,3 +319,5 @@ https://www.dcjingsai.com/common/cmpt/中移集成（雄安产业研究院）首
 https://god.yanxishe.com/103
 https://www.kaggle.com/c/nfl-impact-detection
 https://www.kaggle.com/c/hubmap-kidney-segmentation
+https://www.kaggle.com/c/rfcx-species-audio-detection
+https://zindi.africa/competitions/instadeep-enzyme-classification-challenge
