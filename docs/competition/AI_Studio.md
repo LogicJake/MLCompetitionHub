@@ -18,14 +18,6 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥50,000 + 特别礼包  
 
 
-## 中石油 · 第二届梦想云创新大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/57  
-Description: 源于石油行业实际产业场景的赛题，旨在利用人工智能技术赋能产业，对石油行业数据进行充分挖掘，打造高效、实用的算法，反哺产业创新持续发展。  
-Deadline: 2020-11-25T08:00:00+0800  
-Reward: ￥300,000  
-
-
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
