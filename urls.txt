@@ -321,3 +321,7 @@ https://www.kaggle.com/c/nfl-impact-detection
 https://www.kaggle.com/c/hubmap-kidney-segmentation
 https://www.kaggle.com/c/rfcx-species-audio-detection
 https://zindi.africa/competitions/instadeep-enzyme-classification-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/58
+https://www.kaggle.com/c/kaggle-survey-2020
+https://www.kaggle.com/c/cassava-leaf-disease-classification
+https://god.yanxishe.com/104
