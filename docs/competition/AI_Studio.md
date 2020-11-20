@@ -18,6 +18,14 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥50,000 + 特别礼包  
 
 
+## 面向中文短文本的实体链指任务 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/58  
+Description: 本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。  
+Deadline: 2021-01-31T08:00:00+0800  
+Reward: ¥100,000  
+
+
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -62,14 +70,6 @@ Reward: 0
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/45  
 Description: 识别两段文本在语义上是否相似  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：信息抽取
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/46  
-Description: 从非结构化自然语言文本中提取实体、关系、事件等结构化知识  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 

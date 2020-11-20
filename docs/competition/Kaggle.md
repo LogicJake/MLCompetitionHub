@@ -42,6 +42,14 @@ Deadline: 2021-02-02T07:59:00+0800
 Reward: 60000.0 USD  
 
 
+## 2020 Kaggle ML & DS Survey <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/kaggle-survey-2020  
+Description: The most comprehensive dataset available on the state of ML and data science  
+Deadline: 2021-01-07T07:59:00+0800  
+Reward: 30000.0 USD  
+
+
 ## Mechanisms of Action (MoA) Prediction
 
 Link: https://www.kaggle.com/c/lish-moa  
@@ -56,6 +64,14 @@ Link: https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
 Description: Build motion prediction models for self-driving vehicles   
 Deadline: 2020-11-26T07:59:00+0800  
 Reward: 30000.0 USD  
+
+
+## Cassava Leaf Disease Classification <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/cassava-leaf-disease-classification  
+Description: Identify the type of disease present on a Cassava Leaf image  
+Deadline: 2021-02-19T07:59:00+0800  
+Reward: 18000.0 USD  
 
 
 ## Rainforest Connection Species Audio Detection <sup style="color:red">[new]<sup>  

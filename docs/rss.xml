@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-19T16:00:03+08:00</updated>
+    <updated>2020-11-20T15:59:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/55"/>
         <summary>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/55"><![CDATA[<h3>Description</h3>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000 + 特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/58</id>
+        <title><![CDATA[面向中文短文本的实体链指任务]]></title>
+        
+        <updated>2020-11-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/58"/>
+        <summary>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/58"><![CDATA[<h3>Description</h3>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。<h3>Deadline: 2021-01-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -117,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/45"/>
         <summary>识别两段文本在语义上是否相似</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/45"><![CDATA[<h3>Description</h3>识别两段文本在语义上是否相似<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/46</id>
-        <title><![CDATA[千言数据集：信息抽取]]></title>
-        
-        <updated>2020-08-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/46"/>
-        <summary>从非结构化自然语言文本中提取实体、关系、事件等结构化知识</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/46"><![CDATA[<h3>Description</h3>从非结构化自然语言文本中提取实体、关系、事件等结构化知识<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -454,7 +454,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-19T16:00:03+08:00</updated>
+        <updated>2020-11-20T15:59:55+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -599,6 +599,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kaggle.com/c/kaggle-survey-2020</id>
+        <title><![CDATA[2020 Kaggle ML &amp; DS Survey]]></title>
+        
+        <updated>2020-11-20T00:20:52+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/kaggle-survey-2020"/>
+        <summary>The most comprehensive dataset available on the state of ML and data science</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2020"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2021-01-07T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/lish-moa</id>
         <title><![CDATA[Mechanisms of Action (MoA) Prediction]]></title>
         
@@ -621,6 +635,20 @@
         <link href="https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles"/>
         <summary>Build motion prediction models for self-driving vehicles </summary>
         <content type="text/html" src="https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles"><![CDATA[<h3>Description</h3>Build motion prediction models for self-driving vehicles <h3>Deadline: 2020-11-26T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/cassava-leaf-disease-classification</id>
+        <title><![CDATA[Cassava Leaf Disease Classification]]></title>
+        
+        <updated>2020-11-20T05:12:46+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/cassava-leaf-disease-classification"/>
+        <summary>Identify the type of disease present on a Cassava Leaf image</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/cassava-leaf-disease-classification"><![CDATA[<h3>Description</h3>Identify the type of disease present on a Cassava Leaf image<h3>Deadline: 2021-02-19T07:59:00+08:00</h3><h3>Reward: 18000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -855,6 +883,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
     
     
     
+    
+    <entry>
+        <id>https://god.yanxishe.com/104</id>
+        <title><![CDATA[电影票房预测]]></title>
+        
+        <updated>2020-11-20T10:00:27+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/104"/>
+        <summary>本次比赛数据来自互联网，包含数千部电影的演员、剧情关键字、预算、发行时间、制片公司等，比赛任务是预测电影票房。</summary>
+        <content type="text/html" src="https://god.yanxishe.com/104"><![CDATA[<h3>Description</h3>本次比赛数据来自互联网，包含数千部电影的演员、剧情关键字、预算、发行时间、制片公司等，比赛任务是预测电影票房。<h3>Deadline: 2020-12-19T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://god.yanxishe.com/103</id>
