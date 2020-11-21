@@ -325,3 +325,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/58
 https://www.kaggle.com/c/kaggle-survey-2020
 https://www.kaggle.com/c/cassava-leaf-disease-classification
 https://god.yanxishe.com/104
+https://tianchi.aliyun.com/competition/entrance/531841/introduction
+https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi
