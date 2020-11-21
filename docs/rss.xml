@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-20T15:59:55+08:00</updated>
+    <updated>2020-11-21T16:00:22+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -454,7 +454,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-20T15:59:55+08:00</updated>
+        <updated>2020-11-21T16:00:22+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -699,20 +699,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c</id>
-        <title><![CDATA[2020上海新能源汽车大数据竞赛]]></title>
-        
-        <updated>2020-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c"/>
-        <summary>2020上海新能源汽车大数据竞赛秉承“开放、创新”的主旨，依托上海市新能源汽车运行数据，聚焦行业热点问题，实现算法创新和人才挖掘，推进新能源汽车大数据分析与应用技术发展。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c"><![CDATA[<h3>Description</h3>2020上海新能源汽车大数据竞赛秉承“开放、创新”的主旨，依托上海市新能源汽车运行数据，聚焦行业热点问题，实现算法创新和人才挖掘，推进新能源汽车大数据分析与应用技术发展。<h3>Deadline: 2020-11-20T23:59:00+08:00</h3><h3>Reward: ￥34,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a</id>
         <title><![CDATA[医学统计·数据分析入门]]></title>
         
@@ -851,6 +837,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531841/introduction</id>
+        <title><![CDATA[NLP中文预训练模型泛化能力挑战赛(赛季 1)]]></title>
+        
+        <updated>2020-11-18T01:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531841/introduction"/>
+        <summary>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531841/introduction"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-05T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531812/introduction</id>
         <title><![CDATA[安全AI挑战者计划第五期：伪造图像的对抗攻击(赛季 2)]]></title>
         
@@ -979,6 +979,20 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"/>
         <summary>Can you predict maize yields on East African farms using satellite data?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict maize yields on East African farms using satellite data?<h3>Deadline: 2021-02-08T07:59:00+08:00</h3><h3>Reward: $3,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi</id>
+        <title><![CDATA[AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi]]></title>
+        
+        <updated>2020-11-20T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi"/>
+        <summary>Can you classify sentiment in the Tunisian Arabizi dialect?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi"><![CDATA[<h3>Description</h3>Can you classify sentiment in the Tunisian Arabizi dialect?<h3>Deadline: 2021-03-29T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

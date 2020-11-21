@@ -26,6 +26,14 @@ Deadline: 2021-02-08T07:59:00+0800
 Reward: $3,000 USD  
 
 
+## AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi  
+Description: Can you classify sentiment in the Tunisian Arabizi dialect?  
+Deadline: 2021-03-29T07:59:00+0800  
+Reward: $2,000 USD  
+
+
 ## InstaDeep Enzyme Classification Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/instadeep-enzyme-classification-challenge  

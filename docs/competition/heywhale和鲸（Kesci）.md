@@ -10,14 +10,6 @@ Deadline: 2020-11-26T22:00:00+0800
 Reward: 获奖证书+百万级/千万级项目支持  
 
 
-## 2020上海新能源汽车大数据竞赛
-
-Link: https://www.kesci.com/home/competition/5f4462250ff9c50036172f0c  
-Description: 2020上海新能源汽车大数据竞赛秉承“开放、创新”的主旨，依托上海市新能源汽车运行数据，聚焦行业热点问题，实现算法创新和人才挖掘，推进新能源汽车大数据分析与应用技术发展。  
-Deadline: 2020-11-20T23:59:00+0800  
-Reward: ￥34,000  
-
-
 ## 医学统计·数据分析入门
 
 Link: https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a  
