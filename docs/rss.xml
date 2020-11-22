@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-21T16:00:22+08:00</updated>
+    <updated>2020-11-22T16:00:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -454,7 +454,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-21T16:00:22+08:00</updated>
+        <updated>2020-11-22T16:00:09+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -921,20 +921,6 @@ Apache Flink 是目前业界领先的实时计算平台，Analytics Zoo 是 Inte
         <link href="https://god.yanxishe.com/97"/>
         <summary>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。</summary>
         <content type="text/html" src="https://god.yanxishe.com/97"><![CDATA[<h3>Description</h3>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。<h3>Deadline: 2020-11-28T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/96</id>
-        <title><![CDATA[酒店评分预测]]></title>
-        
-        <updated>2020-10-23T14:28:59+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/96"/>
-        <summary>假日出行选择一个舒适的酒店十分重要，本次比赛内容就是根据顾客评价预测顾客对酒店的评分。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/96"><![CDATA[<h3>Description</h3>假日出行选择一个舒适的酒店十分重要，本次比赛内容就是根据顾客评价预测顾客对酒店的评分。<h3>Deadline: 2020-11-21T23:59:59+08:00</h3><h3>Reward: 2000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
