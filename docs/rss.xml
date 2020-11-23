@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-22T16:00:09+08:00</updated>
+    <updated>2020-11-23T16:00:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -454,7 +454,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-22T16:00:09+08:00</updated>
+        <updated>2020-11-23T16:00:13+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -507,20 +507,6 @@
         <link href="https://competition.huaweicloud.com/information/1000041322/introduction"/>
         <summary>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。</summary>
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041322/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。<h3>Deadline: 2020-12-08T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041319/introduction</id>
-        <title><![CDATA[2020GDE全球开发者大赛·KPI异常检测]]></title>
-        
-        <updated>2020-10-12T20:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041319/introduction"/>
-        <summary>本赛事提供某运营商的KPI真实数据，参赛选手需根据历史一个月异常标签数据训练模型并检测后续一周内各KPI中异常。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041319/introduction"><![CDATA[<h3>Description</h3>本赛事提供某运营商的KPI真实数据，参赛选手需根据历史一个月异常标签数据训练模型并检测后续一周内各KPI中异常。<h3>Deadline: 2020-11-22T20:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
