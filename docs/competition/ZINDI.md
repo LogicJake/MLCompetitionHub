@@ -34,7 +34,7 @@ Deadline: 2021-03-29T07:59:00+0800
 Reward: $2,000 USD  
 
 
-## InstaDeep Enzyme Classification Challenge <sup style="color:red">[new]<sup>  
+## InstaDeep Enzyme Classification Challenge
 
 Link: https://zindi.africa/competitions/instadeep-enzyme-classification-challenge  
 Description: Can you predict the class of an enzyme using only its amino acid sequence?  

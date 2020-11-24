@@ -2,6 +2,14 @@
 
 
 
+## 基于买方意向的货物撮合交易
+
+Link: https://www.datafountain.cn/competitions/487  
+Description: 基于买方意向的货物撮合交易  
+Deadline: 2020-12-20T23:59:59+0800  
+Reward: ￥50000  
+
+
 ## 遥感影像地块分割
 
 Link: https://www.datafountain.cn/competitions/475  

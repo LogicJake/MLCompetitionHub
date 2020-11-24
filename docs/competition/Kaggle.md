@@ -2,6 +2,14 @@
 
 
 
+## Jane Street Market Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/jane-street-market-prediction  
+Description: Test your model against future real market data  
+Deadline: 2021-02-23T07:59:00+0800  
+Reward: 100000.0 USD  
+
+
 ## Riiid! Answer Correctness Prediction
 
 Link: https://www.kaggle.com/c/riiid-test-answer-prediction  
@@ -26,7 +34,7 @@ Deadline: 2020-12-03T07:59:00+0800
 Reward: 91000.0 USD  
 
 
-## NFL 1st and Future - Impact Detection <sup style="color:red">[new]<sup>  
+## NFL 1st and Future - Impact Detection
 
 Link: https://www.kaggle.com/c/nfl-impact-detection  
 Description: Detect helmet impacts in videos of NFL plays  
@@ -34,7 +42,7 @@ Deadline: 2021-01-05T07:59:00+0800
 Reward: 75000.0 USD  
 
 
-## HuBMAP: Hacking the Kidney <sup style="color:red">[new]<sup>  
+## HuBMAP: Hacking the Kidney
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  
 Description: Identify glomeruli in human kidney tissue images  
