@@ -82,7 +82,7 @@ Deadline: 2021-02-19T07:59:00+0800
 Reward: 18000.0 USD  
 
 
-## Rainforest Connection Species Audio Detection <sup style="color:red">[new]<sup>  
+## Rainforest Connection Species Audio Detection
 
 Link: https://www.kaggle.com/c/rfcx-species-audio-detection  
 Description: Automate the detection of bird and frog species in a tropical soundscape  

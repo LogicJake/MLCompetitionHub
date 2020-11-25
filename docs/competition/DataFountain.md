@@ -2,6 +2,22 @@
 
 
 
+## 百度千言赛题测试
+
+Link: https://www.datafountain.cn/competitions/493  
+Description: 百度千言赛题测试  
+Deadline: 2020-12-31T23:59:59+0800  
+Reward: ￥1  
+
+
+## 百度遥感赛题测试
+
+Link: https://www.datafountain.cn/competitions/492  
+Description: 百度遥感赛题测试  
+Deadline: 2020-12-31T23:59:59+0800  
+Reward: ￥1  
+
+
 ## 基于买方意向的货物撮合交易
 
 Link: https://www.datafountain.cn/competitions/487  
@@ -104,20 +120,4 @@ Link: https://www.datafountain.cn/competitions/454
 Description: “华为・昇腾杯”AI+行人重识别  
 Deadline: 2020-12-31T23:59:59+0800  
 Reward: ￥1980000  
-
-
-## 风电机组异常数据识别与清洗 
-
-Link: https://www.datafountain.cn/competitions/451  
-Description: 风电机组异常数据识别与清洗   
-Deadline: 2020-11-24T23:59:59+0800  
-Reward: ￥90000  
-
-
-## 光伏功率异常数据识别与清洗
-
-Link: https://www.datafountain.cn/competitions/450  
-Description: 光伏功率异常数据识别与清洗  
-Deadline: 2020-11-24T23:59:59+0800  
-Reward: ￥90000  
 
