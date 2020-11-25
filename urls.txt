@@ -329,3 +329,5 @@ https://tianchi.aliyun.com/competition/entrance/531841/introduction
 https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi
 https://www.datafountain.cn/competitions/487
 https://www.kaggle.com/c/jane-street-market-prediction
+https://www.datafountain.cn/competitions/493
+https://www.datafountain.cn/competitions/492
