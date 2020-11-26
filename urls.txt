@@ -331,3 +331,4 @@ https://www.datafountain.cn/competitions/487
 https://www.kaggle.com/c/jane-street-market-prediction
 https://www.datafountain.cn/competitions/493
 https://www.datafountain.cn/competitions/492
+https://aistudio.baidu.com/aistudio/competition/detail/59
