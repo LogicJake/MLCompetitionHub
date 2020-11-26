@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-25T16:02:01+08:00</updated>
+    <updated>2020-11-26T16:02:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -47,6 +47,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/58"/>
         <summary>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/58"><![CDATA[<h3>Description</h3>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。<h3>Deadline: 2021-01-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/59</id>
+        <title><![CDATA[常规赛：论文引用网络节点分类]]></title>
+        
+        <updated>2020-11-26T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/59"/>
+        <summary>图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/59"><![CDATA[<h3>Description</h3>图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。<h3>Deadline: 2021-03-31T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -117,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/44"/>
         <summary>针对机器同传质量和延时进行优化</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/44"><![CDATA[<h3>Description</h3>针对机器同传质量和延时进行优化<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/45</id>
-        <title><![CDATA[千言数据集：文本相似度]]></title>
-        
-        <updated>2020-08-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/45"/>
-        <summary>识别两段文本在语义上是否相似</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/45"><![CDATA[<h3>Description</h3>识别两段文本在语义上是否相似<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 0</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -438,7 +438,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-25T16:02:01+08:00</updated>
+        <updated>2020-11-26T16:02:02+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -605,20 +605,6 @@
         <link href="https://www.kaggle.com/c/lish-moa"/>
         <summary>Can you improve the algorithm that classifies drugs based on their biological activity?</summary>
         <content type="text/html" src="https://www.kaggle.com/c/lish-moa"><![CDATA[<h3>Description</h3>Can you improve the algorithm that classifies drugs based on their biological activity?<h3>Deadline: 2020-12-01T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles</id>
-        <title><![CDATA[Lyft Motion Prediction for Autonomous Vehicles]]></title>
-        
-        <updated>2020-08-25T04:13:59+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles"/>
-        <summary>Build motion prediction models for self-driving vehicles </summary>
-        <content type="text/html" src="https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles"><![CDATA[<h3>Description</h3>Build motion prediction models for self-driving vehicles <h3>Deadline: 2020-11-26T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -829,20 +815,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531841/introduction"/>
         <summary>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531841/introduction"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-05T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531812/introduction</id>
-        <title><![CDATA[安全AI挑战者计划第五期：伪造图像的对抗攻击(赛季 2)]]></title>
-        
-        <updated>2020-10-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531812/introduction"/>
-        <summary>检测伪造证书类图像，难上加难！设计出“火眼金睛”的检测算法，把对手挖坑的篡改区域识别出来。任务是通过提供的训练集学习出有效的检测算法，对测试集的伪造图像进行篡改定位。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531812/introduction"><![CDATA[<h3>Description</h3>检测伪造证书类图像，难上加难！设计出“火眼金睛”的检测算法，把对手挖坑的篡改区域识别出来。任务是通过提供的训练集学习出有效的检测算法，对测试集的伪造图像进行篡改定位。<h3>Deadline: 2020-11-25T23:55:00+08:00</h3><h3>Reward: ￥2000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

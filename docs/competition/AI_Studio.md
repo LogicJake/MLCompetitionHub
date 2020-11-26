@@ -26,6 +26,14 @@ Deadline: 2021-01-31T08:00:00+0800
 Reward: ¥100,000  
 
 
+## 常规赛：论文引用网络节点分类 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/59  
+Description: 图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。  
+Deadline: 2021-03-31T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -62,14 +70,6 @@ Reward: ¥ 630,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/44  
 Description: 针对机器同传质量和延时进行优化  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
-
-
-## 千言数据集：文本相似度
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/45  
-Description: 识别两段文本在语义上是否相似  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 0  
 
