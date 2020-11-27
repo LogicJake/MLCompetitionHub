@@ -2,7 +2,7 @@
 
 
 
-## 电影票房预测 <sup style="color:red">[new]<sup>  
+## 电影票房预测
 
 Link: https://god.yanxishe.com/104  
 Description: 本次比赛数据来自互联网，包含数千部电影的演员、剧情关键字、预算、发行时间、制片公司等，比赛任务是预测电影票房。  
