@@ -2,14 +2,6 @@
 
 
 
-## 百度千言赛题测试
-
-Link: https://www.datafountain.cn/competitions/493  
-Description: 百度千言赛题测试  
-Deadline: 2020-12-31T23:59:59+0800  
-Reward: ￥1  
-
-
 ## 百度遥感赛题测试
 
 Link: https://www.datafountain.cn/competitions/492  
