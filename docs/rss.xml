@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-11-28T16:02:29+08:00</updated>
+    <updated>2020-11-29T16:02:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -424,7 +424,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-11-28T16:02:29+08:00</updated>
+        <updated>2020-11-29T16:02:17+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -833,20 +833,6 @@
         <link href="https://god.yanxishe.com/103"/>
         <summary>用语言表达情感是很重要的。但是，哪一个词才是情感的引子呢？</summary>
         <content type="text/html" src="https://god.yanxishe.com/103"><![CDATA[<h3>Description</h3>用语言表达情感是很重要的。但是，哪一个词才是情感的引子呢？<h3>Deadline: 2020-12-12T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://god.yanxishe.com/97</id>
-        <title><![CDATA[图像场景分类挑战赛]]></title>
-        
-        <updated>2020-10-30T14:28:59+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/97"/>
-        <summary>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。</summary>
-        <content type="text/html" src="https://god.yanxishe.com/97"><![CDATA[<h3>Description</h3>数据都是世界各地的风景图片，共有6类，buildings、street、forest、sea、mountain、glacier。选手需要建立并训练模型识别测试图片所属的分类。<h3>Deadline: 2020-11-28T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
         <author>
             <name><![CDATA[AI研习社]]></name>
         </author>
