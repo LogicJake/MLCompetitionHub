@@ -332,3 +332,4 @@ https://www.kaggle.com/c/jane-street-market-prediction
 https://www.datafountain.cn/competitions/493
 https://www.datafountain.cn/competitions/492
 https://aistudio.baidu.com/aistudio/competition/detail/59
+https://www.kesci.com/home/competition/5fb2150224679b002c144e20
