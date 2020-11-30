@@ -2,6 +2,14 @@
 
 
 
+## 面向中文短文本的实体链指任务
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/58  
+Description: 本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。  
+Deadline: 2021-01-31T08:00:00+0800  
+Reward: ¥100,000  
+
+
 ## 2020 CCF BDCI 遥感影像地块分割
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/54  
@@ -18,19 +26,11 @@ Deadline: 2020-12-31T08:00:00+0800
 Reward: ¥50,000 + 特别礼包  
 
 
-## 面向中文短文本的实体链指任务
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/58  
-Description: 本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。  
-Deadline: 2021-01-31T08:00:00+0800  
-Reward: ¥100,000  
-
-
 ## 常规赛：论文引用网络节点分类 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/59  
 Description: 图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。  
-Deadline: 2021-03-31T08:00:00+0800  
+Deadline: 2023-01-01T08:00:00+0800  
 Reward: 特别礼包  
 
 
