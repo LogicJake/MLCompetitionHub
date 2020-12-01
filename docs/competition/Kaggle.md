@@ -2,7 +2,7 @@
 
 
 
-## Jane Street Market Prediction <sup style="color:red">[new]<sup>  
+## Jane Street Market Prediction
 
 Link: https://www.kaggle.com/c/jane-street-market-prediction  
 Description: Test your model against future real market data  
@@ -58,14 +58,6 @@ Deadline: 2021-01-07T07:59:00+0800
 Reward: 30000.0 USD  
 
 
-## Mechanisms of Action (MoA) Prediction
-
-Link: https://www.kaggle.com/c/lish-moa  
-Description: Can you improve the algorithm that classifies drugs based on their biological activity?  
-Deadline: 2020-12-01T07:59:00+0800  
-Reward: 30000.0 USD  
-
-
 ## Cassava Leaf Disease Classification
 
 Link: https://www.kaggle.com/c/cassava-leaf-disease-classification  
@@ -86,6 +78,6 @@ Reward: 15000.0 USD
 
 Link: https://www.kaggle.com/c/google-football  
 Description: Train agents to master the world's most popular sport  
-Deadline: 2020-12-01T07:59:00+0800  
+Deadline: 2020-12-08T07:59:00+0800  
 Reward: 6000.0 USD  
 

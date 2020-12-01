@@ -34,6 +34,14 @@ Deadline: 2023-01-01T08:00:00+0800
 Reward: 特别礼包  
 
 
+## 常规赛：中文场景文字识别
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/20  
+Description: 中文场景文字识别技术在日常生活中具有丰富的应用场景。本次比赛以中文场景文字识别为主题，提供轻量级的中文场景文字识别数据，要求选手使用飞桨框架，对图像区域中的文字行进行预测，并返回文字行的内容。  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 特殊礼包  
+
+
 ## 常规赛：MarTech Challenge 用户购买预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/56
 Description: 本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。  
 Deadline: 2020-12-11T08:00:00+0800  
 Reward: ¥ 630,000  
-
-
-## 千言数据集：机器同传
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/44  
-Description: 针对机器同传质量和延时进行优化  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 0  
 
