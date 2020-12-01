@@ -333,3 +333,8 @@ https://www.datafountain.cn/competitions/493
 https://www.datafountain.cn/competitions/492
 https://aistudio.baidu.com/aistudio/competition/detail/59
 https://www.kesci.com/home/competition/5fb2150224679b002c144e20
+https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗_竞赛信息.html
+https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别_竞赛信息.html
