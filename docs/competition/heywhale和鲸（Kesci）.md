@@ -7,7 +7,7 @@
 Link: https://www.kesci.com/home/competition/5fb2150224679b002c144e20  
 Description: 老树新芽，数据时用——老子研究文献知识发现数据竞赛  
 Deadline: 2021-01-22T23:59:00+0800  
-Reward: 论文推荐+奖金+官方证书  
+Reward: 论文择优推荐+奖金+官方证书  
 
 
 ## 医学统计·数据分析入门

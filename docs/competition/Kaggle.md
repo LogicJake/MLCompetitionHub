@@ -26,14 +26,6 @@ Deadline: 2021-01-06T07:59:00+0800
 Reward: 100000.0 USD  
 
 
-## CDP: Unlocking Climate Solutions
-
-Link: https://www.kaggle.com/c/cdp-unlocking-climate-solutions  
-Description: City-Business Collaboration for a Sustainable Future  
-Deadline: 2020-12-03T07:59:00+0800  
-Reward: 91000.0 USD  
-
-
 ## NFL 1st and Future - Impact Detection
 
 Link: https://www.kaggle.com/c/nfl-impact-detection  
