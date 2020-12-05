@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-04T16:02:41+08:00</updated>
+    <updated>2020-12-05T16:02:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -496,7 +496,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-04T16:02:41+08:00</updated>
+        <updated>2020-12-05T16:02:06+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -859,6 +859,20 @@
     
     
     
+    
+    <entry>
+        <id>https://god.yanxishe.com/109</id>
+        <title><![CDATA[电子商务欺诈检测]]></title>
+        
+        <updated>2020-12-04T15:48:17+08:00</updated>
+        
+        <link href="https://god.yanxishe.com/109"/>
+        <summary>电子商务的蓬勃发展，为大家带来便利，而一些不法分子也在线上进行一些诈骗活动。怎么识别这些欺诈活动呢？</summary>
+        <content type="text/html" src="https://god.yanxishe.com/109"><![CDATA[<h3>Description</h3>电子商务的蓬勃发展，为大家带来便利，而一些不法分子也在线上进行一些诈骗活动。怎么识别这些欺诈活动呢？<h3>Deadline: 2021-01-02T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
+        <author>
+            <name><![CDATA[AI研习社]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://god.yanxishe.com/104</id>
