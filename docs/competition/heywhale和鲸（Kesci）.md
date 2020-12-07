@@ -2,7 +2,7 @@
 
 
 
-## 老子研究文献知识发现数据竞赛 <sup style="color:red">[new]<sup>  
+## 老子研究文献知识发现数据竞赛
 
 Link: https://www.kesci.com/home/competition/5fb2150224679b002c144e20  
 Description: 老树新芽，数据时用——老子研究文献知识发现数据竞赛  

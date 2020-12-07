@@ -70,6 +70,6 @@ Reward: 15000.0 USD
 
 Link: https://www.kaggle.com/c/google-football  
 Description: Train agents to master the world's most popular sport  
-Deadline: 2020-12-08T07:59:00+0800  
+Deadline: 2020-12-12T07:59:00+0800  
 Reward: 6000.0 USD  
 
