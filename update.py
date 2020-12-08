@@ -18,7 +18,7 @@ competitions = []
 datas = []
 
 for _, module_name, _ in pkgutil.iter_modules(['source']):
-    if module_name in ['biendata', 'futurelab']:
+    if module_name in ['futurelab']:
         continue
 
     try:

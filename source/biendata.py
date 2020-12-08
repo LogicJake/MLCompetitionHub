@@ -7,7 +7,7 @@ PLATFORM_NAME = 'biendata'
 
 
 def get_data():
-    url = 'https://www.biendata.com/competition/'
+    url = 'https://www.biendata.xyz/competition/'
 
     response = requests.get(url=url)
     html = response.text
@@ -22,7 +22,7 @@ def get_data():
             continue
 
         name = info.cssselect('span.des_text.p0')[0].text.strip()
-        url = 'https://www.biendata.com' + info.cssselect(
+        url = 'https://www.biendata.xyz' + info.cssselect(
             'div.content h4 a')[0].attrib['href'].strip()
 
         time = info.cssselect('dl dd:nth-child(2) > span')[0].text.strip()
