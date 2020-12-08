@@ -18,6 +18,9 @@ competitions = []
 datas = []
 
 for _, module_name, _ in pkgutil.iter_modules(['source']):
+    if module_name in ['biendata', 'futurelab']:
+        continue
+
     try:
         module = importlib.import_module('.' + module_name, 'source')
         func_data = getattr(module, 'get_data')
