@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-08T16:03:22+08:00</updated>
+    <updated>2020-12-08T16:40:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -482,7 +482,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-08T16:03:22+08:00</updated>
+        <updated>2020-12-08T16:40:34+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -837,6 +837,36 @@
         <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://signate.jp/competitions/363</id>
+        <title><![CDATA[JR東日本 列車運行予測]]></title>
+        
+        <updated>2020-12-08T16:40:34+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/363"/>
+        <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
+        <content type="text/html" src="https://signate.jp/competitions/363"><![CDATA[<h3>Description</h3>過去の運行実績データに基づいて、列車の遅延などを予測しよう！<h3>Deadline: 2021-01-21T23:59:59+08:00</h3><h3>Reward: 総額¥1,500,000</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://signate.jp/competitions/285</id>
+        <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
+        
+        <updated>2020-12-08T16:40:34+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/285"/>
+        <summary>Vehicle Driving Image Recognition using FPGA</summary>
+        <content type="text/html" src="https://signate.jp/competitions/285"><![CDATA[<h3>Description</h3>Vehicle Driving Image Recognition using FPGA<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: total 1,000,000 yen</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
     
