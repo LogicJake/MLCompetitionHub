@@ -18,6 +18,14 @@ Deadline: 2021-02-08T07:59:00+0800
 Reward: $3,000 USD  
 
 
+## AI4D - Yorùbá Machine Translation Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge  
+Description: Can you translate Yorùbá to English?  
+Deadline: 2021-04-12T07:59:00+0800  
+Reward: $2,000 USD  
+
+
 ## AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi
 
 Link: https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi  

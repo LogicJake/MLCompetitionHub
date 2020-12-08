@@ -2,7 +2,7 @@
 
 
 
-## 手指指纹识别开源竞赛 <sup style="color:red">[new]<sup>  
+## 手指指纹识别开源竞赛
 
 Link: https://www.flyai.com/d/FingerprintIdentification  
 Description: 指纹识别技术的应用非常广泛：典型的脱机应用有指纹锁，指纹保险柜、指纹考勤系统等；联机应用有电子银行，自动取款机、电子商务等。目前以指纹为代表的生物特征识别技术有望在将来的公共领域和民用领域扮演更重要的角色。

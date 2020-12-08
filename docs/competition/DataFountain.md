@@ -2,14 +2,6 @@
 
 
 
-## 百度遥感赛题测试
-
-Link: https://www.datafountain.cn/competitions/492  
-Description: 百度遥感赛题测试  
-Deadline: 2020-12-31T23:59:59+0800  
-Reward: ￥1  
-
-
 ## 基于买方意向的货物撮合交易
 
 Link: https://www.datafountain.cn/competitions/487  
