@@ -2,6 +2,14 @@
 
 
 
+## Off road image segmentation challenge
+
+Link: https://signate.jp/competitions/101  
+Description: Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!  
+Deadline: 2021-02-11T23:59:59+0800  
+Reward: total 1,200,000 yen  
+
+
 ## JR東日本 列車運行予測
 
 Link: https://signate.jp/competitions/363  

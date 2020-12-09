@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-08T17:04:14+08:00</updated>
+    <updated>2020-12-09T16:00:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -512,7 +512,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-08T17:04:14+08:00</updated>
+        <updated>2020-12-09T16:00:59+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -557,20 +557,6 @@
         <link href="https://competition.huaweicloud.com/information/1000041336/introduction"/>
         <summary>本次比赛围绕生活中的街景图像展开，选手可以通过深度学习算法进行图像语义分割，对图像进行像素级别的分类。</summary>
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041336/introduction"><![CDATA[<h3>Description</h3>本次比赛围绕生活中的街景图像展开，选手可以通过深度学习算法进行图像语义分割，对图像进行像素级别的分类。<h3>Deadline: 2020-12-28T18:00:00+08:00</h3><h3>Reward: ￥29437</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041322/introduction</id>
-        <title><![CDATA[“华为云杯”2020人工智能创新应用大赛]]></title>
-        
-        <updated>2020-10-14T10:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041322/introduction"/>
-        <summary>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041322/introduction"><![CDATA[<h3>Description</h3>“华为云杯”2020西安人工智能创新应用大赛，由西安国家民用航天产业基地管理委员会主办、华为公司承办，以“AI在航天，鸿图华构”为主题面向全国的人工智能交流赛事。<h3>Deadline: 2020-12-08T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -873,10 +859,24 @@
     
     
     <entry>
+        <id>https://signate.jp/competitions/101</id>
+        <title><![CDATA[Off road image segmentation challenge]]></title>
+        
+        <updated>2020-12-09T16:00:59+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/101"/>
+        <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
+        <content type="text/html" src="https://signate.jp/competitions/101"><![CDATA[<h3>Description</h3>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!<h3>Deadline: 2021-02-11T23:59:59+08:00</h3><h3>Reward: total 1,200,000 yen</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-08T17:04:14+08:00</updated>
+        <updated>2020-12-09T16:00:59+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -890,7 +890,7 @@
         <id>https://signate.jp/competitions/285</id>
         <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
         
-        <updated>2020-12-08T17:04:14+08:00</updated>
+        <updated>2020-12-09T16:00:59+08:00</updated>
         
         <link href="https://signate.jp/competitions/285"/>
         <summary>Vehicle Driving Image Recognition using FPGA</summary>
@@ -994,7 +994,7 @@
     
     <entry>
         <id>https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge</id>
-        <title><![CDATA[AI4D - Yorùbá Machine Translation Challenge]]></title>
+        <title><![CDATA[AI4D Yorùbá Machine Translation Challenge]]></title>
         
         <updated>2020-12-04T13:59:00+08:00</updated>
         

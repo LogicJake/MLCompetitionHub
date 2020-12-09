@@ -2,7 +2,7 @@
 
 
 
-## クラシック音楽の作曲家分類 <sup style="color:red">[new]<sup>  
+## クラシック音楽の作曲家分類
 
 Link: https://www.nishika.com/competitions/8  
 Description: クラシック音楽の作曲家分類  
