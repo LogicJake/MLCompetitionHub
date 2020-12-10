@@ -2,6 +2,14 @@
 
 
 
+## 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！ <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/9  
+Description: 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！  
+Deadline: 2025-12-31T13:59:00+0800  
+Reward: なし  
+
+
 ## クラシック音楽の作曲家分類
 
 Link: https://www.nishika.com/competitions/8  
