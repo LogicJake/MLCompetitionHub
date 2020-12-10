@@ -349,3 +349,4 @@ https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge
 https://www.biendata.xyz/competition/chaindream_nd_task2/
 https://www.biendata.xyz/competition/chaindream_nd_task1/
 https://signate.jp/competitions/101
+https://www.nishika.com/competitions/9
