@@ -50,6 +50,14 @@ Deadline: 2021-01-07T07:59:00+0800
 Reward: 30000.0 USD  
 
 
+## Acea Smart Water Analytics  <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/acea-water-prediction  
+Description: Can you help preserve "blue gold" using data to predict water availability?  
+Deadline: 2021-02-18T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
 ## Cassava Leaf Disease Classification
 
 Link: https://www.kaggle.com/c/cassava-leaf-disease-classification  

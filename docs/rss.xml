@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-10T16:00:09+08:00</updated>
+    <updated>2020-12-11T16:00:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -512,7 +512,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-10T16:00:09+08:00</updated>
+        <updated>2020-12-11T16:00:00+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -643,6 +643,20 @@
         <link href="https://www.kaggle.com/c/kaggle-survey-2020"/>
         <summary>The most comprehensive dataset available on the state of ML and data science</summary>
         <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2020"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2021-01-07T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/acea-water-prediction</id>
+        <title><![CDATA[Acea Smart Water Analytics ]]></title>
+        
+        <updated>2020-12-10T23:48:33+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/acea-water-prediction"/>
+        <summary>Can you help preserve "blue gold" using data to predict water availability?</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/acea-water-prediction"><![CDATA[<h3>Description</h3>Can you help preserve "blue gold" using data to predict water availability?<h3>Deadline: 2021-02-18T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -876,7 +890,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2020-12-10T16:00:09+08:00</updated>
+        <updated>2020-12-11T16:00:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -890,7 +904,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-10T16:00:09+08:00</updated>
+        <updated>2020-12-11T16:00:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -904,7 +918,7 @@
         <id>https://signate.jp/competitions/285</id>
         <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
         
-        <updated>2020-12-10T16:00:09+08:00</updated>
+        <updated>2020-12-11T16:00:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/285"/>
         <summary>Vehicle Driving Image Recognition using FPGA</summary>
