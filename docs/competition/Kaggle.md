@@ -34,7 +34,7 @@ Deadline: 2021-01-05T07:59:00+0800
 Reward: 75000.0 USD  
 
 
-## HuBMAP: Hacking the Kidney
+## HuBMAP - Hacking the Kidney
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  
 Description: Identify glomeruli in human kidney tissue images  
@@ -42,7 +42,7 @@ Deadline: 2021-02-02T07:59:00+0800
 Reward: 60000.0 USD  
 
 
-## 2020 Kaggle ML & DS Survey
+## 2020 Kaggle Machine Learning & Data Science Survey
 
 Link: https://www.kaggle.com/c/kaggle-survey-2020  
 Description: The most comprehensive dataset available on the state of ML and data science  
@@ -72,12 +72,4 @@ Link: https://www.kaggle.com/c/rfcx-species-audio-detection
 Description: Automate the detection of bird and frog species in a tropical soundscape  
 Deadline: 2021-02-18T07:59:00+0800  
 Reward: 15000.0 USD  
-
-
-## Google Research Football with Manchester City F.C.
-
-Link: https://www.kaggle.com/c/google-football  
-Description: Train agents to master the world's most popular sport  
-Deadline: 2020-12-12T07:59:00+0800  
-Reward: 6000.0 USD  
 

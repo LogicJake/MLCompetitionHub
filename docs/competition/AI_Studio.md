@@ -65,11 +65,3 @@ Description: 源于百度地图真实场景数据的车道线检测问题
 Deadline: 2020-12-22T08:00:00+0800  
 Reward: ￥210,000  
 
-
-## 2020“智荟杯”浦发百度高校极客挑战赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/56  
-Description: 本届大赛分两个赛道：方案赛道和算法赛道。本比赛采用定向邀约的参赛方式，仅对邀约团队开放。  
-Deadline: 2020-12-11T08:00:00+0800  
-Reward: ¥ 630,000  
-
