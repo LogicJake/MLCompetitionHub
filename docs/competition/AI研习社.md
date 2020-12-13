@@ -17,11 +17,3 @@ Description: 本次比赛数据来自互联网，包含数千部电影的演员�
 Deadline: 2020-12-19T23:59:59+0800  
 Reward: 3000.00  
 
-
-## 评论情感词提取
-
-Link: https://god.yanxishe.com/103  
-Description: 用语言表达情感是很重要的。但是，哪一个词才是情感的引子呢？  
-Deadline: 2020-12-12T23:59:59+0800  
-Reward: 3000.00  
-
