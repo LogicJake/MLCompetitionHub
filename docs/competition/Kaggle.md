@@ -42,6 +42,14 @@ Deadline: 2021-02-02T07:59:00+0800
 Reward: 60000.0 USD  
 
 
+## RANZCR CLiP - Catheter and Line Position Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification  
+Description: Classify the presence and correct placement of tubes on chest x-rays to save lives  
+Deadline: 2021-03-16T07:59:00+0800  
+Reward: 50000.0 USD  
+
+
 ## 2020 Kaggle Machine Learning & Data Science Survey
 
 Link: https://www.kaggle.com/c/kaggle-survey-2020  
