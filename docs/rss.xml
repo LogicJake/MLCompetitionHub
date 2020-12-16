@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-15T16:00:02+08:00</updated>
+    <updated>2020-12-16T16:00:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -252,7 +252,7 @@
        厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。</summary>
         <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020厦门国际银行数创金融杯建模大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>       此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
        厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2019全球银行 1000 强”榜单中，本行按总资产排名第158位，排名持续攀升。
-       厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2020-12-25T15:00:00+08:00</h3><h3>Reward: ￥310000</h3>]]></content>
+       厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2020-12-27T23:59:59+08:00</h3><h3>Reward: ￥310000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -363,22 +363,6 @@
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html</id>
-        <title><![CDATA[2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）]]></title>
-        
-        <updated>2020-06-23T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html"/>
-        <summary>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
-本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—定向算法赛（车道线识别）_竞赛信息.html"><![CDATA[<h3>Description</h3>作为国内领先的智慧城市服务公司、光磁⼀体存储专家，及央企控股的上市公司，易华录以城市数据湖为核心，建设新⼀代信息基础设施、综合性大数据服务平台，构建数字孪生城市，助力政府科学决策，民生有效改善，社会精准治理。 
-本届华录杯大赛以“数据湖+智慧城市”为理念，着力于智慧城市业务中的真实应用场景，结合运用交通、市政等行业领域数据，设置定向算法赛、不定向算法赛，总奖金达64万元。旨在挑选出更为优秀的人工智能算法，以及遴选出杰出的算法达⼈。同时，大赛中涌现的优秀团队将有机会入驻易华录科技企业孵化器，享受专业孵化服务，加速产品、项目落地。<h3>Deadline: 2020-12-15T23:59:59+08:00</h3><h3>Reward: 210000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/2020中国华录杯·数据湖算法大赛—不定向算法赛_竞赛信息.html</id>
         <title><![CDATA[2020中国华录杯·数据湖算法大赛—不定向算法赛]]></title>
         
@@ -400,7 +384,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-15T16:00:02+08:00</updated>
+        <updated>2020-12-16T16:00:01+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -778,7 +762,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2020-12-15T16:00:02+08:00</updated>
+        <updated>2020-12-16T16:00:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -792,7 +776,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-15T16:00:02+08:00</updated>
+        <updated>2020-12-16T16:00:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -806,7 +790,7 @@
         <id>https://signate.jp/competitions/285</id>
         <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
         
-        <updated>2020-12-15T16:00:02+08:00</updated>
+        <updated>2020-12-16T16:00:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/285"/>
         <summary>Vehicle Driving Image Recognition using FPGA</summary>

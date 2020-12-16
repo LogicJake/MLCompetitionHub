@@ -2,7 +2,7 @@
 
 
 
-## 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！ <sup style="color:red">[new]<sup>  
+## 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！
 
 Link: https://www.nishika.com/competitions/9  
 Description: 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！  
