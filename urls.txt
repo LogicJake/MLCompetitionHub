@@ -352,3 +352,4 @@ https://signate.jp/competitions/101
 https://www.nishika.com/competitions/9
 https://www.kaggle.com/c/acea-water-prediction
 https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
+https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge
