@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-22T16:03:22+08:00</updated>
+    <updated>2020-12-23T16:04:38+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -117,20 +117,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/52"/>
         <summary>提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/52"><![CDATA[<h3>Description</h3>提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/53</id>
-        <title><![CDATA[2020中国华录杯·数据湖算法大赛 — 飞桨赛道]]></title>
-        
-        <updated>2020-09-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/53"/>
-        <summary>源于百度地图真实场景数据的车道线检测问题</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/53"><![CDATA[<h3>Description</h3>源于百度地图真实场景数据的车道线检测问题<h3>Deadline: 2020-12-22T08:00:00+08:00</h3><h3>Reward: ￥210,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -352,7 +338,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-22T16:03:22+08:00</updated>
+        <updated>2020-12-23T16:04:38+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -727,10 +713,24 @@
     
     
     <entry>
+        <id>https://signate.jp/competitions/403</id>
+        <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
+        
+        <updated>2020-12-23T16:04:38+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/403"/>
+        <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
+        <content type="text/html" src="https://signate.jp/competitions/403"><![CDATA[<h3>Description</h3>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！<h3>Deadline: 2021-02-10T23:59:59+08:00</h3><h3>Reward: 総額￥1,100,000＋鰹節</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2020-12-22T16:03:22+08:00</updated>
+        <updated>2020-12-23T16:04:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -744,7 +744,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2020-12-22T16:03:22+08:00</updated>
+        <updated>2020-12-23T16:04:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -758,7 +758,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-22T16:03:22+08:00</updated>
+        <updated>2020-12-23T16:04:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -772,7 +772,7 @@
         <id>https://signate.jp/competitions/285</id>
         <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
         
-        <updated>2020-12-22T16:03:22+08:00</updated>
+        <updated>2020-12-23T16:04:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/285"/>
         <summary>Vehicle Driving Image Recognition using FPGA</summary>
