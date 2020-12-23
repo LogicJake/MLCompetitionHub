@@ -355,3 +355,4 @@ https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
 https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/61
 https://signate.jp/competitions/402
+https://signate.jp/competitions/403
