@@ -2,6 +2,14 @@
 
 
 
+## 【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類
+
+Link: https://signate.jp/competitions/362  
+Description: 広島のレモン画像を活用した外観分類にチャレンジしよう！  
+Deadline: 2021-03-31T23:59:59+0800  
+Reward: レモン計30kg+10万円+レモンのお菓子詰め合わせ  
+
+
 ## 漁業×AIチャレンジ： 魚群検知アルゴリズムの作成
 
 Link: https://signate.jp/competitions/403  

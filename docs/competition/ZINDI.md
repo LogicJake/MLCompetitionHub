@@ -18,7 +18,7 @@ Deadline: 2021-02-08T07:59:00+0800
 Reward: $3,000 USD  
 
 
-## AI4D Takwimu Lab - Machine Translation Challenge <sup style="color:red">[new]<sup>  
+## AI4D Takwimu Lab - Machine Translation Challenge
 
 Link: https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge  
 Description: Can you translate French to Fongbe and Ewe?  
