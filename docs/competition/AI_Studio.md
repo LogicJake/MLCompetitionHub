@@ -5,9 +5,9 @@
 ## NAACL同传Workshop：千言 - 机器同传 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/62  
-Description: 由百度领衔，联合Google，华为，清华大学等顶尖机构和高等学府在自然语言处理领域顶会——NAACL上举办了第二届机器同传研讨会。作为研讨会上的重磅任务，本评测旨在开发高翻译质量、低延时的同传模型。  
+Description: 百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。  
 Deadline: 2021-03-15T08:00:00+0800  
-Reward: $2,300  
+Reward: $6,900  
 
 
 ## 螺旋桨RNA结构预测竞赛：Unpaired Probability Prediction

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-27T16:01:41+08:00</updated>
+    <updated>2020-12-28T16:02:38+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -17,8 +17,8 @@
         <updated>2020-12-28T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/62"/>
-        <summary>由百度领衔，联合Google，华为，清华大学等顶尖机构和高等学府在自然语言处理领域顶会——NAACL上举办了第二届机器同传研讨会。作为研讨会上的重磅任务，本评测旨在开发高翻译质量、低延时的同传模型。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/62"><![CDATA[<h3>Description</h3>由百度领衔，联合Google，华为，清华大学等顶尖机构和高等学府在自然语言处理领域顶会——NAACL上举办了第二届机器同传研讨会。作为研讨会上的重磅任务，本评测旨在开发高翻译质量、低延时的同传模型。<h3>Deadline: 2021-03-15T08:00:00+08:00</h3><h3>Reward: $2,300</h3>]]></content>
+        <summary>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/62"><![CDATA[<h3>Description</h3>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。<h3>Deadline: 2021-03-15T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -255,24 +255,6 @@
     
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/2020厦门国际银行数创金融杯建模大赛_竞赛信息.html</id>
-        <title><![CDATA[2020厦门国际银行数创金融杯建模大赛]]></title>
-        
-        <updated>2020-10-26T10:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/2020厦门国际银行数创金融杯建模大赛_竞赛信息.html"/>
-        <summary>       此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
-       厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2019全球银行 1000 强”榜单中，本行按总资产排名第158位，排名持续攀升。
-       厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/2020厦门国际银行数创金融杯建模大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>       此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
-       厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2019全球银行 1000 强”榜单中，本行按总资产排名第158位，排名持续攀升。
-       厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2020-12-27T23:59:59+08:00</h3><h3>Reward: ￥310000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛_竞赛信息.html</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛]]></title>
         
@@ -366,7 +348,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -720,7 +702,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -734,7 +716,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -748,7 +730,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -762,7 +744,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -776,7 +758,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -790,7 +772,7 @@
         <id>https://signate.jp/competitions/285</id>
         <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
         
-        <updated>2020-12-27T16:01:41+08:00</updated>
+        <updated>2020-12-28T16:02:38+08:00</updated>
         
         <link href="https://signate.jp/competitions/285"/>
         <summary>Vehicle Driving Image Recognition using FPGA</summary>
