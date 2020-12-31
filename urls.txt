@@ -360,3 +360,4 @@ https://www.datafountain.cn/competitions/494
 https://tianchi.aliyun.com/competition/entrance/531846/introduction
 https://signate.jp/competitions/362
 https://aistudio.baidu.com/aistudio/competition/detail/62
+https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
