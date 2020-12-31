@@ -2,7 +2,7 @@
 
 
 
-## 基于AI的信道信息反馈性能提升 <sup style="color:red">[new]<sup>  
+## 基于AI的信道信息反馈性能提升
 
 Link: https://www.datafountain.cn/competitions/494  
 Description: 基于AI的信道信息反馈性能提升  

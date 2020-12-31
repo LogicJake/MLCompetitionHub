@@ -52,15 +52,6 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 经典赛  
 
 
-## 文本分析·疫情期间谣言分析
-
-Link: https://www.kesci.com/home/competition/5ec4bf897ba12c002d3e446c  
-Description: DataJoy® 热点赛难度中等，基于社会时事热点命题，积聚人气，火热竞技；
-选手可自行选择分析的角度与内容，研究 COVID-19 疫情期间谣言的模式与规律 ，也可设计算法分析预测某条谣言是否为真。  
-Deadline: 2020-12-31T00:00:00+0800  
-Reward: 热点赛  
-
-
 ## 预测分析·客户购买预测
 
 Link: https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3  

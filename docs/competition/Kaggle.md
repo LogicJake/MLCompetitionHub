@@ -42,6 +42,14 @@ Deadline: 2021-02-02T07:59:00+0800
 Reward: 60000.0 USD  
 
 
+## VinBigData Chest X-ray Abnormalities Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection  
+Description: Automatically localize and classify thoracic abnormalities from chest radiographs  
+Deadline: 2021-03-31T07:59:00+0800  
+Reward: 50000.0 USD  
+
+
 ## RANZCR CLiP - Catheter and Line Position Challenge
 
 Link: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification  
