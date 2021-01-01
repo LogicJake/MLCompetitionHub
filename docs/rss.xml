@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2020-12-31T16:09:15+08:00</updated>
+    <updated>2021-01-01T16:05:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -47,34 +47,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/58"/>
         <summary>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/58"><![CDATA[<h3>Description</h3>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。<h3>Deadline: 2021-01-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/54</id>
-        <title><![CDATA[2020 CCF BDCI 遥感影像地块分割]]></title>
-        
-        <updated>2020-10-13T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/54"/>
-        <summary>2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/54"><![CDATA[<h3>Description</h3>2020 CCF BDCI 遥感影像地块分割赛道。 旨在对遥感影像进行像素级内容解析，对遥感影像中感兴趣的类别进行提取和分类。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ¥100,000 + 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/55</id>
-        <title><![CDATA[2020 CCF BDCI 千言：多技能对话]]></title>
-        
-        <updated>2020-10-14T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/55"/>
-        <summary>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/55"><![CDATA[<h3>Description</h3>2020 CCF BDCI 千言：多技能对话赛道练习场。旨在建立一个开放域的多轮对话系统，使得机器可以流畅自然地与人进行语言交互。<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000 + 特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -138,34 +110,6 @@
     
     
     
-    <entry>
-        <id>https://www.biendata.xyz/competition/chaindream_nd_task2/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task2]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/chaindream_nd_task2/"/>
-        <summary>Chain Dream : Name Disambiguation Task2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/chaindream_nd_task2/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task2<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/chaindream_nd_task1/</id>
-        <title><![CDATA[Chain Dream : Name Disambiguation Task1]]></title>
-        
-        <updated>2020-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/chaindream_nd_task1/"/>
-        <summary>Chain Dream : Name Disambiguation Task1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/chaindream_nd_task1/"><![CDATA[<h3>Description</h3>Chain Dream : Name Disambiguation Task1<h3>Deadline: 2020-12-31T08:00:00+08:00</h3><h3>Reward: ￥75,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -183,20 +127,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/475</id>
-        <title><![CDATA[遥感影像地块分割]]></title>
-        
-        <updated>2020-09-20T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/475"/>
-        <summary>遥感影像地块分割</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/475"><![CDATA[<h3>Description</h3>遥感影像地块分割<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/470</id>
         <title><![CDATA[千言：多技能对话]]></title>
         
@@ -205,48 +135,6 @@
         <link href="https://www.datafountain.cn/competitions/470"/>
         <summary>千言：多技能对话</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/470"><![CDATA[<h3>Description</h3>千言：多技能对话<h3>Deadline: 2021-01-01T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/457</id>
-        <title><![CDATA[“华为・昇腾杯”AI+遥感影像]]></title>
-        
-        <updated>2020-08-11T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/457"/>
-        <summary>“华为・昇腾杯”AI+遥感影像</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/457"><![CDATA[<h3>Description</h3>“华为・昇腾杯”AI+遥感影像<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: ￥1980000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/455</id>
-        <title><![CDATA[AI+无线通信]]></title>
-        
-        <updated>2020-08-11T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/455"/>
-        <summary>AI+无线通信</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/455"><![CDATA[<h3>Description</h3>AI+无线通信<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: ￥1980000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/454</id>
-        <title><![CDATA[“华为・昇腾杯”AI+行人重识别]]></title>
-        
-        <updated>2020-08-11T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/454"/>
-        <summary>“华为・昇腾杯”AI+行人重识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/454"><![CDATA[<h3>Description</h3>“华为・昇腾杯”AI+行人重识别<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: ￥1980000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -348,7 +236,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -440,7 +328,7 @@
         
         <link href="https://www.kaggle.com/c/hubmap-kidney-segmentation"/>
         <summary>Identify glomeruli in human kidney tissue images</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/hubmap-kidney-segmentation"><![CDATA[<h3>Description</h3>Identify glomeruli in human kidney tissue images<h3>Deadline: 2021-02-02T07:59:00+08:00</h3><h3>Reward: 60000.0 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/hubmap-kidney-segmentation"><![CDATA[<h3>Description</h3>Identify glomeruli in human kidney tissue images<h3>Deadline: 2021-03-26T07:59:00+08:00</h3><h3>Reward: 60000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -700,7 +588,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -714,7 +602,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -728,7 +616,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -742,7 +630,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -756,25 +644,11 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2020-12-31T16:09:15+08:00</updated>
+        <updated>2021-01-01T16:05:01+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
         <content type="text/html" src="https://signate.jp/competitions/363"><![CDATA[<h3>Description</h3>過去の運行実績データに基づいて、列車の遅延などを予測しよう！<h3>Deadline: 2021-01-21T23:59:59+08:00</h3><h3>Reward: 総額¥1,500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/285</id>
-        <title><![CDATA[The 4th AI Edge Contest (Implementation Contest 2)]]></title>
-        
-        <updated>2020-12-31T16:09:15+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/285"/>
-        <summary>Vehicle Driving Image Recognition using FPGA</summary>
-        <content type="text/html" src="https://signate.jp/competitions/285"><![CDATA[<h3>Description</h3>Vehicle Driving Image Recognition using FPGA<h3>Deadline: 2020-12-31T23:59:59+08:00</h3><h3>Reward: total 1,000,000 yen</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
         </author>
