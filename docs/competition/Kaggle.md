@@ -26,14 +26,6 @@ Deadline: 2021-01-08T07:59:00+0800
 Reward: 100000.0 USD  
 
 
-## NFL 1st and Future - Impact Detection
-
-Link: https://www.kaggle.com/c/nfl-impact-detection  
-Description: Detect helmet impacts in videos of NFL plays  
-Deadline: 2021-01-05T07:59:00+0800  
-Reward: 75000.0 USD  
-
-
 ## HuBMAP - Hacking the Kidney
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  

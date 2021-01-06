@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-01T16:05:01+08:00</updated>
+    <updated>2021-01-06T16:09:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -126,20 +126,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.datafountain.cn/competitions/470</id>
-        <title><![CDATA[千言：多技能对话]]></title>
-        
-        <updated>2020-09-27T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/470"/>
-        <summary>千言：多技能对话</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/470"><![CDATA[<h3>Description</h3>千言：多技能对话<h3>Deadline: 2021-01-01T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -236,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -247,20 +233,6 @@
     </entry>
     
     
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041336/introduction</id>
-        <title><![CDATA[华为云“云上先锋”· AI挑战赛]]></title>
-        
-        <updated>2020-11-30T09:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041336/introduction"/>
-        <summary>本次比赛围绕生活中的街景图像展开，选手可以通过深度学习算法进行图像语义分割，对图像进行像素级别的分类。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041336/introduction"><![CDATA[<h3>Description</h3>本次比赛围绕生活中的街景图像展开，选手可以通过深度学习算法进行图像语义分割，对图像进行像素级别的分类。<h3>Deadline: 2021-01-04T18:00:00+08:00</h3><h3>Reward: ￥29437</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
     
     
     
@@ -301,20 +273,6 @@
         <link href="https://www.kaggle.com/c/nfl-big-data-bowl-2021"/>
         <summary>Help evaluate defensive performance on passing plays</summary>
         <content type="text/html" src="https://www.kaggle.com/c/nfl-big-data-bowl-2021"><![CDATA[<h3>Description</h3>Help evaluate defensive performance on passing plays<h3>Deadline: 2021-01-08T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/nfl-impact-detection</id>
-        <title><![CDATA[NFL 1st and Future - Impact Detection]]></title>
-        
-        <updated>2020-11-17T06:05:02+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/nfl-impact-detection"/>
-        <summary>Detect helmet impacts in videos of NFL plays</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/nfl-impact-detection"><![CDATA[<h3>Description</h3>Detect helmet impacts in videos of NFL plays<h3>Deadline: 2021-01-05T07:59:00+08:00</h3><h3>Reward: 75000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -527,68 +485,10 @@
     
     
     <entry>
-        <id>https://www.nishika.com/competitions/9</id>
-        <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
-        
-        <updated>2020-12-09T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/9"/>
-        <summary>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/9"><![CDATA[<h3>Description</h3>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.nishika.com/competitions/8</id>
-        <title><![CDATA[クラシック音楽の作曲家分類]]></title>
-        
-        <updated>2020-12-02T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/8"/>
-        <summary>クラシック音楽の作曲家分類</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/8"><![CDATA[<h3>Description</h3>クラシック音楽の作曲家分類<h3>Deadline: 2021-02-10T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.nishika.com/competitions/7</id>
-        <title><![CDATA[判例の個人情報の自動マスキング]]></title>
-        
-        <updated>2020-10-29T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/7"/>
-        <summary>判例の個人情報の自動マスキング</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-14T13:59:00+08:00</h3><h3>Reward: 21万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.nishika.com/competitions/3</id>
-        <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
-        
-        <updated>2020-03-05T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/3"/>
-        <summary>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -602,7 +502,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -616,7 +516,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -630,7 +530,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -644,7 +544,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-01T16:05:01+08:00</updated>
+        <updated>2021-01-06T16:09:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
@@ -664,7 +564,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531846/introduction"/>
         <summary>赛题聚焦“瓷砖表面瑕疵质检”，要求选手开发高效可靠的视觉算法，快并准确的给出瓷砖疵点具体的位置和类别，提升瓷砖表面瑕疵质检的效果和效率，降低对大量人工的依赖。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531846/introduction"><![CDATA[<h3>Description</h3>赛题聚焦“瓷砖表面瑕疵质检”，要求选手开发高效可靠的视觉算法，快并准确的给出瓷砖疵点具体的位置和类别，提升瓷砖表面瑕疵质检的效果和效率，降低对大量人工的依赖。<h3>Deadline: 2021-01-29T23:00:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531846/introduction"><![CDATA[<h3>Description</h3>赛题聚焦“瓷砖表面瑕疵质检”，要求选手开发高效可靠的视觉算法，快并准确的给出瓷砖疵点具体的位置和类别，提升瓷砖表面瑕疵质检的效果和效率，降低对大量人工的依赖。<h3>Deadline: 2021-01-29T23:55:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -678,7 +578,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531841/introduction"/>
         <summary>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531841/introduction"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-05T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531841/introduction"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-24T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -701,20 +601,6 @@
     
     
     
-    
-    <entry>
-        <id>https://god.yanxishe.com/109</id>
-        <title><![CDATA[电子商务欺诈检测]]></title>
-        
-        <updated>2020-12-04T15:48:17+08:00</updated>
-        
-        <link href="https://god.yanxishe.com/109"/>
-        <summary>电子商务的蓬勃发展，为大家带来便利，而一些不法分子也在线上进行一些诈骗活动。怎么识别这些欺诈活动呢？</summary>
-        <content type="text/html" src="https://god.yanxishe.com/109"><![CDATA[<h3>Description</h3>电子商务的蓬勃发展，为大家带来便利，而一些不法分子也在线上进行一些诈骗活动。怎么识别这些欺诈活动呢？<h3>Deadline: 2021-01-02T23:59:59+08:00</h3><h3>Reward: 3000.00</h3>]]></content>
-        <author>
-            <name><![CDATA[AI研习社]]></name>
-        </author>
-    </entry>
     
     
     

@@ -2,7 +2,7 @@
 
 
 
-## NAACL同传Workshop：千言 - 机器同传 <sup style="color:red">[new]<sup>  
+## NAACL同传Workshop：千言 - 机器同传
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/62  
 Description: 百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。  
