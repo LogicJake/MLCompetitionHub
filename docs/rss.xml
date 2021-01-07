@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-06T16:09:17+08:00</updated>
+    <updated>2021-01-07T16:09:31+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -222,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -315,20 +315,6 @@
         <link href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"/>
         <summary>Classify the presence and correct placement of tubes on chest x-rays to save lives</summary>
         <content type="text/html" src="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"><![CDATA[<h3>Description</h3>Classify the presence and correct placement of tubes on chest x-rays to save lives<h3>Deadline: 2021-03-16T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/kaggle-survey-2020</id>
-        <title><![CDATA[2020 Kaggle Machine Learning &amp; Data Science Survey]]></title>
-        
-        <updated>2020-11-20T00:20:52+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/kaggle-survey-2020"/>
-        <summary>The most comprehensive dataset available on the state of ML and data science</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2020"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2021-01-07T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -488,7 +474,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -502,7 +488,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -516,7 +502,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -530,7 +516,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -544,7 +530,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-06T16:09:17+08:00</updated>
+        <updated>2021-01-07T16:09:31+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>

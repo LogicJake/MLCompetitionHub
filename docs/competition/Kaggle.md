@@ -34,7 +34,7 @@ Deadline: 2021-03-26T07:59:00+0800
 Reward: 60000.0 USD  
 
 
-## VinBigData Chest X-ray Abnormalities Detection <sup style="color:red">[new]<sup>  
+## VinBigData Chest X-ray Abnormalities Detection
 
 Link: https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection  
 Description: Automatically localize and classify thoracic abnormalities from chest radiographs  
@@ -48,14 +48,6 @@ Link: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
 Description: Classify the presence and correct placement of tubes on chest x-rays to save lives  
 Deadline: 2021-03-16T07:59:00+0800  
 Reward: 50000.0 USD  
-
-
-## 2020 Kaggle Machine Learning & Data Science Survey
-
-Link: https://www.kaggle.com/c/kaggle-survey-2020  
-Description: The most comprehensive dataset available on the state of ML and data science  
-Deadline: 2021-01-07T07:59:00+0800  
-Reward: 30000.0 USD  
 
 
 ## Acea Smart Water Analytics 
