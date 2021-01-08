@@ -10,22 +10,6 @@ Deadline: 2021-02-23T07:59:00+0800
 Reward: 100000.0 USD  
 
 
-## Riiid! Answer Correctness Prediction
-
-Link: https://www.kaggle.com/c/riiid-test-answer-prediction  
-Description: Track knowledge states of 1M+ students in the wild  
-Deadline: 2021-01-08T07:59:00+0800  
-Reward: 100000.0 USD  
-
-
-## NFL Big Data Bowl 2021
-
-Link: https://www.kaggle.com/c/nfl-big-data-bowl-2021  
-Description: Help evaluate defensive performance on passing plays  
-Deadline: 2021-01-08T07:59:00+0800  
-Reward: 100000.0 USD  
-
-
 ## HuBMAP - Hacking the Kidney
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  
