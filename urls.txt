@@ -361,3 +361,4 @@ https://tianchi.aliyun.com/competition/entrance/531846/introduction
 https://signate.jp/competitions/362
 https://aistudio.baidu.com/aistudio/competition/detail/62
 https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
+https://www.kesci.com/home/competition/5fcef670807ccb002cb62113
