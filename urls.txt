@@ -362,3 +362,6 @@ https://signate.jp/competitions/362
 https://aistudio.baidu.com/aistudio/competition/detail/62
 https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
 https://www.kesci.com/home/competition/5fcef670807ccb002cb62113
+https://aistudio.baidu.com/aistudio/competition/detail/68
+https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0
+https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb
