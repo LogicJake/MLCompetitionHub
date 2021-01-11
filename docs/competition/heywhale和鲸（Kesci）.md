@@ -2,12 +2,20 @@
 
 
 
-## 以“企业”为服务目标的政策大数据应用 <sup style="color:red">[new]<sup>  
+## 以企业为服务目标的政策大数据应用 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
 Deadline: 2021-07-31T23:59:00+0800  
-Reward: ¥ 300,000  
+Reward: ¥ 300,000+亿元项目基金  
+
+
+## 数字重庆·开放大数据竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
+Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: ¥ 300,000+亿元项目基金  
 
 
 ## 老子研究文献知识发现数据竞赛
@@ -18,12 +26,12 @@ Deadline: 2021-01-22T23:59:00+0800
 Reward: 论文择优推荐+奖金+官方证书  
 
 
-## 医学统计·数据分析入门
+## DataJoy® 练习赛
 
-Link: https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a  
-Description: 本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用  
-Deadline: 2021-12-31T00:00:00+0800  
-Reward: 新人赛  
+Link: https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb  
+Description:   
+Deadline: 2042-05-21T14:00:00+0800  
+Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
 ## Workshop | Python 气象数据分析
@@ -32,14 +40,6 @@ Link: https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189
 Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
 Deadline: 2021-09-30T00:00:00+0800  
 Reward: 气象数据分析+项目实战  
-
-
-## “2020创青春·交子杯”  AI算法赛道新手训练营
-
-Link: https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b  
-Description: [AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。  
-Deadline: 2021-09-01T00:00:00+0800  
-Reward:   
 
 
 ## 预测分析·员工满意度预测

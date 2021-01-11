@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-10T17:02:24+08:00</updated>
+    <updated>2021-01-11T16:16:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/68</id>
+        <title><![CDATA[第十六届全国大学生智能车竞赛线上资格赛：车道线检测]]></title>
+        
+        <updated>2021-01-11T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/68"/>
+        <summary>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/68"><![CDATA[<h3>Description</h3>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。<h3>Deadline: 2021-06-01T08:00:00+08:00</h3><h3>Reward: 超级大礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/62</id>
@@ -89,20 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/51"/>
         <summary>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/51"><![CDATA[<h3>Description</h3>通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/52</id>
-        <title><![CDATA[常规赛：MarTech Challenge 点击反欺诈预测]]></title>
-        
-        <updated>2020-09-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/52"/>
-        <summary>提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/52"><![CDATA[<h3>Description</h3>提供约50万次点击数据，请预测用户的点击行为是否为正常点击，还是作弊行为<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -222,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -338,13 +338,27 @@
     
     <entry>
         <id>https://www.kesci.com/home/competition/5fcef670807ccb002cb62113</id>
-        <title><![CDATA[以“企业”为服务目标的政策大数据应用]]></title>
+        <title><![CDATA[以企业为服务目标的政策大数据应用]]></title>
         
         <updated>2021-01-08T18:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"/>
         <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: ¥ 300,000</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: ¥ 300,000+亿元项目基金</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0</id>
+        <title><![CDATA[数字重庆·开放大数据竞赛]]></title>
+        
+        <updated>2021-01-08T18:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: ¥ 300,000+亿元项目基金</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -365,14 +379,14 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a</id>
-        <title><![CDATA[医学统计·数据分析入门]]></title>
+        <id>https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb</id>
+        <title><![CDATA[DataJoy® 练习赛]]></title>
         
-        <updated>2020-08-31T00:00:00+08:00</updated>
+        <updated>2020-05-21T14:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a"/>
-        <summary>本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5f3cefbe55d565002c6ae32a"><![CDATA[<h3>Description</h3>本练习赛主要面向医学生开放。在医疗研究里，Python扮演着越来越重要的位置，因此我们提供了简易的课程，通过医学统计学让大家能够学习体验Python以及0代码工具Canvas的使用<h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"><![CDATA[<h3>Description</h3><h3>Deadline: 2042-05-21T14:00:00+08:00</h3><h3>Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -387,20 +401,6 @@
         <link href="https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189"/>
         <summary>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5f2287d9b4ac2e002c163189"><![CDATA[<h3>Description</h3>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: 气象数据分析+项目实战</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b</id>
-        <title><![CDATA[“2020创青春·交子杯”  AI算法赛道新手训练营]]></title>
-        
-        <updated>2020-06-17T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"/>
-        <summary>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ee1f35f73aef4002c76ef3b"><![CDATA[<h3>Description</h3>[AI算法赛道新手训练营] 是由四川新网银行主办发起的手机行为数据分析的入门训练营，旨在帮助零基础的对手机用户行为感兴趣的新手入门数据分析。<h3>Deadline: 2021-09-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -457,10 +457,68 @@
     
     
     <entry>
+        <id>https://www.nishika.com/competitions/9</id>
+        <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
+        
+        <updated>2020-12-09T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/9"/>
+        <summary>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/9"><![CDATA[<h3>Description</h3>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/8</id>
+        <title><![CDATA[クラシック音楽の作曲家分類]]></title>
+        
+        <updated>2020-12-02T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/8"/>
+        <summary>クラシック音楽の作曲家分類</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/8"><![CDATA[<h3>Description</h3>クラシック音楽の作曲家分類<h3>Deadline: 2021-02-17T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/7</id>
+        <title><![CDATA[判例の個人情報の自動マスキング]]></title>
+        
+        <updated>2020-10-29T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/7"/>
+        <summary>判例の個人情報の自動マスキング</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-21T13:59:00+08:00</h3><h3>Reward: 21万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/3</id>
+        <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
+        
+        <updated>2020-03-05T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/3"/>
+        <summary>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -474,7 +532,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -488,7 +546,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -502,7 +560,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -516,7 +574,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-10T17:02:24+08:00</updated>
+        <updated>2021-01-11T16:16:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>

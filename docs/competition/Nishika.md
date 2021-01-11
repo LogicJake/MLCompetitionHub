@@ -14,7 +14,7 @@ Reward: なし
 
 Link: https://www.nishika.com/competitions/8  
 Description: クラシック音楽の作曲家分類  
-Deadline: 2021-02-10T13:59:00+0800  
+Deadline: 2021-02-17T13:59:00+0800  
 Reward: 16万円  
 
 
@@ -22,7 +22,7 @@ Reward: 16万円
 
 Link: https://www.nishika.com/competitions/7  
 Description: 判例の個人情報の自動マスキング  
-Deadline: 2021-01-14T13:59:00+0800  
+Deadline: 2021-01-21T13:59:00+0800  
 Reward: 21万円  
 
 
