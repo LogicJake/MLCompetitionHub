@@ -49,3 +49,11 @@ Description: Can you predict the class of an enzyme using only its amino acid se
 Deadline: 2021-02-22T07:59:00+0800  
 Reward: Job Interview  
 
+
+## AFD Gender-Based Violence Dataset Collection Challenge	
+
+Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
+Description: Calling on the Zindi community to help uncover and share gender based violence datasets  
+Deadline: 2021-02-22T07:59:00+0800  
+Reward: $1,000 USD  
+
