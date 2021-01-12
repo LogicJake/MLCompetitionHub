@@ -365,3 +365,9 @@ https://www.kesci.com/home/competition/5fcef670807ccb002cb62113
 https://aistudio.baidu.com/aistudio/competition/detail/68
 https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0
 https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb
+https://tianchi.aliyun.com/competition/entrance/531851/introduction
+https://tianchi.aliyun.com/competition/entrance/531855/introduction
+https://tianchi.aliyun.com/competition/entrance/531852/introduction
+https://tianchi.aliyun.com/competition/entrance/531861/introduction
+https://tianchi.aliyun.com/competition/entrance/531860/introduction
+https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge
