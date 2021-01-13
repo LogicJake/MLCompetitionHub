@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-12T16:17:00+08:00</updated>
+    <updated>2021-01-13T16:24:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -222,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -344,7 +344,7 @@
         
         <link href="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"/>
         <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: ¥ 300,000+亿元项目基金</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -358,21 +358,7 @@
         
         <link href="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"/>
         <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: ¥ 300,000+亿元项目基金</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5fb2150224679b002c144e20</id>
-        <title><![CDATA[老子研究文献知识发现数据竞赛]]></title>
-        
-        <updated>2020-11-30T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5fb2150224679b002c144e20"/>
-        <summary>老树新芽，数据时用——老子研究文献知识发现数据竞赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5fb2150224679b002c144e20"><![CDATA[<h3>Description</h3>老树新芽，数据时用——老子研究文献知识发现数据竞赛<h3>Deadline: 2021-01-22T23:59:00+08:00</h3><h3>Reward: 论文择优推荐+奖金+官方证书</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -387,6 +373,20 @@
         <link href="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"><![CDATA[<h3>Description</h3><h3>Deadline: 2042-05-21T14:00:00+08:00</h3><h3>Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5fb2150224679b002c144e20</id>
+        <title><![CDATA[老子研究文献知识发现数据竞赛]]></title>
+        
+        <updated>2020-11-30T10:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5fb2150224679b002c144e20"/>
+        <summary>老树新芽，数据时用——老子研究文献知识发现数据竞赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fb2150224679b002c144e20"><![CDATA[<h3>Description</h3>老树新芽，数据时用——老子研究文献知识发现数据竞赛<h3>Deadline: 2021-01-22T23:59:00+08:00</h3><h3>Reward: 论文择优推荐+奖金+官方证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -518,7 +518,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -532,7 +532,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -546,7 +546,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -560,7 +560,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -574,7 +574,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-12T16:17:00+08:00</updated>
+        <updated>2021-01-13T16:24:34+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>

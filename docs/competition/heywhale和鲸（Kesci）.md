@@ -7,7 +7,7 @@
 Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
 Deadline: 2021-07-31T23:59:00+0800  
-Reward: ¥ 300,000+亿元项目基金  
+Reward: 30W奖金和亿元政策扶持  
 
 
 ## 数字重庆·开放大数据竞赛 <sup style="color:red">[new]<sup>  
@@ -15,15 +15,7 @@ Reward: ¥ 300,000+亿元项目基金
 Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
 Deadline: 2021-07-31T00:00:00+0800  
-Reward: ¥ 300,000+亿元项目基金  
-
-
-## 老子研究文献知识发现数据竞赛
-
-Link: https://www.kesci.com/home/competition/5fb2150224679b002c144e20  
-Description: 老树新芽，数据时用——老子研究文献知识发现数据竞赛  
-Deadline: 2021-01-22T23:59:00+0800  
-Reward: 论文择优推荐+奖金+官方证书  
+Reward: 30W奖金和亿元政策扶持  
 
 
 ## DataJoy® 练习赛
@@ -32,6 +24,14 @@ Link: https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb
 Description:   
 Deadline: 2042-05-21T14:00:00+0800  
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
+
+
+## 老子研究文献知识发现数据竞赛
+
+Link: https://www.kesci.com/home/competition/5fb2150224679b002c144e20  
+Description: 老树新芽，数据时用——老子研究文献知识发现数据竞赛  
+Deadline: 2021-01-22T23:59:00+0800  
+Reward: 论文择优推荐+奖金+官方证书  
 
 
 ## Workshop | Python 气象数据分析
