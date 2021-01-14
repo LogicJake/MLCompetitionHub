@@ -54,6 +54,6 @@ Reward: Job Interview
 
 Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
 Description: Calling on the Zindi community to help uncover and share gender based violence datasets  
-Deadline: 2021-02-22T07:59:00+0800  
+Deadline: 2021-03-01T07:59:00+0800  
 Reward: $1,000 USD  
 
