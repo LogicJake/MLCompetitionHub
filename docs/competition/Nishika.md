@@ -2,6 +2,14 @@
 
 
 
+## 中古マンション価格予測 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/11  
+Description: 中古マンション価格予測  
+Deadline: 2021-03-31T13:59:00+0800  
+Reward: 20万円  
+
+
 ## 【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！
 
 Link: https://www.nishika.com/competitions/9  

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-14T16:24:22+08:00</updated>
+    <updated>2021-01-15T16:21:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -222,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -335,6 +335,22 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6</id>
+        <title><![CDATA[自动驾驶汽车精准感知方案研究]]></title>
+        
+        <updated>2021-01-15T12:14:06+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/5fcef670807ccb002cb62113</id>
@@ -457,6 +473,20 @@
     
     
     <entry>
+        <id>https://www.nishika.com/competitions/11</id>
+        <title><![CDATA[中古マンション価格予測]]></title>
+        
+        <updated>2021-01-15T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/11"/>
+        <summary>中古マンション価格予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/11"><![CDATA[<h3>Description</h3>中古マンション価格予測<h3>Deadline: 2021-03-31T13:59:00+08:00</h3><h3>Reward: 20万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.nishika.com/competitions/9</id>
         <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
         
@@ -518,7 +548,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -532,7 +562,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -546,7 +576,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -560,7 +590,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -574,7 +604,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-14T16:24:22+08:00</updated>
+        <updated>2021-01-15T16:21:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
