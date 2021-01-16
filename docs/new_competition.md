@@ -1,18 +1,17 @@
-> 更新时间: 2021-01-15T16:24:27+0800 
+> 更新时间: 2021-01-16T16:19:27+0800 
 
 # 新上线比赛
 
 
-## 自动驾驶汽车精准感知方案研究
-Link: https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 30W奖金和亿元政策扶持  
+## CVPR2021 安全AI挑战者计划第六期：ImageNet无限制对抗攻击(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531853/introduction  
+Description: AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。  
+Deadline: 2021-03-31T19:40:00+0800  
+Reward: $100000  
 
-## 中古マンション価格予測
-Link: https://www.nishika.com/competitions/11  
-Description: 中古マンション価格予測  
-Deadline: 2021-03-31T13:59:00+0800  
-Reward: 20万円  
+## CVPR2021 安全AI挑战者计划第六期：防御模型的白盒对抗攻击(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531847/introduction  
+Description: AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。  
+Deadline: 2022-03-31T11:27:00+0800  
+Reward: $100000  
 

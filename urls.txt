@@ -373,3 +373,5 @@ https://tianchi.aliyun.com/competition/entrance/531860/introduction
 https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge
 https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6
 https://www.nishika.com/competitions/11
+https://tianchi.aliyun.com/competition/entrance/531853/introduction
+https://tianchi.aliyun.com/competition/entrance/531847/introduction
