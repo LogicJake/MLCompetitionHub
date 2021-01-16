@@ -1,3 +1,4 @@
+import json
 from datetime import datetime
 
 from requests import request
@@ -14,6 +15,10 @@ def get_data():
 
     data = {'name': PLATFORM_NAME}
     cps = []
+
+    with open('./source/tianchi_url_map.json', 'r') as f:
+        url_map = json.load(f)
+
     for competition in competitions:
         if int(competition['state']) != 1:
             continue
@@ -21,8 +26,13 @@ def get_data():
         # 必须字段
         season = competition['season']
         name = competition['raceName'] + '(赛季 {})'.format(season + 1)
-        url = 'https://tianchi.aliyun.com/competition/entrance/{}/introduction'.format(
-            competition['raceId'])
+
+        if str(competition['raceId']) in url_map:
+            url = url_map[str(competition['raceId'])]
+        else:
+            url = 'https://tianchi.aliyun.com/competition/entrance/{}/introduction'.format(
+                competition['raceId'])
+
         description = competition['brief']
 
         deadline = competition['currentSeasonEnd']
