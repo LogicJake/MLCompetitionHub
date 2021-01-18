@@ -19,7 +19,7 @@ Deadline: 2021-07-31T23:59:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
-## 数字重庆·开放大数据竞赛
+## 数据开放创新大赛
 
 Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
