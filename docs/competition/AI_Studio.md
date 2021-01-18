@@ -2,7 +2,7 @@
 
 
 
-## 第十六届全国大学生智能车竞赛线上资格赛：车道线检测 <sup style="color:red">[new]<sup>  
+## 第十六届全国大学生智能车竞赛线上资格赛：车道线检测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/68  
 Description: 第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。  
