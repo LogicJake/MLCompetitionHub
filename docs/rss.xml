@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-18T16:22:56+08:00</updated>
+    <updated>2021-01-18T20:38:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -129,106 +129,72 @@
     
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道_竞赛信息.html</id>
-        <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道]]></title>
-        
-        <updated>2021-01-18T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道_竞赛信息.html"/>
-        <summary>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
-
-        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
-</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
-
-        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
-<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥512000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道_竞赛信息.html</id>
-        <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道]]></title>
-        
-        <updated>2021-01-18T00:00:00+08:00</updated>
-        
-        <link href="https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道_竞赛信息.html"/>
-        <summary>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道_竞赛信息.html"><![CDATA[<h3>Description</h3>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥512000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=459</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛]]></title>
         
         <updated>2020-12-01T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=459"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=459"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=456</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测]]></title>
         
         <updated>2020-11-10T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=456"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=456"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=454</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测]]></title>
         
         <updated>2020-11-10T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=454"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=454"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=451</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测]]></title>
         
         <updated>2020-11-10T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=451"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=451"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=449</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗]]></title>
         
         <updated>2020-11-10T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=449"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
 
 </summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=449"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
 
 <h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
@@ -237,14 +203,14 @@
     </entry>
     
     <entry>
-        <id>https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别_竞赛信息.html</id>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=446</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别]]></title>
         
         <updated>2020-11-10T00:00:00+08:00</updated>
         
-        <link href="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别_竞赛信息.html"/>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=446"/>
         <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://www.dcjingsai.com/common/cmpt/山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别_竞赛信息.html"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=446"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -256,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -582,7 +548,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -596,7 +562,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -610,7 +576,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -624,7 +590,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -638,7 +604,7 @@
         <id>https://signate.jp/competitions/363</id>
         <title><![CDATA[JR東日本 列車運行予測]]></title>
         
-        <updated>2021-01-18T16:22:56+08:00</updated>
+        <updated>2021-01-18T20:38:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/363"/>
         <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
