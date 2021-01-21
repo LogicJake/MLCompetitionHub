@@ -2,15 +2,6 @@
 
 
 
-## 自动驾驶汽车精准感知方案研究 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
 ## 以企业为服务目标的政策大数据应用
 
 Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
@@ -33,6 +24,15 @@ Link: https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb
 Description:   
 Deadline: 2042-05-21T14:00:00+0800  
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
+
+
+## 自动驾驶汽车精准感知方案研究 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6  
+Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+  
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 30W奖金和亿元政策扶持  
 
 
 ## 老子研究文献知识发现数据竞赛
