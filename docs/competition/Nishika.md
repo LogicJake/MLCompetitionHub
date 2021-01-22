@@ -2,7 +2,7 @@
 
 
 
-## 中古マンション価格予測 <sup style="color:red">[new]<sup>  
+## 中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/11  
 Description: 中古マンション価格予測  

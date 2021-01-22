@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-21T16:25:10+08:00</updated>
+    <updated>2021-01-22T16:23:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -222,7 +222,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-21T16:25:10+08:00</updated>
+        <updated>2021-01-22T16:23:55+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -379,6 +379,54 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9</id>
+        <title><![CDATA[基于地理信息的数字孪生社区建设]]></title>
+        
+        <updated>2021-01-22T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039</id>
+        <title><![CDATA[基于地理信息的区域范围企业分析]]></title>
+        
+        <updated>2021-01-22T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a</id>
+        <title><![CDATA[基于地理信息的舆情传播途径分析]]></title>
+        
+        <updated>2021-01-22T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6</id>
         <title><![CDATA[自动驾驶汽车精准感知方案研究]]></title>
         
@@ -449,22 +497,6 @@
 基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"><![CDATA[<h3>Description</h3>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
 基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 经典赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3</id>
-        <title><![CDATA[预测分析·客户购买预测]]></title>
-        
-        <updated>2018-12-26T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"/>
-        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2030-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -548,7 +580,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-21T16:25:10+08:00</updated>
+        <updated>2021-01-22T16:23:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -562,7 +594,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-21T16:25:10+08:00</updated>
+        <updated>2021-01-22T16:23:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -576,7 +608,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-21T16:25:10+08:00</updated>
+        <updated>2021-01-22T16:23:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -590,25 +622,11 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-21T16:25:10+08:00</updated>
+        <updated>2021-01-22T16:23:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
         <content type="text/html" src="https://signate.jp/competitions/101"><![CDATA[<h3>Description</h3>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!<h3>Deadline: 2021-02-11T23:59:59+08:00</h3><h3>Reward: total 1,200,000 yen</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/363</id>
-        <title><![CDATA[JR東日本 列車運行予測]]></title>
-        
-        <updated>2021-01-21T16:25:10+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/363"/>
-        <summary>過去の運行実績データに基づいて、列車の遅延などを予測しよう！</summary>
-        <content type="text/html" src="https://signate.jp/competitions/363"><![CDATA[<h3>Description</h3>過去の運行実績データに基づいて、列車の遅延などを予測しよう！<h3>Deadline: 2021-01-21T23:59:59+08:00</h3><h3>Reward: 総額¥1,500,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
         </author>
@@ -708,7 +726,7 @@
         
         <link href="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"/>
         <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T11:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -722,7 +740,7 @@
         
         <link href="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"/>
         <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2022-03-24T10:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2022-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -785,6 +803,20 @@
         <link href="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"/>
         <summary>Can you predict maize yields on East African farms using satellite data?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge"><![CDATA[<h3>Description</h3>Can you predict maize yields on East African farms using satellite data?<h3>Deadline: 2021-02-08T07:59:00+08:00</h3><h3>Reward: $3,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge</id>
+        <title><![CDATA[AI4D Malawi News Classification Challenge]]></title>
+        
+        <updated>2021-01-22T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge"/>
+        <summary>Can you classify Malawi news articles in Chichewa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify Malawi news articles in Chichewa?<h3>Deadline: 2021-04-26T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

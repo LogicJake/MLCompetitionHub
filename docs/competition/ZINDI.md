@@ -18,6 +18,14 @@ Deadline: 2021-02-08T07:59:00+0800
 Reward: $3,000 USD  
 
 
+## AI4D Malawi News Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge  
+Description: Can you classify Malawi news articles in Chichewa?  
+Deadline: 2021-04-26T07:59:00+0800  
+Reward: $2,000 USD  
+
+
 ## AI4D Takwimu Lab - Machine Translation Challenge
 
 Link: https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge  
