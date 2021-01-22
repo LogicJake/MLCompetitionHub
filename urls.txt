@@ -392,3 +392,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=454
 https://js.dclab.run/v2/cmptDetail.html?id=451
 https://js.dclab.run/v2/cmptDetail.html?id=449
 https://js.dclab.run/v2/cmptDetail.html?id=446
+https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9
+https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039
+https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a
+https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge
