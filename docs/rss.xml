@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-25T16:24:23+08:00</updated>
+    <updated>2021-01-26T15:55:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -129,6 +129,84 @@
     
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=468</id>
+        <title><![CDATA[2021数字中国创新大赛大数据赛道城市管理大数据专题]]></title>
+        
+        <updated>2021-01-25T08:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=468"/>
+        <summary>本专题赛以“数聚赋能 众智成城”为主题，征集基于城市管理大数据领域的算法模型和创新应用解决方案。旨在通过城市管理与大数据的融合，针对当前城市管理的难点和痛点，以共享单车管理为切入点，发掘出一系列城市智能管理创新项目，切实巩固提升城市精细化、智能化、人性化管理水平，推进基于大数据的城市智能管理项目的落地与发展，树立城市治理体系与治理能力现代化标杆，不断提升数字产业集聚高地影响力。
+赛题分为算法分析题与创意分析题两种类型，共设三道赛题，面向各类高等院校、科研机构、企业、事业单位、开发者征集基于城市管理领域的创新应用解决方案和算法模型。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=468"><![CDATA[<h3>Description</h3>本专题赛以“数聚赋能 众智成城”为主题，征集基于城市管理大数据领域的算法模型和创新应用解决方案。旨在通过城市管理与大数据的融合，针对当前城市管理的难点和痛点，以共享单车管理为切入点，发掘出一系列城市智能管理创新项目，切实巩固提升城市精细化、智能化、人性化管理水平，推进基于大数据的城市智能管理项目的落地与发展，树立城市治理体系与治理能力现代化标杆，不断提升数字产业集聚高地影响力。
+赛题分为算法分析题与创意分析题两种类型，共设三道赛题，面向各类高等院校、科研机构、企业、事业单位、开发者征集基于城市管理领域的创新应用解决方案和算法模型。<h3>Deadline: 2021-04-11T23:00:00+08:00</h3><h3>Reward: ¥720000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=466</id>
+        <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧生活赛道]]></title>
+        
+        <updated>2021-01-18T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=466"/>
+        <summary>       智慧生活是以利用物联网、云计算、移动互联网、信息智能终端等新一代信息技术，通过对各类与居民生活密切相关信息的自动感知、及时传送、及时发布和信息资源的整合共享，实现对社区居民“吃、住、行、游、购、娱、健”生七大要素的数字化、网络化、智能化、互动化和协同化，让“五化”成为居民工作、生活的主要方式，为居民提供更加安全、便利、舒适、愉悦的生活环境，让居民生活更智慧、更幸福、更安全、更和谐、更文明。越来越多的智能化产品走进日常生活，将我们带入一片全新天地。
+
+
+       景区游客精准识别是出自于保障国民出游安全、重大安全事件防控、保护景区环境、提高出游质量等等为目的，不仅在国内会对于景区进行客流量监控，同样在国外也被采取认同。
+
+
+       手机作为现代通讯必须品，基于运营商数据定位景区人数具有成本低，节约景区投入成本特点。
+</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=466"><![CDATA[<h3>Description</h3>       智慧生活是以利用物联网、云计算、移动互联网、信息智能终端等新一代信息技术，通过对各类与居民生活密切相关信息的自动感知、及时传送、及时发布和信息资源的整合共享，实现对社区居民“吃、住、行、游、购、娱、健”生七大要素的数字化、网络化、智能化、互动化和协同化，让“五化”成为居民工作、生活的主要方式，为居民提供更加安全、便利、舒适、愉悦的生活环境，让居民生活更智慧、更幸福、更安全、更和谐、更文明。越来越多的智能化产品走进日常生活，将我们带入一片全新天地。
+
+
+       景区游客精准识别是出自于保障国民出游安全、重大安全事件防控、保护景区环境、提高出游质量等等为目的，不仅在国内会对于景区进行客流量监控，同样在国外也被采取认同。
+
+
+       手机作为现代通讯必须品，基于运营商数据定位景区人数具有成本低，节约景区投入成本特点。
+<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=464</id>
+        <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道]]></title>
+        
+        <updated>2021-01-18T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=464"/>
+        <summary>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
+
+        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
+</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=464"><![CDATA[<h3>Description</h3>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
+
+        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
+<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=463</id>
+        <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道]]></title>
+        
+        <updated>2021-01-18T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=463"/>
+        <summary>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=463"><![CDATA[<h3>Description</h3>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=459</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛]]></title>
         
@@ -222,7 +300,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -566,7 +644,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[【ComingSoon】日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
@@ -580,7 +658,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -594,7 +672,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -608,7 +686,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -622,7 +700,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-25T16:24:23+08:00</updated>
+        <updated>2021-01-26T15:55:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -747,6 +825,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33</id>
+        <title><![CDATA[NLP中文预训练模型泛化能力挑战赛(赛季 2)]]></title>
+        
+        <updated>2021-01-26T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33"/>
+        <summary>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-29T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/231762/introduction</id>
         <title><![CDATA[【长期赛】安全AI挑战者计划第三期 - 文本分类对抗攻击(赛季 3)]]></title>
         
@@ -759,6 +851,8 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    
     
     
     
@@ -786,7 +880,7 @@
         
         <link href="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge"/>
         <summary>Can you classify Malawi news articles in Chichewa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify Malawi news articles in Chichewa?<h3>Deadline: 2021-04-26T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify Malawi news articles in Chichewa?<h3>Deadline: 2021-05-10T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
