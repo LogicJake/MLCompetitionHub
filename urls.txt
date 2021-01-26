@@ -397,3 +397,7 @@ https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039
 https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a
 https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge
 https://signate.jp/competitions/423
+https://js.dclab.run/v2/cmptDetail.html?id=468
+https://js.dclab.run/v2/cmptDetail.html?id=466
+https://js.dclab.run/v2/cmptDetail.html?id=464
+https://js.dclab.run/v2/cmptDetail.html?id=463
