@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-26T15:55:17+08:00</updated>
+    <updated>2021-01-27T15:55:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,11 +181,11 @@
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=464"/>
         <summary>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
 
-        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
+       5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
 </summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=464"><![CDATA[<h3>Description</h3>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
 
-        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
+       5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
 <h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
@@ -300,7 +300,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -365,6 +365,20 @@
         <link href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"/>
         <summary>Classify the presence and correct placement of tubes on chest x-rays to save lives</summary>
         <content type="text/html" src="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification"><![CDATA[<h3>Description</h3>Classify the presence and correct placement of tubes on chest x-rays to save lives<h3>Deadline: 2021-03-16T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/hpa-single-cell-image-classification</id>
+        <title><![CDATA[Human Protein Atlas - Single Cell Classification]]></title>
+        
+        <updated>2021-01-27T07:56:29+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/hpa-single-cell-image-classification"/>
+        <summary>Find individual human cell differences in microscope images</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/hpa-single-cell-image-classification"><![CDATA[<h3>Description</h3>Find individual human cell differences in microscope images<h3>Deadline: 2021-04-28T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -644,7 +658,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[【ComingSoon】日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
@@ -658,7 +672,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -672,7 +686,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -686,7 +700,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -700,7 +714,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-26T15:55:17+08:00</updated>
+        <updated>2021-01-27T15:55:07+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -851,8 +865,6 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    
     
     
     
