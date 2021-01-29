@@ -404,3 +404,4 @@ https://js.dclab.run/v2/cmptDetail.html?id=463
 https://www.kaggle.com/c/hpa-single-cell-image-classification
 https://tianchi.aliyun.com/competition/entrance/531871/introduction
 https://tianchi.aliyun.com/competition/entrance/531873/introduction
+https://www.kaggle.com/c/indoor-location-navigation
