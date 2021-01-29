@@ -1,7 +1,13 @@
-> 更新时间: 2021-01-29T16:34:30+0800 
+> 更新时间: 2021-01-29T16:38:51+0800 
 
 # 新上线比赛
 
+
+## Indoor Location & Navigation
+Link: https://www.kaggle.com/c/indoor-location-navigation  
+Description: Identify the position of a smartphone in a shopping mall  
+Deadline: 2021-05-18T07:59:00+0800  
+Reward: 10000.0 USD  
 
 ## “AI Earth”人工智能创新挑战赛——AI助力精准气象和海洋预测(赛季 1)
 Link: https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6  
