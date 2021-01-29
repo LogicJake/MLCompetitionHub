@@ -65,3 +65,11 @@ Description: Automate the detection of bird and frog species in a tropical sound
 Deadline: 2021-02-18T07:59:00+0800  
 Reward: 15000.0 USD  
 
+
+## Indoor Location & Navigation <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/indoor-location-navigation  
+Description: Identify the position of a smartphone in a shopping mall  
+Deadline: 2021-05-18T07:59:00+0800  
+Reward: 10000.0 USD  
+

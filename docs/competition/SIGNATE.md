@@ -2,7 +2,7 @@
 
 
 
-## 【ComingSoon】日本取引所グループ ファンダメンタルズ分析チャレンジ
+## 日本取引所グループ ファンダメンタルズ分析チャレンジ
 
 Link: https://signate.jp/competitions/423  
 Description: 財務諸表から株価の将来の動きを予測しよう！  
