@@ -1,5 +1,6 @@
 import importlib
 import pkgutil
+import sys
 import traceback
 from datetime import datetime, timedelta
 
@@ -9,13 +10,40 @@ from jinja2 import Environment, PackageLoader
 # 真机运行时加载环境变量
 load_dotenv()
 
+# 获取任务模式
+args = sys.argv
+if len(args) == 1:
+    mode = 'update_code'
+else:
+    mode = sys.argv[1]
+mode_actions = []
+
+if mode not in ['schedule', 'update_code', 'manual']:
+    print('mode 错误')
+    exit()
+
+# 定时更新，先更新主体，再更新新增，最后才能更新 urls.txt（zlink）
+if mode == 'schedule':
+    mode_actions = [
+        'json_main', 'markdown_main', 'rss', 'json_new', 'markdown_new',
+        'mail', 'zlink'
+    ]
+# 更新代码，只更新主体，不更新新上线，不发送邮件
+elif mode == 'update_code':
+    mode_actions = ['json_main', 'markdown_main', 'rss']
+# 手动更新，需先删除 urls.txt 新增的比赛网址，不发送邮件
+elif mode == 'manual':
+    mode_actions = [
+        'json_main', 'markdown_main', 'rss', 'json_new', 'markdown_new',
+        'zlink'
+    ]
+
+# 获取数据
+datas = []
 competitions = []
 
-# 一、获取数据
-datas = []
-
 for _, module_name, _ in pkgutil.iter_modules(['source']):
-    if module_name in ['futurelab']:
+    if module_name in ['futurelab', 'flyai']:
         continue
 
     try:
@@ -32,19 +60,18 @@ for _, module_name, _ in pkgutil.iter_modules(['source']):
 
     except Exception:
         print(module_name)
+    break
+
+# 数据渲染
+for module_name in mode_actions:
+    try:
+        module = importlib.import_module('.' + module_name, 'actions')
+        func_generate = getattr(module, 'generate')
+        func_generate(datas)
+
+    except Exception:
+        print(module_name)
         traceback.print_exc()
-
-# 二、数据渲染
-for _, module_name, _ in pkgutil.iter_modules(['actions']):
-    if module_name not in ['utils']:
-        try:
-            module = importlib.import_module('.' + module_name, 'actions')
-            func_generate = getattr(module, 'generate')
-            func_generate(datas)
-
-        except Exception:
-            print(module_name)
-            traceback.print_exc()
 
 # 三、页面配置
 env = Environment(loader=PackageLoader('actions'))
