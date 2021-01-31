@@ -60,7 +60,6 @@ for _, module_name, _ in pkgutil.iter_modules(['source']):
 
     except Exception:
         print(module_name)
-    break
 
 # 数据渲染
 for module_name in mode_actions:
