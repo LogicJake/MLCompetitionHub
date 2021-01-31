@@ -45,7 +45,7 @@ def generate(datas_):
     update = datetime.utcnow() + timedelta(hours=8)
     update = update.strftime(STANDARD_TIME_FORMAT)
 
-    env = Environment(loader=PackageLoader('actions_schedule'))
+    env = Environment(loader=PackageLoader('actions'))
     template = env.get_template('md_nc.j2')
     content = template.render(update=update, competitions=new_competitions)
     with open('docs/new_competition.md', 'w') as f:

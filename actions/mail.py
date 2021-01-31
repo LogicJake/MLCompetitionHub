@@ -62,7 +62,7 @@ def generate(datas_):
     if len(new_datas) == 0:
         return
 
-    env = Environment(loader=PackageLoader('actions_schedule'))
+    env = Environment(loader=PackageLoader('actions'))
     template = env.get_template('mail.j2')
     content = template.render(datas=new_datas)
     content = content.strip()

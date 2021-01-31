@@ -1,19 +1,12 @@
 name: MLCompetitionHub
 on:
-  watch:
-    types: started
+  push:
+    branches:
+      - master
 
 jobs:
   build:
     runs-on: ubuntu-18.04
-    if: github.event.repository.owner.id == github.event.sender.id
-
-    env:
-      mail_server: ${{ secrets.mail_server }}
-      mail_port: ${{ secrets.mail_port }}
-      mail_username: ${{ secrets.mail_username }}
-      mail_sender: ${{ secrets.mail_sender }}
-      mail_password: ${{ secrets.mail_password }}
 
     steps:
       - uses: actions/checkout@v1
@@ -28,15 +21,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: schedule update new competition
-        run: python update.py manual
+      - name: update competition list
+        run: python update.py update_code
 
       - name: commit
         run: |
           git config --global user.email MLCompetitionHub@github.com
           git config --global user.name MLCompetitionHubGithubAction
           git add .
-          git commit -m "schedule update new competition" -a
+          git commit -m "update competition list" -a
 
       - name: push changes
         uses: ad-m/github-push-action@master
