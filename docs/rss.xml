@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-01-31T15:52:23+08:00</updated>
+    <updated>2021-02-01T15:56:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -47,20 +47,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/61"/>
         <summary>本赛题旨在解决RNA结构预测这个世界级难题，要求参赛选手基于百度发布的世界上最快的RNA二级结构预测算法LinearFold和世界上最快的RNA配分方程算法LinearPartition，预测给定RNA序列在每个位点上保持不成对的概率。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/61"><![CDATA[<h3>Description</h3>本赛题旨在解决RNA结构预测这个世界级难题，要求参赛选手基于百度发布的世界上最快的RNA二级结构预测算法LinearFold和世界上最快的RNA配分方程算法LinearPartition，预测给定RNA序列在每个位点上保持不成对的概率。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/58</id>
-        <title><![CDATA[千言数据集：面向中文短文本的实体链指任务]]></title>
-        
-        <updated>2020-11-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/58"/>
-        <summary>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/58"><![CDATA[<h3>Description</h3>本次评测任务旨在借助实体链指技术，对于给定的一个中文短文本（如搜索 Query、微博、对话内容、文章/视频/图片的标题等），将其中的实体与给定知识库中对应的实体进行关联。<h3>Deadline: 2021-01-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -148,23 +134,15 @@
         <id>https://js.dclab.run/v2/cmptDetail.html?id=466</id>
         <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧生活赛道]]></title>
         
-        <updated>2021-01-18T00:00:00+08:00</updated>
+        <updated>2021-02-01T00:00:00+08:00</updated>
         
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=466"/>
         <summary>       智慧生活是以利用物联网、云计算、移动互联网、信息智能终端等新一代信息技术，通过对各类与居民生活密切相关信息的自动感知、及时传送、及时发布和信息资源的整合共享，实现对社区居民“吃、住、行、游、购、娱、健”生七大要素的数字化、网络化、智能化、互动化和协同化，让“五化”成为居民工作、生活的主要方式，为居民提供更加安全、便利、舒适、愉悦的生活环境，让居民生活更智慧、更幸福、更安全、更和谐、更文明。越来越多的智能化产品走进日常生活，将我们带入一片全新天地。
-
-
        景区游客精准识别是出自于保障国民出游安全、重大安全事件防控、保护景区环境、提高出游质量等等为目的，不仅在国内会对于景区进行客流量监控，同样在国外也被采取认同。
-
-
        手机作为现代通讯必须品，基于运营商数据定位景区人数具有成本低，节约景区投入成本特点。
 </summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=466"><![CDATA[<h3>Description</h3>       智慧生活是以利用物联网、云计算、移动互联网、信息智能终端等新一代信息技术，通过对各类与居民生活密切相关信息的自动感知、及时传送、及时发布和信息资源的整合共享，实现对社区居民“吃、住、行、游、购、娱、健”生七大要素的数字化、网络化、智能化、互动化和协同化，让“五化”成为居民工作、生活的主要方式，为居民提供更加安全、便利、舒适、愉悦的生活环境，让居民生活更智慧、更幸福、更安全、更和谐、更文明。越来越多的智能化产品走进日常生活，将我们带入一片全新天地。
-
-
        景区游客精准识别是出自于保障国民出游安全、重大安全事件防控、保护景区环境、提高出游质量等等为目的，不仅在国内会对于景区进行客流量监控，同样在国外也被采取认同。
-
-
        手机作为现代通讯必须品，基于运营商数据定位景区人数具有成本低，节约景区投入成本特点。
 <h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
@@ -176,7 +154,7 @@
         <id>https://js.dclab.run/v2/cmptDetail.html?id=464</id>
         <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧城市赛道]]></title>
         
-        <updated>2021-01-18T00:00:00+08:00</updated>
+        <updated>2021-02-01T00:00:00+08:00</updated>
         
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=464"/>
         <summary>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
@@ -196,7 +174,7 @@
         <id>https://js.dclab.run/v2/cmptDetail.html?id=463</id>
         <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧金融赛道]]></title>
         
-        <updated>2021-01-18T00:00:00+08:00</updated>
+        <updated>2021-02-01T00:00:00+08:00</updated>
         
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=463"/>
         <summary>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。</summary>
@@ -221,74 +199,14 @@
     </entry>
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=456</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-枣庄分赛场-螺母螺栓产品质量智能检测]]></title>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=472</id>
+        <title><![CDATA[山东省第二届数据应用创新创业大赛-主赛场-疫情密切接触人员追踪]]></title>
         
-        <updated>2020-11-10T00:00:00+08:00</updated>
+        <updated>2021-01-26T10:00:00+08:00</updated>
         
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=456"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=456"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=454</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-日照分赛场-公积金贷款逾期预测]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=454"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=454"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=451</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-临沂分赛场-供水管网压力预测]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=451"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=451"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=449</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=449"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
-
-</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=449"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
-
-<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=446</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=446"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=446"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-02-01T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=472"/>
+        <summary>新冠疫情爆发以来，山东省电子健康通行码迅速上线，在疫情联防联控中发挥重要作用。在疫情防控中，尤其是对确诊或疑似患者进行流行病学调查时，相关疾控人员需要做大量的调查、摸排等方式确定密接人员范围，进而对疫情相关风险等级进行判定。因为，一旦有确诊病例出现时，能否快速判定直接密接人员范围，二次间接密接人员范围，判定疫情传播风险等级，为疫情控制提供数据支撑。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=472"><![CDATA[<h3>Description</h3>新冠疫情爆发以来，山东省电子健康通行码迅速上线，在疫情联防联控中发挥重要作用。在疫情防控中，尤其是对确诊或疑似患者进行流行病学调查时，相关疾控人员需要做大量的调查、摸排等方式确定密接人员范围，进而对疫情相关风险等级进行判定。因为，一旦有确诊病例出现时，能否快速判定直接密接人员范围，二次间接密接人员范围，判定疫情传播风险等级，为疫情控制提供数据支撑。<h3>Deadline: 2021-03-22T15:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -300,7 +218,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-01-31T15:52:23+08:00</updated>
+        <updated>2021-02-01T15:56:17+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -669,24 +587,10 @@
     
     
     <entry>
-        <id>https://signate.jp/competitions/423</id>
-        <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
-        
-        <updated>2021-01-31T15:52:23+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/423"/>
-        <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
-        <content type="text/html" src="https://signate.jp/competitions/423"><![CDATA[<h3>Description</h3>財務諸表から株価の将来の動きを予測しよう！<h3>Deadline: 2021-03-28T23:59:59+08:00</h3><h3>Reward: 総額¥350,000</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://signate.jp/competitions/362</id>
-        <title><![CDATA[【ComingSoon】ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
+        <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類]]></title>
         
-        <updated>2021-01-31T15:52:23+08:00</updated>
+        <updated>2021-02-01T15:56:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -697,10 +601,24 @@
     </entry>
     
     <entry>
+        <id>https://signate.jp/competitions/423</id>
+        <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
+        
+        <updated>2021-02-01T15:56:17+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/423"/>
+        <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
+        <content type="text/html" src="https://signate.jp/competitions/423"><![CDATA[<h3>Description</h3>財務諸表から株価の将来の動きを予測しよう！<h3>Deadline: 2021-03-28T23:59:59+08:00</h3><h3>Reward: 総額¥350,000</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-01-31T15:52:23+08:00</updated>
+        <updated>2021-02-01T15:56:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -714,7 +632,7 @@
         <id>https://signate.jp/competitions/402</id>
         <title><![CDATA[【学生限定】SIGNATE 22卒インターン選考コンペティション]]></title>
         
-        <updated>2021-01-31T15:52:23+08:00</updated>
+        <updated>2021-02-01T15:56:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/402"/>
         <summary>クラウドファンディング資金調達の成否予測＆コンペ設計アイデア</summary>
@@ -728,157 +646,13 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-01-31T15:52:23+08:00</updated>
+        <updated>2021-02-01T15:56:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
         <content type="text/html" src="https://signate.jp/competitions/101"><![CDATA[<h3>Description</h3>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!<h3>Deadline: 2021-02-11T23:59:59+08:00</h3><h3>Reward: total 1,200,000 yen</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650</id>
-        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 1)]]></title>
-        
-        <updated>2021-01-27T18:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"/>
-        <summary>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
-大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"><![CDATA[<h3>Description</h3>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
-大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-04-16T23:55:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道三】(赛季 1)]]></title>
-        
-        <updated>2020-12-29T23:45:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"/>
-        <summary>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"><![CDATA[<h3>Description</h3>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。<h3>Deadline: 2021-04-09T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道二】(赛季 1)]]></title>
-        
-        <updated>2021-01-01T15:30:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"/>
-        <summary>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"><![CDATA[<h3>Description</h3>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。<h3>Deadline: 2021-04-09T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道一】(赛季 1)]]></title>
-        
-        <updated>2021-01-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"/>
-        <summary>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"><![CDATA[<h3>Description</h3>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。<h3>Deadline: 2021-04-09T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/68c45987a8d2acc751c0e824dd0e5a5b</id>
-        <title><![CDATA[2021全国数字生态创新大赛-创新应用赛(赛季 2)]]></title>
-        
-        <updated>2021-01-11T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/68c45987a8d2acc751c0e824dd0e5a5b"/>
-        <summary>大赛以“数字化下沉应用创新，新经济助力乡村振兴”为主题，围绕乡村经济中产业科技含量不高、应用场景不足、新业态匮乏等问题，聚焦数智科创、数字农创、数字文创赛格方向的需求，挖掘行业解决方案。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/68c45987a8d2acc751c0e824dd0e5a5b"><![CDATA[<h3>Description</h3>大赛以“数字化下沉应用创新，新经济助力乡村振兴”为主题，围绕乡村经济中产业科技含量不高、应用场景不足、新业态匮乏等问题，聚焦数智科创、数字农创、数字文创赛格方向的需求，挖掘行业解决方案。<h3>Deadline: 2021-03-19T12:00:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2</id>
-        <title><![CDATA[2021全国数字生态创新大赛-智能算法赛(赛季 1)]]></title>
-        
-        <updated>2021-01-11T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"/>
-        <summary>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"><![CDATA[<h3>Description</h3>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。<h3>Deadline: 2021-03-10T23:55:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/8720dd26acbf9ea5fe6c9d01a2e647c7</id>
-        <title><![CDATA[2021广东工业智造创新大赛—智能算法赛(赛季 1)]]></title>
-        
-        <updated>2020-12-22T13:25:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/8720dd26acbf9ea5fe6c9d01a2e647c7"/>
-        <summary>赛题聚焦“瓷砖表面瑕疵质检”，要求选手开发高效可靠的视觉算法，快并准确的给出瓷砖疵点具体的位置和类别，提升瓷砖表面瑕疵质检的效果和效率，降低对大量人工的依赖。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/8720dd26acbf9ea5fe6c9d01a2e647c7"><![CDATA[<h3>Description</h3>赛题聚焦“瓷砖表面瑕疵质检”，要求选手开发高效可靠的视觉算法，快并准确的给出瓷砖疵点具体的位置和类别，提升瓷砖表面瑕疵质检的效果和效率，降低对大量人工的依赖。<h3>Deadline: 2021-02-03T23:55:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84</id>
-        <title><![CDATA[CVPR2021 安全AI挑战者计划第六期：ImageNet无限制对抗攻击(赛季 1)]]></title>
-        
-        <updated>2021-01-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"/>
-        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde</id>
-        <title><![CDATA[CVPR2021 安全AI挑战者计划第六期：防御模型的白盒对抗攻击(赛季 1)]]></title>
-        
-        <updated>2021-01-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"/>
-        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33</id>
-        <title><![CDATA[NLP中文预训练模型泛化能力挑战赛(赛季 2)]]></title>
-        
-        <updated>2021-01-26T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33"/>
-        <summary>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/b7eeac2efcbb103bb348ff6b7517ec33"><![CDATA[<h3>Description</h3>通过算法实现泛化能力强的中文预训练模型，这将提高下游业务的准确性，从而提升企业的核心竞争力，并为企业创造更多的价值。阿里云计算平台PAI团队联合中文语言理解评测机构CLUE和乐言科技有限公司，共同推出中文预训练模型泛化能力挑战赛，邀请业内算法高手、爱好者一起促进自然语言处理预训练技术的发展。<h3>Deadline: 2021-01-31T23:55:00+08:00</h3><h3>Reward: ￥75000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
