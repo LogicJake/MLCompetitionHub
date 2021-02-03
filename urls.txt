@@ -409,3 +409,4 @@ https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6
 https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650
 https://js.dclab.run/v2/cmptDetail.html?id=472
 https://www.biendata.xyz/competition/haihua2021_k12/
+https://tianchi.aliyun.com/competition/entrance/531874/introduction

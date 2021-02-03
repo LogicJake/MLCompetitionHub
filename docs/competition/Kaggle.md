@@ -34,7 +34,7 @@ Deadline: 2021-03-16T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Human Protein Atlas - Single Cell Classification <sup style="color:red">[new]<sup>  
+## Human Protein Atlas - Single Cell Classification
 
 Link: https://www.kaggle.com/c/hpa-single-cell-image-classification  
 Description: Find individual human cell differences in microscope images  

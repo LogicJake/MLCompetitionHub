@@ -7,7 +7,7 @@
 Link: https://aistudio.baidu.com/aistudio/competition/detail/68  
 Description: 第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。  
 Deadline: 2021-06-01T08:00:00+0800  
-Reward: 超级大礼包  
+Reward: 全国大学生竞赛  
 
 
 ## NAACL同传Workshop：千言 - 机器同传
