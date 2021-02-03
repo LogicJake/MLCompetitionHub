@@ -1,10 +1,10 @@
-> 更新时间: 2021-02-03T15:47:39+0800 
+> 更新时间: 2021-02-03T15:56:57+0800 
 
 # 新上线比赛
 
 
 ## PAKDD2021 第二届阿里云智能运维算法大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531874/introduction  
+Link: https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c  
 Description: 大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。  
 Deadline: 2021-03-25T23:55:00+0800  
 Reward: $30000  
