@@ -66,7 +66,7 @@ Deadline: 2021-02-18T07:59:00+0800
 Reward: 15000.0 USD  
 
 
-## Indoor Location & Navigation <sup style="color:red">[new]<sup>  
+## Indoor Location & Navigation
 
 Link: https://www.kaggle.com/c/indoor-location-navigation  
 Description: Identify the position of a smartphone in a shopping mall  

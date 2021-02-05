@@ -2,7 +2,7 @@
 
 
 
-## ひろしまQuest2020：画像データを使ったレモンの外観分類
+## ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ1）
 
 Link: https://signate.jp/competitions/362  
 Description: 広島のレモン画像を活用した外観分類にチャレンジしよう！  
