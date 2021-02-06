@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-02-05T15:43:43+08:00</updated>
+    <updated>2021-02-06T15:43:25+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -292,7 +292,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-02-05T15:43:43+08:00</updated>
+        <updated>2021-02-06T15:43:25+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -664,7 +664,7 @@
         <id>https://signate.jp/competitions/362</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ1）]]></title>
         
-        <updated>2021-02-05T15:43:43+08:00</updated>
+        <updated>2021-02-06T15:43:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/362"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -678,7 +678,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-02-05T15:43:43+08:00</updated>
+        <updated>2021-02-06T15:43:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
@@ -692,7 +692,7 @@
         <id>https://signate.jp/competitions/403</id>
         <title><![CDATA[漁業×AIチャレンジ： 魚群検知アルゴリズムの作成]]></title>
         
-        <updated>2021-02-05T15:43:43+08:00</updated>
+        <updated>2021-02-06T15:43:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/403"/>
         <summary>ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！</summary>
@@ -706,7 +706,7 @@
         <id>https://signate.jp/competitions/101</id>
         <title><![CDATA[Off road image segmentation challenge]]></title>
         
-        <updated>2021-02-05T15:43:43+08:00</updated>
+        <updated>2021-02-06T15:43:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/101"/>
         <summary>Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!</summary>
@@ -717,6 +717,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c</id>
+        <title><![CDATA[PAKDD2021 第二届阿里云智能运维算法大赛(赛季 1)]]></title>
+        
+        <updated>2021-01-29T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"/>
+        <summary>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"><![CDATA[<h3>Description</h3>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2021-03-25T23:55:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6</id>
@@ -841,20 +855,6 @@
         <link href="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"/>
         <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/s/c03d8987638f4b00697f6bb97a794e84"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde</id>
-        <title><![CDATA[CVPR2021 安全AI挑战者计划第六期：防御模型的白盒对抗攻击(赛季 1)]]></title>
-        
-        <updated>2021-01-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"/>
-        <summary>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/9ff2f662895aaaeb1cc2d0eef9762fde"><![CDATA[<h3>Description</h3>AI安全性有诸多挑战，阿里安全联合清华大学，以目标检测问题为背景，召集“挑战者”以对抗样本技术共同打磨目标检测AI模型的安全性。<h3>Deadline: 2021-03-24T15:00:00+08:00</h3><h3>Reward: $100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
