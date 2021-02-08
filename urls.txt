@@ -411,3 +411,4 @@ https://js.dclab.run/v2/cmptDetail.html?id=472
 https://www.biendata.xyz/competition/haihua2021_k12/
 https://tianchi.aliyun.com/competition/entrance/531874/introduction
 https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c
+https://signate.jp/competitions/431

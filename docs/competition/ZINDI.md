@@ -2,14 +2,6 @@
 
 
 
-## CGIAR Crop Yield Prediction Challenge
-
-Link: https://zindi.africa/competitions/cgiar-crop-yield-prediction-challenge  
-Description: Can you predict maize yields on East African farms using satellite data?  
-Deadline: 2021-02-08T07:59:00+0800  
-Reward: $3,000 USD  
-
-
 ## AI4D Malawi News Classification Challenge
 
 Link: https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge  

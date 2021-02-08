@@ -2,7 +2,7 @@
 
 
 
-## 海华2021 中学组 <sup style="color:red">[new]<sup>  
+## 海华2021 中学组
 
 Link: https://www.biendata.xyz/competition/haihua2021_k12/  
 Description: 海华2021 中学组  
