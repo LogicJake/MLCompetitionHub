@@ -38,7 +38,7 @@ Reward: 50000.0 USD
 
 Link: https://www.kaggle.com/c/hpa-single-cell-image-classification  
 Description: Find individual human cell differences in microscope images  
-Deadline: 2021-04-28T07:59:00+0800  
+Deadline: 2021-05-12T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
