@@ -18,14 +18,6 @@ Deadline: 2021-03-28T23:59:59+0800
 Reward: 総額¥350,000  
 
 
-## 漁業×AIチャレンジ： 魚群検知アルゴリズムの作成
-
-Link: https://signate.jp/competitions/403  
-Description: ドローン空撮画像を利用した魚群自動検知モデルの構築にチャレンジ！！  
-Deadline: 2021-02-10T23:59:59+0800  
-Reward: 総額￥1,100,000＋鰹節  
-
-
 ## Off road image segmentation challenge
 
 Link: https://signate.jp/competitions/101  
