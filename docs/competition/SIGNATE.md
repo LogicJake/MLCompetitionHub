@@ -17,11 +17,3 @@ Description: 財務諸表から株価の将来の動きを予測しよう！
 Deadline: 2021-03-28T23:59:59+0800  
 Reward: 総額¥350,000  
 
-
-## Off road image segmentation challenge
-
-Link: https://signate.jp/competitions/101  
-Description: Challenge yourself to create a model to segment an image from a real-world off-road environment into regions!  
-Deadline: 2021-02-11T23:59:59+0800  
-Reward: total 1,200,000 yen  
-
