@@ -42,28 +42,12 @@ Deadline: 2021-05-12T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## Acea Smart Water Analytics 
-
-Link: https://www.kaggle.com/c/acea-water-prediction  
-Description: Can you help preserve "blue gold" using data to predict water availability?  
-Deadline: 2021-02-18T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Cassava Leaf Disease Classification
 
 Link: https://www.kaggle.com/c/cassava-leaf-disease-classification  
 Description: Identify the type of disease present on a Cassava Leaf image  
 Deadline: 2021-02-19T07:59:00+0800  
 Reward: 18000.0 USD  
-
-
-## Rainforest Connection Species Audio Detection
-
-Link: https://www.kaggle.com/c/rfcx-species-audio-detection  
-Description: Automate the detection of bird and frog species in a tropical soundscape  
-Deadline: 2021-02-18T07:59:00+0800  
-Reward: 15000.0 USD  
 
 
 ## Indoor Location & Navigation

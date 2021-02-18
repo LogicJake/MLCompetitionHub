@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-02-17T15:44:14+08:00</updated>
+    <updated>2021-02-18T15:44:27+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -292,7 +292,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-02-17T15:44:14+08:00</updated>
+        <updated>2021-02-18T15:44:27+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -377,20 +377,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/acea-water-prediction</id>
-        <title><![CDATA[Acea Smart Water Analytics ]]></title>
-        
-        <updated>2020-12-10T23:48:33+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/acea-water-prediction"/>
-        <summary>Can you help preserve "blue gold" using data to predict water availability?</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/acea-water-prediction"><![CDATA[<h3>Description</h3>Can you help preserve "blue gold" using data to predict water availability?<h3>Deadline: 2021-02-18T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kaggle.com/c/cassava-leaf-disease-classification</id>
         <title><![CDATA[Cassava Leaf Disease Classification]]></title>
         
@@ -399,20 +385,6 @@
         <link href="https://www.kaggle.com/c/cassava-leaf-disease-classification"/>
         <summary>Identify the type of disease present on a Cassava Leaf image</summary>
         <content type="text/html" src="https://www.kaggle.com/c/cassava-leaf-disease-classification"><![CDATA[<h3>Description</h3>Identify the type of disease present on a Cassava Leaf image<h3>Deadline: 2021-02-19T07:59:00+08:00</h3><h3>Reward: 18000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/rfcx-species-audio-detection</id>
-        <title><![CDATA[Rainforest Connection Species Audio Detection]]></title>
-        
-        <updated>2020-11-18T02:11:59+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/rfcx-species-audio-detection"/>
-        <summary>Automate the detection of bird and frog species in a tropical soundscape</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/rfcx-species-audio-detection"><![CDATA[<h3>Description</h3>Automate the detection of bird and frog species in a tropical soundscape<h3>Deadline: 2021-02-18T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -678,7 +650,7 @@
         <id>https://signate.jp/competitions/431</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ1）]]></title>
         
-        <updated>2021-02-17T15:44:14+08:00</updated>
+        <updated>2021-02-18T15:44:27+08:00</updated>
         
         <link href="https://signate.jp/competitions/431"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -692,7 +664,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-02-17T15:44:14+08:00</updated>
+        <updated>2021-02-18T15:44:27+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
@@ -845,8 +817,6 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    
     
     
     
