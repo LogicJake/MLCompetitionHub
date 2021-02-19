@@ -42,14 +42,6 @@ Deadline: 2021-05-12T07:59:00+0800
 Reward: 25000.0 USD  
 
 
-## Cassava Leaf Disease Classification
-
-Link: https://www.kaggle.com/c/cassava-leaf-disease-classification  
-Description: Identify the type of disease present on a Cassava Leaf image  
-Deadline: 2021-02-19T07:59:00+0800  
-Reward: 18000.0 USD  
-
-
 ## Indoor Location & Navigation
 
 Link: https://www.kaggle.com/c/indoor-location-navigation  

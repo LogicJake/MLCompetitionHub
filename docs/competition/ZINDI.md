@@ -2,6 +2,14 @@
 
 
 
+## AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof  
+Description: Can you create an automatic speech recognition model for Wolof for use in public transport?  
+Deadline: 2021-05-24T07:59:00+0800  
+Reward: $2,000 USD  
+
+
 ## AI4D Malawi News Classification Challenge
 
 Link: https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge  
