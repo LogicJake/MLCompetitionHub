@@ -2,7 +2,7 @@
 
 
 
-## AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF <sup style="color:red">[new]<sup>  
+## AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF
 
 Link: https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof  
 Description: Can you create an automatic speech recognition model for Wolof for use in public transport?  
