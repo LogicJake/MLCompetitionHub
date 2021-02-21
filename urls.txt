@@ -414,3 +414,5 @@ https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c
 https://signate.jp/competitions/431
 https://www.kesci.com/home/competition/60126ee3301534003a944773
 https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof
+https://www.datafountain.cn/competitions/498
+https://www.datafountain.cn/competitions/497
