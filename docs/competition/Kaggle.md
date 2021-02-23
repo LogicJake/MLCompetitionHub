@@ -6,7 +6,7 @@
 
 Link: https://www.kaggle.com/c/jane-street-market-prediction  
 Description: Test your model against future real market data  
-Deadline: 2021-02-23T07:59:00+0800  
+Deadline: 2021-08-24T07:59:00+0800  
 Reward: 100000.0 USD  
 
 
