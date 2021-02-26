@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-02-25T15:44:16+08:00</updated>
+    <updated>2021-02-26T15:44:27+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -320,7 +320,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-02-25T15:44:16+08:00</updated>
+        <updated>2021-02-26T15:44:27+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -631,20 +631,6 @@
     </entry>
     
     <entry>
-        <id>https://www.nishika.com/competitions/7</id>
-        <title><![CDATA[判例の個人情報の自動マスキング]]></title>
-        
-        <updated>2020-10-29T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/7"/>
-        <summary>判例の個人情報の自動マスキング</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/7"><![CDATA[<h3>Description</h3>判例の個人情報の自動マスキング<h3>Deadline: 2021-01-21T13:59:00+08:00</h3><h3>Reward: 21万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.nishika.com/competitions/3</id>
         <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
         
@@ -664,7 +650,7 @@
         <id>https://signate.jp/competitions/431</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ1）]]></title>
         
-        <updated>2021-02-25T15:44:16+08:00</updated>
+        <updated>2021-02-26T15:44:27+08:00</updated>
         
         <link href="https://signate.jp/competitions/431"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -678,7 +664,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-02-25T15:44:16+08:00</updated>
+        <updated>2021-02-26T15:44:27+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
