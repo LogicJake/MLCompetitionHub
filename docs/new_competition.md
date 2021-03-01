@@ -1,11 +1,11 @@
-> 更新时间: 2021-02-28T15:44:39+0800 
+> 更新时间: 2021-03-01T15:45:03+0800 
 
 # 新上线比赛
 
 
-## 智慧交通-基于车联网大数据的碰撞识别
-Link: https://www.datafountain.cn/competitions/500  
-Description: 智慧交通-基于车联网大数据的碰撞识别  
-Deadline: 2021-04-20T23:59:59+0800  
-Reward: ￥160000  
+## 常规赛：量子电路合成
+Link: https://aistudio.baidu.com/aistudio/competition/detail/70  
+Description: 量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 特别礼包  
 

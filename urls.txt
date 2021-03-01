@@ -417,3 +417,4 @@ https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recogn
 https://www.datafountain.cn/competitions/498
 https://www.datafountain.cn/competitions/497
 https://www.datafountain.cn/competitions/500
+https://aistudio.baidu.com/aistudio/competition/detail/70

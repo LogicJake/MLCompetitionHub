@@ -26,6 +26,14 @@ Deadline: 2021-05-31T08:00:00+0800
 Reward: ￥100,000  
 
 
+## 常规赛：量子电路合成 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/70  
+Description: 量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。  
+Deadline: 2023-01-01T08:00:00+0800  
+Reward: 特别礼包  
+
+
 ## 常规赛：论文引用网络节点分类
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/59  
@@ -40,12 +48,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/20
 Description: 中文场景文字识别技术在日常生活中具有丰富的应用场景。本次比赛以中文场景文字识别为主题，提供轻量级的中文场景文字识别数据，要求选手使用飞桨框架，对图像区域中的文字行进行预测，并返回文字行的内容。  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 特殊礼包  
-
-
-## 常规赛：MarTech Challenge 用户购买预测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/51  
-Description: 通过品牌商家的历史订单数据构建预测模型，预估用户人群在规定时间内产生购买行为的概率  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 特别礼包  
 
