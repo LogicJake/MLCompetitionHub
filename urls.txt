@@ -418,3 +418,6 @@ https://www.datafountain.cn/competitions/498
 https://www.datafountain.cn/competitions/497
 https://www.datafountain.cn/competitions/500
 https://aistudio.baidu.com/aistudio/competition/detail/70
+https://aistudio.baidu.com/aistudio/competition/detail/72
+https://aistudio.baidu.com/aistudio/competition/detail/64
+https://aistudio.baidu.com/aistudio/competition/detail/71

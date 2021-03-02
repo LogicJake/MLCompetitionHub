@@ -2,20 +2,36 @@
 
 
 
+## AI创造营 · 第一期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/72  
+Description: AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！  
+Deadline: 2021-03-31T08:00:00+0800  
+Reward: ¥10,000+超级大礼包  
+
+
+## CVPR2021 NAS Track 1: Supernet Track <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/64  
+Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
+Deadline: 2021-05-24T08:00:00+0800  
+Reward: USD $5,000  
+
+
+## CVPR2021 NAS Track 2: Performance Prediction Track <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/71  
+Description: Predict the performance of any architectures accurately without training.  
+Deadline: 2021-05-24T08:00:00+0800  
+Reward: USD $5,000  
+
+
 ## 第十六届全国大学生智能车竞赛线上资格赛：车道线检测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/68  
 Description: 第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。  
 Deadline: 2021-06-01T08:00:00+0800  
 Reward: 全国大学生竞赛  
-
-
-## NAACL同传Workshop：千言 - 机器同传
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/62  
-Description: 百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。  
-Deadline: 2021-03-15T08:00:00+0800  
-Reward: $6,900  
 
 
 ## 螺旋桨RNA结构预测竞赛：Unpaired Probability Prediction
@@ -26,26 +42,18 @@ Deadline: 2021-05-31T08:00:00+0800
 Reward: ￥100,000  
 
 
+## NAACL同传Workshop：千言 - 机器同传
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/62  
+Description: 百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。  
+Deadline: 2021-03-15T08:00:00+0800  
+Reward: $6,900  
+
+
 ## 常规赛：量子电路合成 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/70  
 Description: 量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。  
 Deadline: 2023-01-01T08:00:00+0800  
 Reward: 特别礼包  
-
-
-## 常规赛：论文引用网络节点分类
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/59  
-Description: 图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 特别礼包  
-
-
-## 常规赛：中文场景文字识别
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/20  
-Description: 中文场景文字识别技术在日常生活中具有丰富的应用场景。本次比赛以中文场景文字识别为主题，提供轻量级的中文场景文字识别数据，要求选手使用飞桨框架，对图像区域中的文字行进行预测，并返回文字行的内容。  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 特殊礼包  
 

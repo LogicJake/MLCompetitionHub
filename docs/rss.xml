@@ -3,12 +3,54 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-03-01T15:45:03+08:00</updated>
+    <updated>2021-03-02T15:44:41+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/72</id>
+        <title><![CDATA[AI创造营 · 第一期]]></title>
+        
+        <updated>2021-03-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/72"/>
+        <summary>AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/72"><![CDATA[<h3>Description</h3>AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！<h3>Deadline: 2021-03-31T08:00:00+08:00</h3><h3>Reward: ¥10,000+超级大礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/64</id>
+        <title><![CDATA[CVPR2021 NAS Track 1: Supernet Track]]></title>
+        
+        <updated>2021-03-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/64"/>
+        <summary>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/64"><![CDATA[<h3>Description</h3>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.<h3>Deadline: 2021-05-24T08:00:00+08:00</h3><h3>Reward: USD $5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/71</id>
+        <title><![CDATA[CVPR2021 NAS Track 2: Performance Prediction Track]]></title>
+        
+        <updated>2021-03-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/71"/>
+        <summary>Predict the performance of any architectures accurately without training.</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/71"><![CDATA[<h3>Description</h3>Predict the performance of any architectures accurately without training.<h3>Deadline: 2021-05-24T08:00:00+08:00</h3><h3>Reward: USD $5,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/68</id>
@@ -19,20 +61,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/68"/>
         <summary>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/68"><![CDATA[<h3>Description</h3>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。<h3>Deadline: 2021-06-01T08:00:00+08:00</h3><h3>Reward: 全国大学生竞赛</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/62</id>
-        <title><![CDATA[NAACL同传Workshop：千言 - 机器同传]]></title>
-        
-        <updated>2020-12-28T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/62"/>
-        <summary>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/62"><![CDATA[<h3>Description</h3>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。<h3>Deadline: 2021-03-15T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -53,6 +81,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/62</id>
+        <title><![CDATA[NAACL同传Workshop：千言 - 机器同传]]></title>
+        
+        <updated>2020-12-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/62"/>
+        <summary>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/62"><![CDATA[<h3>Description</h3>百度、华为、谷歌以及格勒诺布尔-阿尔卑斯大学将在自然语言处理权威会议NAACL联合举办第二届国际机器同传研讨会。作为本次大会的重要实践环节，本评测旨在开发高翻译质量、低延时的同传模型。<h3>Deadline: 2021-03-15T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/70</id>
         <title><![CDATA[常规赛：量子电路合成]]></title>
         
@@ -61,34 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/70"/>
         <summary>量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/70"><![CDATA[<h3>Description</h3>量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/59</id>
-        <title><![CDATA[常规赛：论文引用网络节点分类]]></title>
-        
-        <updated>2020-11-26T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/59"/>
-        <summary>图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/59"><![CDATA[<h3>Description</h3>图神经网络（Graph Neural Network）的经典问题包括：节点分类、连接预测和图分类。本次比赛旨在让参赛者了解并掌握如何使用图神经网络处理节点分类问题，对出版物的主题及领域进行自动分类。<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/20</id>
-        <title><![CDATA[常规赛：中文场景文字识别]]></title>
-        
-        <updated>2019-12-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/20"/>
-        <summary>中文场景文字识别技术在日常生活中具有丰富的应用场景。本次比赛以中文场景文字识别为主题，提供轻量级的中文场景文字识别数据，要求选手使用飞桨框架，对图像区域中的文字行进行预测，并返回文字行的内容。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/20"><![CDATA[<h3>Description</h3>中文场景文字识别技术在日常生活中具有丰富的应用场景。本次比赛以中文场景文字识别为主题，提供轻量级的中文场景文字识别数据，要求选手使用飞桨框架，对图像区域中的文字行进行预测，并返回文字行的内容。<h3>Deadline: 2023-01-01T08:00:00+08:00</h3><h3>Reward: 特殊礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -334,7 +348,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-03-01T15:45:03+08:00</updated>
+        <updated>2021-03-02T15:44:41+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -664,7 +678,7 @@
         <id>https://signate.jp/competitions/431</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ1）]]></title>
         
-        <updated>2021-03-01T15:45:03+08:00</updated>
+        <updated>2021-03-02T15:44:41+08:00</updated>
         
         <link href="https://signate.jp/competitions/431"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -678,7 +692,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-03-01T15:45:03+08:00</updated>
+        <updated>2021-03-02T15:44:41+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>

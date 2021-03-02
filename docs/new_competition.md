@@ -1,11 +1,23 @@
-> 更新时间: 2021-03-01T15:45:03+0800 
+> 更新时间: 2021-03-02T15:44:41+0800 
 
 # 新上线比赛
 
 
-## 常规赛：量子电路合成
-Link: https://aistudio.baidu.com/aistudio/competition/detail/70  
-Description: 量子电路合成是量子计算中十分重要的问题，对于实现量子计算机有指导意义。本次比赛以量子电路合成为题，旨在让参赛者了解并掌握如何使用给定量子门集合来高效的近似合成目标量子门，加深对量子计算的认识。  
-Deadline: 2023-01-01T08:00:00+0800  
-Reward: 特别礼包  
+## AI创造营 · 第一期
+Link: https://aistudio.baidu.com/aistudio/competition/detail/72  
+Description: AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！  
+Deadline: 2021-03-31T08:00:00+0800  
+Reward: ¥10,000+超级大礼包  
+
+## CVPR2021 NAS Track 1: Supernet Track
+Link: https://aistudio.baidu.com/aistudio/competition/detail/64  
+Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
+Deadline: 2021-05-24T08:00:00+0800  
+Reward: USD $5,000  
+
+## CVPR2021 NAS Track 2: Performance Prediction Track
+Link: https://aistudio.baidu.com/aistudio/competition/detail/71  
+Description: Predict the performance of any architectures accurately without training.  
+Deadline: 2021-05-24T08:00:00+0800  
+Reward: USD $5,000  
 
