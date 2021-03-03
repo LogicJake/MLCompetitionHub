@@ -18,6 +18,14 @@ Deadline: 2021-03-26T07:59:00+0800
 Reward: 60000.0 USD  
 
 
+## Bristol-Myers Squibb – Molecular Translation <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/bms-molecular-translation  
+Description: Can you translate chemical images to text?  
+Deadline: 2021-06-03T07:59:00+0800  
+Reward: 50000.0 USD  
+
+
 ## VinBigData Chest X-ray Abnormalities Detection
 
 Link: https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection  
