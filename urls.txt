@@ -423,3 +423,6 @@ https://aistudio.baidu.com/aistudio/competition/detail/64
 https://aistudio.baidu.com/aistudio/competition/detail/71
 https://www.kaggle.com/c/bms-molecular-translation
 https://aistudio.baidu.com/aistudio/competition/detail/73
+https://aistudio.baidu.com/aistudio/competition/detail/65
+https://aistudio.baidu.com/aistudio/competition/detail/66
+https://aistudio.baidu.com/aistudio/competition/detail/67
