@@ -426,3 +426,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/73
 https://aistudio.baidu.com/aistudio/competition/detail/65
 https://aistudio.baidu.com/aistudio/competition/detail/66
 https://aistudio.baidu.com/aistudio/competition/detail/67
+https://aistudio.baidu.com/aistudio/competition/detail/74
+https://www.kaggle.com/c/shopee-product-matching

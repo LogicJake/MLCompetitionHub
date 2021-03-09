@@ -42,6 +42,14 @@ Deadline: 2021-03-16T07:59:00+0800
 Reward: 50000.0 USD  
 
 
+## Shopee - Price Match Guarantee <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/shopee-product-matching  
+Description: Determine if two products are the same by their images  
+Deadline: 2021-05-11T07:59:00+0800  
+Reward: 30000.0 USD  
+
+
 ## Human Protein Atlas - Single Cell Classification
 
 Link: https://www.kaggle.com/c/hpa-single-cell-image-classification  
