@@ -14,11 +14,11 @@ Reward: 100000.0 USD
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  
 Description: Identify glomeruli in human kidney tissue images  
-Deadline: 2021-03-26T07:59:00+0800  
+Deadline: 2021-05-11T07:59:00+0800  
 Reward: 60000.0 USD  
 
 
-## Bristol-Myers Squibb – Molecular Translation <sup style="color:red">[new]<sup>  
+## Bristol-Myers Squibb – Molecular Translation
 
 Link: https://www.kaggle.com/c/bms-molecular-translation  
 Description: Can you translate chemical images to text?  
