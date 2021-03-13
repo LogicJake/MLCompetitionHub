@@ -38,7 +38,7 @@ Reward: 50000.0 USD
 
 Link: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification  
 Description: Classify the presence and correct placement of tubes on chest x-rays to save lives  
-Deadline: 2021-03-16T07:59:00+0800  
+Deadline: 2021-03-17T07:59:00+0800  
 Reward: 50000.0 USD  
 
 
