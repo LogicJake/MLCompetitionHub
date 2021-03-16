@@ -42,7 +42,7 @@ Deadline: 2021-03-17T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Shopee - Price Match Guarantee <sup style="color:red">[new]<sup>  
+## Shopee - Price Match Guarantee
 
 Link: https://www.kaggle.com/c/shopee-product-matching  
 Description: Determine if two products are the same by their images  

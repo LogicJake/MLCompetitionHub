@@ -42,7 +42,7 @@ Deadline: 2021-03-29T07:59:00+0800
 Reward: $2,000 USD  
 
 
-## AFD Gender-Based Violence Dataset Collection Challenge	 <sup style="color:red">[new]<sup>  
+## AFD Gender-Based Violence Dataset Collection Challenge	
 
 Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
 Description: Calling on the Zindi community to help uncover and share gender based violence datasets  
