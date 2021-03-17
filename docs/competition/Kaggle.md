@@ -34,14 +34,6 @@ Deadline: 2021-03-31T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## RANZCR CLiP - Catheter and Line Position Challenge
-
-Link: https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification  
-Description: Classify the presence and correct placement of tubes on chest x-rays to save lives  
-Deadline: 2021-03-17T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
 ## Shopee - Price Match Guarantee
 
 Link: https://www.kaggle.com/c/shopee-product-matching  
