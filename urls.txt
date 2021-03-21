@@ -429,3 +429,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/67
 https://aistudio.baidu.com/aistudio/competition/detail/74
 https://www.kaggle.com/c/shopee-product-matching
 https://signate.jp/competitions/443
+https://signate.jp/competitions/433
