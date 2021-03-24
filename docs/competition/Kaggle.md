@@ -10,6 +10,14 @@ Deadline: 2021-08-24T07:59:00+0800
 Reward: 100000.0 USD  
 
 
+## Coleridge Initiative - Show US the Data  <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data  
+Description: Discover how data is used for the public good  
+Deadline: 2021-06-23T07:59:00+0800  
+Reward: 90000.0 USD  
+
+
 ## HuBMAP - Hacking the Kidney
 
 Link: https://www.kaggle.com/c/hubmap-kidney-segmentation  

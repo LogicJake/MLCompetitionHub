@@ -30,7 +30,7 @@ Reward: $2,000 USD
 
 Link: https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge  
 Description: Can you translate Yorùbá to English?  
-Deadline: 2021-04-12T07:59:00+0800  
+Deadline: 2021-04-26T07:59:00+0800  
 Reward: $2,000 USD  
 
 
