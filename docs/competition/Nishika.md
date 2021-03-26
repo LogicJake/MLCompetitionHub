@@ -2,6 +2,14 @@
 
 
 
+## 仮想通貨価格予測 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/12  
+Description: 仮想通貨価格予測  
+Deadline: 2021-05-21T13:59:00+0800  
+Reward: 15万円  
+
+
 ## 中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/11  

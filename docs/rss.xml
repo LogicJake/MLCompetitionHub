@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-03-25T15:54:49+08:00</updated>
+    <updated>2021-03-26T15:54:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -390,7 +390,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-03-25T15:54:49+08:00</updated>
+        <updated>2021-03-26T15:54:52+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -517,6 +517,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60126ee3301534003a944773</id>
+        <title><![CDATA[Workshop | 医学数据分析]]></title>
+        
+        <updated>2021-02-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60126ee3301534003a944773"/>
+        <summary>一段短描述</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60126ee3301534003a944773"><![CDATA[<h3>Description</h3>一段短描述<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: 虚拟蛇徽+购物卡+鲸币+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/5fcef670807ccb002cb62113</id>
@@ -675,6 +689,20 @@
     
     
     <entry>
+        <id>https://www.nishika.com/competitions/12</id>
+        <title><![CDATA[仮想通貨価格予測]]></title>
+        
+        <updated>2021-03-26T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/12"/>
+        <summary>仮想通貨価格予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/12"><![CDATA[<h3>Description</h3>仮想通貨価格予測<h3>Deadline: 2021-05-21T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.nishika.com/competitions/11</id>
         <title><![CDATA[中古マンション価格予測]]></title>
         
@@ -736,7 +764,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-03-25T15:54:49+08:00</updated>
+        <updated>2021-03-26T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -750,7 +778,7 @@
         <id>https://signate.jp/competitions/433</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ2）]]></title>
         
-        <updated>2021-03-25T15:54:49+08:00</updated>
+        <updated>2021-03-26T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/433"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
@@ -764,7 +792,7 @@
         <id>https://signate.jp/competitions/423</id>
         <title><![CDATA[日本取引所グループ ファンダメンタルズ分析チャレンジ]]></title>
         
-        <updated>2021-03-25T15:54:49+08:00</updated>
+        <updated>2021-03-26T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/423"/>
         <summary>財務諸表から株価の将来の動きを予測しよう！</summary>
@@ -778,13 +806,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c</id>
-        <title><![CDATA[PAKDD2021 第二届阿里云智能运维算法大赛(赛季 1)]]></title>
+        <title><![CDATA[PAKDD2021 第二届阿里云智能运维算法大赛(赛季 2)]]></title>
         
-        <updated>2021-01-29T11:00:00+08:00</updated>
+        <updated>2021-03-29T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"/>
         <summary>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"><![CDATA[<h3>Description</h3>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2021-03-25T23:55:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"><![CDATA[<h3>Description</h3>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2021-04-20T12:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -890,7 +918,35 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531884/introduction</id>
+        <title><![CDATA[CVPR 2021 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
+        
+        <updated>2021-03-17T14:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531884/introduction"/>
+        <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531884/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2021-06-09T12:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
+    
+    
+    <entry>
+        <id>http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch</id>
+        <title><![CDATA[2021届”东方国信杯”高校大数据开发大赛]]></title>
+        
+        <updated>2021-05-19T08:00:00+08:00</updated>
+        
+        <link href="http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch"/>
+        <summary>2021届”东方国信杯”高校大数据开发大赛</summary>
+        <content type="text/html" src="http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch"><![CDATA[<h3>Description</h3>2021届”东方国信杯”高校大数据开发大赛<h3>Deadline: 2021-06-15T10:30:00+08:00</h3><h3>Reward: 9000</h3>]]></content>
+        <author>
+            <name><![CDATA[图灵联邦]]></name>
+        </author>
+    </entry>
     
     
     
