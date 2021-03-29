@@ -436,3 +436,4 @@ https://tianchi.aliyun.com/competition/entrance/531884/introduction
 http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch
 https://zindi.africa/competitions/lacuna-correct-field-detection-challenge
 https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge
+https://www.biendata.xyz/competition/sohu_2021/

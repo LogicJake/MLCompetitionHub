@@ -50,14 +50,6 @@ Deadline: 2021-04-26T07:59:00+0800
 Reward: $2,000 USD  
 
 
-## AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi
-
-Link: https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi  
-Description: Can you classify sentiment in the Tunisian Arabizi dialect?  
-Deadline: 2021-03-29T07:59:00+0800  
-Reward: $2,000 USD  
-
-
 ## AFD Gender-Based Violence Dataset Collection Challenge	
 
 Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
