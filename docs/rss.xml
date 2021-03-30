@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-03-29T15:55:06+08:00</updated>
+    <updated>2021-03-30T15:55:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -404,7 +404,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-03-29T15:55:06+08:00</updated>
+        <updated>2021-03-30T15:55:08+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -533,14 +533,30 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e</id>
+        <title><![CDATA[2021全国水下机器人大赛——线上赛]]></title>
+        
+        <updated>2021-03-30T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/60126ee3301534003a944773</id>
         <title><![CDATA[Workshop | 医学数据分析]]></title>
         
         <updated>2021-02-08T00:00:00+08:00</updated>
         
         <link href="https://www.kesci.com/home/competition/60126ee3301534003a944773"/>
-        <summary>一段短描述</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60126ee3301534003a944773"><![CDATA[<h3>Description</h3>一段短描述<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: 虚拟蛇徽+购物卡+鲸币+社区周边</h3>]]></content>
+        <summary>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60126ee3301534003a944773"><![CDATA[<h3>Description</h3>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: 虚拟蛇徽+购物卡+鲸币+社区周边</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -561,20 +577,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0</id>
-        <title><![CDATA[中国智慧城市数据开放创新大赛]]></title>
-        
-        <updated>2021-01-08T18:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"/>
-        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb</id>
         <title><![CDATA[DataJoy® 练习赛]]></title>
         
@@ -583,6 +585,38 @@
         <link href="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"><![CDATA[<h3>Description</h3><h3>Deadline: 2042-05-21T14:00:00+08:00</h3><h3>Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8</id>
+        <title><![CDATA[水下光学目标检测智能算法赛项]]></title>
+        
+        <updated>2021-03-30T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"/>
+        <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室/腾讯 招聘绿色通道</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5</id>
+        <title><![CDATA[水下声学目标检测赛项]]></title>
+        
+        <updated>2021-03-30T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5"/>
+        <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金30万+鹏城实验室/腾讯 招聘绿色通道</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -653,6 +687,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0</id>
+        <title><![CDATA[中国智慧城市数据开放创新大赛]]></title>
+        
+        <updated>2021-01-08T18:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc</id>
         <title><![CDATA[预测分析·员工满意度预测]]></title>
         
@@ -663,38 +711,6 @@
 本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
 本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472</id>
-        <title><![CDATA[ReID·行人重识别]]></title>
-        
-        <updated>2020-05-21T14:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"/>
-        <summary>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
-基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472"><![CDATA[<h3>Description</h3>DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
-基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 经典赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3</id>
-        <title><![CDATA[预测分析·客户购买预测]]></title>
-        
-        <updated>2018-12-26T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"/>
-        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。<h3>Deadline: 2030-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -778,7 +794,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-03-29T15:55:06+08:00</updated>
+        <updated>2021-03-30T15:55:08+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -792,7 +808,7 @@
         <id>https://signate.jp/competitions/433</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ2）]]></title>
         
-        <updated>2021-03-29T15:55:06+08:00</updated>
+        <updated>2021-03-30T15:55:08+08:00</updated>
         
         <link href="https://signate.jp/competitions/433"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>

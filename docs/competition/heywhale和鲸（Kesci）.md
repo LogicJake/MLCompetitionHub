@@ -2,10 +2,19 @@
 
 
 
+## 2021全国水下机器人大赛——线上赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e  
+Description:   
+Deadline: 2021-05-30T20:00:00+0800  
+Reward:   
+
+
 ## Workshop | 医学数据分析
 
 Link: https://www.kesci.com/home/competition/60126ee3301534003a944773  
-Description: 一段短描述  
+Description: 围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。  
 Deadline: 2021-04-30T00:00:00+0800  
 Reward: 虚拟蛇徽+购物卡+鲸币+社区周边  
 
@@ -18,20 +27,30 @@ Deadline: 2021-07-31T23:59:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
-## 中国智慧城市数据开放创新大赛
-
-Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
 ## DataJoy® 练习赛
 
 Link: https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb  
 Description:   
 Deadline: 2042-05-21T14:00:00+0800  
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
+
+
+## 水下光学目标检测智能算法赛项 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8  
+Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
+Deadline: 2021-05-30T20:00:00+0800  
+Reward: 奖金16万+鹏城实验室/腾讯 招聘绿色通道  
+
+
+## 水下声学目标检测赛项 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5  
+Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
+Deadline: 2021-05-30T20:00:00+0800  
+Reward: 奖金30万+鹏城实验室/腾讯 招聘绿色通道  
 
 
 ## 基于地理信息的数字孪生社区建设
@@ -70,29 +89,19 @@ Deadline: 2021-07-31T00:00:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
+## 中国智慧城市数据开放创新大赛
+
+Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
+Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 30W奖金和亿元政策扶持  
+
+
 ## 预测分析·员工满意度预测
 
 Link: https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc  
 Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
 本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。  
 Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
-
-
-## ReID·行人重识别
-
-Link: https://www.kesci.com/home/competition/5ec4c4a47ba12c002d3e4472  
-Description: DataJoy® 经典赛难度较高，复刻全球经典大型数据科学赛题，卧虎藏龙；
-基于图片的行人重识别，即给定一张含有某个行人的查询图片，需要在行人图像库中查找并返回所有含有该行人的其他图片。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 经典赛  
-
-
-## 预测分析·客户购买预测
-
-Link: https://www.kesci.com/home/competition/5c234c6626ba91002bfdfdd3  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于客户的结构化背景信息数据，预测客户是否有意愿订购银行的定期存款产品。  
-Deadline: 2030-12-31T00:00:00+0800  
 Reward: 新人赛  
 
