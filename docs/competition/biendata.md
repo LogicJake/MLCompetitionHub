@@ -10,10 +10,10 @@ Deadline: 2021-05-10T08:00:00+0800
 Reward: ￥65,000  
 
 
-## 海华2021 中学组
+## 2021 Hai Hua AI Competition (K12)
 
 Link: https://www.biendata.xyz/competition/haihua2021_k12/  
-Description: 海华2021 中学组  
+Description: 2021 Hai Hua AI Competition (K12)  
 Deadline: 2021-05-10T08:00:00+0800  
 Reward: ￥90,000  
 

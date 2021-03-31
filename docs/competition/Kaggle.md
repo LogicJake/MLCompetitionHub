@@ -10,7 +10,7 @@ Deadline: 2021-08-24T07:59:00+0800
 Reward: 100000.0 USD  
 
 
-## Coleridge Initiative - Show US the Data  <sup style="color:red">[new]<sup>  
+## Coleridge Initiative - Show US the Data 
 
 Link: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data  
 Description: Discover how data is used for the public good  
@@ -31,14 +31,6 @@ Reward: 60000.0 USD
 Link: https://www.kaggle.com/c/bms-molecular-translation  
 Description: Can you translate chemical images to text?  
 Deadline: 2021-06-03T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
-## VinBigData Chest X-ray Abnormalities Detection
-
-Link: https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection  
-Description: Automatically localize and classify thoracic abnormalities from chest radiographs  
-Deadline: 2021-03-31T07:59:00+0800  
 Reward: 50000.0 USD  
 
 

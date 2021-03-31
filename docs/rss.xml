@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-03-30T15:55:08+08:00</updated>
+    <updated>2021-03-31T15:54:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -168,13 +168,13 @@
     
     <entry>
         <id>https://www.biendata.xyz/competition/haihua2021_k12/</id>
-        <title><![CDATA[海华2021 中学组]]></title>
+        <title><![CDATA[2021 Hai Hua AI Competition (K12)]]></title>
         
         <updated>2021-02-01T08:00:00+08:00</updated>
         
         <link href="https://www.biendata.xyz/competition/haihua2021_k12/"/>
-        <summary>海华2021 中学组</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/haihua2021_k12/"><![CDATA[<h3>Description</h3>海华2021 中学组<h3>Deadline: 2021-05-10T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
+        <summary>2021 Hai Hua AI Competition (K12)</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/haihua2021_k12/"><![CDATA[<h3>Description</h3>2021 Hai Hua AI Competition (K12)<h3>Deadline: 2021-05-10T08:00:00+08:00</h3><h3>Reward: ￥90,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -404,7 +404,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-03-30T15:55:08+08:00</updated>
+        <updated>2021-03-31T15:54:57+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -469,20 +469,6 @@
         <link href="https://www.kaggle.com/c/bms-molecular-translation"/>
         <summary>Can you translate chemical images to text?</summary>
         <content type="text/html" src="https://www.kaggle.com/c/bms-molecular-translation"><![CDATA[<h3>Description</h3>Can you translate chemical images to text?<h3>Deadline: 2021-06-03T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection</id>
-        <title><![CDATA[VinBigData Chest X-ray Abnormalities Detection]]></title>
-        
-        <updated>2020-12-31T01:23:16+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection"/>
-        <summary>Automatically localize and classify thoracic abnormalities from chest radiographs</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection"><![CDATA[<h3>Description</h3>Automatically localize and classify thoracic abnormalities from chest radiographs<h3>Deadline: 2021-03-31T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -600,7 +586,7 @@
         <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室/腾讯 招聘绿色通道</h3>]]></content>
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室招聘绿色通道</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -616,7 +602,7 @@
         <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金30万+鹏城实验室/腾讯 招聘绿色通道</h3>]]></content>
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金30万+鹏城实验室招聘绿色通道</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -761,20 +747,6 @@
     </entry>
     
     <entry>
-        <id>https://www.nishika.com/competitions/8</id>
-        <title><![CDATA[クラシック音楽の作曲家分類]]></title>
-        
-        <updated>2020-12-02T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/8"/>
-        <summary>クラシック音楽の作曲家分類</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/8"><![CDATA[<h3>Description</h3>クラシック音楽の作曲家分類<h3>Deadline: 2021-02-17T13:59:00+08:00</h3><h3>Reward: 16万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.nishika.com/competitions/3</id>
         <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
         
@@ -794,7 +766,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-03-30T15:55:08+08:00</updated>
+        <updated>2021-03-31T15:54:57+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -808,7 +780,7 @@
         <id>https://signate.jp/competitions/433</id>
         <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ2）]]></title>
         
-        <updated>2021-03-30T15:55:08+08:00</updated>
+        <updated>2021-03-31T15:54:57+08:00</updated>
         
         <link href="https://signate.jp/competitions/433"/>
         <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>

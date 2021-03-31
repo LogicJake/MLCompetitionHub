@@ -26,14 +26,6 @@ Deadline: 2025-12-31T13:59:00+0800
 Reward: なし  
 
 
-## クラシック音楽の作曲家分類
-
-Link: https://www.nishika.com/competitions/8  
-Description: クラシック音楽の作曲家分類  
-Deadline: 2021-02-17T13:59:00+0800  
-Reward: 16万円  
-
-
 ## 【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？
 
 Link: https://www.nishika.com/competitions/3  
