@@ -2,6 +2,14 @@
 
 
 
+## 飞桨论文复现挑战赛（第三期） <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/76  
+Description: 要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。  
+Deadline: 2021-05-31T08:00:00+0800  
+Reward: 总计￥700000  
+
+
 ## 2021语言与智能技术竞赛：多形态信息抽取任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/65  
@@ -42,14 +50,6 @@ Deadline: 2021-07-01T08:00:00+0800
 Reward: 全国大学生竞赛  
 
 
-## AI创造营 · 第一期
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/72  
-Description: AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！  
-Deadline: 2021-03-31T08:00:00+0800  
-Reward: ¥10,000+超级大礼包  
-
-
 ## CVPR2021 NAS Track 1: Supernet Track
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/64  
@@ -72,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/68
 Description: 第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。  
 Deadline: 2021-06-01T08:00:00+0800  
 Reward: 全国大学生竞赛  
-
-
-## 螺旋桨RNA结构预测竞赛：Unpaired Probability Prediction
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/61  
-Description: 本赛题旨在解决RNA结构预测这个世界级难题，要求参赛选手基于百度发布的世界上最快的RNA二级结构预测算法LinearFold和世界上最快的RNA配分方程算法LinearPartition，预测给定RNA序列在每个位点上保持不成对的概率。  
-Deadline: 2021-05-31T08:00:00+0800  
-Reward: ￥100,000  
 

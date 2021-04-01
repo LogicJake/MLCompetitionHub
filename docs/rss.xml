@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-03-31T15:54:57+08:00</updated>
+    <updated>2021-04-01T15:55:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/76</id>
+        <title><![CDATA[飞桨论文复现挑战赛（第三期）]]></title>
+        
+        <updated>2021-04-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/76"/>
+        <summary>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/65</id>
@@ -81,20 +95,6 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/72</id>
-        <title><![CDATA[AI创造营 · 第一期]]></title>
-        
-        <updated>2021-03-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/72"/>
-        <summary>AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/72"><![CDATA[<h3>Description</h3>AI创造营第一期重磅来袭！如果你是喜欢脑洞大开的Python爱好者，就快来制作项目，PaddleHub官方送你出道！<h3>Deadline: 2021-03-31T08:00:00+08:00</h3><h3>Reward: ¥10,000+超级大礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/64</id>
         <title><![CDATA[CVPR2021 NAS Track 1: Supernet Track]]></title>
         
@@ -131,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/68"/>
         <summary>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/68"><![CDATA[<h3>Description</h3>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。<h3>Deadline: 2021-06-01T08:00:00+08:00</h3><h3>Reward: 全国大学生竞赛</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/61</id>
-        <title><![CDATA[螺旋桨RNA结构预测竞赛：Unpaired Probability Prediction]]></title>
-        
-        <updated>2020-12-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/61"/>
-        <summary>本赛题旨在解决RNA结构预测这个世界级难题，要求参赛选手基于百度发布的世界上最快的RNA二级结构预测算法LinearFold和世界上最快的RNA配分方程算法LinearPartition，预测给定RNA序列在每个位点上保持不成对的概率。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/61"><![CDATA[<h3>Description</h3>本赛题旨在解决RNA结构预测这个世界级难题，要求参赛选手基于百度发布的世界上最快的RNA二级结构预测算法LinearFold和世界上最快的RNA配分方程算法LinearPartition，预测给定RNA序列在每个位点上保持不成对的概率。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -224,20 +210,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.datafountain.cn/competitions/494</id>
-        <title><![CDATA[基于AI的信道信息反馈性能提升]]></title>
-        
-        <updated>2020-12-24T12:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/494"/>
-        <summary>基于AI的信道信息反馈性能提升</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/494"><![CDATA[<h3>Description</h3>基于AI的信道信息反馈性能提升<h3>Deadline: 2021-03-31T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -303,8 +275,14 @@
         <updated>2021-02-01T00:00:00+08:00</updated>
         
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=463"/>
-        <summary>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=463"><![CDATA[<h3>Description</h3>       在金融领域，活跃着一批“职业羊毛党”，他们通过套现、套利行为大肆牟利，影响普通用户本应享有的权益。他们制作各种自动、半自动的黑产工具，如自动注册机、刷单自动机、短信代接平台、分身软件、猫池等，并捆绑手机卡、银行卡或通过第三方平台交易完成套现，从而实现“薅羊毛”活动，自身获利的同时对商家、银行、平台、运营商的利益造成损失。如何从普通用户中有效鉴别出羊毛党，从而提前进行防范，在实际商业应用中有着重要的意义。本届竞赛将从真实场景和实际应用出发，在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+        <summary>       随着人们生活品质的不断提高、收入的增加，可支配收入越来越多。金融产品业务如何推广成为了金融领域值得挖掘的课题。
+本次复赛希望从实际业务出发，分方向对金融产品业务潜力进行挖掘。复赛不设具体命题，赛道框架内选手自由创意，根据提供的数据字典进行贴合业务方向的挖掘。
+复赛在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。
+</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=463"><![CDATA[<h3>Description</h3>       随着人们生活品质的不断提高、收入的增加，可支配收入越来越多。金融产品业务如何推广成为了金融领域值得挖掘的课题。
+本次复赛希望从实际业务出发，分方向对金融产品业务潜力进行挖掘。复赛不设具体命题，赛道框架内选手自由创意，根据提供的数据字典进行贴合业务方向的挖掘。
+复赛在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。
+<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -404,7 +382,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-03-31T15:54:57+08:00</updated>
+        <updated>2021-04-01T15:55:13+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -519,6 +497,22 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/605c426d21e3f6003b56a920</id>
+        <title><![CDATA[练习赛新人赛·民宿价格预测]]></title>
+        
+        <updated>2021-03-31T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/605c426d21e3f6003b56a920"/>
+        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导我们尝试建立一个模型，该模型使用某私人住宿在线服务平台上发布的房地产数据来预测住宿价格。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/605c426d21e3f6003b56a920"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导我们尝试建立一个模型，该模型使用某私人住宿在线服务平台上发布的房地产数据来预测住宿价格。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e</id>
         <title><![CDATA[2021全国水下机器人大赛——线上赛]]></title>
         
@@ -527,22 +521,6 @@
         <link href="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60126ee3301534003a944773</id>
-        <title><![CDATA[Workshop | 医学数据分析]]></title>
-        
-        <updated>2021-02-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60126ee3301534003a944773"/>
-        <summary>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
-采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60126ee3301534003a944773"><![CDATA[<h3>Description</h3>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
-采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: 虚拟蛇徽+购物卡+鲸币+社区周边</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -603,6 +581,22 @@
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金30万+鹏城实验室招聘绿色通道</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60126ee3301534003a944773</id>
+        <title><![CDATA[Workshop | 医学数据分析]]></title>
+        
+        <updated>2021-02-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60126ee3301534003a944773"/>
+        <summary>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60126ee3301534003a944773"><![CDATA[<h3>Description</h3>围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。<h3>Deadline: 2021-04-30T00:00:00+08:00</h3><h3>Reward: 虚拟蛇徽+购物卡+鲸币+社区周边</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -686,22 +680,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc</id>
-        <title><![CDATA[预测分析·员工满意度预测]]></title>
-        
-        <updated>2020-05-21T14:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"/>
-        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ec3b6987ba12c002d3e42bc"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-本赛题基于员工的满意度调查与员工的基本信息和工作经历，预测员工对于公司的满意度情况。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -766,25 +744,11 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-03-31T15:54:57+08:00</updated>
+        <updated>2021-04-01T15:55:13+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
         <content type="text/html" src="https://signate.jp/competitions/443"><![CDATA[<h3>Description</h3>ニュースでポートフォリオを構築しよう！<h3>Deadline: 2021-05-09T23:59:59+08:00</h3><h3>Reward: 総額¥830,000</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/433</id>
-        <title><![CDATA[ひろしまQuest2020：画像データを使ったレモンの外観分類（ステージ2）]]></title>
-        
-        <updated>2021-03-31T15:54:57+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/433"/>
-        <summary>広島のレモン画像を活用した外観分類にチャレンジしよう！</summary>
-        <content type="text/html" src="https://signate.jp/competitions/433"><![CDATA[<h3>Description</h3>広島のレモン画像を活用した外観分類にチャレンジしよう！<h3>Deadline: 2021-03-31T23:59:59+08:00</h3><h3>Reward: レモン計30kg+10万円+レモンのお菓子詰め合わせ</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
         </author>
@@ -801,20 +765,6 @@
         <link href="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"/>
         <summary>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/s/fa706ab5ce198fc45bb95d6776e1355c"><![CDATA[<h3>Description</h3>大规模内存故障预测是阿里巴巴进行智能化运维布局中的重要一环，课题难度大，价值高，通过大赛携手天池开发者共建智能运维生态圈。<h3>Deadline: 2021-04-20T23:55:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6</id>
-        <title><![CDATA[“AI Earth”人工智能创新挑战赛——AI助力精准气象和海洋预测(赛季 2)]]></title>
-        
-        <updated>2021-03-25T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6"/>
-        <summary>大赛聚焦全球大气海洋研究前沿方向，推进人工智能技术在气象和海洋领域的学术合作、人才培养、技术交流以及多学科交叉融合应用，探索利用人工智能技术突破行业关键性瓶颈，促进行业前瞻性研究发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/588be9cbd69eb4ce1df4da63c65404a6"><![CDATA[<h3>Description</h3>大赛聚焦全球大气海洋研究前沿方向，推进人工智能技术在气象和海洋领域的学术合作、人才培养、技术交流以及多学科交叉融合应用，探索利用人工智能技术突破行业关键性瓶颈，促进行业前瞻性研究发展。<h3>Deadline: 2021-03-31T22:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -901,6 +851,20 @@
         <link href="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"/>
         <summary>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"><![CDATA[<h3>Description</h3>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。<h3>Deadline: 2021-04-17T12:00:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531885/introduction</id>
+        <title><![CDATA[CVPR2021 PIC Challenge: 3D Face Reconstruction From Multiple 2D Images(赛季 1)]]></title>
+        
+        <updated>2021-04-01T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531885/introduction"/>
+        <summary>CVPR 2021 Person In Context Workshop比赛，主要内容是基于多张图片进行3D人脸重建</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531885/introduction"><![CDATA[<h3>Description</h3>CVPR 2021 Person In Context Workshop比赛，主要内容是基于多张图片进行3D人脸重建<h3>Deadline: 2021-06-04T10:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

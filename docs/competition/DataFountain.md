@@ -25,11 +25,3 @@ Description: 智慧海洋建设，AI轨迹预测保护海洋活动安全
 Deadline: 2021-04-20T23:59:59+0800  
 Reward: ￥160000  
 
-
-## 基于AI的信道信息反馈性能提升
-
-Link: https://www.datafountain.cn/competitions/494  
-Description: 基于AI的信道信息反馈性能提升  
-Deadline: 2021-03-31T23:59:59+0800  
-Reward: ￥500000  
-
