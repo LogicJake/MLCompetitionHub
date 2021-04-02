@@ -2,7 +2,7 @@
 
 
 
-## Lacuna - Correct Field Detection Challenge <sup style="color:red">[new]<sup>  
+## Lacuna - Correct Field Detection Challenge
 
 Link: https://zindi.africa/competitions/lacuna-correct-field-detection-challenge  
 Description: Can you design a method to accurately find field locations?  
@@ -10,7 +10,7 @@ Deadline: 2021-06-14T07:59:00+0800
 Reward: $10,000 USD  
 
 
-## AutoInland Vehicle Insurance Claim Challenge <sup style="color:red">[new]<sup>  
+## AutoInland Vehicle Insurance Claim Challenge
 
 Link: https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge  
 Description: Can you predict if a client will submit a vehicle insurance claim in the next 3 months?  

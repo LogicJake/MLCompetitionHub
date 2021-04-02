@@ -7,7 +7,7 @@
 Link: https://aistudio.baidu.com/aistudio/competition/detail/76  
 Description: 要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。  
 Deadline: 2021-05-31T08:00:00+0800  
-Reward: 总计￥700000  
+Reward: 总计￥700,000  
 
 
 ## 2021语言与智能技术竞赛：多形态信息抽取任务

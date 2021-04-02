@@ -57,3 +57,12 @@ Description: Identify the position of a smartphone in a shopping mall
 Deadline: 2021-05-18T07:59:00+0800  
 Reward: 10000.0 USD  
 
+
+## BirdCLEF 2021 - Birdcall Identification <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/birdclef-2021  
+Description: Identify bird calls in soundscape recordings
+  
+Deadline: 2021-06-01T07:59:00+0800  
+Reward: 5000.0 USD  
+

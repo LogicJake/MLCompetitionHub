@@ -2,7 +2,7 @@
 
 
 
-## 仮想通貨価格予測 <sup style="color:red">[new]<sup>  
+## 仮想通貨価格予測
 
 Link: https://www.nishika.com/competitions/12  
 Description: 仮想通貨価格予測  

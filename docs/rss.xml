@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-01T15:55:13+08:00</updated>
+    <updated>2021-04-02T15:54:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -18,7 +18,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/76"/>
         <summary>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -242,7 +242,7 @@
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=466"><![CDATA[<h3>Description</h3>       智慧生活是以利用物联网、云计算、移动互联网、信息智能终端等新一代信息技术，通过对各类与居民生活密切相关信息的自动感知、及时传送、及时发布和信息资源的整合共享，实现对社区居民“吃、住、行、游、购、娱、健”生七大要素的数字化、网络化、智能化、互动化和协同化，让“五化”成为居民工作、生活的主要方式，为居民提供更加安全、便利、舒适、愉悦的生活环境，让居民生活更智慧、更幸福、更安全、更和谐、更文明。越来越多的智能化产品走进日常生活，将我们带入一片全新天地。
        景区游客精准识别是出自于保障国民出游安全、重大安全事件防控、保护景区环境、提高出游质量等等为目的，不仅在国内会对于景区进行客流量监控，同样在国外也被采取认同。
        手机作为现代通讯必须品，基于运营商数据定位景区人数具有成本低，节约景区投入成本特点。
-<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+<h3>Deadline: 2021-06-30T00:00:00+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -382,7 +382,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-01T15:55:13+08:00</updated>
+        <updated>2021-04-02T15:54:49+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -494,11 +494,27 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.kaggle.com/c/birdclef-2021</id>
+        <title><![CDATA[BirdCLEF 2021 - Birdcall Identification]]></title>
+        
+        <updated>2021-04-01T23:08:15+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/birdclef-2021"/>
+        <summary>Identify bird calls in soundscape recordings
+</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/birdclef-2021"><![CDATA[<h3>Description</h3>Identify bird calls in soundscape recordings
+<h3>Deadline: 2021-06-01T07:59:00+08:00</h3><h3>Reward: 5000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
         <id>https://www.kesci.com/home/competition/605c426d21e3f6003b56a920</id>
-        <title><![CDATA[练习赛新人赛·民宿价格预测]]></title>
+        <title><![CDATA[预测分析·民宿价格预测]]></title>
         
         <updated>2021-03-31T00:00:00+08:00</updated>
         
@@ -744,7 +760,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-01T15:55:13+08:00</updated>
+        <updated>2021-04-02T15:54:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
