@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-02T15:54:49+08:00</updated>
+    <updated>2021-04-03T15:54:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -262,7 +262,7 @@
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=464"><![CDATA[<h3>Description</h3>       近年来，社会转型加速，国家正在加强培育数据要素市场、推进治理体系现代化、推进新型基础设施建设，致力打造全新智慧城市。而5G网络的大规模连接能力、高速率传输能力正是智慧城市建设的有力支撑。
 
        5G高可靠、低时延、大带宽等特性，可高效将城市系统和服务打通、集成，提升资源运用效率，优化城市管理和服务，改善市民生活质量。加快5G用户增长与城市发展深度融合，通过信息化手段解决城镇化过程中带来的问题，既是城市可持续发展所需，也是产业新动能所在。而如何通过模型精准识别5G需求潜在用户，促进4G时代向5G时代转变，以实现基于5G深度应用的智慧城市建设至关重要。
-<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+<h3>Deadline: 2021-06-30T00:00:00+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -282,7 +282,7 @@
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=463"><![CDATA[<h3>Description</h3>       随着人们生活品质的不断提高、收入的增加，可支配收入越来越多。金融产品业务如何推广成为了金融领域值得挖掘的课题。
 本次复赛希望从实际业务出发，分方向对金融产品业务潜力进行挖掘。复赛不设具体命题，赛道框架内选手自由创意，根据提供的数据字典进行贴合业务方向的挖掘。
 复赛在智慧金融领域新增了更具挑战性、更加务实的任务，期待参赛选手们能在这些任务上相互切磋、共同进步。
-<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
+<h3>Deadline: 2021-06-30T00:00:00+08:00</h3><h3>Reward: ￥520964</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -382,7 +382,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-02T15:54:49+08:00</updated>
+        <updated>2021-04-03T15:54:45+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -760,7 +760,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-02T15:54:49+08:00</updated>
+        <updated>2021-04-03T15:54:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -895,6 +895,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531884/introduction"/>
         <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531884/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2021-06-09T12:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531888/introduction</id>
+        <title><![CDATA[ACM MM2021 安全AI挑战者计划第七期：鲁棒性标识检测(赛季 1)]]></title>
+        
+        <updated>2021-04-01T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531888/introduction"/>
+        <summary>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531888/introduction"><![CDATA[<h3>Description</h3>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。<h3>Deadline: 2021-07-07T23:59:59+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
