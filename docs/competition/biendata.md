@@ -2,7 +2,7 @@
 
 
 
-## 2021 Sohu Campus Document Matching AIgorithm Competition <sup style="color:red">[new]<sup>  
+## 2021 Sohu Campus Document Matching AIgorithm Competition
 
 Link: https://www.biendata.xyz/competition/sohu_2021/  
 Description: 2021 Sohu Campus Document Matching AIgorithm Competition  
