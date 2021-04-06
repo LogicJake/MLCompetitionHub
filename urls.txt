@@ -445,3 +445,4 @@ https://www.kesci.com/home/competition/605c426d21e3f6003b56a920
 https://tianchi.aliyun.com/competition/entrance/531885/introduction
 https://www.kaggle.com/c/birdclef-2021
 https://tianchi.aliyun.com/competition/entrance/531888/introduction
+https://www.nishika.com/competitions/13

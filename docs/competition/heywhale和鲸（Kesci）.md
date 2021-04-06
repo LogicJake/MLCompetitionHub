@@ -11,7 +11,7 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 新人赛  
 
 
-## 2021全国水下机器人大赛——线上赛 <sup style="color:red">[new]<sup>  
+## 2021全国水下机器人大赛——线上赛
 
 Link: https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e  
 Description:   
@@ -35,7 +35,7 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
-## 水下光学目标检测智能算法赛项 <sup style="color:red">[new]<sup>  
+## 水下光学目标检测智能算法赛项
 
 Link: https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8  
 Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
@@ -44,7 +44,7 @@ Deadline: 2021-05-30T20:00:00+0800
 Reward: 奖金16万+鹏城实验室招聘绿色通道  
 
 
-## 水下声学目标检测赛项 <sup style="color:red">[new]<sup>  
+## 水下声学目标检测赛项
 
 Link: https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5  
 Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
