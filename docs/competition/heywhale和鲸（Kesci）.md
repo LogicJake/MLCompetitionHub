@@ -2,7 +2,7 @@
 
 
 
-## 预测分析·民宿价格预测 <sup style="color:red">[new]<sup>  
+## 预测分析·民宿价格预测
 
 Link: https://www.kesci.com/home/competition/605c426d21e3f6003b56a920  
 Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
