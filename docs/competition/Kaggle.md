@@ -58,7 +58,7 @@ Deadline: 2021-05-18T07:59:00+0800
 Reward: 10000.0 USD  
 
 
-## BirdCLEF 2021 - Birdcall Identification <sup style="color:red">[new]<sup>  
+## BirdCLEF 2021 - Birdcall Identification
 
 Link: https://www.kaggle.com/c/birdclef-2021  
 Description: Identify bird calls in soundscape recordings
