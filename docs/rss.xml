@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-11T15:54:58+08:00</updated>
+    <updated>2021-04-12T15:54:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/76"/>
         <summary>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/79</id>
+        <title><![CDATA[AI ChatBot 创意赛]]></title>
+        
+        <updated>2021-04-12T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/79"/>
+        <summary>PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/79"><![CDATA[<h3>Description</h3>PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: ¥10,000 + 超级大礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -122,20 +136,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/68</id>
-        <title><![CDATA[第十六届全国大学生智能车竞赛线上资格赛：车道线检测]]></title>
-        
-        <updated>2021-01-11T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/68"/>
-        <summary>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/68"><![CDATA[<h3>Description</h3>第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。<h3>Deadline: 2021-06-01T08:00:00+08:00</h3><h3>Reward: 全国大学生竞赛</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -211,22 +211,6 @@
     </entry>
     
     
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=468</id>
-        <title><![CDATA[2021数字中国创新大赛大数据赛道城市管理大数据专题]]></title>
-        
-        <updated>2021-01-25T08:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=468"/>
-        <summary>本专题赛以“数聚赋能 众智成城”为主题，征集基于城市管理大数据领域的算法模型和创新应用解决方案。旨在通过城市管理与大数据的融合，针对当前城市管理的难点和痛点，以共享单车管理为切入点，发掘出一系列城市智能管理创新项目，切实巩固提升城市精细化、智能化、人性化管理水平，推进基于大数据的城市智能管理项目的落地与发展，树立城市治理体系与治理能力现代化标杆，不断提升数字产业集聚高地影响力。
-赛题分为算法分析题与创意分析题两种类型，共设三道赛题，面向各类高等院校、科研机构、企业、事业单位、开发者征集基于城市管理领域的创新应用解决方案和算法模型。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=468"><![CDATA[<h3>Description</h3>本专题赛以“数聚赋能 众智成城”为主题，征集基于城市管理大数据领域的算法模型和创新应用解决方案。旨在通过城市管理与大数据的融合，针对当前城市管理的难点和痛点，以共享单车管理为切入点，发掘出一系列城市智能管理创新项目，切实巩固提升城市精细化、智能化、人性化管理水平，推进基于大数据的城市智能管理项目的落地与发展，树立城市治理体系与治理能力现代化标杆，不断提升数字产业集聚高地影响力。
-赛题分为算法分析题与创意分析题两种类型，共设三道赛题，面向各类高等院校、科研机构、企业、事业单位、开发者征集基于城市管理领域的创新应用解决方案和算法模型。<h3>Deadline: 2021-04-11T23:00:00+08:00</h3><h3>Reward: ¥720000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=466</id>
@@ -368,7 +352,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-11T15:54:58+08:00</updated>
+        <updated>2021-04-12T15:54:58+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -515,6 +499,22 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8</id>
+        <title><![CDATA[水下光学目标检测智能算法赛项]]></title>
+        
+        <updated>2021-03-30T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"/>
+        <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
+“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室招聘绿色通道</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e</id>
         <title><![CDATA[2021全国水下机器人大赛——线上赛]]></title>
         
@@ -551,22 +551,6 @@
         <link href="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb"><![CDATA[<h3>Description</h3><h3>Deadline: 2042-05-21T14:00:00+08:00</h3><h3>Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8</id>
-        <title><![CDATA[水下光学目标检测智能算法赛项]]></title>
-        
-        <updated>2021-03-30T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"/>
-        <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室招聘绿色通道</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -774,7 +758,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-11T15:54:58+08:00</updated>
+        <updated>2021-04-12T15:54:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -788,7 +772,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-11T15:54:58+08:00</updated>
+        <updated>2021-04-12T15:54:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>

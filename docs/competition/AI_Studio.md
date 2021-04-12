@@ -10,6 +10,14 @@ Deadline: 2021-05-31T08:00:00+0800
 Reward: 总计￥700,000  
 
 
+## AI ChatBot 创意赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/79  
+Description: PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！  
+Deadline: 2021-05-31T08:00:00+0800  
+Reward: ¥10,000 + 超级大礼包  
+
+
 ## 2021语言与智能技术竞赛：多形态信息抽取任务
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/65  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/71
 Description: Predict the performance of any architectures accurately without training.  
 Deadline: 2021-05-24T08:00:00+0800  
 Reward: USD $5,000  
-
-
-## 第十六届全国大学生智能车竞赛线上资格赛：车道线检测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/68  
-Description: 第十六届全国大学生智能车竞赛线上资格赛，赛题为车道线检测。报名学校将免费获得百度EdgeBoard开发板及电机。  
-Deadline: 2021-06-01T08:00:00+0800  
-Reward: 全国大学生竞赛  
 
