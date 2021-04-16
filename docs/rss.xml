@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-15T15:54:53+08:00</updated>
+    <updated>2021-04-16T15:54:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -287,38 +287,6 @@
     </entry>
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=449</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-济南分赛场-健康医疗]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=449"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
-
-</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=449"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。
-
-<h3>Deadline: 2021-04-16T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=446</id>
-        <title><![CDATA[山东省第二届数据应用创新创业大赛-主赛场-检验报告单识别]]></title>
-        
-        <updated>2020-11-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=446"/>
-        <summary>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=446"><![CDATA[<h3>Description</h3>山东省第二届数据应用创新创业大赛以“数聚赋能，智惠山东”为主题，鼓励企业、社会组织和个人积极探索开展大数据创新应用，加快推进公共数据资源开发利用，在数据供给方和数据需求方之间形成常态化对接机制，推动数字经济、数字社会融合发展，促进发挥数据“优政、惠民、兴业”作用，助力“数字山东”建设。<h3>Deadline: 2021-04-16T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=472</id>
         <title><![CDATA[山东省第二届数据应用创新创业大赛-主赛场-疫情密切接触人员追踪]]></title>
         
@@ -338,7 +306,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-15T15:54:53+08:00</updated>
+        <updated>2021-04-16T15:54:52+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -744,7 +712,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-15T15:54:53+08:00</updated>
+        <updated>2021-04-16T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -758,7 +726,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-15T15:54:53+08:00</updated>
+        <updated>2021-04-16T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -772,7 +740,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-15T15:54:53+08:00</updated>
+        <updated>2021-04-16T15:54:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -822,7 +790,7 @@
         
         <link href="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"/>
         <summary>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"><![CDATA[<h3>Description</h3>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。<h3>Deadline: 2021-05-11T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"><![CDATA[<h3>Description</h3>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。<h3>Deadline: 2021-05-13T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
