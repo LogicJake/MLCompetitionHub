@@ -2,6 +2,14 @@
 
 
 
+## 『先导杯』计算应用大奖赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/77  
+Description: 先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。  
+Deadline: 2021-07-15T08:00:00+0800  
+Reward: ￥540,000  
+
+
 ## AI ChatBot 创意赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/79  
@@ -62,14 +70,6 @@ Reward: 全国大学生竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/64  
 Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
-Deadline: 2021-05-24T08:00:00+0800  
-Reward: USD $5,000  
-
-
-## CVPR2021 NAS Track 2: Performance Prediction Track
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/71  
-Description: Predict the performance of any architectures accurately without training.  
 Deadline: 2021-05-24T08:00:00+0800  
 Reward: USD $5,000  
 
