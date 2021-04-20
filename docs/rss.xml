@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-19T15:54:49+08:00</updated>
+    <updated>2021-04-20T15:54:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/75</id>
+        <title><![CDATA[轻量级文字识别技术创新大赛]]></title>
+        
+        <updated>2021-04-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/75"/>
+        <summary>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/75"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。<h3>Deadline: 2021-08-08T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/77</id>
@@ -122,20 +136,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/64</id>
-        <title><![CDATA[CVPR2021 NAS Track 1: Supernet Track]]></title>
-        
-        <updated>2021-03-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/64"/>
-        <summary>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/64"><![CDATA[<h3>Description</h3>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.<h3>Deadline: 2021-05-24T08:00:00+08:00</h3><h3>Reward: USD $5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -213,6 +213,22 @@
     
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=481</id>
+        <title><![CDATA[KDD Cup 城市大脑挑战赛]]></title>
+        
+        <updated>2021-04-01T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=481"/>
+        <summary>       一个城市最多能服务多少辆车？这个问题的答案对于城市交通决策规划（如限行、限号等）至关重要，而要回答这个问题，就需要综合考虑交通状况、城市路网和交通协调情况。
+       今年数据挖掘顶会 KDD在数据竞赛单元KDD Cup特别设置了“城市大脑挑战赛”，号召研究者们设计有效的交通协调策略，希望通过集结全球研究者的技术力量，为城市交通智能化献智出力。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=481"><![CDATA[<h3>Description</h3>       一个城市最多能服务多少辆车？这个问题的答案对于城市交通决策规划（如限行、限号等）至关重要，而要回答这个问题，就需要综合考虑交通状况、城市路网和交通协调情况。
+       今年数据挖掘顶会 KDD在数据竞赛单元KDD Cup特别设置了“城市大脑挑战赛”，号召研究者们设计有效的交通协调策略，希望通过集结全球研究者的技术力量，为城市交通智能化献智出力。<h3>Deadline: 2021-06-30T23:59:59+08:00</h3><h3>Reward: $20500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=466</id>
         <title><![CDATA[“梧桐杯”中国移动大数据应用创新大赛 - 智慧生活赛道]]></title>
         
@@ -278,7 +294,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-19T15:54:49+08:00</updated>
+        <updated>2021-04-20T15:54:49+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -684,7 +700,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-19T15:54:49+08:00</updated>
+        <updated>2021-04-20T15:54:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -698,7 +714,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-19T15:54:49+08:00</updated>
+        <updated>2021-04-20T15:54:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -712,7 +728,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-19T15:54:49+08:00</updated>
+        <updated>2021-04-20T15:54:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -740,15 +756,15 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650</id>
-        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 1)]]></title>
+        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 2)]]></title>
         
-        <updated>2021-01-27T18:00:00+08:00</updated>
+        <updated>2021-04-21T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"/>
         <summary>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
 大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"><![CDATA[<h3>Description</h3>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
-大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-04-20T12:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
+大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-06-18T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -797,6 +813,20 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531893/introduction</id>
+        <title><![CDATA[ACM MM 2021 Watch and Buy: Multimodal Product Identification Challenge(赛季 1)]]></title>
+        
+        <updated>2021-04-20T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531893/introduction"/>
+        <summary>ACM MM 2021 workshop challenge for multimodal product identification task.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531893/introduction"><![CDATA[<h3>Description</h3>ACM MM 2021 workshop challenge for multimodal product identification task.<h3>Deadline: 2021-06-20T12:00:00+08:00</h3><h3>Reward: $10000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531885/introduction</id>
         <title><![CDATA[CVPR2021 PIC Challenge: 3D Face Reconstruction From Multiple 2D Images(赛季 1)]]></title>
         
@@ -833,6 +863,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531888/introduction"/>
         <summary>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531888/introduction"><![CDATA[<h3>Description</h3>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。<h3>Deadline: 2021-07-07T23:59:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2</id>
+        <title><![CDATA[2021全国数字生态创新大赛-智能算法赛(赛季 2)]]></title>
+        
+        <updated>2021-03-16T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"/>
+        <summary>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"><![CDATA[<h3>Description</h3>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。<h3>Deadline: 2021-04-21T23:55:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

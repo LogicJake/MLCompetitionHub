@@ -2,6 +2,14 @@
 
 
 
+## 轻量级文字识别技术创新大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/75  
+Description: CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。  
+Deadline: 2021-08-08T08:00:00+0800  
+Reward: ¥100,000  
+
+
 ## 『先导杯』计算应用大奖赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/77  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/74
 Description: 第十届“中国软件杯”大学生软件设计大赛-高职组赛道，工信部主办重量级大学生国赛！  
 Deadline: 2021-07-01T08:00:00+0800  
 Reward: 全国大学生竞赛  
-
-
-## CVPR2021 NAS Track 1: Supernet Track
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/64  
-Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
-Deadline: 2021-05-24T08:00:00+0800  
-Reward: USD $5,000  
 
