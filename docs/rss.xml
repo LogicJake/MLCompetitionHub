@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-20T15:54:49+08:00</updated>
+    <updated>2021-04-21T15:55:25+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -168,48 +168,6 @@
     
     
     
-    <entry>
-        <id>https://www.datafountain.cn/competitions/500</id>
-        <title><![CDATA[智慧交通-基于车联网大数据的碰撞识别]]></title>
-        
-        <updated>2021-02-17T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/500"/>
-        <summary>智慧交通-基于车联网大数据的碰撞识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/500"><![CDATA[<h3>Description</h3>智慧交通-基于车联网大数据的碰撞识别<h3>Deadline: 2021-04-20T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/498</id>
-        <title><![CDATA[智能医疗决策，病理“金数据”赋能医学诊断 ]]></title>
-        
-        <updated>2021-02-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/498"/>
-        <summary>智能医疗决策，病理“金数据”赋能医学诊断 </summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/498"><![CDATA[<h3>Description</h3>智能医疗决策，病理“金数据”赋能医学诊断 <h3>Deadline: 2021-04-20T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/497</id>
-        <title><![CDATA[智慧海洋建设，AI轨迹预测保护海洋活动安全]]></title>
-        
-        <updated>2021-02-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/497"/>
-        <summary>智慧海洋建设，AI轨迹预测保护海洋活动安全</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/497"><![CDATA[<h3>Description</h3>智慧海洋建设，AI轨迹预测保护海洋活动安全<h3>Deadline: 2021-04-20T23:59:59+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -294,7 +252,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-20T15:54:49+08:00</updated>
+        <updated>2021-04-21T15:55:25+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -700,7 +658,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-20T15:54:49+08:00</updated>
+        <updated>2021-04-21T15:55:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -714,7 +672,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-20T15:54:49+08:00</updated>
+        <updated>2021-04-21T15:55:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -728,7 +686,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-20T15:54:49+08:00</updated>
+        <updated>2021-04-21T15:55:25+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
