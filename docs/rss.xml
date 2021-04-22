@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-21T15:55:25+08:00</updated>
+    <updated>2021-04-22T15:54:50+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -252,7 +252,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-21T15:55:25+08:00</updated>
+        <updated>2021-04-22T15:54:50+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -611,20 +611,6 @@
     </entry>
     
     <entry>
-        <id>https://www.nishika.com/competitions/11</id>
-        <title><![CDATA[中古マンション価格予測]]></title>
-        
-        <updated>2021-01-15T14:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/11"/>
-        <summary>中古マンション価格予測</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/11"><![CDATA[<h3>Description</h3>中古マンション価格予測<h3>Deadline: 2021-03-31T13:59:00+08:00</h3><h3>Reward: 20万円</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.nishika.com/competitions/9</id>
         <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
         
@@ -658,7 +644,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-21T15:55:25+08:00</updated>
+        <updated>2021-04-22T15:54:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -672,7 +658,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-21T15:55:25+08:00</updated>
+        <updated>2021-04-22T15:54:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -686,7 +672,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-21T15:55:25+08:00</updated>
+        <updated>2021-04-22T15:54:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
@@ -821,20 +807,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531888/introduction"/>
         <summary>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531888/introduction"><![CDATA[<h3>Description</h3>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。<h3>Deadline: 2021-07-07T23:59:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2</id>
-        <title><![CDATA[2021全国数字生态创新大赛-智能算法赛(赛季 2)]]></title>
-        
-        <updated>2021-03-16T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"/>
-        <summary>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/a4dd1077bd05be822a8a03193dedcba2"><![CDATA[<h3>Description</h3>赛题聚焦“生态资产智能分析”，要求选手利用遥感影像智能解译技术识别提取土地覆盖和利用类型，实现生态资产盘点、土地利用动态监测、水环境监测与评估、耕地数量与监测等应用。<h3>Deadline: 2021-04-21T23:55:00+08:00</h3><h3>Reward: ￥780000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
