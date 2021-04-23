@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-22T15:54:50+08:00</updated>
+    <updated>2021-04-23T15:54:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/77"/>
         <summary>先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/77"><![CDATA[<h3>Description</h3>先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。<h3>Deadline: 2021-07-15T08:00:00+08:00</h3><h3>Reward: ￥540,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/81</id>
+        <title><![CDATA[AIWIN世界人工智能创新大赛：保险文本视觉认知问答任务]]></title>
+        
+        <updated>2021-04-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/81"/>
+        <summary>在保险理赔流程和客户服务环节中，存在大量扫描文档，极速理赔、个人健康管理等业务场景，都需要对这些文档进行文字检测识别再提取出结构化信息。本次赛题将提供扫描文件数据集，参赛队利用OCR技术自动识别影像资料后，再通过AI智能判断所识别文字的内在逻辑，回答关于图片的自然语言问题。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/81"><![CDATA[<h3>Description</h3>在保险理赔流程和客户服务环节中，存在大量扫描文档，极速理赔、个人健康管理等业务场景，都需要对这些文档进行文字检测识别再提取出结构化信息。本次赛题将提供扫描文件数据集，参赛队利用OCR技术自动识别影像资料后，再通过AI智能判断所识别文字的内在逻辑，回答关于图片的自然语言问题。<h3>Deadline: 2021-07-09T08:00:00+08:00</h3><h3>Reward: 120,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -252,7 +266,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-22T15:54:50+08:00</updated>
+        <updated>2021-04-23T15:54:54+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -644,7 +658,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-22T15:54:50+08:00</updated>
+        <updated>2021-04-23T15:54:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -658,7 +672,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-22T15:54:50+08:00</updated>
+        <updated>2021-04-23T15:54:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -672,7 +686,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-22T15:54:50+08:00</updated>
+        <updated>2021-04-23T15:54:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>

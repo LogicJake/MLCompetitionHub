@@ -18,6 +18,14 @@ Deadline: 2021-07-15T08:00:00+0800
 Reward: ￥540,000  
 
 
+## AIWIN世界人工智能创新大赛：保险文本视觉认知问答任务
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/81  
+Description: 在保险理赔流程和客户服务环节中，存在大量扫描文档，极速理赔、个人健康管理等业务场景，都需要对这些文档进行文字检测识别再提取出结构化信息。本次赛题将提供扫描文件数据集，参赛队利用OCR技术自动识别影像资料后，再通过AI智能判断所识别文字的内在逻辑，回答关于图片的自然语言问题。  
+Deadline: 2021-07-09T08:00:00+0800  
+Reward: 120,000  
+
+
 ## AI ChatBot 创意赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/79  

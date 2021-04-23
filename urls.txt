@@ -454,3 +454,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/77
 https://aistudio.baidu.com/aistudio/competition/detail/75
 https://js.dclab.run/v2/cmptDetail.html?id=481
 https://tianchi.aliyun.com/competition/entrance/531893/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/81
