@@ -1,11 +1,17 @@
-> 更新时间: 2021-04-23T15:54:54+0800 
+> 更新时间: 2021-04-24T15:54:47+0800 
 
 # 新上线比赛
 
 
-## AIWIN世界人工智能创新大赛：保险文本视觉认知问答任务
-Link: https://aistudio.baidu.com/aistudio/competition/detail/81  
-Description: 在保险理赔流程和客户服务环节中，存在大量扫描文档，极速理赔、个人健康管理等业务场景，都需要对这些文档进行文字检测识别再提取出结构化信息。本次赛题将提供扫描文件数据集，参赛队利用OCR技术自动识别影像资料后，再通过AI智能判断所识别文字的内在逻辑，回答关于图片的自然语言问题。  
-Deadline: 2021-07-09T08:00:00+0800  
-Reward: 120,000  
+## SIGSPATIAL 2021 GISCUP
+Link: https://www.biendata.xyz/competition/didi-eta/  
+Description: SIGSPATIAL 2021 GISCUP  
+Deadline: 2021-08-09T08:00:00+0800  
+Reward: $25,000  
+
+## 2021年（第14届）中国大学生计算机设计大赛大数据主题赛
+Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 官方获奖证书  
 

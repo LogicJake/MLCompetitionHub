@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-04-23T15:54:54+08:00</updated>
+    <updated>2021-04-24T15:54:47+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,6 +153,20 @@
     
     
     <entry>
+        <id>https://www.biendata.xyz/competition/didi-eta/</id>
+        <title><![CDATA[SIGSPATIAL 2021 GISCUP]]></title>
+        
+        <updated>2021-04-23T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/didi-eta/"/>
+        <summary>SIGSPATIAL 2021 GISCUP</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/didi-eta/"><![CDATA[<h3>Description</h3>SIGSPATIAL 2021 GISCUP<h3>Deadline: 2021-08-09T08:00:00+08:00</h3><h3>Reward: $25,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/sohu_2021/</id>
         <title><![CDATA[2021 Sohu Campus Document Matching AIgorithm Competition]]></title>
         
@@ -266,7 +280,7 @@
         <id>https://dianshi.bce.baidu.com/competition/26</id>
         <title><![CDATA[第二场-用户评论情感极性判别]]></title>
         
-        <updated>2021-04-23T15:54:54+08:00</updated>
+        <updated>2021-04-24T15:54:47+08:00</updated>
         
         <link href="https://dianshi.bce.baidu.com/competition/26"/>
         <summary>练习赛是针对数据新人开设的竞赛，以典型的赛题作为练手，提供培训教程，教你学习大数据相关技术。通过练习赛，可以对大数据新人有更多指导和提升，协助参赛者成为大数据领域专家。</summary>
@@ -395,6 +409,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6080e702c8e4b200177502c0</id>
+        <title><![CDATA[2021年（第14届）中国大学生计算机设计大赛大数据主题赛]]></title>
+        
+        <updated>2021-04-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6080e702c8e4b200177502c0"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6080e702c8e4b200177502c0"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 官方获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/605c426d21e3f6003b56a920</id>
@@ -566,20 +594,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0</id>
-        <title><![CDATA[中国智慧城市数据开放创新大赛]]></title>
-        
-        <updated>2021-01-08T18:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"/>
-        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -658,7 +672,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-04-23T15:54:54+08:00</updated>
+        <updated>2021-04-24T15:54:47+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -672,7 +686,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-04-23T15:54:54+08:00</updated>
+        <updated>2021-04-24T15:54:47+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -686,7 +700,7 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-04-23T15:54:54+08:00</updated>
+        <updated>2021-04-24T15:54:47+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>

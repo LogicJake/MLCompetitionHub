@@ -455,3 +455,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/75
 https://js.dclab.run/v2/cmptDetail.html?id=481
 https://tianchi.aliyun.com/competition/entrance/531893/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/81
+https://www.biendata.xyz/competition/didi-eta/
+https://www.kesci.com/home/competition/6080e702c8e4b200177502c0

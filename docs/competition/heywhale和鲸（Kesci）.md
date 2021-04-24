@@ -2,6 +2,14 @@
 
 
 
+## 2021年（第14届）中国大学生计算机设计大赛大数据主题赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 官方获奖证书  
+
+
 ## 预测分析·民宿价格预测
 
 Link: https://www.kesci.com/home/competition/605c426d21e3f6003b56a920  
@@ -94,14 +102,6 @@ Reward: 30W奖金和亿元政策扶持
 Link: https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 中国智慧城市数据开放创新大赛
-
-Link: https://www.kesci.com/home/competition/5ff816bee09c75002c6bafc0  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
 Deadline: 2021-07-31T00:00:00+0800  
 Reward: 30W奖金和亿元政策扶持  
 
