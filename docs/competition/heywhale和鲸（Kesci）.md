@@ -2,12 +2,12 @@
 
 
 
-## 2021年（第14届）中国大学生计算机设计大赛大数据主题赛 <sup style="color:red">[new]<sup>  
+## 2021第一届数据传道人大赛DATA EVANGELIST <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0  
+Link: https://www.kesci.com/home/competition/6084e6d8a3c95700178bedda  
 Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 官方获奖证书  
+Deadline: 2021-06-21T23:59:00+0800  
+Reward: ¥18,000+提交就有礼+课程收益分成  
 
 
 ## 预测分析·民宿价格预测
@@ -52,6 +52,30 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
+## 2021中国大学生保险数字挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60618cb821e3f6003b56b207  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 30W+奖金+校招内推+荣誉证书+专业培训  
+
+
+## 2021中国大学生保险数字挑战赛-产品赛道 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60755b136e25d40017d41c8e  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 13W+奖金+校招内推+荣誉证书+专业培训  
+
+
+## 2021中国大学生保险数字挑战赛-数字赛道 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/607d279965852e0017ab9575  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 13W+奖金+校招内推+荣誉证书+专业培训  
+
+
 ## 水下声学目标检测赛项
 
 Link: https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5  
@@ -76,32 +100,5 @@ Link: https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
   
 Deadline: 2021-07-31T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 基于地理信息的区域范围企业分析
-
-Link: https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 基于地理信息的舆情传播途径分析
-
-Link: https://www.kesci.com/home/competition/60092a87a96f9e0036c2d05a  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 自动驾驶汽车精准感知方案研究
-
-Link: https://www.kesci.com/home/competition/5fceeaa3807ccb002cb620c6  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T00:00:00+0800  
 Reward: 30W奖金和亿元政策扶持  
 
