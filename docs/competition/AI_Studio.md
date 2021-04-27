@@ -2,7 +2,7 @@
 
 
 
-## 轻量级文字识别技术创新大赛 <sup style="color:red">[new]<sup>  
+## 轻量级文字识别技术创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/75  
 Description: CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。  
