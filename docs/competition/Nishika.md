@@ -2,6 +2,14 @@
 
 
 
+## コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム） <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/15  
+Description: コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）  
+Deadline: 2021-07-20T05:59:00+0800  
+Reward: 50万円,その他特典  
+
+
 ## 中古マンション価格予測 2021春の部
 
 Link: https://www.nishika.com/competitions/14  

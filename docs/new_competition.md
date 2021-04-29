@@ -1,65 +1,17 @@
-> 更新时间: 2021-04-28T15:54:52+0800 
+> 更新时间: 2021-04-29T15:56:31+0800 
 
 # 新上线比赛
 
 
-## RACE Dataset
-Link: https://www.biendata.xyz/competition/race/  
-Description: RACE Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
+## コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）
+Link: https://www.nishika.com/competitions/15  
+Description: コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）  
+Deadline: 2021-07-20T05:59:00+0800  
+Reward: 50万円,その他特典  
 
-## Dream Dataset
-Link: https://www.biendata.xyz/competition/dream/  
-Description: Dream Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## CommonsenseQA Dataset
-Link: https://www.biendata.xyz/competition/commonsense_qa/  
-Description: CommonsenseQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## C3 Dataset
-Link: https://www.biendata.xyz/competition/c3/  
-Description: C3 Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## SciQ Dataset
-Link: https://www.biendata.xyz/competition/sciq/  
-Description: SciQ Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## LogiQA Dataset
-Link: https://www.biendata.xyz/competition/logiqa/  
-Description: LogiQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## MuTual Dataset
-Link: https://www.biendata.xyz/competition/mutual/  
-Description: MuTual Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## RACE-C Dataset
-Link: https://www.biendata.xyz/competition/race_c/  
-Description: RACE-C Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## MCTest Dataset
-Link: https://www.biendata.xyz/competition/mctest/  
-Description: MCTest Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-## OpenBookQA Dataset
-Link: https://www.biendata.xyz/competition/open_book_qa/  
-Description: OpenBookQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
+## AirQo Low-Cost Air Quality Monitor Calibration Challenge
+Link: https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge  
+Description:  Powering up low cost air quality monitors in Kampala, Uganda  
+Deadline: 2021-06-07T07:59:00+0800  
+Reward: $1,000 USD  
 

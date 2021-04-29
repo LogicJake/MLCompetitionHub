@@ -50,6 +50,14 @@ Deadline: 2021-05-31T07:59:00+0800
 Reward: $2,000 USD  
 
 
+## AirQo Low-Cost Air Quality Monitor Calibration Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge  
+Description:  Powering up low cost air quality monitors in Kampala, Uganda  
+Deadline: 2021-06-07T07:59:00+0800  
+Reward: $1,000 USD  
+
+
 ## AFD Gender-Based Violence Dataset Collection Challenge	
 
 Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
