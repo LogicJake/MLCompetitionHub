@@ -2,7 +2,7 @@
 
 
 
-## SIGSPATIAL 2021 GISCUP <sup style="color:red">[new]<sup>  
+## SIGSPATIAL 2021 GISCUP
 
 Link: https://www.biendata.xyz/competition/didi-eta/  
 Description: SIGSPATIAL 2021 GISCUP  

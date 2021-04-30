@@ -85,18 +85,18 @@ Deadline: 2021-05-30T20:00:00+0800
 Reward: 奖金30万+鹏城实验室招聘绿色通道  
 
 
-## Workshop | 医学数据分析
-
-Link: https://www.kesci.com/home/competition/60126ee3301534003a944773  
-Description: 围绕实际应用场景的教案设计：因果分析、meta 分析、机器学习、风险模型预测。有数据有代码，有思路有方法。
-采取 案例探究+项目实战 机制，所有教案项目&作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。  
-Deadline: 2021-04-30T00:00:00+0800  
-Reward: 虚拟蛇徽+购物卡+鲸币+社区周边  
-
-
 ## 基于地理信息的数字孪生社区建设
 
 Link: https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9  
+Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
+  
+Deadline: 2021-07-31T23:59:00+0800  
+Reward: 30W奖金和亿元政策扶持  
+
+
+## 基于地理信息的区域范围企业分析
+
+Link: https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
   
 Deadline: 2021-07-31T23:59:00+0800  
