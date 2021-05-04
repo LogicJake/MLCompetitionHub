@@ -2,6 +2,14 @@
 
 
 
+## RMDS 2021第二季度数据科学竞赛：后疫情时代加州房地产价格趋势预测 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/608afa381ccba70017bfac8c  
+Description: RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励包含千元美金和全球研究方法和数据科学协会的官方证书。  
+Deadline: 2021-06-14T15:00:00+0800  
+Reward: 1500美元现金，获奖证书  
+
+
 ## 2021中国大学生保险数字挑战赛
 
 Link: https://www.kesci.com/home/competition/60618cb821e3f6003b56b207  
@@ -88,15 +96,6 @@ Reward: 奖金30万+鹏城实验室招聘绿色通道
 ## 基于地理信息的数字孪生社区建设
 
 Link: https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 基于地理信息的区域范围企业分析
-
-Link: https://www.kesci.com/home/competition/600929c6a96f9e0036c2d039  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
   
 Deadline: 2021-07-31T23:59:00+0800  
