@@ -2,7 +2,7 @@
 
 
 
-## コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム） <sup style="color:red">[new]<sup>  
+## コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）
 
 Link: https://www.nishika.com/competitions/15  
 Description: コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）  

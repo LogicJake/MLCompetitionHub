@@ -58,6 +58,14 @@ Deadline: 2021-06-07T07:59:00+0800
 Reward: $1,000 USD  
 
 
+## Deepfake Africa Challenge  <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/deepfake-africa-challenge  
+Description: Shining a light on deepfake media & tools in Africa   
+Deadline: 2021-07-31T07:59:00+0800  
+Reward: $1,000 USD  
+
+
 ## AFD Gender-Based Violence Dataset Collection Challenge	
 
 Link: https://zindi.africa/competitions/afd-gender-based-violence-dataset-collection-challenge  
