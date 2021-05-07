@@ -2,7 +2,7 @@
 
 
 
-## RMDS 2021第二季度数据科学竞赛：后疫情时代加州房地产价格趋势预测 <sup style="color:red">[new]<sup>  
+## RMDS 2021第二季度数据科学竞赛：后疫情时代加州房地产价格趋势预测
 
 Link: https://www.kesci.com/home/competition/608afa381ccba70017bfac8c  
 Description: RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励包含千元美金和全球研究方法和数据科学协会的官方证书。  

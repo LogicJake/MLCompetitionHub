@@ -50,19 +50,19 @@ Deadline: 2021-05-31T07:59:00+0800
 Reward: $2,000 USD  
 
 
-## AirQo Low-Cost Air Quality Monitor Calibration Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge  
-Description:  Powering up low cost air quality monitors in Kampala, Uganda  
-Deadline: 2021-06-07T07:59:00+0800  
-Reward: $1,000 USD  
-
-
 ## Deepfake Africa Challenge  <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/deepfake-africa-challenge  
 Description: Shining a light on deepfake media & tools in Africa   
 Deadline: 2021-07-31T07:59:00+0800  
+Reward: $1,500 USD  
+
+
+## AirQo Low-Cost Air Quality Monitor Calibration Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge  
+Description:  Powering up low cost air quality monitors in Kampala, Uganda  
+Deadline: 2021-06-07T07:59:00+0800  
 Reward: $1,000 USD  
 
 
