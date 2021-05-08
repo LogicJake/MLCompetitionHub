@@ -58,7 +58,7 @@ Deadline: 2021-07-31T07:59:00+0800
 Reward: $1,500 USD  
 
 
-## AirQo Low-Cost Air Quality Monitor Calibration Challenge <sup style="color:red">[new]<sup>  
+## AirQo Low-Cost Air Quality Monitor Calibration Challenge
 
 Link: https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge  
 Description:  Powering up low cost air quality monitors in Kampala, Uganda  
