@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-08T15:54:49+08:00</updated>
+    <updated>2021-05-09T15:56:46+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -832,7 +832,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-08T15:54:49+08:00</updated>
+        <updated>2021-05-09T15:56:46+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -846,7 +846,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-08T15:54:49+08:00</updated>
+        <updated>2021-05-09T15:56:46+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -860,129 +860,13 @@
         <id>https://signate.jp/competitions/443</id>
         <title><![CDATA[日本取引所グループ ニュース分析チャレンジ]]></title>
         
-        <updated>2021-05-08T15:54:49+08:00</updated>
+        <updated>2021-05-09T15:56:46+08:00</updated>
         
         <link href="https://signate.jp/competitions/443"/>
         <summary>ニュースでポートフォリオを構築しよう！</summary>
         <content type="text/html" src="https://signate.jp/competitions/443"><![CDATA[<h3>Description</h3>ニュースでポートフォリオを構築しよう！<h3>Deadline: 2021-05-09T23:59:59+08:00</h3><h3>Reward: 総額¥830,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650</id>
-        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 2)]]></title>
-        
-        <updated>2021-04-21T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"/>
-        <summary>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
-大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"><![CDATA[<h3>Description</h3>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
-大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-06-18T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道三】(赛季 2)]]></title>
-        
-        <updated>2021-04-14T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"/>
-        <summary>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/8e4e342f9082b489ab30a349ed7c56e9"><![CDATA[<h3>Description</h3>赛场三以“小布助手对话短文本语义匹配”为课题，要求参赛队伍根据脱敏后的短文本query-pair，预测它们是否属于同一语义。<h3>Deadline: 2021-05-14T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道二】(赛季 2)]]></title>
-        
-        <updated>2021-04-14T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"/>
-        <summary>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"><![CDATA[<h3>Description</h3>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。<h3>Deadline: 2021-05-13T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道一】(赛季 2)]]></title>
-        
-        <updated>2021-04-14T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"/>
-        <summary>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"><![CDATA[<h3>Description</h3>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。<h3>Deadline: 2021-05-12T23:05:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531893/introduction</id>
-        <title><![CDATA[ACM MM 2021 Watch and Buy: Multimodal Product Identification Challenge(赛季 1)]]></title>
-        
-        <updated>2021-04-20T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531893/introduction"/>
-        <summary>ACM MM 2021 workshop challenge for multimodal product identification task.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531893/introduction"><![CDATA[<h3>Description</h3>ACM MM 2021 workshop challenge for multimodal product identification task.<h3>Deadline: 2021-06-20T12:00:00+08:00</h3><h3>Reward: $10000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531885/introduction</id>
-        <title><![CDATA[CVPR2021 PIC Challenge: 3D Face Reconstruction From Multiple 2D Images(赛季 1)]]></title>
-        
-        <updated>2021-04-01T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531885/introduction"/>
-        <summary>CVPR 2021 Person In Context Workshop比赛，主要内容是基于多张图片进行3D人脸重建</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531885/introduction"><![CDATA[<h3>Description</h3>CVPR 2021 Person In Context Workshop比赛，主要内容是基于多张图片进行3D人脸重建<h3>Deadline: 2021-06-04T10:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531884/introduction</id>
-        <title><![CDATA[CVPR 2021 AliProducts Challenge: Large-scale Product Recognition(赛季 1)]]></title>
-        
-        <updated>2021-03-17T14:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531884/introduction"/>
-        <summary>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531884/introduction"><![CDATA[<h3>Description</h3>The widespread use of computer vision methods in the retail industry has sparked a new set of challenges, such as the difficult task of correctly distinguishing between a large number of products, especially when the products are quite similar.<h3>Deadline: 2021-06-09T12:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531888/introduction</id>
-        <title><![CDATA[ACM MM2021 安全AI挑战者计划第七期：鲁棒性标识检测(赛季 1)]]></title>
-        
-        <updated>2021-04-01T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531888/introduction"/>
-        <summary>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531888/introduction"><![CDATA[<h3>Description</h3>鲁棒性标识检测比赛需要参赛者完成在同时兼顾小目标、长尾类别、对抗干扰等情况下完成标识检测任务。<h3>Deadline: 2021-07-07T23:59:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
