@@ -18,14 +18,6 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## Dream Dataset
-
-Link: https://www.biendata.xyz/competition/dream/  
-Description: Dream Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
 ## CommonsenseQA Dataset
 
 Link: https://www.biendata.xyz/competition/commonsense_qa/  
@@ -90,12 +82,12 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## 2021 Sohu Campus Document Matching AIgorithm Competition
+## Dream Dataset
 
-Link: https://www.biendata.xyz/competition/sohu_2021/  
-Description: 2021 Sohu Campus Document Matching AIgorithm Competition  
-Deadline: 2021-05-10T08:00:00+0800  
-Reward: ￥65,000  
+Link: https://www.biendata.xyz/competition/dream/  
+Description: Dream Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
 
 
 ## 2021 Hai Hua AI Competition (K12)
