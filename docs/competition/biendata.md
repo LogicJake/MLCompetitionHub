@@ -18,14 +18,6 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## CommonsenseQA Dataset
-
-Link: https://www.biendata.xyz/competition/commonsense_qa/  
-Description: CommonsenseQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
 ## C3 Dataset
 
 Link: https://www.biendata.xyz/competition/c3/  
@@ -90,10 +82,10 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## 2021 Hai Hua AI Competition (K12)
+## CommonsenseQA Dataset
 
-Link: https://www.biendata.xyz/competition/haihua2021_k12/  
-Description: 2021 Hai Hua AI Competition (K12)  
-Deadline: 2021-05-10T08:00:00+0800  
-Reward: ￥90,000  
+Link: https://www.biendata.xyz/competition/commonsense_qa/  
+Description: CommonsenseQA Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
 
