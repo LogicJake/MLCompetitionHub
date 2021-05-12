@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-11T15:54:53+08:00</updated>
+    <updated>2021-05-12T15:54:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,6 +181,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/c3/</id>
         <title><![CDATA[C3 Dataset]]></title>
         
@@ -287,20 +301,6 @@
         <link href="https://www.biendata.xyz/competition/dream/"/>
         <summary>Dream Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
-        <title><![CDATA[CommonsenseQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
-        <summary>CommonsenseQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -457,20 +457,6 @@
         <link href="https://www.kaggle.com/c/bms-molecular-translation"/>
         <summary>Can you translate chemical images to text?</summary>
         <content type="text/html" src="https://www.kaggle.com/c/bms-molecular-translation"><![CDATA[<h3>Description</h3>Can you translate chemical images to text?<h3>Deadline: 2021-06-03T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/hpa-single-cell-image-classification</id>
-        <title><![CDATA[Human Protein Atlas - Single Cell Classification]]></title>
-        
-        <updated>2021-01-27T07:56:29+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/hpa-single-cell-image-classification"/>
-        <summary>Find individual human cell differences in microscope images</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/hpa-single-cell-image-classification"><![CDATA[<h3>Description</h3>Find individual human cell differences in microscope images<h3>Deadline: 2021-05-12T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -790,7 +776,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-11T15:54:53+08:00</updated>
+        <updated>2021-05-12T15:54:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -804,7 +790,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-11T15:54:53+08:00</updated>
+        <updated>2021-05-12T15:54:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>

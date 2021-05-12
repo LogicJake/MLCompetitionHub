@@ -34,14 +34,6 @@ Deadline: 2021-06-03T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## Human Protein Atlas - Single Cell Classification
-
-Link: https://www.kaggle.com/c/hpa-single-cell-image-classification  
-Description: Find individual human cell differences in microscope images  
-Deadline: 2021-05-12T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## SETI Breakthrough Listen - E.T. Signal Search <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/seti-breakthrough-listen  

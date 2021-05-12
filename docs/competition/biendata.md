@@ -18,6 +18,14 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
+## CommonsenseQA Dataset
+
+Link: https://www.biendata.xyz/competition/commonsense_qa/  
+Description: CommonsenseQA Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
 ## C3 Dataset
 
 Link: https://www.biendata.xyz/competition/c3/  
@@ -78,14 +86,6 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/dream/  
 Description: Dream Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## CommonsenseQA Dataset
-
-Link: https://www.biendata.xyz/competition/commonsense_qa/  
-Description: CommonsenseQA Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
