@@ -42,7 +42,7 @@ Deadline: 2021-05-31T07:59:00+0800
 Reward: $2,000 USD  
 
 
-## Deepfake Africa Challenge  <sup style="color:red">[new]<sup>  
+## Deepfake Africa Challenge 
 
 Link: https://zindi.africa/competitions/deepfake-africa-challenge  
 Description: Shining a light on deepfake media & tools in Africa   

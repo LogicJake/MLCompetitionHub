@@ -478,3 +478,4 @@ https://www.kaggle.com/c/commonlitreadabilityprize
 https://www.kesci.com/home/competition/608afa381ccba70017bfac8c
 https://zindi.africa/competitions/deepfake-africa-challenge
 https://www.kaggle.com/c/seti-breakthrough-listen
+https://js.dclab.run/v2/cmptDetail.html?id=482

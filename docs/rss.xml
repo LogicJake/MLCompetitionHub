@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-12T15:54:54+08:00</updated>
+    <updated>2021-05-13T15:54:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -311,6 +311,20 @@
     
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=482</id>
+        <title><![CDATA[“数源杯”- 百万单细胞基因表达数据算法大赛]]></title>
+        
+        <updated>2021-05-13T14:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=482"/>
+        <summary>单细胞转录组测序（scRNA-seq）已成为鉴定和表征细胞类型、状态、谱系和网络的核心工具。将细胞聚类成簇通常是任何单细胞分析的第一个中间结果。聚类分析的目的是在待定义细胞类型的数据集中保留主要的变异来源，同时尽量屏蔽由于无用的变异来源（测序深度，细胞周期差异，线粒体表达，批次效应等）而产生的变异。目前已有多个成熟的单细胞聚类算法，例如经典的层次聚类和K-means，专门为单细胞技术开发的SC3聚类等，随着单细胞数据的不断产出，数据处理的通量将不断攀升，所以单细胞聚类算法的性能也需要不断提升。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=482"><![CDATA[<h3>Description</h3>单细胞转录组测序（scRNA-seq）已成为鉴定和表征细胞类型、状态、谱系和网络的核心工具。将细胞聚类成簇通常是任何单细胞分析的第一个中间结果。聚类分析的目的是在待定义细胞类型的数据集中保留主要的变异来源，同时尽量屏蔽由于无用的变异来源（测序深度，细胞周期差异，线粒体表达，批次效应等）而产生的变异。目前已有多个成熟的单细胞聚类算法，例如经典的层次聚类和K-means，专门为单细胞技术开发的SC3聚类等，随着单细胞数据的不断产出，数据处理的通量将不断攀升，所以单细胞聚类算法的性能也需要不断提升。<h3>Deadline: 2021-08-15T23:59:59+08:00</h3><h3>Reward: ￥53000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=481</id>
         <title><![CDATA[KDD Cup 城市大脑挑战赛]]></title>
         
@@ -401,108 +415,6 @@
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041411/introduction"><![CDATA[<h3>Description</h3>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. <h3>Deadline: 2021-07-15T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://www.kaggle.com/c/jane-street-market-prediction</id>
-        <title><![CDATA[Jane Street Market Prediction]]></title>
-        
-        <updated>2020-11-24T01:15:09+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/jane-street-market-prediction"/>
-        <summary>Test your model against future real market data</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/jane-street-market-prediction"><![CDATA[<h3>Description</h3>Test your model against future real market data<h3>Deadline: 2021-08-24T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data</id>
-        <title><![CDATA[Coleridge Initiative - Show US the Data ]]></title>
-        
-        <updated>2021-03-24T04:01:16+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data"/>
-        <summary>Discover how data is used for the public good</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data"><![CDATA[<h3>Description</h3>Discover how data is used for the public good<h3>Deadline: 2021-06-23T07:59:00+08:00</h3><h3>Reward: 90000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/commonlitreadabilityprize</id>
-        <title><![CDATA[CommonLit Readability Prize]]></title>
-        
-        <updated>2021-05-04T00:22:03+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/commonlitreadabilityprize"/>
-        <summary>Rate the complexity of literary passages for grades 3-12 classroom use</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/commonlitreadabilityprize"><![CDATA[<h3>Description</h3>Rate the complexity of literary passages for grades 3-12 classroom use<h3>Deadline: 2021-08-03T07:59:00+08:00</h3><h3>Reward: 60000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/bms-molecular-translation</id>
-        <title><![CDATA[Bristol-Myers Squibb – Molecular Translation]]></title>
-        
-        <updated>2021-03-03T02:57:15+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/bms-molecular-translation"/>
-        <summary>Can you translate chemical images to text?</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/bms-molecular-translation"><![CDATA[<h3>Description</h3>Can you translate chemical images to text?<h3>Deadline: 2021-06-03T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/seti-breakthrough-listen</id>
-        <title><![CDATA[SETI Breakthrough Listen - E.T. Signal Search]]></title>
-        
-        <updated>2021-05-11T04:36:04+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/seti-breakthrough-listen"/>
-        <summary>Find extraterrestrial signals in data from deep space  </summary>
-        <content type="text/html" src="https://www.kaggle.com/c/seti-breakthrough-listen"><![CDATA[<h3>Description</h3>Find extraterrestrial signals in data from deep space  <h3>Deadline: 2021-07-29T07:59:00+08:00</h3><h3>Reward: 15000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/indoor-location-navigation</id>
-        <title><![CDATA[Indoor Location &amp; Navigation]]></title>
-        
-        <updated>2021-01-29T02:25:03+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/indoor-location-navigation"/>
-        <summary>Identify the position of a smartphone in a shopping mall</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/indoor-location-navigation"><![CDATA[<h3>Description</h3>Identify the position of a smartphone in a shopping mall<h3>Deadline: 2021-05-18T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/birdclef-2021</id>
-        <title><![CDATA[BirdCLEF 2021 - Birdcall Identification]]></title>
-        
-        <updated>2021-04-01T23:08:15+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/birdclef-2021"/>
-        <summary>Identify bird calls in soundscape recordings
-</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/birdclef-2021"><![CDATA[<h3>Description</h3>Identify bird calls in soundscape recordings
-<h3>Deadline: 2021-06-01T07:59:00+08:00</h3><h3>Reward: 5000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
         </author>
     </entry>
     
@@ -776,7 +688,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-12T15:54:54+08:00</updated>
+        <updated>2021-05-13T15:54:53+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -790,7 +702,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-12T15:54:54+08:00</updated>
+        <updated>2021-05-13T15:54:53+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -841,20 +753,6 @@
         <link href="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"/>
         <summary>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/s/90be723a0c5fc4c147067d0f60f416fd"><![CDATA[<h3>Description</h3>赛场二以“PANDA大场景多对象检测跟踪”为课题，包含大场景多目标检测、追踪等视觉任务，要求参赛队伍关注动态大场景多对象数据处理算法的研究。<h3>Deadline: 2021-05-13T23:55:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f</id>
-        <title><![CDATA[全球人工智能技术创新大赛【赛道一】(赛季 2)]]></title>
-        
-        <updated>2021-04-14T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"/>
-        <summary>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/bf49e637c446730de6fd3f397e5a251f"><![CDATA[<h3>Description</h3>赛场一以“医学影像报告异常检测”为课题，要求参赛队伍根据医生对CT的影像描述文本数据，判断身体若干目标区域是否有异常以及异常的类型。<h3>Deadline: 2021-05-12T23:05:00+08:00</h3><h3>Reward: ￥1500000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
