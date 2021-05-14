@@ -1,11 +1,11 @@
-> 更新时间: 2021-05-13T15:54:53+0800 
+> 更新时间: 2021-05-14T15:59:32+0800 
 
 # 新上线比赛
 
 
-## “数源杯”- 百万单细胞基因表达数据算法大赛
-Link: https://js.dclab.run/v2/cmptDetail.html?id=482  
-Description: 单细胞转录组测序（scRNA-seq）已成为鉴定和表征细胞类型、状态、谱系和网络的核心工具。将细胞聚类成簇通常是任何单细胞分析的第一个中间结果。聚类分析的目的是在待定义细胞类型的数据集中保留主要的变异来源，同时尽量屏蔽由于无用的变异来源（测序深度，细胞周期差异，线粒体表达，批次效应等）而产生的变异。目前已有多个成熟的单细胞聚类算法，例如经典的层次聚类和K-means，专门为单细胞技术开发的SC3聚类等，随着单细胞数据的不断产出，数据处理的通量将不断攀升，所以单细胞聚类算法的性能也需要不断提升。  
-Deadline: 2021-08-15T23:59:59+0800  
-Reward: ￥53000  
+## Massive General Domain Event Detection Challenge
+Link: https://www.biendata.xyz/competition/ccks_2021_maven/  
+Description: Massive General Domain Event Detection Challenge  
+Deadline: 2021-08-21T08:00:00+0800  
+Reward: ￥20,000  
 

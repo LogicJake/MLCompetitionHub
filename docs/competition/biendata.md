@@ -89,3 +89,11 @@ Description: Dream Dataset
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
+
+## Massive General Domain Event Detection Challenge
+
+Link: https://www.biendata.xyz/competition/ccks_2021_maven/  
+Description: Massive General Domain Event Detection Challenge  
+Deadline: 2021-08-21T08:00:00+0800  
+Reward: ￥20,000  
+
