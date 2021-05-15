@@ -2,6 +2,14 @@
 
 
 
+## CCKS 2021: Knowledge Graph based Question Answering on Life Service <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks_2021_ckbqa/  
+Description: CCKS 2021: Knowledge Graph based Question Answering on Life Service  
+Deadline: 2021-07-20T08:00:00+0800  
+Reward: ￥40,000  
+
+
 ## SIGSPATIAL 2021 GISCUP
 
 Link: https://www.biendata.xyz/competition/didi-eta/  
@@ -14,6 +22,14 @@ Reward: $25,000
 
 Link: https://www.biendata.xyz/competition/race/  
 Description: RACE Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## MCTest Dataset
+
+Link: https://www.biendata.xyz/competition/mctest/  
+Description: MCTest Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
@@ -62,14 +78,6 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/race_c/  
 Description: RACE-C Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## MCTest Dataset
-
-Link: https://www.biendata.xyz/competition/mctest/  
-Description: MCTest Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 

@@ -480,3 +480,7 @@ https://zindi.africa/competitions/deepfake-africa-challenge
 https://www.kaggle.com/c/seti-breakthrough-listen
 https://js.dclab.run/v2/cmptDetail.html?id=482
 https://www.biendata.xyz/competition/ccks_2021_maven/
+https://www.biendata.xyz/competition/ccks_2021_ckbqa/
+https://tianchi.aliyun.com/competition/entrance/531899/introduction
+https://tianchi.aliyun.com/competition/entrance/531898/introduction
+https://tianchi.aliyun.com/competition/entrance/531897/introduction
