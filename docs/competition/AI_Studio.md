@@ -58,14 +58,6 @@ Deadline: 2021-05-20T08:00:00+0800
 Reward: ￥100,000  
 
 
-## 2021语言与智能技术竞赛：多技能对话任务
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/67  
-Description: 本次用于评测的千言－多技能对话数据集涵盖了多个对话场景：包括画像对话、知识对话、推荐对话等。我们旨在衡量开放域对话模型在各个不同技能上的效果和模型通用性。  
-Deadline: 2021-05-16T08:00:00+0800  
-Reward: ￥100,000  
-
-
 ## 「软件杯」大学生软件设计大赛-本科组：行人追踪
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/73  

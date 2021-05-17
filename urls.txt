@@ -484,3 +484,7 @@ https://www.biendata.xyz/competition/ccks_2021_ckbqa/
 https://tianchi.aliyun.com/competition/entrance/531899/introduction
 https://tianchi.aliyun.com/competition/entrance/531898/introduction
 https://tianchi.aliyun.com/competition/entrance/531897/introduction
+https://www.biendata.xyz/competition/ccks_2021_eti/
+https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/
+https://www.biendata.xyz/competition/ccks_2021_cpe_1/
+https://www.biendata.xyz/competition/ccks_2021_cpe_2/
