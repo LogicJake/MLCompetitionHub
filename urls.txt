@@ -488,3 +488,11 @@ https://www.biendata.xyz/competition/ccks_2021_eti/
 https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/
 https://www.biendata.xyz/competition/ccks_2021_cpe_1/
 https://www.biendata.xyz/competition/ccks_2021_cpe_2/
+https://www.biendata.xyz/competition/ccks_2021_task6_1/
+https://www.biendata.xyz/competition/ccks_2021_task6_2/
+https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/
+https://js.dclab.run/v2/cmptDetail.html?id=483
+https://competition.huaweicloud.com/information/1000041388/introduction
+https://competition.huaweicloud.com/information/1000041392/introduction
+https://tianchi.aliyun.com/competition/entrance/531901/introduction
+https://tianchi.aliyun.com/competition/entrance/531900/introduction

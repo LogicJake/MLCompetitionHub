@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-17T15:56:54+08:00</updated>
+    <updated>2021-05-18T16:33:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -137,6 +137,48 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
+        <title><![CDATA[Event Elements Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
+        <summary>Event Elements Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
+        <title><![CDATA[Event Causality Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
+        <summary>Event Causality Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/</id>
+        <title><![CDATA[ccks_2021_UAVs_KG]]></title>
+        
+        <updated>2021-05-17T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/"/>
+        <summary>ccks_2021_UAVs_KG</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/"><![CDATA[<h3>Description</h3>ccks_2021_UAVs_KG<h3>Deadline: 2021-07-19T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_eti/</id>
@@ -395,6 +437,20 @@
     </entry>
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=483</id>
+        <title><![CDATA[第六届信也科技杯算法大赛]]></title>
+        
+        <updated>2021-05-17T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=483"/>
+        <summary>       第六届信也科技杯算法大赛，在2021年5月18日至2021年8月举行，总奖池高达31万人民币。本届大赛以智能零售为场景，提供真实图片数据，探索智能零售领域的图像识别方案，从而让机器更精准地识别商品，通过更快捷地购物带来全新的客户体验。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=483"><![CDATA[<h3>Description</h3>       第六届信也科技杯算法大赛，在2021年5月18日至2021年8月举行，总奖池高达31万人民币。本届大赛以智能零售为场景，提供真实图片数据，探索智能零售领域的图像识别方案，从而让机器更精准地识别商品，通过更快捷地购物带来全新的客户体验。<h3>Deadline: 2021-08-15T23:59:59+08:00</h3><h3>Reward: ￥310000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=481</id>
         <title><![CDATA[KDD Cup 城市大脑挑战赛]]></title>
         
@@ -488,6 +544,34 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000041388/introduction</id>
+        <title><![CDATA[“华为云杯”2021人工智能应用创新大赛·创客赛道]]></title>
+        
+        <updated>2021-04-22T15:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041388/introduction"/>
+        <summary>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-07-20T17:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000041392/introduction</id>
+        <title><![CDATA[“华为云杯”2021人工智能创新应用大赛·企业赛道]]></title>
+        
+        <updated>2021-04-22T15:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041392/introduction"/>
+        <summary>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041392/introduction"><![CDATA[<h3>Description</h3>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。<h3>Deadline: 2021-07-20T17:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -498,7 +582,7 @@
         
         <link href="https://www.kesci.com/home/competition/608afa381ccba70017bfac8c"/>
         <summary>RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励含千元美金、全球研究方法和数据科学协会的官方证书等。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/608afa381ccba70017bfac8c"><![CDATA[<h3>Description</h3>RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励含千元美金、全球研究方法和数据科学协会的官方证书等。<h3>Deadline: 2021-06-14T15:00:00+08:00</h3><h3>Reward: 1500美元现金，获奖证书，IM Data峰会展示</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/608afa381ccba70017bfac8c"><![CDATA[<h3>Description</h3>RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励含千元美金、全球研究方法和数据科学协会的官方证书等。<h3>Deadline: 2021-06-14T15:00:00+08:00</h3><h3>Reward: 1500美元奖金+获奖证书+IM Data峰会展示</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -635,6 +719,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/6080e702c8e4b200177502c0</id>
+        <title><![CDATA[2021年（第14届）中国大学生计算机设计大赛大数据主题赛]]></title>
+        
+        <updated>2021-04-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6080e702c8e4b200177502c0"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6080e702c8e4b200177502c0"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 官方获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5</id>
         <title><![CDATA[水下声学目标检测赛项]]></title>
         
@@ -645,22 +743,6 @@
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金30万+鹏城实验室招聘绿色通道</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9</id>
-        <title><![CDATA[基于地理信息的数字孪生社区建设]]></title>
-        
-        <updated>2021-01-22T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9"/>
-        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -758,7 +840,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-17T15:56:54+08:00</updated>
+        <updated>2021-05-18T16:33:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -772,13 +854,115 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-17T15:56:54+08:00</updated>
+        <updated>2021-05-18T16:33:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
         <content type="text/html" src="https://signate.jp/competitions/444"><![CDATA[<h3>Description</h3>間取り図から部屋領域や建具を認識しよう!<h3>Deadline: 2021-06-30T00:00:00+08:00</h3><h3>Reward: 総額¥2,000,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531899/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道三：识别高空作业及安全带佩戴(赛季 1)]]></title>
+        
+        <updated>2021-05-14T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531899/introduction"/>
+        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531898/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道二：识别规范穿戴工作服(赛季 1)]]></title>
+        
+        <updated>2021-05-14T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531898/introduction"/>
+        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531897/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道一：识别佩戴绝缘手套(赛季 1)]]></title>
+        
+        <updated>2021-05-14T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
+        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
+        <title><![CDATA[“至强杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 1)]]></title>
+        
+        <updated>2021-05-17T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-06-25T23:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
+        <title><![CDATA[“至强杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 1)]]></title>
+        
+        <updated>2021-05-17T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-06-25T23:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650</id>
+        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 2)]]></title>
+        
+        <updated>2021-04-21T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"/>
+        <summary>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
+大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"><![CDATA[<h3>Description</h3>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
+大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-06-18T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531893/introduction</id>
+        <title><![CDATA[ACM MM 2021 Watch and Buy: Multimodal Product Identification Challenge(赛季 1)]]></title>
+        
+        <updated>2021-04-20T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531893/introduction"/>
+        <summary>ACM MM 2021 workshop challenge for multimodal product identification task.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531893/introduction"><![CDATA[<h3>Description</h3>ACM MM 2021 workshop challenge for multimodal product identification task.<h3>Deadline: 2021-06-20T12:00:00+08:00</h3><h3>Reward: $10000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     

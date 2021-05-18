@@ -7,7 +7,7 @@
 Link: https://www.kesci.com/home/competition/608afa381ccba70017bfac8c  
 Description: RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励含千元美金、全球研究方法和数据科学协会的官方证书等。  
 Deadline: 2021-06-14T15:00:00+0800  
-Reward: 1500美元现金，获奖证书，IM Data峰会展示  
+Reward: 1500美元奖金+获奖证书+IM Data峰会展示  
 
 
 ## 2021中国大学生保险数字挑战赛
@@ -84,6 +84,14 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
+## 2021年（第14届）中国大学生计算机设计大赛大数据主题赛
+
+Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 官方获奖证书  
+
+
 ## 水下声学目标检测赛项
 
 Link: https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5  
@@ -91,13 +99,4 @@ Description:  “水下目标检测算法赛”是2020年初的一个全新算�
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
 Deadline: 2021-05-30T20:00:00+0800  
 Reward: 奖金30万+鹏城实验室招聘绿色通道  
-
-
-## 基于地理信息的数字孪生社区建设
-
-Link: https://www.kesci.com/home/competition/6009166fa96f9e0036c2cff9  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛
-  
-Deadline: 2021-07-31T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
 

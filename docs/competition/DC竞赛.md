@@ -10,6 +10,14 @@ Deadline: 2021-08-15T23:59:59+0800
 Reward: ￥53000  
 
 
+## 第六届信也科技杯算法大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://js.dclab.run/v2/cmptDetail.html?id=483  
+Description:        第六届信也科技杯算法大赛，在2021年5月18日至2021年8月举行，总奖池高达31万人民币。本届大赛以智能零售为场景，提供真实图片数据，探索智能零售领域的图像识别方案，从而让机器更精准地识别商品，通过更快捷地购物带来全新的客户体验。  
+Deadline: 2021-08-15T23:59:59+0800  
+Reward: ￥310000  
+
+
 ## KDD Cup 城市大脑挑战赛
 
 Link: https://js.dclab.run/v2/cmptDetail.html?id=481  

@@ -2,6 +2,30 @@
 
 
 
+## Event Elements Extraction <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
+Description: Event Elements Extraction  
+Deadline: 2021-07-21T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## Event Causality Extraction <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
+Description: Event Causality Extraction  
+Deadline: 2021-07-21T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## ccks_2021_UAVs_KG <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/  
+Description: ccks_2021_UAVs_KG  
+Deadline: 2021-07-19T08:00:00+0800  
+Reward: ￥50,000  
+
+
 ## Entity Type Inference for General Encyclopedia Knowledge Graph <sup style="color:red">[new]<sup>  
 
 Link: https://www.biendata.xyz/competition/ccks_2021_eti/  
