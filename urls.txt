@@ -496,3 +496,6 @@ https://competition.huaweicloud.com/information/1000041388/introduction
 https://competition.huaweicloud.com/information/1000041392/introduction
 https://tianchi.aliyun.com/competition/entrance/531901/introduction
 https://tianchi.aliyun.com/competition/entrance/531900/introduction
+https://js.dclab.run/v2/cmptDetail.html?id=484
+https://js.dclab.run/v2/cmptDetail.html?id=485
+https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge

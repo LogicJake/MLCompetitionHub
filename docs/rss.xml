@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-18T16:33:55+08:00</updated>
+    <updated>2021-05-19T15:54:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -423,6 +423,34 @@
     
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=484</id>
+        <title><![CDATA[逾期风控预测]]></title>
+        
+        <updated>2021-05-18T15:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=484"/>
+        <summary>与汽车行业，房地产行业类似，在工程机械行业的销售中，客户购买产品前往往有融资需求，这给企业创造了一些商机，但同时也会带来一定的货款还款风险。要将利益最大化的同时降低自身风险，就需要通过对数据的分析提前认识，分析以及预判出这类风险，筛选出后期有可能逾期还款的客户，这对于企业的经营风险管理显得尤为重要。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=484"><![CDATA[<h3>Description</h3>与汽车行业，房地产行业类似，在工程机械行业的销售中，客户购买产品前往往有融资需求，这给企业创造了一些商机，但同时也会带来一定的货款还款风险。要将利益最大化的同时降低自身风险，就需要通过对数据的分析提前认识，分析以及预判出这类风险，筛选出后期有可能逾期还款的客户，这对于企业的经营风险管理显得尤为重要。<h3>Deadline: 2021-07-22T00:00:00+08:00</h3><h3>Reward: ￥194300</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=485</id>
+        <title><![CDATA[挖掘机工作模式识别]]></title>
+        
+        <updated>2021-05-18T15:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=485"/>
+        <summary>挖掘机作为工程建设中最主要的工程机械之一，承担着多种作业任务，可进行多种不同形式的作业。 </summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=485"><![CDATA[<h3>Description</h3>挖掘机作为工程建设中最主要的工程机械之一，承担着多种作业任务，可进行多种不同形式的作业。 <h3>Deadline: 2021-07-22T15:00:00+08:00</h3><h3>Reward: ¥194300</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=482</id>
         <title><![CDATA[“数源杯”- 百万单细胞基因表达数据算法大赛]]></title>
         
@@ -840,7 +868,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-18T16:33:55+08:00</updated>
+        <updated>2021-05-19T15:54:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -854,7 +882,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-18T16:33:55+08:00</updated>
+        <updated>2021-05-19T15:54:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -873,8 +901,8 @@
         <updated>2021-05-14T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531899/introduction"/>
-        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -887,8 +915,8 @@
         <updated>2021-05-14T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531898/introduction"/>
-        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -901,8 +929,8 @@
         <updated>2021-05-14T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
-        <summary>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>广东电网供电安全智能挑战赛，由广东电网有限责任公司主办，阿里云天池平台承办，旨在推动将人工智能技术应用于电力作业安全，通过技术手段辅助作业人员更好进行安全监理工作，高效提升电网公司作业安全的管理水平。本次大赛将结合电网公司供电作业的实际场景，面向公众开发者们开放赛题，寻找供电安全操作的解决方案，打造守护电力安全的全周期智能防线。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限责任公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1065,6 +1093,20 @@
         <link href="https://zindi.africa/competitions/deepfake-africa-challenge"/>
         <summary>Shining a light on deepfake media &amp; tools in Africa </summary>
         <content type="text/html" src="https://zindi.africa/competitions/deepfake-africa-challenge"><![CDATA[<h3>Description</h3>Shining a light on deepfake media &amp; tools in Africa <h3>Deadline: 2021-07-31T07:59:00+08:00</h3><h3>Reward: $1,500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge</id>
+        <title><![CDATA[iX Mobile Banking Prediction Challenge]]></title>
+        
+        <updated>2021-05-17T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge"/>
+        <summary>The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge"><![CDATA[<h3>Description</h3>The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.<h3>Deadline: 2021-06-14T07:59:00+08:00</h3><h3>Reward: Scholarship worth $3,495 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
