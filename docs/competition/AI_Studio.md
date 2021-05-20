@@ -2,6 +2,14 @@
 
 
 
+## MICCAI2021 Contest : GAMMA <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/90  
+Description: GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of fovea macula in fundus images; 3) Segmentation of optic disc and cup in fundus images.  
+Deadline: 2021-10-01T08:00:00+0800  
+Reward: €4,000  
+
+
 ## 轻量级文字识别技术创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/75  
@@ -62,14 +70,6 @@ Reward: ￥100,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/73  
 Description: 第十届“中国软件杯”大学生软件设计大赛-本科组赛道，工信部主办重量级大学生国赛！  
-Deadline: 2021-07-01T08:00:00+0800  
-Reward: 全国大学生竞赛  
-
-
-## 「软件杯」大学生软件设计大赛-高职组：电路板故障检测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/74  
-Description: 第十届“中国软件杯”大学生软件设计大赛-高职组赛道，工信部主办重量级大学生国赛！  
 Deadline: 2021-07-01T08:00:00+0800  
 Reward: 全国大学生竞赛  
 

@@ -1,23 +1,29 @@
-> 更新时间: 2021-05-19T15:54:55+0800 
+> 更新时间: 2021-05-20T15:55:34+0800 
 
 # 新上线比赛
 
 
-## 逾期风控预测
-Link: https://js.dclab.run/v2/cmptDetail.html?id=484  
-Description: 与汽车行业，房地产行业类似，在工程机械行业的销售中，客户购买产品前往往有融资需求，这给企业创造了一些商机，但同时也会带来一定的货款还款风险。要将利益最大化的同时降低自身风险，就需要通过对数据的分析提前认识，分析以及预判出这类风险，筛选出后期有可能逾期还款的客户，这对于企业的经营风险管理显得尤为重要。  
-Deadline: 2021-07-22T00:00:00+0800  
-Reward: ￥194300  
+## MICCAI2021 Contest : GAMMA
+Link: https://aistudio.baidu.com/aistudio/competition/detail/90  
+Description: GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of fovea macula in fundus images; 3) Segmentation of optic disc and cup in fundus images.  
+Deadline: 2021-10-01T08:00:00+0800  
+Reward: €4,000  
 
-## 挖掘机工作模式识别
-Link: https://js.dclab.run/v2/cmptDetail.html?id=485  
-Description: 挖掘机作为工程建设中最主要的工程机械之一，承担着多种作业任务，可进行多种不同形式的作业。   
-Deadline: 2021-07-22T15:00:00+0800  
-Reward: ¥194300  
+## ccks_2021_tencentmedical_2
+Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
+Description: ccks_2021_tencentmedical_2  
+Deadline: 2021-07-20T08:00:00+0800  
+Reward: ￥30,000  
 
-## iX Mobile Banking Prediction Challenge
-Link: https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge  
-Description: The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.  
-Deadline: 2021-06-14T07:59:00+0800  
-Reward: Scholarship worth $3,495 USD  
+## ccks_2021_tencentmedical_1
+Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/  
+Description: ccks_2021_tencentmedical_1  
+Deadline: 2021-07-20T08:00:00+0800  
+Reward: ￥30,000  
+
+## “至强杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531902/introduction  
+Description: OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。  
+Deadline: 2021-07-12T12:00:00+0800  
+Reward: ￥100000  
 
