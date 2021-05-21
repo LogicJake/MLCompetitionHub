@@ -2,6 +2,15 @@
 
 
 
+## Workshop | R语言社会科学数据分析 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2  
+Description: 围绕实际应用场景的教案设计：缺失值处理、探索性因子分析、交互效应。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。  
+Deadline: 2021-06-23T00:00:00+0800  
+Reward: 纸质书+购物卡+鲸币+社区周边  
+
+
 ## RMDS 2021第二季度数据科学竞赛：后疫情时代加州房地产价格趋势预测
 
 Link: https://www.kesci.com/home/competition/608afa381ccba70017bfac8c  
@@ -90,13 +99,4 @@ Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0
 Description:   
 Deadline: 2021-07-31T00:00:00+0800  
 Reward: 官方获奖证书  
-
-
-## 水下声学目标检测赛项
-
-Link: https://www.kesci.com/home/competition/605ab7f821e3f6003b56a7e5  
-Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
-Deadline: 2021-05-30T20:00:00+0800  
-Reward: 奖金30万+鹏城实验室招聘绿色通道  
 

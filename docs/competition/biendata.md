@@ -2,10 +2,10 @@
 
 
 
-## ccks_2021_tencentmedical_2 <sup style="color:red">[new]<sup>  
+## CCKS 2021: Entity-aware Chinese Medical Dialogue Generation <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
-Description: ccks_2021_tencentmedical_2  
+Link: https://www.biendata.xyz/competition/ccks_2021_mdg/  
+Description: CCKS 2021: Entity-aware Chinese Medical Dialogue Generation  
 Deadline: 2021-07-20T08:00:00+0800  
 Reward: ￥30,000  
 
@@ -18,18 +18,26 @@ Deadline: 2021-07-20T08:00:00+0800
 Reward: ￥30,000  
 
 
-## Event Elements Extraction <sup style="color:red">[new]<sup>  
+## ccks_2021_tencentmedical_2 <sup style="color:red">[new]<sup>  
 
-Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
-Description: Event Elements Extraction  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥15,000  
+Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
+Description: ccks_2021_tencentmedical_2  
+Deadline: 2021-07-20T08:00:00+0800  
+Reward: ￥30,000  
 
 
 ## Event Causality Extraction <sup style="color:red">[new]<sup>  
 
 Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
 Description: Event Causality Extraction  
+Deadline: 2021-07-21T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## Event Elements Extraction <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
+Description: Event Elements Extraction  
 Deadline: 2021-07-21T08:00:00+0800  
 Reward: ￥15,000  
 
@@ -58,7 +66,7 @@ Deadline: 2021-07-15T08:00:00+0800
 Reward: ￥15,000  
 
 
-## CCKS 2021: Knowledge Graph based Question Answering on Life Service <sup style="color:red">[new]<sup>  
+## CCKS 2021: Knowledge Graph based Question Answering on Life Service
 
 Link: https://www.biendata.xyz/competition/ccks_2021_ckbqa/  
 Description: CCKS 2021: Knowledge Graph based Question Answering on Life Service  

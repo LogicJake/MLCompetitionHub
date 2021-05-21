@@ -50,22 +50,6 @@ Deadline: 2021-05-31T08:00:00+0800
 Reward: 总计￥700,000  
 
 
-## 2021语言与智能技术竞赛：多形态信息抽取任务
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/65  
-Description: 让机器从自然语言文本中抽取实体、关系、事件等多形态知识，旨在使机器具备从海量非结构化文本信息中自动抽取结构化知识的能力。  
-Deadline: 2021-05-20T08:00:00+0800  
-Reward: ￥100,000  
-
-
-## 2021语言与智能技术竞赛：机器阅读理解任务
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/66  
-Description: 让机器阅读文本然后回答和阅读内容相关的问题，旨在从细粒度、多维度挑战机器理解语言的能力。  
-Deadline: 2021-05-20T08:00:00+0800  
-Reward: ￥100,000  
-
-
 ## 「软件杯」大学生软件设计大赛-本科组：行人追踪
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/73  
