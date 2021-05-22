@@ -50,7 +50,7 @@ Deadline: 2021-07-19T08:00:00+0800
 Reward: ￥50,000  
 
 
-## Entity Type Inference for General Encyclopedia Knowledge Graph <sup style="color:red">[new]<sup>  
+## Entity Type Inference for General Encyclopedia Knowledge Graph
 
 Link: https://www.biendata.xyz/competition/ccks_2021_eti/  
 Description: Entity Type Inference for General Encyclopedia Knowledge Graph  
@@ -58,7 +58,7 @@ Deadline: 2021-07-21T08:00:00+0800
 Reward: ￥30,000  
 
 
-## CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map <sup style="color:red">[new]<sup>  
+## CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map
 
 Link: https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/  
 Description: CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map  
