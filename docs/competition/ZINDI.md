@@ -18,14 +18,6 @@ Deadline: 2021-06-28T07:59:00+0800
 Reward: $1,000 USD  
 
 
-## AI4D Baamtu Datamation - Automatic Speech Recognition in WOLOF
-
-Link: https://zindi.africa/competitions/ai4d-baamtu-datamation-automatic-speech-recognition-in-wolof  
-Description: Can you create an automatic speech recognition model for Wolof for use in public transport?  
-Deadline: 2021-05-24T07:59:00+0800  
-Reward: $2,000 USD  
-
-
 ## AI4D Takwimu Lab - Machine Translation Challenge
 
 Link: https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge  
@@ -50,7 +42,7 @@ Deadline: 2021-07-31T07:59:00+0800
 Reward: $1,500 USD  
 
 
-## iX Mobile Banking Prediction Challenge <sup style="color:red">[new]<sup>  
+## iX Mobile Banking Prediction Challenge
 
 Link: https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge  
 Description: The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.  

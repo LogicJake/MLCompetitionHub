@@ -42,7 +42,7 @@ Deadline: 2021-07-21T08:00:00+0800
 Reward: ￥15,000  
 
 
-## ccks_2021_UAVs_KG <sup style="color:red">[new]<sup>  
+## ccks_2021_UAVs_KG
 
 Link: https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/  
 Description: ccks_2021_UAVs_KG  
