@@ -2,7 +2,7 @@
 
 
 
-## 逾期风控预测 <sup style="color:red">[new]<sup>  
+## 逾期风控预测
 
 Link: https://js.dclab.run/v2/cmptDetail.html?id=484  
 Description: 与汽车行业，房地产行业类似，在工程机械行业的销售中，客户购买产品前往往有融资需求，这给企业创造了一些商机，但同时也会带来一定的货款还款风险。要将利益最大化的同时降低自身风险，就需要通过对数据的分析提前认识，分析以及预判出这类风险，筛选出后期有可能逾期还款的客户，这对于企业的经营风险管理显得尤为重要。  
@@ -10,7 +10,7 @@ Deadline: 2021-07-22T00:00:00+0800
 Reward: ￥194300  
 
 
-## 挖掘机工作模式识别 <sup style="color:red">[new]<sup>  
+## 挖掘机工作模式识别
 
 Link: https://js.dclab.run/v2/cmptDetail.html?id=485  
 Description: 挖掘机作为工程建设中最主要的工程机械之一，承担着多种作业任务，可进行多种不同形式的作业。   

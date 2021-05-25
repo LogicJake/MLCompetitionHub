@@ -93,10 +93,10 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
-## 2021年（第14届）中国大学生计算机设计大赛大数据主题赛
+## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛） <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/6080e702c8e4b200177502c0  
-Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 官方获奖证书  
+Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
+Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
 
