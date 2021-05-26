@@ -50,6 +50,14 @@ Deadline: 2021-07-19T08:00:00+0800
 Reward: ￥50,000  
 
 
+## CCKS 2021: Knowledge-enhanced Video Understanding Challenge
+
+Link: https://www.biendata.xyz/competition/ccks_2021_videounderstanding/  
+Description: CCKS 2021: Knowledge-enhanced Video Understanding Challenge  
+Deadline: 2021-07-19T08:00:00+0800  
+Reward: ￥35,000  
+
+
 ## Entity Type Inference for General Encyclopedia Knowledge Graph
 
 Link: https://www.biendata.xyz/competition/ccks_2021_eti/  
@@ -170,18 +178,18 @@ Deadline: 2021-08-21T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
-Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
-Deadline: 2021-08-06T08:00:00+0800  
-Reward: ￥20,000  
-
-
 ## CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference
 
 Link: https://www.biendata.xyz/competition/ccks_2021_cpe_2/  
 Description: CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference  
+Deadline: 2021-08-06T08:00:00+0800  
+Reward: ￥20,000  
+
+
+## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
+
+Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
+Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
 Deadline: 2021-08-06T08:00:00+0800  
 Reward: ￥20,000  
 

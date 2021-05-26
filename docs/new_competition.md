@@ -1,11 +1,11 @@
-> 更新时间: 2021-05-25T16:06:17+0800 
+> 更新时间: 2021-05-26T16:17:06+0800 
 
 # 新上线比赛
 
 
-## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）
-Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
-Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
-Deadline: 2021-08-15T23:59:00+0800  
-Reward: 获奖证书  
+## CCKS 2021: Knowledge-enhanced Video Understanding Challenge
+Link: https://www.biendata.xyz/competition/ccks_2021_videounderstanding/  
+Description: CCKS 2021: Knowledge-enhanced Video Understanding Challenge  
+Deadline: 2021-07-19T08:00:00+0800  
+Reward: ￥35,000  
 

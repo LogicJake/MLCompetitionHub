@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-25T16:06:17+08:00</updated>
+    <updated>2021-05-26T16:17:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -189,6 +189,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/"/>
         <summary>ccks_2021_UAVs_KG</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/"><![CDATA[<h3>Description</h3>ccks_2021_UAVs_KG<h3>Deadline: 2021-07-19T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_videounderstanding/</id>
+        <title><![CDATA[CCKS 2021: Knowledge-enhanced Video Understanding Challenge]]></title>
+        
+        <updated>2021-05-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_videounderstanding/"/>
+        <summary>CCKS 2021: Knowledge-enhanced Video Understanding Challenge</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_videounderstanding/"><![CDATA[<h3>Description</h3>CCKS 2021: Knowledge-enhanced Video Understanding Challenge<h3>Deadline: 2021-07-19T08:00:00+08:00</h3><h3>Reward: ￥35,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -405,20 +419,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_cpe_1/</id>
-        <title><![CDATA[CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction]]></title>
-        
-        <updated>2021-04-01T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"/>
-        <summary>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"><![CDATA[<h3>Description</h3>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction<h3>Deadline: 2021-08-06T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_cpe_2/</id>
         <title><![CDATA[CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference]]></title>
         
@@ -427,6 +427,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_cpe_2/"/>
         <summary>CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_cpe_2/"><![CDATA[<h3>Description</h3>CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference<h3>Deadline: 2021-08-06T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_cpe_1/</id>
+        <title><![CDATA[CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction]]></title>
+        
+        <updated>2021-04-01T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"/>
+        <summary>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"><![CDATA[<h3>Description</h3>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction<h3>Deadline: 2021-08-06T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -898,7 +912,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-25T16:06:17+08:00</updated>
+        <updated>2021-05-26T16:17:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -912,7 +926,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-25T16:06:17+08:00</updated>
+        <updated>2021-05-26T16:17:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
