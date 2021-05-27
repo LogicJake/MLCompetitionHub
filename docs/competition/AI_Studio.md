@@ -2,10 +2,10 @@
 
 
 
-## MICCAI2021 Contest : GAMMA <sup style="color:red">[new]<sup>  
+## MICCAI2021 Contest : GAMMA
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/90  
-Description: GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of fovea macula in fundus images; 3) Segmentation of optic disc and cup in fundus images.  
+Description: GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.  
 Deadline: 2021-10-01T08:00:00+0800  
 Reward: €4,000  
 

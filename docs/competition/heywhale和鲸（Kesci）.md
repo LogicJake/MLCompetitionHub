@@ -93,7 +93,7 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
-## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛） <sup style="color:red">[new]<sup>  
+## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）
 
 Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
 Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  

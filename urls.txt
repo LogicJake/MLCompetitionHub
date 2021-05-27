@@ -508,3 +508,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=486
 https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2
 https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1
 https://www.biendata.xyz/competition/ccks_2021_videounderstanding/
+https://www.biendata.xyz/competition/ccks_aminer_profiling/
+https://competition.huaweicloud.com/information/1000041485/introduction
+https://tianchi.aliyun.com/competition/entrance/531904/introduction
+https://tianchi.aliyun.com/competition/entrance/531903/introduction

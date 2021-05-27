@@ -2,7 +2,15 @@
 
 
 
-## CCKS 2021: Entity-aware Chinese Medical Dialogue Generation <sup style="color:red">[new]<sup>  
+## CCKS2021: AMiner Scholar profiling
+
+Link: https://www.biendata.xyz/competition/ccks_aminer_profiling/  
+Description: CCKS2021: AMiner Scholar profiling  
+Deadline: 2021-07-25T08:00:00+0800  
+Reward: ￥25,000  
+
+
+## CCKS 2021: Entity-aware Chinese Medical Dialogue Generation
 
 Link: https://www.biendata.xyz/competition/ccks_2021_mdg/  
 Description: CCKS 2021: Entity-aware Chinese Medical Dialogue Generation  
@@ -10,7 +18,7 @@ Deadline: 2021-07-20T08:00:00+0800
 Reward: ￥30,000  
 
 
-## ccks_2021_tencentmedical_1 <sup style="color:red">[new]<sup>  
+## ccks_2021_tencentmedical_1
 
 Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/  
 Description: ccks_2021_tencentmedical_1  
@@ -18,7 +26,7 @@ Deadline: 2021-07-20T08:00:00+0800
 Reward: ￥30,000  
 
 
-## ccks_2021_tencentmedical_2 <sup style="color:red">[new]<sup>  
+## ccks_2021_tencentmedical_2
 
 Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
 Description: ccks_2021_tencentmedical_2  

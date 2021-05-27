@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-26T16:17:06+08:00</updated>
+    <updated>2021-05-27T16:25:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -17,8 +17,8 @@
         <updated>2021-05-20T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/90"/>
-        <summary>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of fovea macula in fundus images; 3) Segmentation of optic disc and cup in fundus images.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/90"><![CDATA[<h3>Description</h3>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of fovea macula in fundus images; 3) Segmentation of optic disc and cup in fundus images.<h3>Deadline: 2021-10-01T08:00:00+08:00</h3><h3>Reward: €4,000</h3>]]></content>
+        <summary>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/90"><![CDATA[<h3>Description</h3>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.<h3>Deadline: 2021-10-01T08:00:00+08:00</h3><h3>Reward: €4,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -109,6 +109,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_aminer_profiling/</id>
+        <title><![CDATA[CCKS2021: AMiner Scholar profiling]]></title>
+        
+        <updated>2021-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_aminer_profiling/"/>
+        <summary>CCKS2021: AMiner Scholar profiling</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_aminer_profiling/"><![CDATA[<h3>Description</h3>CCKS2021: AMiner Scholar profiling<h3>Deadline: 2021-07-25T08:00:00+08:00</h3><h3>Reward: ￥25,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_mdg/</id>
@@ -603,6 +617,20 @@
     
     
     <entry>
+        <id>https://competition.huaweicloud.com/information/1000041485/introduction</id>
+        <title><![CDATA[中国软件开源创新大赛·第二赛道：开源任务挑战赛（模型王者挑战赛）]]></title>
+        
+        <updated>2021-05-18T12:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041485/introduction"/>
+        <summary>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战”。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041485/introduction"><![CDATA[<h3>Description</h3>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战”。<h3>Deadline: 2021-06-25T18:00:00+08:00</h3><h3>Reward: ￥700000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://competition.huaweicloud.com/information/1000041411/introduction</id>
         <title><![CDATA[ICAPS 2021:The Dynamic Pickup And Delivery Problem]]></title>
         
@@ -912,7 +940,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-26T16:17:06+08:00</updated>
+        <updated>2021-05-27T16:25:11+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -926,7 +954,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-26T16:17:06+08:00</updated>
+        <updated>2021-05-27T16:25:11+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -981,8 +1009,36 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531904/introduction</id>
+        <title><![CDATA[CCKS2021 运营商知识图谱推理问答(赛季 1)]]></title>
+        
+        <updated>2021-05-27T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531904/introduction"/>
+        <summary>此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-08-13T18:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531903/introduction</id>
+        <title><![CDATA[CCKS2021 面向保险领域的低资源文档信息抽取(赛季 1)]]></title>
+        
+        <updated>2021-05-27T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531903/introduction"/>
+        <summary>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-08-13T18:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
-        <title><![CDATA[“至强杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 1)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 1)]]></title>
         
         <updated>2021-05-17T00:00:00+08:00</updated>
         
@@ -996,7 +1052,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
-        <title><![CDATA[“至强杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 1)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 1)]]></title>
         
         <updated>2021-05-17T00:00:00+08:00</updated>
         
@@ -1010,7 +1066,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
-        <title><![CDATA[“至强杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 1)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 1)]]></title>
         
         <updated>2021-05-17T00:00:00+08:00</updated>
         
