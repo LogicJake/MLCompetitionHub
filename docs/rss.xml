@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-27T16:25:11+08:00</updated>
+    <updated>2021-05-28T16:31:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/91</id>
+        <title><![CDATA[2021国际大数据竞赛：基于车载影像的实时环境感知]]></title>
+        
+        <updated>2021-05-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/91"/>
+        <summary>2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&amp;西安交大大数据竞赛</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/91"><![CDATA[<h3>Description</h3>2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&amp;西安交大大数据竞赛<h3>Deadline: 2021-08-31T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/90</id>
@@ -89,20 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/76"/>
         <summary>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/73</id>
-        <title><![CDATA[「软件杯」大学生软件设计大赛-本科组：行人追踪]]></title>
-        
-        <updated>2021-03-07T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/73"/>
-        <summary>第十届“中国软件杯”大学生软件设计大赛-本科组赛道，工信部主办重量级大学生国赛！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/73"><![CDATA[<h3>Description</h3>第十届“中国软件杯”大学生软件设计大赛-本科组赛道，工信部主办重量级大学生国赛！<h3>Deadline: 2021-07-01T08:00:00+08:00</h3><h3>Reward: 全国大学生竞赛</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -620,11 +620,11 @@
         <id>https://competition.huaweicloud.com/information/1000041485/introduction</id>
         <title><![CDATA[中国软件开源创新大赛·第二赛道：开源任务挑战赛（模型王者挑战赛）]]></title>
         
-        <updated>2021-05-18T12:00:00+08:00</updated>
+        <updated>2021-05-26T12:00:00+08:00</updated>
         
         <link href="https://competition.huaweicloud.com/information/1000041485/introduction"/>
-        <summary>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战”。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041485/introduction"><![CDATA[<h3>Description</h3>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战”。<h3>Deadline: 2021-06-25T18:00:00+08:00</h3><h3>Reward: ￥700000</h3>]]></content>
+        <summary>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战赛”。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041485/introduction"><![CDATA[<h3>Description</h3>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战赛”。<h3>Deadline: 2021-06-25T18:00:00+08:00</h3><h3>Reward: ￥700000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -652,7 +652,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000041388/introduction"/>
         <summary>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-07-20T17:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-07-20T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -666,7 +666,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000041392/introduction"/>
         <summary>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041392/introduction"><![CDATA[<h3>Description</h3>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。<h3>Deadline: 2021-07-20T17:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041392/introduction"><![CDATA[<h3>Description</h3>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。<h3>Deadline: 2021-07-30T20:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -835,20 +835,34 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1</id>
-        <title><![CDATA[S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）]]></title>
+        <id>https://www.kesci.com/home/competition/60acaded238b7500179baefb</id>
+        <title><![CDATA[G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）]]></title>
         
-        <updated>2021-05-20T00:45:00+08:00</updated>
+        <updated>2021-05-25T16:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"/>
-        <summary>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"><![CDATA[<h3>Description</h3>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/60acaded238b7500179baefb"/>
+        <summary>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60acaded238b7500179baefb"><![CDATA[<h3>Description</h3>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/16</id>
+        <title><![CDATA[リチウムイオン電池の充電率予測]]></title>
+        
+        <updated>2021-05-28T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/16"/>
+        <summary>リチウムイオン電池の充電率予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/16"><![CDATA[<h3>Description</h3>リチウムイオン電池の充電率予測<h3>Deadline: 2021-07-30T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.nishika.com/competitions/15</id>
@@ -937,10 +951,24 @@
     
     
     <entry>
+        <id>https://signate.jp/competitions/465</id>
+        <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
+        
+        <updated>2021-05-28T16:31:19+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/465"/>
+        <summary>SARデータから新しくできた建物を認識しよう!</summary>
+        <content type="text/html" src="https://signate.jp/competitions/465"><![CDATA[<h3>Description</h3>SARデータから新しくできた建物を認識しよう!<h3>Deadline: 2021-07-09T23:59:00+08:00</h3><h3>Reward: 総額¥1,000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-27T16:25:11+08:00</updated>
+        <updated>2021-05-28T16:31:19+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -954,7 +982,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-27T16:25:11+08:00</updated>
+        <updated>2021-05-28T16:31:19+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1015,8 +1043,8 @@
         <updated>2021-05-27T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531904/introduction"/>
-        <summary>此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-08-13T18:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <summary>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1030,7 +1058,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531903/introduction"/>
         <summary>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-08-13T18:00:00+08:00</h3><h3>Reward: ￥56000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1052,13 +1080,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 1)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 2)]]></title>
         
-        <updated>2021-05-17T00:00:00+08:00</updated>
+        <updated>2021-05-24T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-06-25T23:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-09T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1066,13 +1094,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 1)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 2)]]></title>
         
-        <updated>2021-05-17T00:00:00+08:00</updated>
+        <updated>2021-05-24T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-06-25T23:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-09T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1123,6 +1151,20 @@
         <link href="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"/>
         <summary>Can you design a method to accurately find field locations?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"><![CDATA[<h3>Description</h3>Can you design a method to accurately find field locations?<h3>Deadline: 2021-06-14T07:59:00+08:00</h3><h3>Reward: $10,000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/afd-data-insights-challenge</id>
+        <title><![CDATA[AFD Data Insights Challenge]]></title>
+        
+        <updated>2021-05-28T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/afd-data-insights-challenge"/>
+        <summary>What solutions can you build using datasets related to gender based violence?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/afd-data-insights-challenge"><![CDATA[<h3>Description</h3>What solutions can you build using datasets related to gender based violence?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

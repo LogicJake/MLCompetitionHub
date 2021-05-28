@@ -2,6 +2,14 @@
 
 
 
+## リチウムイオン電池の充電率予測 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/16  
+Description: リチウムイオン電池の充電率予測  
+Deadline: 2021-07-30T13:59:00+0800  
+Reward: 15万円  
+
+
 ## コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）
 
 Link: https://www.nishika.com/competitions/15  

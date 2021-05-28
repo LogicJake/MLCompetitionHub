@@ -1,29 +1,35 @@
-> 更新时间: 2021-05-27T16:25:11+0800 
+> 更新时间: 2021-05-28T16:31:19+0800 
 
 # 新上线比赛
 
 
-## CCKS2021: AMiner Scholar profiling
-Link: https://www.biendata.xyz/competition/ccks_aminer_profiling/  
-Description: CCKS2021: AMiner Scholar profiling  
-Deadline: 2021-07-25T08:00:00+0800  
-Reward: ￥25,000  
+## 2021国际大数据竞赛：基于车载影像的实时环境感知
+Link: https://aistudio.baidu.com/aistudio/competition/detail/91  
+Description: 2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&西安交大大数据竞赛  
+Deadline: 2021-08-31T08:00:00+0800  
+Reward: ￥200,000  
 
-## 中国软件开源创新大赛·第二赛道：开源任务挑战赛（模型王者挑战赛）
-Link: https://competition.huaweicloud.com/information/1000041485/introduction  
-Description: 为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战”。  
-Deadline: 2021-06-25T18:00:00+0800  
-Reward: ￥700000  
+## G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）
+Link: https://www.kesci.com/home/competition/60acaded238b7500179baefb  
+Description: G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
 
-## CCKS2021 运营商知识图谱推理问答(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531904/introduction  
-Description: 此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。  
-Deadline: 2021-08-13T18:00:00+0800  
-Reward: ￥56000  
+## リチウムイオン電池の充電率予測
+Link: https://www.nishika.com/competitions/16  
+Description: リチウムイオン電池の充電率予測  
+Deadline: 2021-07-30T13:59:00+0800  
+Reward: 15万円  
 
-## CCKS2021 面向保险领域的低资源文档信息抽取(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531903/introduction  
-Description: 阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。  
-Deadline: 2021-08-13T18:00:00+0800  
-Reward: ￥56000  
+## 株式会社スペースシフト 新建造物検知アルゴリズム作成
+Link: https://signate.jp/competitions/465  
+Description: SARデータから新しくできた建物を認識しよう!  
+Deadline: 2021-07-09T23:59:00+0800  
+Reward: 総額¥1,000,000  
+
+## AFD Data Insights Challenge
+Link: https://zindi.africa/competitions/afd-data-insights-challenge  
+Description: What solutions can you build using datasets related to gender based violence?  
+Deadline: 2021-08-30T07:59:00+0800  
+Reward: $5,000 USD  
 

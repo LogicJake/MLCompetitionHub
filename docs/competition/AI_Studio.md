@@ -2,6 +2,14 @@
 
 
 
+## 2021国际大数据竞赛：基于车载影像的实时环境感知 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/91  
+Description: 2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&西安交大大数据竞赛  
+Deadline: 2021-08-31T08:00:00+0800  
+Reward: ￥200,000  
+
+
 ## MICCAI2021 Contest : GAMMA
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/90  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/76
 Description: 要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。  
 Deadline: 2021-05-31T08:00:00+0800  
 Reward: 总计￥700,000  
-
-
-## 「软件杯」大学生软件设计大赛-本科组：行人追踪
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/73  
-Description: 第十届“中国软件杯”大学生软件设计大赛-本科组赛道，工信部主办重量级大学生国赛！  
-Deadline: 2021-07-01T08:00:00+0800  
-Reward: 全国大学生竞赛  
 

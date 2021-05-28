@@ -2,7 +2,7 @@
 
 
 
-## Workshop | R语言社会科学数据分析 <sup style="color:red">[new]<sup>  
+## Workshop | R语言社会科学数据分析
 
 Link: https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2  
 Description: 围绕实际应用场景的教案设计：缺失值处理、探索性因子分析、交互效应。有数据有代码，有思路有方法。
@@ -93,10 +93,10 @@ Deadline: 2042-05-21T14:00:00+0800
 Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
 
 
-## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）
+## G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛） <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
-Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
+Link: https://www.kesci.com/home/competition/60acaded238b7500179baefb  
+Description: G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
 

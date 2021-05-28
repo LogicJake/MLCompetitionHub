@@ -2,6 +2,14 @@
 
 
 
+## 株式会社スペースシフト 新建造物検知アルゴリズム作成
+
+Link: https://signate.jp/competitions/465  
+Description: SARデータから新しくできた建物を認識しよう!  
+Deadline: 2021-07-09T23:59:00+0800  
+Reward: 総額¥1,000,000  
+
+
 ## Idea Contest; Analyzing foreign visitors to Japan!
 
 Link: https://signate.jp/competitions/455  
