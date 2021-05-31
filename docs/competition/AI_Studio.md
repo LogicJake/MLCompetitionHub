@@ -41,19 +41,3 @@ Description: 在保险理赔流程和客户服务环节中，存在大量扫描�
 Deadline: 2021-07-09T08:00:00+0800  
 Reward: 120,000  
 
-
-## AI ChatBot 创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/79  
-Description: PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！  
-Deadline: 2021-05-31T08:00:00+0800  
-Reward: ¥10,000 + 超级大礼包  
-
-
-## 飞桨论文复现挑战赛（第三期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/76  
-Description: 要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。  
-Deadline: 2021-05-31T08:00:00+0800  
-Reward: 总计￥700,000  
-

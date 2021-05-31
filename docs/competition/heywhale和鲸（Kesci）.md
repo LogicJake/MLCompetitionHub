@@ -60,23 +60,6 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 新人赛  
 
 
-## 水下光学目标检测智能算法赛项
-
-Link: https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8  
-Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
-Deadline: 2021-05-30T20:00:00+0800  
-Reward: 奖金16万+鹏城实验室招聘绿色通道  
-
-
-## 2021全国水下机器人大赛——线上赛
-
-Link: https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e  
-Description:   
-Deadline: 2021-05-30T20:00:00+0800  
-Reward:   
-
-
 ## 以企业为服务目标的政策大数据应用
 
 Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
@@ -97,6 +80,22 @@ Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边
 
 Link: https://www.kesci.com/home/competition/60acaded238b7500179baefb  
 Description: G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
+
+
+## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）
+
+Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
+Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
+
+
+## G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）
+
+Link: https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a  
+Description: G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
 

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-30T16:31:42+08:00</updated>
+    <updated>2021-05-31T16:54:11+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -80,34 +80,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/79</id>
-        <title><![CDATA[AI ChatBot 创意赛]]></title>
-        
-        <updated>2021-04-12T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/79"/>
-        <summary>PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/79"><![CDATA[<h3>Description</h3>PaddlePaddle X WeChaty AI ChatBot创意赛重磅来袭，人工智能时代的ChatBot需要具备哪些能力全凭你定义！只要你的项目够优秀就有机会登陆WAVE SUMMIT 2021峰会现场！<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: ¥10,000 + 超级大礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/76</id>
-        <title><![CDATA[飞桨论文复现挑战赛（第三期）]]></title>
-        
-        <updated>2021-04-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/76"/>
-        <summary>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/76"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨2.0完成论文复现，考察复现模型的精度和速度。<h3>Deadline: 2021-05-31T08:00:00+08:00</h3><h3>Reward: 总计￥700,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -139,20 +111,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
-        <summary>ccks_2021_tencentmedical_1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
         <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
         
@@ -167,14 +125,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
-        <title><![CDATA[Event Elements Extraction]]></title>
+        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
+        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
         
-        <updated>2021-05-18T08:00:00+08:00</updated>
+        <updated>2021-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
-        <summary>Event Elements Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
+        <summary>ccks_2021_tencentmedical_1</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -189,6 +147,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
         <summary>Event Causality Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
+        <title><![CDATA[Event Elements Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
+        <summary>Event Elements Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -631,6 +603,34 @@
     </entry>
     
     <entry>
+        <id>https://competition.huaweicloud.com/information/1000041492/introduction</id>
+        <title><![CDATA[“华为云-东吴杯”2021数字化转型创新应用大赛·企业赛道]]></title>
+        
+        <updated>2021-05-21T00:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041492/introduction"/>
+        <summary>本赛事聚焦工业智能化应用落地的全场景创新，旨在促进数字化转型技术与实体产业深度融合，提升产业效率，推动吴中区数字化转型人才集聚和产业集聚。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041492/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦工业智能化应用落地的全场景创新，旨在促进数字化转型技术与实体产业深度融合，提升产业效率，推动吴中区数字化转型人才集聚和产业集聚。<h3>Deadline: 2021-07-30T18:00:00+08:00</h3><h3>Reward: ￥11</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://competition.huaweicloud.com/information/1000041490/introduction</id>
+        <title><![CDATA[“华为云-东吴杯”2021数字化转型创新应用大赛·创客赛道]]></title>
+        
+        <updated>2021-05-20T11:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041490/introduction"/>
+        <summary>本赛事面向全国的数字化转型交流赛事，通过以赛促学，产教结合的形式开展，推动云技术在机器人和智能制造、装备制造、工业互联网、人工智能、生物医药等实体行业的应用。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041490/introduction"><![CDATA[<h3>Description</h3>本赛事面向全国的数字化转型交流赛事，通过以赛促学，产教结合的形式开展，推动云技术在机器人和智能制造、装备制造、工业互联网、人工智能、生物医药等实体行业的应用。<h3>Deadline: 2021-07-20T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://competition.huaweicloud.com/information/1000041411/introduction</id>
         <title><![CDATA[ICAPS 2021:The Dynamic Pickup And Delivery Problem]]></title>
         
@@ -777,36 +777,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8</id>
-        <title><![CDATA[水下光学目标检测智能算法赛项]]></title>
-        
-        <updated>2021-03-30T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"/>
-        <summary> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/605ab78821e3f6003b56a7d8"><![CDATA[<h3>Description</h3> “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。<h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: 奖金16万+鹏城实验室招聘绿色通道</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e</id>
-        <title><![CDATA[2021全国水下机器人大赛——线上赛]]></title>
-        
-        <updated>2021-03-30T10:30:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/605abc5f21e3f6003b56a80e"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-05-30T20:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/5fcef670807ccb002cb62113</id>
         <title><![CDATA[以企业为服务目标的政策大数据应用]]></title>
         
@@ -843,6 +813,34 @@
         <link href="https://www.kesci.com/home/competition/60acaded238b7500179baefb"/>
         <summary>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60acaded238b7500179baefb"><![CDATA[<h3>Description</h3>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1</id>
+        <title><![CDATA[S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）]]></title>
+        
+        <updated>2021-05-20T00:45:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"/>
+        <summary>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"><![CDATA[<h3>Description</h3>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a</id>
+        <title><![CDATA[G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）]]></title>
+        
+        <updated>2021-05-20T00:04:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"/>
+        <summary>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"><![CDATA[<h3>Description</h3>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -954,7 +952,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-05-30T16:31:42+08:00</updated>
+        <updated>2021-05-31T16:54:11+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -968,7 +966,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-30T16:31:42+08:00</updated>
+        <updated>2021-05-31T16:54:11+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -982,7 +980,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-30T16:31:42+08:00</updated>
+        <updated>2021-05-31T16:54:11+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1179,34 +1177,6 @@
         <link href="https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge"/>
         <summary>Can you predict if a client will submit a vehicle insurance claim in the next 3 months?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge"><![CDATA[<h3>Description</h3>Can you predict if a client will submit a vehicle insurance claim in the next 3 months?<h3>Deadline: 2021-06-28T07:59:00+08:00</h3><h3>Reward: $1,000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge</id>
-        <title><![CDATA[AI4D Takwimu Lab - Machine Translation Challenge]]></title>
-        
-        <updated>2020-12-18T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge"/>
-        <summary>Can you translate French to Fongbe and Ewe?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/ai4d-takwimu-lab-machine-translation-challenge"><![CDATA[<h3>Description</h3>Can you translate French to Fongbe and Ewe?<h3>Deadline: 2021-05-31T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge</id>
-        <title><![CDATA[AI4D Yorùbá Machine Translation Challenge]]></title>
-        
-        <updated>2020-12-04T13:59:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge"/>
-        <summary>Can you translate Yorùbá to English?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge"><![CDATA[<h3>Description</h3>Can you translate Yorùbá to English?<h3>Deadline: 2021-05-31T07:59:00+08:00</h3><h3>Reward: $2,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
