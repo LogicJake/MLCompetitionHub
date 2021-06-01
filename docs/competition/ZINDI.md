@@ -10,10 +10,10 @@ Deadline: 2021-06-14T07:59:00+0800
 Reward: $10,000 USD  
 
 
-## AFD Data Insights Challenge <sup style="color:red">[new]<sup>  
+## AFD Solutions for Gender-based Violence Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/afd-data-insights-challenge  
-Description: What solutions can you build using datasets related to gender based violence?  
+Description: What solutions can you build using datasets related to gender-based violence?  
 Deadline: 2021-08-30T07:59:00+0800  
 Reward: $5,000 USD  
 

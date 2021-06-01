@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-05-31T16:54:11+08:00</updated>
+    <updated>2021-06-01T17:01:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -81,6 +81,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task1</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task1<h3>Deadline: 2021-07-25T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-25T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/ccks_aminer_profiling/</id>
@@ -675,6 +703,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f</id>
+        <title><![CDATA[好未来表格识别技术挑战赛]]></title>
+        
+        <updated>2021-06-01T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f"/>
+        <summary>表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f"><![CDATA[<h3>Description</h3>表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。<h3>Deadline: 2021-09-08T23:59:00+08:00</h3><h3>Reward: 10万元奖金+PRCV2021竞赛证书+入职内推</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2</id>
         <title><![CDATA[Workshop | R语言社会科学数据分析]]></title>
         
@@ -832,20 +874,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a</id>
-        <title><![CDATA[G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）]]></title>
-        
-        <updated>2021-05-20T00:04:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"/>
-        <summary>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"><![CDATA[<h3>Description</h3>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -952,7 +980,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-05-31T16:54:11+08:00</updated>
+        <updated>2021-06-01T17:01:51+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -966,7 +994,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-05-31T16:54:11+08:00</updated>
+        <updated>2021-06-01T17:01:51+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -980,7 +1008,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-05-31T16:54:11+08:00</updated>
+        <updated>2021-06-01T17:01:51+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -994,13 +1022,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531899/introduction</id>
-        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道三：识别高空作业及安全带佩戴(赛季 1)]]></title>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道三：识别高空作业及安全带佩戴(赛季 2)]]></title>
         
-        <updated>2021-05-14T11:00:00+08:00</updated>
+        <updated>2021-05-26T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531899/introduction"/>
         <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1008,13 +1036,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531898/introduction</id>
-        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道二：识别规范穿戴工作服(赛季 1)]]></title>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道二：识别规范穿戴工作服(赛季 2)]]></title>
         
-        <updated>2021-05-14T11:00:00+08:00</updated>
+        <updated>2021-05-26T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531898/introduction"/>
         <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1022,13 +1050,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531897/introduction</id>
-        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道一：识别佩戴绝缘手套(赛季 1)]]></title>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道一：识别佩戴绝缘手套(赛季 2)]]></title>
         
-        <updated>2021-05-14T11:00:00+08:00</updated>
+        <updated>2021-05-26T11:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
         <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-02T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1122,20 +1150,6 @@
     
     
     
-    <entry>
-        <id>http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch</id>
-        <title><![CDATA[2021届”东方国信杯”高校大数据开发大赛]]></title>
-        
-        <updated>2021-05-19T08:00:00+08:00</updated>
-        
-        <link href="http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch"/>
-        <summary>2021届”东方国信杯”高校大数据开发大赛</summary>
-        <content type="text/html" src="http://www.turingtopia.com/competitionnew/detail/0192a7f22c0c4a8fb98c22e6950921ac/sketch"><![CDATA[<h3>Description</h3>2021届”东方国信杯”高校大数据开发大赛<h3>Deadline: 2021-06-16T10:30:00+08:00</h3><h3>Reward: 14000</h3>]]></content>
-        <author>
-            <name><![CDATA[图灵联邦]]></name>
-        </author>
-    </entry>
-    
     
     
     
@@ -1156,13 +1170,13 @@
     
     <entry>
         <id>https://zindi.africa/competitions/afd-data-insights-challenge</id>
-        <title><![CDATA[AFD Data Insights Challenge]]></title>
+        <title><![CDATA[AFD Solutions for Gender-based Violence Challenge]]></title>
         
         <updated>2021-05-28T14:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/afd-data-insights-challenge"/>
-        <summary>What solutions can you build using datasets related to gender based violence?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/afd-data-insights-challenge"><![CDATA[<h3>Description</h3>What solutions can you build using datasets related to gender based violence?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5,000 USD</h3>]]></content>
+        <summary>What solutions can you build using datasets related to gender-based violence?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/afd-data-insights-challenge"><![CDATA[<h3>Description</h3>What solutions can you build using datasets related to gender-based violence?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5,000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
