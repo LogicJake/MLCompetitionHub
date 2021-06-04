@@ -2,7 +2,7 @@
 
 
 
-## 2021国际大数据竞赛：基于车载影像的实时环境感知 <sup style="color:red">[new]<sup>  
+## 2021国际大数据竞赛：基于车载影像的实时环境感知
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/91  
 Description: 2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&西安交大大数据竞赛  

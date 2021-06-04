@@ -2,6 +2,14 @@
 
 
 
+## 和鲸训练营第三期——Python基础 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60b0b390238b7500179bbea9  
+Description:   
+Deadline: 2021-06-16T23:59:00+0800  
+Reward: 结课证书+纸质书+购物卡  
+
+
 ## 好未来表格识别技术挑战赛 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f  
@@ -19,20 +27,13 @@ Deadline: 2021-06-23T00:00:00+0800
 Reward: 纸质书+购物卡+鲸币+社区周边  
 
 
-## RMDS 2021第二季度数据科学竞赛：后疫情时代加州房地产价格趋势预测
+## 预测分析·商品评论情感预测
 
-Link: https://www.kesci.com/home/competition/608afa381ccba70017bfac8c  
-Description: RMDS Lab主办的2021年第二季度数据科学竞赛将聚焦后疫情时代加州房地产价格趋势预测。竞赛奖励含千元美金、全球研究方法和数据科学协会的官方证书等。  
-Deadline: 2021-06-14T15:00:00+0800  
-Reward: 1500美元奖金+获奖证书+IM Data峰会展示  
-
-
-## 2021中国大学生保险数字挑战赛
-
-Link: https://www.kesci.com/home/competition/60618cb821e3f6003b56b207  
-Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 30W+奖金+校招内推+荣誉证书+专业培训  
+Link: https://www.kesci.com/home/competition/609cc718ca31cd0017835fdc  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导我们尝试建立一个模型，该模型使用某私人住宿在线服务平台上发布的房地产数据来预测住宿价格。  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 进阶赛  
 
 
 ## 2021中国大学生保险数字挑战赛-产品赛道
@@ -49,23 +50,6 @@ Link: https://www.kesci.com/home/competition/607d279965852e0017ab9575
 Description:   
 Deadline: 2021-07-31T00:00:00+0800  
 Reward: 13W+奖金+校招内推+荣誉证书+专业培训  
-
-
-## 2021第一届数据传道人大赛DATA EVANGELIST
-
-Link: https://www.kesci.com/home/competition/6084e6d8a3c95700178bedda  
-Description:   
-Deadline: 2021-06-21T23:59:00+0800  
-Reward: ¥18,000+提交就有礼+课程收益分成  
-
-
-## 预测分析·民宿价格预测
-
-Link: https://www.kesci.com/home/competition/605c426d21e3f6003b56a920  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-在本次练习赛旨在引导我们尝试建立一个模型，该模型使用某私人住宿在线服务平台上发布的房地产数据来预测住宿价格。  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
 
 
 ## 以企业为服务目标的政策大数据应用
@@ -96,6 +80,22 @@ Reward: 获奖证书
 
 Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
 Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
+
+
+## G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）
+
+Link: https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a  
+Description: G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）  
+Deadline: 2021-08-15T23:59:00+0800  
+Reward: 获奖证书  
+
+
+## S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）
+
+Link: https://www.kesci.com/home/competition/60a526fbc9791b0017ad920a  
+Description: S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
 

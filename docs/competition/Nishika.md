@@ -2,7 +2,7 @@
 
 
 
-## リチウムイオン電池の充電率予測 <sup style="color:red">[new]<sup>  
+## リチウムイオン電池の充電率予測
 
 Link: https://www.nishika.com/competitions/16  
 Description: リチウムイオン電池の充電率予測  
