@@ -2,7 +2,7 @@
 
 
 
-## 和鲸训练营第三期——Python基础 <sup style="color:red">[new]<sup>  
+## 和鲸训练营第三期——Python基础
 
 Link: https://www.kesci.com/home/competition/60b0b390238b7500179bbea9  
 Description:   
