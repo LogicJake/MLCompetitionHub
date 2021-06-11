@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-06-10T15:58:12+08:00</updated>
+    <updated>2021-06-11T15:54:42+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -47,6 +47,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/75"/>
         <summary>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/75"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。<h3>Deadline: 2021-08-08T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/95</id>
+        <title><![CDATA[第二届湖南省研究生人工智能创新大赛]]></title>
+        
+        <updated>2021-06-11T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/95"/>
+        <summary>开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/95"><![CDATA[<h3>Description</h3>开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案<h3>Deadline: 2021-09-20T08:00:00+08:00</h3><h3>Reward: 超级大礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -111,20 +125,6 @@
     
     
     <entry>
-        <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
-        <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
-        
-        <updated>2021-05-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/who-is-who2021/"/>
-        <summary>IJCAI 2021 - WhoIsWho Task1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task1<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
         <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
         
@@ -133,6 +133,20 @@
         <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
         <summary>IJCAI 2021 - WhoIsWho Task2</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task1</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task1<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -195,20 +209,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
-        <title><![CDATA[Event Elements Extraction]]></title>
-        
-        <updated>2021-05-18T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
-        <summary>Event Elements Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
         <title><![CDATA[Event Causality Extraction]]></title>
         
@@ -217,6 +217,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
         <summary>Event Causality Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
+        <title><![CDATA[Event Elements Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
+        <summary>Event Elements Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -1050,7 +1064,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-06-10T15:58:12+08:00</updated>
+        <updated>2021-06-11T15:54:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1064,7 +1078,7 @@
         <id>https://signate.jp/competitions/455</id>
         <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
         
-        <updated>2021-06-10T15:58:12+08:00</updated>
+        <updated>2021-06-11T15:54:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/455"/>
         <summary></summary>
@@ -1078,7 +1092,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-06-10T15:58:12+08:00</updated>
+        <updated>2021-06-11T15:54:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>

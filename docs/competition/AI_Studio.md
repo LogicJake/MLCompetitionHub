@@ -26,6 +26,14 @@ Deadline: 2021-08-08T08:00:00+0800
 Reward: ¥100,000  
 
 
+## 第二届湖南省研究生人工智能创新大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/95  
+Description: 开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案  
+Deadline: 2021-09-20T08:00:00+0800  
+Reward: 超级大礼包  
+
+
 ## 『先导杯』计算应用大奖赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/77  
@@ -42,7 +50,7 @@ Deadline: 2021-07-09T08:00:00+0800
 Reward: 120,000  
 
 
-## 全球开放数据应用创新大赛：道路路面病害智能分析算法 <sup style="color:red">[new]<sup>  
+## 全球开放数据应用创新大赛：道路路面病害智能分析算法
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/93  
 Description: 本赛题来自2021全球开放数据应用创新大赛算法赛道，报名人数以大赛官网（https://www.sodic.com.cn/）数据为准。本页面中的“提交结果、我的团队、排行榜、讨论区”页签不提供相应服务，请移步大赛官网注册、登录后，在大赛官网进行相关操作。  
@@ -50,7 +58,7 @@ Deadline: 2021-08-28T08:00:00+0800
 Reward: ￥170,000  
 
 
-## 全球开放数据应用创新大赛：口腔图像重要部位实例分割精度提升方案 <sup style="color:red">[new]<sup>  
+## 全球开放数据应用创新大赛：口腔图像重要部位实例分割精度提升方案
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/92  
 Description: 本赛题来自2021全球开放数据应用创新大赛算法赛道，报名人数以大赛官网（https://www.sodic.com.cn/）数据为准。本页面中的“提交结果、我的团队、排行榜、讨论区”页签不提供相应服务，请移步大赛官网注册、登录后，在大赛官网进行相关操作。  
