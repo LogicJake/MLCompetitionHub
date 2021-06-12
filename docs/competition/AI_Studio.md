@@ -10,6 +10,14 @@ Deadline: 2021-08-31T08:00:00+0800
 Reward: ￥200,000  
 
 
+## 第二届湖南省研究生人工智能创新大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/95  
+Description: 开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案  
+Deadline: 2021-09-20T08:00:00+0800  
+Reward: 超级大礼包  
+
+
 ## MICCAI2021 Contest : GAMMA
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/90  
@@ -24,14 +32,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/75
 Description: CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。  
 Deadline: 2021-08-08T08:00:00+0800  
 Reward: ¥100,000  
-
-
-## 第二届湖南省研究生人工智能创新大赛 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/95  
-Description: 开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案  
-Deadline: 2021-09-20T08:00:00+0800  
-Reward: 超级大礼包  
 
 
 ## 『先导杯』计算应用大奖赛
