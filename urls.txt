@@ -534,3 +534,4 @@ https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challe
 https://competition.huaweicloud.com/information/1000041487/introduction
 https://competition.huaweicloud.com/information/1000041488/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/95
+https://tianchi.aliyun.com/competition/entrance/531906/introduction
