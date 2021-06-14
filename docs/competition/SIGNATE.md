@@ -10,14 +10,6 @@ Deadline: 2021-07-09T23:59:00+0800
 Reward: 総額¥1,000,000  
 
 
-## Idea Contest; Analyzing foreign visitors to Japan!
-
-Link: https://signate.jp/competitions/455  
-Description:   
-Deadline: 2021-06-13T23:59:59+0800  
-Reward: Total products with a value of 140,000 yen  
-
-
 ## パナソニック株式会社 間取り図解析アルゴリズム作成
 
 Link: https://signate.jp/competitions/444  

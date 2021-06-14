@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-06-13T15:54:49+08:00</updated>
+    <updated>2021-06-14T15:54:50+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -1064,7 +1064,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-06-13T15:54:49+08:00</updated>
+        <updated>2021-06-14T15:54:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1075,24 +1075,10 @@
     </entry>
     
     <entry>
-        <id>https://signate.jp/competitions/455</id>
-        <title><![CDATA[Idea Contest; Analyzing foreign visitors to Japan!]]></title>
-        
-        <updated>2021-06-13T15:54:49+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/455"/>
-        <summary></summary>
-        <content type="text/html" src="https://signate.jp/competitions/455"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-06-13T23:59:59+08:00</h3><h3>Reward: Total products with a value of 140,000 yen</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-06-13T15:54:49+08:00</updated>
+        <updated>2021-06-14T15:54:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1321,20 +1307,6 @@
         <link href="https://zindi.africa/competitions/deepfake-africa-challenge"/>
         <summary>Shining a light on deepfake media &amp; tools in Africa </summary>
         <content type="text/html" src="https://zindi.africa/competitions/deepfake-africa-challenge"><![CDATA[<h3>Description</h3>Shining a light on deepfake media &amp; tools in Africa <h3>Deadline: 2021-07-31T07:59:00+08:00</h3><h3>Reward: $1,500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge</id>
-        <title><![CDATA[iX Mobile Banking Prediction Challenge]]></title>
-        
-        <updated>2021-05-17T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge"/>
-        <summary>The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge"><![CDATA[<h3>Description</h3>The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.<h3>Deadline: 2021-06-14T07:59:00+08:00</h3><h3>Reward: Scholarship worth $3,495 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

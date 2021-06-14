@@ -10,7 +10,7 @@ Deadline: 2021-07-05T07:59:00+0800
 Reward: $10,000 USD  
 
 
-## SFC PAYGo Solar Credit Repayment Competition <sup style="color:red">[new]<sup>  
+## SFC PAYGo Solar Credit Repayment Competition
 
 Link: https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition  
 Description: Can you predict PAYGo solar customer payments?  
@@ -40,12 +40,4 @@ Link: https://zindi.africa/competitions/deepfake-africa-challenge
 Description: Shining a light on deepfake media & tools in Africa   
 Deadline: 2021-07-31T07:59:00+0800  
 Reward: $1,500 USD  
-
-
-## iX Mobile Banking Prediction Challenge
-
-Link: https://zindi.africa/competitions/ix-mobile-banking-prediction-challenge  
-Description: The prize is one scholarship to a 6-week data science remote program called ‘iX Remote’ from 6 July to 14 August 2021, valued at $3,495 USD.  
-Deadline: 2021-06-14T07:59:00+0800  
-Reward: Scholarship worth $3,495 USD  
 
