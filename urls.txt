@@ -535,3 +535,8 @@ https://competition.huaweicloud.com/information/1000041487/introduction
 https://competition.huaweicloud.com/information/1000041488/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/95
 https://tianchi.aliyun.com/competition/entrance/531906/introduction
+https://js.dclab.run/v2/cmptDetail.html?id=497
+https://js.dclab.run/v2/cmptDetail.html?id=496
+https://js.dclab.run/v2/cmptDetail.html?id=495
+https://js.dclab.run/v2/cmptDetail.html?id=494
+https://js.dclab.run/v2/cmptDetail.html?id=493
