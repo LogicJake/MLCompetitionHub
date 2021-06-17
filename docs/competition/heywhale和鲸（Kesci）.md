@@ -2,14 +2,6 @@
 
 
 
-## 和鲸训练营第三期——Python基础
-
-Link: https://www.kesci.com/home/competition/60b0b390238b7500179bbea9  
-Description:   
-Deadline: 2021-06-16T23:59:00+0800  
-Reward: 结课证书+纸质书+购物卡  
-
-
 ## 好未来表格识别技术挑战赛
 
 Link: https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f  
@@ -98,4 +90,12 @@ Link: https://www.kesci.com/home/competition/60a526fbc9791b0017ad920a
 Description: S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
+
+
+## 2021“海上争锋”中国智能船艇挑战赛
+
+Link: https://www.kesci.com/home/competition/60ac6c3e238b7500179bad77  
+Description:   
+Deadline: 2021-08-15T00:00:00+0800  
+Reward:   
 
