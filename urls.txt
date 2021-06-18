@@ -541,3 +541,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=495
 https://js.dclab.run/v2/cmptDetail.html?id=494
 https://js.dclab.run/v2/cmptDetail.html?id=493
 https://www.kesci.com/home/competition/60ac6c3e238b7500179bad77
+https://aistudio.baidu.com/aistudio/competition/detail/78
+https://aistudio.baidu.com/aistudio/competition/detail/94
+https://www.kesci.com/home/competition/60c08e94565cca001731539f
+https://www.kesci.com/home/competition/60c086d8565cca001731537f

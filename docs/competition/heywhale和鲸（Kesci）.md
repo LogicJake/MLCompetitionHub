@@ -2,6 +2,22 @@
 
 
 
+## 和鲸训练营第二期——数据可视化 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60c08e94565cca001731539f  
+Description:   
+Deadline: 2021-07-12T00:00:00+0800  
+Reward: 结课证书+镇站之宝🐳 鲸币+购物卡  
+
+
+## 和鲸训练营第一期——Pandas基础 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60c086d8565cca001731537f  
+Description:   
+Deadline: 2021-07-12T00:00:00+0800  
+Reward: 结课证书+镇站之宝🐳鲸币+购物卡  
+
+
 ## 好未来表格识别技术挑战赛
 
 Link: https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f  
@@ -52,14 +68,6 @@ Deadline: 2021-07-31T23:59:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
-## DataJoy® 练习赛
-
-Link: https://www.kesci.com/home/competition/5ffbf4d2a96f9e0036c2bffb  
-Description:   
-Deadline: 2042-05-21T14:00:00+0800  
-Reward: 官方荣誉证书+奖金+定制徽章+和鲸周边  
-
-
 ## G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）
 
 Link: https://www.kesci.com/home/competition/60acaded238b7500179baefb  
@@ -90,12 +98,4 @@ Link: https://www.kesci.com/home/competition/60a526fbc9791b0017ad920a
 Description: S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
-
-
-## 2021“海上争锋”中国智能船艇挑战赛
-
-Link: https://www.kesci.com/home/competition/60ac6c3e238b7500179bad77  
-Description:   
-Deadline: 2021-08-15T00:00:00+0800  
-Reward:   
 

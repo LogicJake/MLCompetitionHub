@@ -2,6 +2,22 @@
 
 
 
+## 第三届中国AI+创新创业大赛：半监督学习目标定位竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/78  
+Description: 第三届中国AI+创新创业大赛由中国人工智能学会主办，半监督学习目标定位竞赛分赛道要求选手基于少量有标注数据训练模型，使分类网络具有目标定位能力，实现半监督目标定位任务。  
+Deadline: 2021-08-20T08:00:00+0800  
+Reward: ¥50,000  
+
+
+## 中国软件开源创新大赛：开源任务挑战赛（顶会论文复现赛）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/94  
+Description: 第四届中国软件开源创新大赛-任务挑战组  
+Deadline: 2021-11-30T08:00:00+0800  
+Reward: 中国软件开源创新大赛  
+
+
 ## 2021国际大数据竞赛：基于车载影像的实时环境感知
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/91  
@@ -10,7 +26,7 @@ Deadline: 2021-08-31T08:00:00+0800
 Reward: ￥200,000  
 
 
-## 第二届湖南省研究生人工智能创新大赛 <sup style="color:red">[new]<sup>  
+## 第二届湖南省研究生人工智能创新大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/95  
 Description: 开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案  
@@ -53,14 +69,6 @@ Reward: 120,000
 ## 全球开放数据应用创新大赛：道路路面病害智能分析算法
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/93  
-Description: 本赛题来自2021全球开放数据应用创新大赛算法赛道，报名人数以大赛官网（https://www.sodic.com.cn/）数据为准。本页面中的“提交结果、我的团队、排行榜、讨论区”页签不提供相应服务，请移步大赛官网注册、登录后，在大赛官网进行相关操作。  
-Deadline: 2021-08-28T08:00:00+0800  
-Reward: ￥170,000  
-
-
-## 全球开放数据应用创新大赛：口腔图像重要部位实例分割精度提升方案
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/92  
 Description: 本赛题来自2021全球开放数据应用创新大赛算法赛道，报名人数以大赛官网（https://www.sodic.com.cn/）数据为准。本页面中的“提交结果、我的团队、排行榜、讨论区”页签不提供相应服务，请移步大赛官网注册、登录后，在大赛官网进行相关操作。  
 Deadline: 2021-08-28T08:00:00+0800  
 Reward: ￥170,000  

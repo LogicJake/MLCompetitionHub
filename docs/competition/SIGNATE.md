@@ -14,6 +14,6 @@ Reward: 総額¥1,000,000
 
 Link: https://signate.jp/competitions/444  
 Description: 間取り図から部屋領域や建具を認識しよう!  
-Deadline: 2021-06-30T00:00:00+0800  
+Deadline: 2021-07-14T00:00:00+0800  
 Reward: 総額¥2,000,000  
 
