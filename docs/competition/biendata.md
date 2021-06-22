@@ -70,7 +70,7 @@ Reward: ￥15,000
 
 Link: https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/  
 Description: ccks_2021_UAVs_KG  
-Deadline: 2021-07-19T08:00:00+0800  
+Deadline: 2021-08-01T08:00:00+0800  
 Reward: ￥50,000  
 
 
@@ -78,7 +78,7 @@ Reward: ￥50,000
 
 Link: https://www.biendata.xyz/competition/ccks_2021_videounderstanding/  
 Description: CCKS 2021: Knowledge-enhanced Video Understanding Challenge  
-Deadline: 2021-07-19T08:00:00+0800  
+Deadline: 2021-08-01T08:00:00+0800  
 Reward: ￥40,000  
 
 
@@ -102,7 +102,7 @@ Reward: ￥15,000
 
 Link: https://www.biendata.xyz/competition/ccks_2021_ckbqa/  
 Description: CCKS 2021: Knowledge Graph based Question Answering on Life Service  
-Deadline: 2021-07-20T08:00:00+0800  
+Deadline: 2021-07-18T08:00:00+0800  
 Reward: ￥40,000  
 
 
