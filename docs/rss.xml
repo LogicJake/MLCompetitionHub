@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-06-22T15:54:43+08:00</updated>
+    <updated>2021-06-23T15:55:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -853,22 +853,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2</id>
-        <title><![CDATA[Workshop | R语言社会科学数据分析]]></title>
-        
-        <updated>2021-05-21T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2"/>
-        <summary>围绕实际应用场景的教案设计：缺失值处理、探索性因子分析、交互效应。有数据有代码，有思路有方法。
-采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2"><![CDATA[<h3>Description</h3>围绕实际应用场景的教案设计：缺失值处理、探索性因子分析、交互效应。有数据有代码，有思路有方法。
-采取 案例探究+项目实战 机制，所有教案项目&amp;作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。<h3>Deadline: 2021-06-23T00:00:00+08:00</h3><h3>Reward: 纸质书+购物卡+鲸币+社区周边</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/609cc718ca31cd0017835fdc</id>
         <title><![CDATA[预测分析·商品评论情感预测]]></title>
         
@@ -921,6 +905,20 @@
         <link href="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"/>
         <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234</id>
+        <title><![CDATA[世界人工智能大会黑客松]]></title>
+        
+        <updated>2021-06-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-08T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1088,7 +1086,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-06-22T15:54:43+08:00</updated>
+        <updated>2021-06-23T15:55:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1102,7 +1100,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-06-22T15:54:43+08:00</updated>
+        <updated>2021-06-23T15:55:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1239,6 +1237,22 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-09T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650</id>
+        <title><![CDATA[“新内容 新交互”全球视频云创新挑战赛--算法挑战赛道(赛季 2)]]></title>
+        
+        <updated>2021-04-21T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"/>
+        <summary>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
+大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/487f78409434e50fbf1942609e207650"><![CDATA[<h3>Description</h3>本届全球视频云创新挑战赛是由阿里云联手英特尔主办，与优酷战略技术合作，面向企业以及个人开发者的音视频领域的数据算法及创新应用类挑战。本届大赛包括两个赛道：“算法挑战赛”和“创新应用挑战赛”，参赛选手可以自由报名参加任一赛道。选手可以在视频分割挑战以及视频创新应用领域中，发挥自己的创造力，探索视频云技术在互联网、零售、文娱、安防、文化、教育、金融、交通、公共安全、日常生活、公益等行业领域的应用。
+大赛的算法挑战赛道聚焦视频人像分割领域。视频物体分割将传统图像分割问题延伸到视频领域，可服务于视频理解处理和编辑等任务，近年来成为计算机视觉领域备受关注的研究问题，该问题的目标是在视频帧中分割目标物体的区域，需精确到像素级别。作为视频中经典而重要的内容，人像分割任务将作为本竞赛的分割目标。<h3>Deadline: 2021-06-24T12:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
