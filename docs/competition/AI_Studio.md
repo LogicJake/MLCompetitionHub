@@ -15,7 +15,7 @@ Reward: ¥50,000
 Link: https://aistudio.baidu.com/aistudio/competition/detail/94  
 Description: 第四届中国软件开源创新大赛-任务挑战组  
 Deadline: 2021-11-30T08:00:00+0800  
-Reward: 中国软件开源创新大赛  
+Reward: 参见比赛详情  
 
 
 ## 2021国际大数据竞赛：基于车载影像的实时环境感知
