@@ -554,3 +554,7 @@ https://js.dclab.run/v2/cmptDetail.html?id=535
 https://js.dclab.run/v2/cmptDetail.html?id=534
 https://js.dclab.run/v2/cmptDetail.html?id=533
 https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234
+https://www.datafountain.cn/competitions/504
+https://www.datafountain.cn/competitions/503
+https://www.nishika.com/competitions/17
+https://zindi.africa/competitions/cryptocurrency-closing-price-prediction

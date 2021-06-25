@@ -2,7 +2,7 @@
 
 
 
-## 和鲸训练营第二期——数据可视化 <sup style="color:red">[new]<sup>  
+## 和鲸训练营第二期——数据可视化
 
 Link: https://www.kesci.com/home/competition/60c08e94565cca001731539f  
 Description:   
@@ -24,6 +24,15 @@ Link: https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f
 Description: 表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。  
 Deadline: 2021-09-08T23:59:00+0800  
 Reward: 10万元奖金+PRCV2021竞赛证书+入职内推  
+
+
+## Workshop | R语言社会科学数据分析
+
+Link: https://www.kesci.com/home/competition/609a5d72ca31cd00178358c2  
+Description: 围绕实际应用场景的教案设计：缺失值处理、探索性因子分析、交互效应。有数据有代码，有思路有方法。
+采取 案例探究+项目实战 机制，所有教案项目&作业均可在 ModelWhale 上完成阅读、代码调试、动手实践。  
+Deadline: 2021-10-01T00:00:00+0800  
+Reward: 纸质书+购物卡+鲸币+社区周边  
 
 
 ## 预测分析·商品评论情感预测
@@ -87,14 +96,6 @@ Reward: 获奖证书
 
 Link: https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a  
 Description: G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）  
-Deadline: 2021-08-15T23:59:00+0800  
-Reward: 获奖证书  
-
-
-## S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）
-
-Link: https://www.kesci.com/home/competition/60a526fbc9791b0017ad920a  
-Description: S1组：实海域智能航行（2021“海上争锋”中国智能船艇挑战赛）  
 Deadline: 2021-08-15T23:59:00+0800  
 Reward: 获奖证书  
 

@@ -34,6 +34,14 @@ Deadline: 2021-06-28T07:59:00+0800
 Reward: $1,000 USD  
 
 
+## Cryptocurrency Closing Price Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/cryptocurrency-closing-price-prediction  
+Description: Can you predict the closing price for a cryptocurrency?   
+Deadline: 2021-09-20T07:59:00+0800  
+Reward: $1,000 USD  
+
+
 ## Deepfake Africa Challenge 
 
 Link: https://zindi.africa/competitions/deepfake-africa-challenge  
