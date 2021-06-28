@@ -26,14 +26,6 @@ Deadline: 2021-08-30T07:59:00+0800
 Reward: $5,000 USD  
 
 
-## AutoInland Vehicle Insurance Claim Challenge
-
-Link: https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge  
-Description: Can you predict if a client will submit a vehicle insurance claim in the next 3 months?  
-Deadline: 2021-06-28T07:59:00+0800  
-Reward: $1,000 USD  
-
-
 ## Cryptocurrency Closing Price Prediction <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/cryptocurrency-closing-price-prediction  
