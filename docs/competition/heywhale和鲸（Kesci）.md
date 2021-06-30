@@ -68,7 +68,7 @@ Deadline: 2021-07-31T23:59:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
-## 世界人工智能大会黑客松 <sup style="color:red">[new]<sup>  
+## 世界人工智能大会黑客松
 
 Link: https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234  
 Description:   
