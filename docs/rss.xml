@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-04T16:00:35+08:00</updated>
+    <updated>2021-07-05T15:59:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -139,6 +139,20 @@
     
     
     <entry>
+        <id>https://www.biendata.xyz/competition/xiaobu/</id>
+        <title><![CDATA[Conversational AI Competition]]></title>
+        
+        <updated>2021-07-05T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/xiaobu/"/>
+        <summary>Conversational AI Competition</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/xiaobu/"><![CDATA[<h3>Description</h3>Conversational AI Competition<h3>Deadline: 2021-08-17T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/smp2021_2/</id>
         <title><![CDATA[SMP2021-EMWRT Task2]]></title>
         
@@ -167,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
-        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
-        
-        <updated>2021-05-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
-        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
         <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
         
@@ -189,6 +189,20 @@
         <link href="https://www.biendata.xyz/competition/who-is-who2021/"/>
         <summary>IJCAI 2021 - WhoIsWho Task1</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task1<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -223,20 +237,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
-        <summary>ccks_2021_tencentmedical_1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
         <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
         
@@ -251,14 +251,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
-        <title><![CDATA[Event Elements Extraction]]></title>
+        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
+        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
         
-        <updated>2021-05-18T08:00:00+08:00</updated>
+        <updated>2021-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
-        <summary>Event Elements Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
+        <summary>ccks_2021_tencentmedical_1</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -273,6 +273,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
         <summary>Event Causality Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
+        <title><![CDATA[Event Elements Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
+        <summary>Event Elements Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -867,28 +881,56 @@
     
     
     <entry>
-        <id>https://www.kesci.com/home/competition/60c08e94565cca001731539f</id>
-        <title><![CDATA[和鲸训练营第二期——数据可视化]]></title>
+        <id>https://www.kesci.com/home/competition/60e27d7f7c232900177337e7</id>
+        <title><![CDATA[和鲸 2021 数据科学夏令营]]></title>
         
-        <updated>2021-06-18T00:00:00+08:00</updated>
+        <updated>2021-07-05T00:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/60c08e94565cca001731539f"/>
+        <link href="https://www.kesci.com/home/competition/60e27d7f7c232900177337e7"/>
         <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60c08e94565cca001731539f"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-12T00:00:00+08:00</h3><h3>Reward: 结课证书+镇站之宝🐳 鲸币+购物卡</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60e27d7f7c232900177337e7"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-09-01T00:00:00+08:00</h3><h3>Reward: 证书+项目证明+大礼包</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/60c086d8565cca001731537f</id>
-        <title><![CDATA[和鲸训练营第一期——Pandas基础]]></title>
+        <id>https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582</id>
+        <title><![CDATA[夏令营🔥 训练营之Python基础]]></title>
         
-        <updated>2021-06-16T00:00:00+08:00</updated>
+        <updated>2021-07-05T00:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/60c086d8565cca001731537f"/>
+        <link href="https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582"/>
         <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60c086d8565cca001731537f"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-12T00:00:00+08:00</h3><h3>Reward: 结课证书+镇站之宝🐳鲸币+购物卡</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927</id>
+        <title><![CDATA[夏令营🔥干货直播：数据分析求职全攻略]]></title>
+        
+        <updated>2021-06-29T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-20T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f</id>
+        <title><![CDATA[夏令营🔥干货直播：零基础自学数据分析经验分享]]></title>
+        
+        <updated>2021-06-29T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-13T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -976,7 +1018,21 @@
         
         <link href="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"/>
         <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-07-31T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-08-21T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d99ff80666dc0018d6f910</id>
+        <title><![CDATA[夏令营🔥 代码巩固实战]]></title>
+        
+        <updated>2021-07-05T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d99ff80666dc0018d6f910"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d99ff80666dc0018d6f910"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-30T00:00:00+08:00</h3><h3>Reward: 每个项目1学分</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -991,48 +1047,6 @@
         <link href="https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-08T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60acaded238b7500179baefb</id>
-        <title><![CDATA[G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）]]></title>
-        
-        <updated>2021-05-25T16:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60acaded238b7500179baefb"/>
-        <summary>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60acaded238b7500179baefb"><![CDATA[<h3>Description</h3>G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1</id>
-        <title><![CDATA[S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）]]></title>
-        
-        <updated>2021-05-20T00:45:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"/>
-        <summary>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1"><![CDATA[<h3>Description</h3>S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a</id>
-        <title><![CDATA[G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）]]></title>
-        
-        <updated>2021-05-20T00:04:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"/>
-        <summary>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a"><![CDATA[<h3>Description</h3>G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）<h3>Deadline: 2021-08-15T23:59:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1158,7 +1172,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-07-04T16:00:35+08:00</updated>
+        <updated>2021-07-05T15:59:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1172,7 +1186,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-04T16:00:35+08:00</updated>
+        <updated>2021-07-05T15:59:02+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1184,23 +1198,155 @@
     
     
     
-    
-    
-    
-    
     <entry>
-        <id>https://zindi.africa/competitions/lacuna-correct-field-detection-challenge</id>
-        <title><![CDATA[Lacuna - Correct Field Detection Challenge]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/531906/introduction</id>
+        <title><![CDATA[云上开发，高效智能--阿里云ECS Cloudbuild开发者大赛算法挑战赛道(赛季 1)]]></title>
         
-        <updated>2021-03-26T14:00:00+08:00</updated>
+        <updated>2021-06-09T13:00:00+08:00</updated>
         
-        <link href="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"/>
-        <summary>Can you design a method to accurately find field locations?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/lacuna-correct-field-detection-challenge"><![CDATA[<h3>Description</h3>Can you design a method to accurately find field locations?<h3>Deadline: 2021-07-05T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/531906/introduction"/>
+        <summary>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
+阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
+围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531906/introduction"><![CDATA[<h3>Description</h3>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
+阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
+围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-08-06T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
         <author>
-            <name><![CDATA[ZINDI]]></name>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531899/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道三：识别高空作业及安全带佩戴(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531899/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531898/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道二：识别规范穿戴工作服(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531898/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531897/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道一：识别佩戴绝缘手套(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531904/introduction</id>
+        <title><![CDATA[CCKS2021 运营商知识图谱推理问答(赛季 1)]]></title>
+        
+        <updated>2021-05-27T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531904/introduction"/>
+        <summary>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531903/introduction</id>
+        <title><![CDATA[CCKS2021 面向保险领域的低资源文档信息抽取(赛季 1)]]></title>
+        
+        <updated>2021-05-27T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531903/introduction"/>
+        <summary>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 1)]]></title>
+        
+        <updated>2021-05-17T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
+        <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-07-12T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 2)]]></title>
+        
+        <updated>2021-05-24T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-09T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 2)]]></title>
+        
+        <updated>2021-05-24T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-09T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531910/introduction</id>
+        <title><![CDATA[GigaDetection: Object Detection meets Gigapixel Videography(赛季 1)]]></title>
+        
+        <updated>2021-06-25T23:55:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531910/introduction"/>
+        <summary>本大赛挑战的任务是多目标检测（行人和车辆）。给定一个静态的十亿像素图像，参与者需要检测两种类型的对象：行人和车辆。每个行人包括三个检测框，即可见边界框、全身边界框和头部边界框。对于每一辆车，需要可见的边界框进行评估。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531910/introduction"><![CDATA[<h3>Description</h3>本大赛挑战的任务是多目标检测（行人和车辆）。给定一个静态的十亿像素图像，参与者需要检测两种类型的对象：行人和车辆。每个行人包括三个检测框，即可见边界框、全身边界框和头部边界框。对于每一辆车，需要可见的边界框进行评估。<h3>Deadline: 2021-07-15T23:55:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    
+    
+    
     
     <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>

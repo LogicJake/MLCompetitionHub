@@ -2,20 +2,36 @@
 
 
 
-## 和鲸训练营第二期——数据可视化
+## 和鲸 2021 数据科学夏令营 <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/60c08e94565cca001731539f  
+Link: https://www.kesci.com/home/competition/60e27d7f7c232900177337e7  
 Description:   
-Deadline: 2021-07-12T00:00:00+0800  
-Reward: 结课证书+镇站之宝🐳 鲸币+购物卡  
+Deadline: 2021-09-01T00:00:00+0800  
+Reward: 证书+项目证明+大礼包  
 
 
-## 和鲸训练营第一期——Pandas基础
+## 夏令营🔥 训练营之Python基础 <sup style="color:red">[new]<sup>  
 
-Link: https://www.kesci.com/home/competition/60c086d8565cca001731537f  
+Link: https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582  
 Description:   
-Deadline: 2021-07-12T00:00:00+0800  
-Reward: 结课证书+镇站之宝🐳鲸币+购物卡  
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 鲸币🐳 +学分+周边+购物卡  
+
+
+## 夏令营🔥干货直播：数据分析求职全攻略 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927  
+Description:   
+Deadline: 2021-07-20T22:00:00+0800  
+Reward:   
+
+
+## 夏令营🔥干货直播：零基础自学数据分析经验分享 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f  
+Description:   
+Deadline: 2021-07-13T22:00:00+0800  
+Reward:   
 
 
 ## 好未来表格识别技术挑战赛
@@ -64,8 +80,16 @@ Reward: 13W+奖金+校招内推+荣誉证书+专业培训
 
 Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
 Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
-Deadline: 2021-07-31T23:59:00+0800  
+Deadline: 2021-08-21T23:59:00+0800  
 Reward: 30W奖金和亿元政策扶持  
+
+
+## 夏令营🔥 代码巩固实战 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60d99ff80666dc0018d6f910  
+Description:   
+Deadline: 2021-08-30T00:00:00+0800  
+Reward: 每个项目1学分  
 
 
 ## 世界人工智能大会黑客松
@@ -74,28 +98,4 @@ Link: https://www.kesci.com/home/competition/60d2ca9e0666dc0018d6f234
 Description:   
 Deadline: 2021-07-08T00:00:00+0800  
 Reward:   
-
-
-## G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）
-
-Link: https://www.kesci.com/home/competition/60acaded238b7500179baefb  
-Description: G2组：水下智能感知（2021“海上争锋”中国智能船艇挑战赛）  
-Deadline: 2021-08-15T23:59:00+0800  
-Reward: 获奖证书  
-
-
-## S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）
-
-Link: https://www.kesci.com/home/competition/60a54076c9791b0017ad92f1  
-Description: S2组：虚拟仿真（2021“海上争锋”中国智能船艇挑战赛）  
-Deadline: 2021-08-15T23:59:00+0800  
-Reward: 获奖证书  
-
-
-## G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）
-
-Link: https://www.kesci.com/home/competition/60a536d5c9791b0017ad929a  
-Description: G1组：海上智能感知（2021“海上争锋”中国智能船艇挑战赛）  
-Deadline: 2021-08-15T23:59:00+0800  
-Reward: 获奖证书  
 
