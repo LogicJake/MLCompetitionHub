@@ -5,6 +5,7 @@
 * [DC竞赛](competition/DC竞赛.md)
 * [百度点石](competition/百度点石.md)
 * [华为云大赛（人工智能赛）](competition/华为云大赛（人工智能赛）.md)
+* [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
 * [Nishika](competition/Nishika.md)
 * [SIGNATE](competition/SIGNATE.md)
 * [天池](competition/天池.md)

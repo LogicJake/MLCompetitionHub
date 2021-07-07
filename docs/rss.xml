@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-06T15:59:13+08:00</updated>
+    <updated>2021-07-07T15:58:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -237,20 +237,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"/>
-        <summary>ccks_2021_tencentmedical_2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_2<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
         <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
         
@@ -259,6 +245,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
         <summary>ccks_2021_tencentmedical_1</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
+        <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
+        
+        <updated>2021-05-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"/>
+        <summary>ccks_2021_tencentmedical_2</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_2<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -881,6 +881,176 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/60e27d7f7c232900177337e7</id>
+        <title><![CDATA[和鲸 2021 数据科学夏令营]]></title>
+        
+        <updated>2021-07-05T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60e27d7f7c232900177337e7"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60e27d7f7c232900177337e7"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-09-01T00:00:00+08:00</h3><h3>Reward: 证书+项目证明+大礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582</id>
+        <title><![CDATA[夏令营🔥 训练营之Python基础]]></title>
+        
+        <updated>2021-07-05T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927</id>
+        <title><![CDATA[夏令营🔥干货直播：数据分析求职全攻略]]></title>
+        
+        <updated>2021-06-29T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-20T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f</id>
+        <title><![CDATA[夏令营🔥干货直播：零基础自学数据分析经验分享]]></title>
+        
+        <updated>2021-06-29T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-13T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f</id>
+        <title><![CDATA[好未来表格识别技术挑战赛]]></title>
+        
+        <updated>2021-06-01T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f"/>
+        <summary>表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f"><![CDATA[<h3>Description</h3>表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。<h3>Deadline: 2021-09-08T23:59:00+08:00</h3><h3>Reward: 10万元奖金+PRCV2021竞赛证书+入职内推</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60755b136e25d40017d41c8e</id>
+        <title><![CDATA[2021中国大学生保险数字挑战赛-产品赛道]]></title>
+        
+        <updated>2021-04-26T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60755b136e25d40017d41c8e"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60755b136e25d40017d41c8e"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 13W+奖金+校招内推+荣誉证书+专业培训</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/607d279965852e0017ab9575</id>
+        <title><![CDATA[2021中国大学生保险数字挑战赛-数字赛道]]></title>
+        
+        <updated>2021-04-26T12:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/607d279965852e0017ab9575"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/607d279965852e0017ab9575"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 13W+奖金+校招内推+荣誉证书+专业培训</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/5fcef670807ccb002cb62113</id>
+        <title><![CDATA[以企业为服务目标的政策大数据应用]]></title>
+        
+        <updated>2021-01-08T18:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"/>
+        <summary>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/5fcef670807ccb002cb62113"><![CDATA[<h3>Description</h3>数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛<h3>Deadline: 2021-08-21T23:59:00+08:00</h3><h3>Reward: 30W奖金和亿元政策扶持</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60dbf367c693f4001784cd3c</id>
+        <title><![CDATA[用 R 动手学统计：数据操作]]></title>
+        
+        <updated>2021-07-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60dbf367c693f4001784cd3c"/>
+        <summary>用 R 动手学统计 2</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60dbf367c693f4001784cd3c"><![CDATA[<h3>Description</h3>用 R 动手学统计 2<h3>Deadline: 2021-08-03T00:00:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45</id>
+        <title><![CDATA[用 R 动手学统计：可视化]]></title>
+        
+        <updated>2021-07-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45"/>
+        <summary>用 R 动手学统计 3</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45"><![CDATA[<h3>Description</h3>用 R 动手学统计 3<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a</id>
+        <title><![CDATA[用 R 动手学统计：基本统计分析]]></title>
+        
+        <updated>2021-07-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"/>
+        <summary>用 R 动手学统计 4</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"><![CDATA[<h3>Description</h3>用 R 动手学统计 4<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60e290177c23290017733938</id>
+        <title><![CDATA[夏令营🔥 政治经济数据分析实战]]></title>
+        
+        <updated>2021-07-05T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60e290177c23290017733938"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60e290177c23290017733938"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-31T00:00:00+08:00</h3><h3>Reward: 结课证书+纸质书+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://www.nishika.com/competitions/18</id>
         <title><![CDATA[中古マンション価格予測 2021夏の部]]></title>
         
@@ -998,7 +1168,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-07-06T15:59:13+08:00</updated>
+        <updated>2021-07-07T15:58:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1012,7 +1182,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-06T15:59:13+08:00</updated>
+        <updated>2021-07-07T15:58:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
