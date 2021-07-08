@@ -2,7 +2,7 @@
 
 
 
-## 中古マンション価格予測 2021夏の部 <sup style="color:red">[new]<sup>  
+## 中古マンション価格予測 2021夏の部
 
 Link: https://www.nishika.com/competitions/18  
 Description: 中古マンション価格予測 2021夏の部  

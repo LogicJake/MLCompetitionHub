@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-07T15:58:45+08:00</updated>
+    <updated>2021-07-08T16:00:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -216,7 +216,7 @@
         
         <link href="https://www.biendata.xyz/competition/ccks_aminer_profiling/"/>
         <summary>CCKS2021: AMiner Scholar profiling</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_aminer_profiling/"><![CDATA[<h3>Description</h3>CCKS2021: AMiner Scholar profiling<h3>Deadline: 2021-07-25T08:00:00+08:00</h3><h3>Reward: ￥25,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_aminer_profiling/"><![CDATA[<h3>Description</h3>CCKS2021: AMiner Scholar profiling<h3>Deadline: 2021-08-03T08:00:00+08:00</h3><h3>Reward: ￥25,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -265,20 +265,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
-        <title><![CDATA[Event Causality Extraction]]></title>
-        
-        <updated>2021-05-18T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
-        <summary>Event Causality Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
         <title><![CDATA[Event Elements Extraction]]></title>
         
@@ -287,6 +273,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
         <summary>Event Elements Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
+        <title><![CDATA[Event Causality Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
+        <summary>Event Causality Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -881,6 +881,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1</id>
+        <title><![CDATA[夏令营🔥 训练营之Numpy+Pandas数据处理]]></title>
+        
+        <updated>2021-07-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-05T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/60e27d7f7c232900177337e7</id>
         <title><![CDATA[和鲸 2021 数据科学夏令营]]></title>
         
@@ -1034,20 +1048,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/60e290177c23290017733938</id>
-        <title><![CDATA[夏令营🔥 政治经济数据分析实战]]></title>
-        
-        <updated>2021-07-05T13:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60e290177c23290017733938"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60e290177c23290017733938"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-31T00:00:00+08:00</h3><h3>Reward: 结课证书+纸质书+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -1168,7 +1168,7 @@
         <id>https://signate.jp/competitions/465</id>
         <title><![CDATA[株式会社スペースシフト 新建造物検知アルゴリズム作成]]></title>
         
-        <updated>2021-07-07T15:58:45+08:00</updated>
+        <updated>2021-07-08T16:00:10+08:00</updated>
         
         <link href="https://signate.jp/competitions/465"/>
         <summary>SARデータから新しくできた建物を認識しよう!</summary>
@@ -1182,7 +1182,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-07T15:58:45+08:00</updated>
+        <updated>2021-07-08T16:00:10+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1318,7 +1318,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
         <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T12:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-09T20:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1345,20 +1345,6 @@
     
     
     <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
-        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
         <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
         
@@ -1367,6 +1353,20 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
         <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
+        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -1395,6 +1395,20 @@
         <link href="https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge"/>
         <summary>What solutions can you build using datasets related to gender-based violence?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge"><![CDATA[<h3>Description</h3>What solutions can you build using datasets related to gender-based violence?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
+        <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
+        
+        <updated>2021-07-06T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
+        <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-10-11T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

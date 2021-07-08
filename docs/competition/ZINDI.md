@@ -2,20 +2,20 @@
 
 
 
-## Radiant Earth Spot the Crop Challenge <sup style="color:red">[new]<sup>  
-
-Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
-Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
-Deadline: 2021-09-06T07:59:00+0800  
-Reward: $8 800USD  
-
-
 ## Radiant Earth Spot the Crop XL Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
 Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
 Deadline: 2021-09-06T07:59:00+0800  
 Reward: $8 800 USD  
+
+
+## Radiant Earth Spot the Crop Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
+Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  
+Deadline: 2021-09-06T07:59:00+0800  
+Reward: $8 800USD  
 
 
 ## SFC PAYGo Solar Credit Repayment Competition
@@ -32,6 +32,14 @@ Link: https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-
 Description: What solutions can you build using datasets related to gender-based violence?  
 Deadline: 2021-08-30T07:59:00+0800  
 Reward: $5 000 USD  
+
+
+## Makerere Passion Fruit Disease Detection Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge  
+Description: Can you identify which passion fruit are diseased and which are healthy?  
+Deadline: 2021-10-11T07:59:00+0800  
+Reward: $1 000 USD  
 
 
 ## Cryptocurrency Closing Price Prediction

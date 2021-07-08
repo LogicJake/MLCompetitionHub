@@ -2,6 +2,14 @@
 
 
 
+## 夏令营🔥 训练营之Numpy+Pandas数据处理 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1  
+Description:   
+Deadline: 2021-08-05T00:00:00+0800  
+Reward: 鲸币🐳 +学分+周边+购物卡  
+
+
 ## 和鲸 2021 数据科学夏令营 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/60e27d7f7c232900177337e7  
@@ -88,12 +96,4 @@ Link: https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a
 Description: 用 R 动手学统计 4  
 Deadline: 2021-08-02T23:59:00+0800  
 Reward: 学分+鲸币+纸质书+社区周边  
-
-
-## 夏令营🔥 政治经济数据分析实战 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/60e290177c23290017733938  
-Description:   
-Deadline: 2021-08-31T00:00:00+0800  
-Reward: 结课证书+纸质书+购物卡  
 
