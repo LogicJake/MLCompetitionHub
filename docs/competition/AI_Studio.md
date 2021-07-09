@@ -2,6 +2,14 @@
 
 
 
+## AI创造营 ：Metaverse启动机之重构现世 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
+Description: PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！  
+Deadline: 2021-09-30T08:00:00+0800  
+Reward: ¥30,000 + 超级大礼包  
+
+
 ## 第三届中国AI+创新创业大赛：半监督学习目标定位竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/78  
@@ -56,20 +64,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/77
 Description: 先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。  
 Deadline: 2021-07-15T08:00:00+0800  
 Reward: ￥540,000  
-
-
-## AIWIN世界人工智能创新大赛：保险文本视觉认知问答任务
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/81  
-Description: 在保险理赔流程和客户服务环节中，存在大量扫描文档，极速理赔、个人健康管理等业务场景，都需要对这些文档进行文字检测识别再提取出结构化信息。本次赛题将提供扫描文件数据集，参赛队利用OCR技术自动识别影像资料后，再通过AI智能判断所识别文字的内在逻辑，回答关于图片的自然语言问题。  
-Deadline: 2021-07-09T08:00:00+0800  
-Reward: 120,000  
-
-
-## 全球开放数据应用创新大赛：道路路面病害智能分析算法
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/93  
-Description: 本赛题来自2021全球开放数据应用创新大赛算法赛道，报名人数以大赛官网（https://www.sodic.com.cn/）数据为准。本页面中的“提交结果、我的团队、排行榜、讨论区”页签不提供相应服务，请移步大赛官网注册、登录后，在大赛官网进行相关操作。  
-Deadline: 2021-08-28T08:00:00+0800  
-Reward: ￥170,000  
 

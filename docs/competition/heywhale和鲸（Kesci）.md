@@ -18,14 +18,6 @@ Deadline: 2021-09-01T00:00:00+0800
 Reward: 证书+项目证明+大礼包  
 
 
-## 夏令营🔥 训练营之Python基础 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/60d550bd0666dc0018d6f582  
-Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
-
-
 ## 夏令营🔥干货直播：数据分析求职全攻略
 
 Link: https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927  
@@ -96,4 +88,12 @@ Link: https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a
 Description: 用 R 动手学统计 4  
 Deadline: 2021-08-02T23:59:00+0800  
 Reward: 学分+鲸币+纸质书+社区周边  
+
+
+## 用 R 动手学统计：实战 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60dbf400c693f4001784cd64  
+Description: 用 R 动手学统计 5  
+Deadline: 2021-08-02T23:59:00+0800  
+Reward: 学分+鲸币+纸质书  
 

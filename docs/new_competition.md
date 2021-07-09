@@ -1,17 +1,17 @@
-> 更新时间: 2021-07-08T16:00:10+0800 
+> 更新时间: 2021-07-09T15:59:05+0800 
 
 # 新上线比赛
 
 
-## 夏令营🔥 训练营之Numpy+Pandas数据处理
-Link: https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1  
-Description:   
-Deadline: 2021-08-05T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
+## AI创造营 ：Metaverse启动机之重构现世
+Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
+Description: PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！  
+Deadline: 2021-09-30T08:00:00+0800  
+Reward: ¥30,000 + 超级大礼包  
 
-## Makerere Passion Fruit Disease Detection Challenge
-Link: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge  
-Description: Can you identify which passion fruit are diseased and which are healthy?  
-Deadline: 2021-10-11T07:59:00+0800  
-Reward: $1 000 USD  
+## 用 R 动手学统计：实战
+Link: https://www.kesci.com/home/competition/60dbf400c693f4001784cd64  
+Description: 用 R 动手学统计 5  
+Deadline: 2021-08-02T23:59:00+0800  
+Reward: 学分+鲸币+纸质书  
 
