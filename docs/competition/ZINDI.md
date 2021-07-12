@@ -2,7 +2,7 @@
 
 
 
-## Radiant Earth Spot the Crop XL Challenge <sup style="color:red">[new]<sup>  
+## Radiant Earth Spot the Crop XL Challenge
 
 Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge  
 Description: Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?  
@@ -10,7 +10,7 @@ Deadline: 2021-09-06T07:59:00+0800
 Reward: $8 800 USD  
 
 
-## Radiant Earth Spot the Crop Challenge <sup style="color:red">[new]<sup>  
+## Radiant Earth Spot the Crop Challenge
 
 Link: https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge  
 Description: Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?  

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-11T15:58:45+08:00</updated>
+    <updated>2021-07-12T15:58:42+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -251,20 +251,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
-        <title><![CDATA[Event Elements Extraction]]></title>
-        
-        <updated>2021-05-18T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
-        <summary>Event Elements Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
         <title><![CDATA[Event Causality Extraction]]></title>
         
@@ -273,6 +259,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
         <summary>Event Causality Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_1/</id>
+        <title><![CDATA[Event Elements Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
+        <summary>Event Elements Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -725,6 +725,20 @@
     
     
     <entry>
+        <id>https://competition.huaweicloud.com/information/1000041542/introduction</id>
+        <title><![CDATA[云聚沈抚 · 智赢未来 沈抚示范区·“华为云杯”2021全国AI大赛]]></title>
+        
+        <updated>2021-07-12T00:00:00+08:00</updated>
+        
+        <link href="https://competition.huaweicloud.com/information/1000041542/introduction"/>
+        <summary>沈抚示范区·“华为云杯”2021全国AI大赛是由沈抚改革创新示范区、华为（辽宁）人工智能创新中心和上海交通大学三方合作，共同主办的面向全国的人工智能交流赛事。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041542/introduction"><![CDATA[<h3>Description</h3>沈抚示范区·“华为云杯”2021全国AI大赛是由沈抚改革创新示范区、华为（辽宁）人工智能创新中心和上海交通大学三方合作，共同主办的面向全国的人工智能交流赛事。<h3>Deadline: 2021-09-05T23:59:59+08:00</h3><h3>Reward: ￥210000</h3>]]></content>
+        <author>
+            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://competition.huaweicloud.com/information/1000041539/introduction</id>
         <title><![CDATA[2021第三届华为云人工智能大赛 · 无人车挑战杯]]></title>
         
@@ -845,20 +859,6 @@
         <link href="https://competition.huaweicloud.com/information/1000041411/introduction"/>
         <summary>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. </summary>
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041411/introduction"><![CDATA[<h3>Description</h3>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. <h3>Deadline: 2021-07-20T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041388/introduction</id>
-        <title><![CDATA[“华为云杯”2021人工智能应用创新大赛·创客赛道]]></title>
-        
-        <updated>2021-04-22T15:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041388/introduction"/>
-        <summary>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-07-20T18:00:00+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -1154,11 +1154,11 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-11T15:58:45+08:00</updated>
+        <updated>2021-07-12T15:58:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
-        <content type="text/html" src="https://signate.jp/competitions/444"><![CDATA[<h3>Description</h3>間取り図から部屋領域や建具を認識しよう!<h3>Deadline: 2021-07-14T00:00:00+08:00</h3><h3>Reward: 総額¥2,000,000</h3>]]></content>
+        <content type="text/html" src="https://signate.jp/competitions/444"><![CDATA[<h3>Description</h3>間取り図から部屋領域や建具を認識しよう!<h3>Deadline: 2021-07-14T23:59:59+08:00</h3><h3>Reward: 総額¥2,000,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
         </author>
@@ -1185,6 +1185,34 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531904/introduction</id>
+        <title><![CDATA[CCKS2021 运营商知识图谱推理问答(赛季 2)]]></title>
+        
+        <updated>2021-07-12T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531904/introduction"/>
+        <summary>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-08-13T23:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531903/introduction</id>
+        <title><![CDATA[CCKS2021 面向保险领域的低资源文档信息抽取(赛季 2)]]></title>
+        
+        <updated>2021-07-12T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531903/introduction"/>
+        <summary>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-08-13T23:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
         <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 1)]]></title>
         
@@ -1192,7 +1220,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
         <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-07-12T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-07-26T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1200,13 +1228,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 2)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 3)]]></title>
         
-        <updated>2021-05-24T00:00:00+08:00</updated>
+        <updated>2021-07-12T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-12T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1214,13 +1242,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 2)]]></title>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 3)]]></title>
         
-        <updated>2021-05-24T00:00:00+08:00</updated>
+        <updated>2021-07-12T00:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-07-12T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

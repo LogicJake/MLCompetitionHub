@@ -579,3 +579,4 @@ https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-chall
 https://aistudio.baidu.com/aistudio/competition/detail/98
 https://www.kesci.com/home/competition/60dbf400c693f4001784cd64
 https://competition.huaweicloud.com/information/1000041539/introduction
+https://competition.huaweicloud.com/information/1000041542/introduction

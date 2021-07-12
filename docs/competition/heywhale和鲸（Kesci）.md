@@ -10,7 +10,7 @@ Deadline: 2021-08-05T00:00:00+0800
 Reward: 鲸币🐳 +学分+周边+购物卡  
 
 
-## 和鲸 2021 数据科学夏令营 <sup style="color:red">[new]<sup>  
+## 和鲸 2021 数据科学夏令营
 
 Link: https://www.kesci.com/home/competition/60e27d7f7c232900177337e7  
 Description:   

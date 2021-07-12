@@ -2,7 +2,7 @@
 
 
 
-## Conversational AI Competition <sup style="color:red">[new]<sup>  
+## Conversational AI Competition
 
 Link: https://www.biendata.xyz/competition/xiaobu/  
 Description: Conversational AI Competition  
@@ -74,18 +74,18 @@ Deadline: 2021-07-20T08:00:00+0800
 Reward: ￥30,000  
 
 
-## Event Elements Extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
-Description: Event Elements Extraction  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥15,000  
-
-
 ## Event Causality Extraction
 
 Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
 Description: Event Causality Extraction  
+Deadline: 2021-07-21T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## Event Elements Extraction
+
+Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
+Description: Event Elements Extraction  
 Deadline: 2021-07-21T08:00:00+0800  
 Reward: ￥15,000  
 
