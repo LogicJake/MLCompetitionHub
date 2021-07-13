@@ -66,7 +66,15 @@ Deadline: 2021-08-21T23:59:00+0800
 Reward: 30W奖金和亿元政策扶持  
 
 
-## 用 R 动手学统计：数据操作 <sup style="color:red">[new]<sup>  
+## 夏令营🔥 训练营之Python基础2 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c  
+Description:   
+Deadline: 2021-07-31T00:00:00+0800  
+Reward: 鲸币🐳 +学分+周边+购物卡  
+
+
+## 用 R 动手学统计：数据操作
 
 Link: https://www.kesci.com/home/competition/60dbf367c693f4001784cd3c  
 Description: 用 R 动手学统计 2  
@@ -74,7 +82,7 @@ Deadline: 2021-08-03T00:00:00+0800
 Reward: 学分+鲸币+纸质书  
 
 
-## 用 R 动手学统计：可视化 <sup style="color:red">[new]<sup>  
+## 用 R 动手学统计：可视化
 
 Link: https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45  
 Description: 用 R 动手学统计 3  
@@ -82,18 +90,10 @@ Deadline: 2021-08-02T23:59:00+0800
 Reward: 学分+鲸币+纸质书  
 
 
-## 用 R 动手学统计：基本统计分析 <sup style="color:red">[new]<sup>  
+## 用 R 动手学统计：基本统计分析
 
 Link: https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a  
 Description: 用 R 动手学统计 4  
 Deadline: 2021-08-02T23:59:00+0800  
 Reward: 学分+鲸币+纸质书+社区周边  
-
-
-## 用 R 动手学统计：实战 <sup style="color:red">[new]<sup>  
-
-Link: https://www.kesci.com/home/competition/60dbf400c693f4001784cd64  
-Description: 用 R 动手学统计 5  
-Deadline: 2021-08-02T23:59:00+0800  
-Reward: 学分+鲸币+纸质书  
 

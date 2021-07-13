@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-12T15:58:42+08:00</updated>
+    <updated>2021-07-13T15:58:50+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -979,6 +979,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c</id>
+        <title><![CDATA[夏令营🔥 训练营之Python基础2]]></title>
+        
+        <updated>2021-07-12T15:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/60dbf367c693f4001784cd3c</id>
         <title><![CDATA[用 R 动手学统计：数据操作]]></title>
         
@@ -1015,20 +1029,6 @@
         <link href="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"/>
         <summary>用 R 动手学统计 4</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"><![CDATA[<h3>Description</h3>用 R 动手学统计 4<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书+社区周边</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60dbf400c693f4001784cd64</id>
-        <title><![CDATA[用 R 动手学统计：实战]]></title>
-        
-        <updated>2021-07-06T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60dbf400c693f4001784cd64"/>
-        <summary>用 R 动手学统计 5</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60dbf400c693f4001784cd64"><![CDATA[<h3>Description</h3>用 R 动手学统计 5<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1154,7 +1154,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-12T15:58:42+08:00</updated>
+        <updated>2021-07-13T15:58:50+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1192,7 +1192,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531904/introduction"/>
         <summary>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-08-13T23:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531904/introduction"><![CDATA[<h3>Description</h3>阿里巴巴与中移在线服务有限公司发布的此次评测任务，希望参赛选手基于我们提供的运营商知识图谱，探索KBQA在线问答的推理算法。<h3>Deadline: 2021-08-13T17:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1206,7 +1206,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531903/introduction"/>
         <summary>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-08-13T23:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531903/introduction"><![CDATA[<h3>Description</h3>阿里巴巴和中国人寿联合举办“面向保险领域的低资源文档信息抽取”评测任务，希望通过此次评测助力中文文档信息抽取技术的发展及其商业化落地应用。<h3>Deadline: 2021-08-13T17:55:00+08:00</h3><h3>Reward: ￥112000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1234,7 +1234,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T11:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1248,7 +1248,49 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
         <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-08-13T11:55:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531899/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道三：识别高空作业及安全带佩戴(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531899/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531899/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-16T23:55:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531898/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道二：识别规范穿戴工作服(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531898/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531898/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-16T23:55:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531897/introduction</id>
+        <title><![CDATA[广东电网智慧现场作业挑战赛 赛道一：识别佩戴绝缘手套(赛季 2)]]></title>
+        
+        <updated>2021-05-26T11:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531897/introduction"/>
+        <summary>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531897/introduction"><![CDATA[<h3>Description</h3>为推进新一代数字化技术与电网业务深度融合，解决电网实际业务的技术难题，加强开放合作，建立开放共享的能源技术生态圈，导入行业内外优势要素，推动数字电网高质量发展，广东电网有限责任公司举办“智慧现场作业挑战赛”。广东电网智慧现场作业挑战赛是由广东电网有限责任公司主办，广东电力信息科技有限公司、天池平台承办，旨在推动将人工智能技术应用于电力现场作业，提升安全生产水平。<h3>Deadline: 2021-07-16T23:55:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
