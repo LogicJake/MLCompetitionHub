@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-13T15:58:50+08:00</updated>
+    <updated>2021-07-14T15:59:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -223,20 +223,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
-        <summary>ccks_2021_tencentmedical_1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
         <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
         
@@ -251,14 +237,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
-        <title><![CDATA[Event Causality Extraction]]></title>
+        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
+        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
         
-        <updated>2021-05-18T08:00:00+08:00</updated>
+        <updated>2021-05-20T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
-        <summary>Event Causality Extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
+        <summary>ccks_2021_tencentmedical_1</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -273,6 +259,20 @@
         <link href="https://www.biendata.xyz/competition/ccks_2021_task6_1/"/>
         <summary>Event Elements Extraction</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_1/"><![CDATA[<h3>Description</h3>Event Elements Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks_2021_task6_2/</id>
+        <title><![CDATA[Event Causality Extraction]]></title>
+        
+        <updated>2021-05-18T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks_2021_task6_2/"/>
+        <summary>Event Causality Extraction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_task6_2/"><![CDATA[<h3>Description</h3>Event Causality Extraction<h3>Deadline: 2021-07-21T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -867,6 +867,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50</id>
+        <title><![CDATA[夏令营🔥 和鲸训练营之机器学习]]></title>
+        
+        <updated>2021-07-12T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-31T00:00:00+08:00</h3><h3>Reward: 结课证书+纸质书+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1</id>
         <title><![CDATA[夏令营🔥 训练营之Numpy+Pandas数据处理]]></title>
         
@@ -875,6 +889,20 @@
         <link href="https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-05T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60e290177c23290017733938</id>
+        <title><![CDATA[夏令营🔥 政治经济数据分析实战]]></title>
+        
+        <updated>2021-07-05T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60e290177c23290017733938"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60e290177c23290017733938"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-31T00:00:00+08:00</h3><h3>Reward: 结课证书+纸质书+购物卡</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -903,20 +931,6 @@
         <link href="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-20T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f</id>
-        <title><![CDATA[夏令营🔥干货直播：零基础自学数据分析经验分享]]></title>
-        
-        <updated>2021-06-29T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-13T22:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1015,20 +1029,6 @@
         <link href="https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45"/>
         <summary>用 R 动手学统计 3</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45"><![CDATA[<h3>Description</h3>用 R 动手学统计 3<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a</id>
-        <title><![CDATA[用 R 动手学统计：基本统计分析]]></title>
-        
-        <updated>2021-07-06T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"/>
-        <summary>用 R 动手学统计 4</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a"><![CDATA[<h3>Description</h3>用 R 动手学统计 4<h3>Deadline: 2021-08-02T23:59:00+08:00</h3><h3>Reward: 学分+鲸币+纸质书+社区周边</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1154,7 +1154,7 @@
         <id>https://signate.jp/competitions/444</id>
         <title><![CDATA[パナソニック株式会社 間取り図解析アルゴリズム作成]]></title>
         
-        <updated>2021-07-13T15:58:50+08:00</updated>
+        <updated>2021-07-14T15:59:10+08:00</updated>
         
         <link href="https://signate.jp/competitions/444"/>
         <summary>間取り図から部屋領域や建具を認識しよう!</summary>
@@ -1376,7 +1376,7 @@
         <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
         <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
         
-        <updated>2021-07-14T14:00:00+08:00</updated>
+        <updated>2021-08-13T14:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
         <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>

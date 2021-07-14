@@ -2,12 +2,28 @@
 
 
 
+## 夏令营🔥 和鲸训练营之机器学习 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50  
+Description:   
+Deadline: 2021-08-31T00:00:00+0800  
+Reward: 结课证书+纸质书+购物卡  
+
+
 ## 夏令营🔥 训练营之Numpy+Pandas数据处理 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1  
 Description:   
 Deadline: 2021-08-05T00:00:00+0800  
 Reward: 鲸币🐳 +学分+周边+购物卡  
+
+
+## 夏令营🔥 政治经济数据分析实战
+
+Link: https://www.kesci.com/home/competition/60e290177c23290017733938  
+Description:   
+Deadline: 2021-08-31T00:00:00+0800  
+Reward: 结课证书+纸质书+购物卡  
 
 
 ## 和鲸 2021 数据科学夏令营
@@ -23,14 +39,6 @@ Reward: 证书+项目证明+大礼包
 Link: https://www.kesci.com/home/competition/60d9b1960666dc0018d6f927  
 Description:   
 Deadline: 2021-07-20T22:00:00+0800  
-Reward:   
-
-
-## 夏令营🔥干货直播：零基础自学数据分析经验分享
-
-Link: https://www.kesci.com/home/competition/60d9b5390666dc0018d6f95f  
-Description:   
-Deadline: 2021-07-13T22:00:00+0800  
 Reward:   
 
 
@@ -88,12 +96,4 @@ Link: https://www.kesci.com/home/competition/60dbf3a3c693f4001784cd45
 Description: 用 R 动手学统计 3  
 Deadline: 2021-08-02T23:59:00+0800  
 Reward: 学分+鲸币+纸质书  
-
-
-## 用 R 动手学统计：基本统计分析
-
-Link: https://www.kesci.com/home/competition/60dbf3dcc693f4001784cd5a  
-Description: 用 R 动手学统计 4  
-Deadline: 2021-08-02T23:59:00+0800  
-Reward: 学分+鲸币+纸质书+社区周边  
 
