@@ -26,18 +26,18 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## IJCAI 2021 - WhoIsWho Task1
-
-Link: https://www.biendata.xyz/competition/who-is-who2021/  
-Description: IJCAI 2021 - WhoIsWho Task1  
-Deadline: 2021-07-31T08:00:00+0800  
-Reward: $15,000  
-
-
 ## IJCAI 2021 - WhoIsWho Task2
 
 Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
 Description: IJCAI 2021 - WhoIsWho Task2  
+Deadline: 2021-07-31T08:00:00+0800  
+Reward: $15,000  
+
+
+## IJCAI 2021 - WhoIsWho Task1
+
+Link: https://www.biendata.xyz/competition/who-is-who2021/  
+Description: IJCAI 2021 - WhoIsWho Task1  
 Deadline: 2021-07-31T08:00:00+0800  
 Reward: $15,000  
 
@@ -58,18 +58,18 @@ Deadline: 2021-07-20T08:00:00+0800
 Reward: ￥30,000  
 
 
-## ccks_2021_tencentmedical_2
-
-Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
-Description: ccks_2021_tencentmedical_2  
-Deadline: 2021-07-20T08:00:00+0800  
-Reward: ￥30,000  
-
-
 ## ccks_2021_tencentmedical_1
 
 Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/  
 Description: ccks_2021_tencentmedical_1  
+Deadline: 2021-07-20T08:00:00+0800  
+Reward: ￥30,000  
+
+
+## ccks_2021_tencentmedical_2
+
+Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
+Description: ccks_2021_tencentmedical_2  
 Deadline: 2021-07-20T08:00:00+0800  
 Reward: ￥30,000  
 
@@ -118,7 +118,7 @@ Reward: ￥30,000
 
 Link: https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/  
 Description: CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map  
-Deadline: 2021-07-15T08:00:00+0800  
+Deadline: 2021-07-20T08:00:00+0800  
 Reward: ￥15,000  
 
 
@@ -226,18 +226,18 @@ Deadline: 2021-08-21T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
-Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
-Deadline: 2021-08-06T08:00:00+0800  
-Reward: ￥20,000  
-
-
 ## CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference
 
 Link: https://www.biendata.xyz/competition/ccks_2021_cpe_2/  
 Description: CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference  
+Deadline: 2021-08-06T08:00:00+0800  
+Reward: ￥20,000  
+
+
+## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
+
+Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
+Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
 Deadline: 2021-08-06T08:00:00+0800  
 Reward: ￥20,000  
 
