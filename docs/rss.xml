@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-15T16:00:43+08:00</updated>
+    <updated>2021-07-16T16:00:47+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -103,20 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/75"/>
         <summary>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/75"><![CDATA[<h3>Description</h3>CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。<h3>Deadline: 2021-08-08T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/77</id>
-        <title><![CDATA[『先导杯』计算应用大奖赛]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/77"/>
-        <summary>先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/77"><![CDATA[<h3>Description</h3>先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。<h3>Deadline: 2021-07-15T08:00:00+08:00</h3><h3>Reward: ￥540,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -619,6 +605,20 @@
     </entry>
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=550</id>
+        <title><![CDATA[2021 Datathon数智马拉松大赛]]></title>
+        
+        <updated>2021-07-13T10:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=550"/>
+        <summary>大赛以“数造潜能·智创未来”为主题，依托公共数据平台及开放数据，围绕智慧交通、智慧医学、智能音乐、步态识别等领域，设置大数据和AI前沿命题，开放数十万现金奖励，寻找“最强数智大脑”，面向海内外顶尖院校学生和广大程序员发起 “最IN挑战”。大赛将邀请业内顶级专家，组成超级评审团，更有 “数智夏令营”、创业资源扶持和名企大咖1v1帮带，助力数智菁英培育和人才成长，加速数智创意落地和梦想起飞！</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=550"><![CDATA[<h3>Description</h3>大赛以“数造潜能·智创未来”为主题，依托公共数据平台及开放数据，围绕智慧交通、智慧医学、智能音乐、步态识别等领域，设置大数据和AI前沿命题，开放数十万现金奖励，寻找“最强数智大脑”，面向海内外顶尖院校学生和广大程序员发起 “最IN挑战”。大赛将邀请业内顶级专家，组成超级评审团，更有 “数智夏令营”、创业资源扶持和名企大咖1v1帮带，助力数智菁英培育和人才成长，加速数智创意落地和梦想起飞！<h3>Deadline: 2021-10-24T23:59:59+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=482</id>
         <title><![CDATA[“数源杯”- 百万单细胞基因表达数据算法大赛]]></title>
         
@@ -701,20 +701,6 @@
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=534"/>
         <summary>农作物病虫害严重制约着农业生产，因为农作物病虫害种类多、密度大，极易造成农作物大量减产。同时由于传统人眼识别病虫害的方法速度较慢、准确度较低，会导致农药的滥用，破坏自然环境。如今随着精准农业和智慧农业概念的兴起和发展，利用信息技术辅助农业生产，实现对农作物病虫害的智能识别和检测，以减少不必要的农药喷施，对保护生态系统均衡，保障农作物安全生产，提高农作物的质量方面，有着十分重要的促进作用。</summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=534"><![CDATA[<h3>Description</h3>农作物病虫害严重制约着农业生产，因为农作物病虫害种类多、密度大，极易造成农作物大量减产。同时由于传统人眼识别病虫害的方法速度较慢、准确度较低，会导致农药的滥用，破坏自然环境。如今随着精准农业和智慧农业概念的兴起和发展，利用信息技术辅助农业生产，实现对农作物病虫害的智能识别和检测，以减少不必要的农药喷施，对保护生态系统均衡，保障农作物安全生产，提高农作物的质量方面，有着十分重要的促进作用。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=533</id>
-        <title><![CDATA[A.I.开发者大赛-遥感影像典型目标提取挑战赛]]></title>
-        
-        <updated>2021-06-21T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=533"/>
-        <summary>观微科技深耕于地理空间情报服务，以人工智能和专家解译知识为基础，打造了数字化地理空间情报产业生态体系。帮助典型目标主用AI+大数据实现检测效能的全面提升，打造典型目标智能提取的新生态。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=533"><![CDATA[<h3>Description</h3>观微科技深耕于地理空间情报服务，以人工智能和专家解译知识为基础，打造了数字化地理空间情报产业生态体系。帮助典型目标主用AI+大数据实现检测效能的全面提升，打造典型目标智能提取的新生态。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1091,20 +1077,6 @@
         <link href="https://www.nishika.com/competitions/15"/>
         <summary>コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）</summary>
         <content type="text/html" src="https://www.nishika.com/competitions/15"><![CDATA[<h3>Description</h3>コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）<h3>Deadline: 2021-07-20T05:59:00+08:00</h3><h3>Reward: 50万円,その他特典</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.nishika.com/competitions/14</id>
-        <title><![CDATA[中古マンション価格予測 2021春の部]]></title>
-        
-        <updated>2021-04-09T17:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/14"/>
-        <summary>中古マンション価格予測 2021春の部</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/14"><![CDATA[<h3>Description</h3>中古マンション価格予測 2021春の部<h3>Deadline: 2021-06-30T13:59:00+08:00</h3><h3>Reward: 各種賞品</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>

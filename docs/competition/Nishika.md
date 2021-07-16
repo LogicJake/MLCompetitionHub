@@ -34,14 +34,6 @@ Deadline: 2021-07-20T05:59:00+0800
 Reward: 50万円,その他特典  
 
 
-## 中古マンション価格予測 2021春の部
-
-Link: https://www.nishika.com/competitions/14  
-Description: 中古マンション価格予測 2021春の部  
-Deadline: 2021-06-30T13:59:00+0800  
-Reward: 各種賞品  
-
-
 ## 【トレーニングコンペ】中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/13  

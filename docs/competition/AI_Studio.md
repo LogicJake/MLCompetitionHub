@@ -2,7 +2,7 @@
 
 
 
-## AI创造营 ：Metaverse启动机之重构现世 <sup style="color:red">[new]<sup>  
+## AI创造营 ：Metaverse启动机之重构现世
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
 Description: PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！  
@@ -56,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/75
 Description: CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。  
 Deadline: 2021-08-08T08:00:00+0800  
 Reward: ¥100,000  
-
-
-## 『先导杯』计算应用大奖赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/77  
-Description: 先导杯计算应用大奖赛由曙光信息产业股份有限公司和北京百度网讯科技有限公司合办。本次大赛为选手提供深度学习计算环境，使用部署在异构加速集群的PaddlePaddle框架，结合一站式AI开发平台进行赛题模型的开发、设计和测试，期待参赛者能够以此为契机，共同推进基于异构加速平台的智能交通领域的发展。  
-Deadline: 2021-07-15T08:00:00+0800  
-Reward: ￥540,000  
 
