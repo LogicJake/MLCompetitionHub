@@ -1,11 +1,17 @@
-> 更新时间: 2021-07-16T16:00:47+0800 
+> 更新时间: 2021-07-17T15:58:45+0800 
 
 # 新上线比赛
 
 
-## 2021 Datathon数智马拉松大赛
-Link: https://js.dclab.run/v2/cmptDetail.html?id=550  
-Description: 大赛以“数造潜能·智创未来”为主题，依托公共数据平台及开放数据，围绕智慧交通、智慧医学、智能音乐、步态识别等领域，设置大数据和AI前沿命题，开放数十万现金奖励，寻找“最强数智大脑”，面向海内外顶尖院校学生和广大程序员发起 “最IN挑战”。大赛将邀请业内顶级专家，组成超级评审团，更有 “数智夏令营”、创业资源扶持和名企大咖1v1帮带，助力数智菁英培育和人才成长，加速数智创意落地和梦想起飞！  
-Deadline: 2021-10-24T23:59:59+0800  
-Reward: ￥300000  
+## “天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛高级赛道(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531915/introduction  
+Description: 为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。  
+Deadline: 2021-07-28T23:55:00+0800  
+Reward: ￥83000  
+
+## “天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛中级赛道(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531914/introduction  
+Description: 为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。  
+Deadline: 2021-11-26T23:55:00+0800  
+Reward: ￥0  
 
