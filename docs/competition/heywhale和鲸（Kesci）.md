@@ -2,7 +2,7 @@
 
 
 
-## 夏令营🔥 和鲸训练营之机器学习 <sup style="color:red">[new]<sup>  
+## 夏令营🔥 和鲸训练营之机器学习
 
 Link: https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50  
 Description:   
@@ -92,7 +92,7 @@ Deadline: 2021-09-17T20:00:00+0800
 Reward: 奖金15万+鹏城实验室招聘绿色通道  
 
 
-## 夏令营🔥 训练营之Python基础2 <sup style="color:red">[new]<sup>  
+## 夏令营🔥 训练营之Python基础2
 
 Link: https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c  
 Description:   
