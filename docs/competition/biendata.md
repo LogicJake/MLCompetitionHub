@@ -2,6 +2,14 @@
 
 
 
+## Knowledge graph-based AI+ Educational application dev competition <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/edukg/  
+Description: Knowledge graph-based AI+ Educational application dev competition  
+Deadline: 2021-09-09T08:00:00+0800  
+Reward: ￥29,000  
+
+
 ## Conversational AI Competition
 
 Link: https://www.biendata.xyz/competition/xiaobu/  
@@ -26,18 +34,18 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## IJCAI 2021 - WhoIsWho Task2
-
-Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
-Description: IJCAI 2021 - WhoIsWho Task2  
-Deadline: 2021-07-31T08:00:00+0800  
-Reward: $15,000  
-
-
 ## IJCAI 2021 - WhoIsWho Task1
 
 Link: https://www.biendata.xyz/competition/who-is-who2021/  
 Description: IJCAI 2021 - WhoIsWho Task1  
+Deadline: 2021-07-31T08:00:00+0800  
+Reward: $15,000  
+
+
+## IJCAI 2021 - WhoIsWho Task2
+
+Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
+Description: IJCAI 2021 - WhoIsWho Task2  
 Deadline: 2021-07-31T08:00:00+0800  
 Reward: $15,000  
 
@@ -48,30 +56,6 @@ Link: https://www.biendata.xyz/competition/ccks_aminer_profiling/
 Description: CCKS2021: AMiner Scholar profiling  
 Deadline: 2021-08-03T08:00:00+0800  
 Reward: ￥25,000  
-
-
-## CCKS 2021: Entity-aware Chinese Medical Dialogue Generation
-
-Link: https://www.biendata.xyz/competition/ccks_2021_mdg/  
-Description: CCKS 2021: Entity-aware Chinese Medical Dialogue Generation  
-Deadline: 2021-07-20T08:00:00+0800  
-Reward: ￥30,000  
-
-
-## ccks_2021_tencentmedical_2
-
-Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/  
-Description: ccks_2021_tencentmedical_2  
-Deadline: 2021-07-20T08:00:00+0800  
-Reward: ￥30,000  
-
-
-## ccks_2021_tencentmedical_1
-
-Link: https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/  
-Description: ccks_2021_tencentmedical_1  
-Deadline: 2021-07-20T08:00:00+0800  
-Reward: ￥30,000  
 
 
 ## Event Causality Extraction
@@ -154,14 +138,6 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## Dream Dataset
-
-Link: https://www.biendata.xyz/competition/dream/  
-Description: Dream Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
 ## CommonsenseQA Dataset
 
 Link: https://www.biendata.xyz/competition/commonsense_qa/  
@@ -206,6 +182,14 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/race_c/  
 Description: RACE-C Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## Dream Dataset
+
+Link: https://www.biendata.xyz/competition/dream/  
+Description: Dream Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 

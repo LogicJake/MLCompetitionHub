@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-19T15:58:53+08:00</updated>
+    <updated>2021-07-20T15:59:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -111,6 +111,20 @@
     
     
     <entry>
+        <id>https://www.biendata.xyz/competition/edukg/</id>
+        <title><![CDATA[Knowledge graph-based AI+ Educational application dev competition]]></title>
+        
+        <updated>2021-07-20T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/edukg/"/>
+        <summary>Knowledge graph-based AI+ Educational application dev competition</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/edukg/"><![CDATA[<h3>Description</h3>Knowledge graph-based AI+ Educational application dev competition<h3>Deadline: 2021-09-09T08:00:00+08:00</h3><h3>Reward: ￥29,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/xiaobu/</id>
         <title><![CDATA[Conversational AI Competition]]></title>
         
@@ -153,20 +167,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
-        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
-        
-        <updated>2021-05-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
-        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
         <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
         
@@ -181,6 +181,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/ccks_aminer_profiling/</id>
         <title><![CDATA[CCKS2021: AMiner Scholar profiling]]></title>
         
@@ -189,48 +203,6 @@
         <link href="https://www.biendata.xyz/competition/ccks_aminer_profiling/"/>
         <summary>CCKS2021: AMiner Scholar profiling</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/ccks_aminer_profiling/"><![CDATA[<h3>Description</h3>CCKS2021: AMiner Scholar profiling<h3>Deadline: 2021-08-03T08:00:00+08:00</h3><h3>Reward: ￥25,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_mdg/</id>
-        <title><![CDATA[CCKS 2021: Entity-aware Chinese Medical Dialogue Generation]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_mdg/"/>
-        <summary>CCKS 2021: Entity-aware Chinese Medical Dialogue Generation</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_mdg/"><![CDATA[<h3>Description</h3>CCKS 2021: Entity-aware Chinese Medical Dialogue Generation<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_2]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"/>
-        <summary>ccks_2021_tencentmedical_2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_2/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_2<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/</id>
-        <title><![CDATA[ccks_2021_tencentmedical_1]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"/>
-        <summary>ccks_2021_tencentmedical_1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_tencentmedical_1/"><![CDATA[<h3>Description</h3>ccks_2021_tencentmedical_1<h3>Deadline: 2021-07-20T08:00:00+08:00</h3><h3>Reward: ￥30,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -377,20 +349,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/dream/</id>
-        <title><![CDATA[Dream Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/dream/"/>
-        <summary>Dream Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
         <title><![CDATA[CommonsenseQA Dataset]]></title>
         
@@ -475,6 +433,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/dream/</id>
+        <title><![CDATA[Dream Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/dream/"/>
+        <summary>Dream Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/ccks_2021_maven/</id>
         <title><![CDATA[Massive General Domain Event Detection Challenge]]></title>
         
@@ -517,6 +489,48 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/511</id>
+        <title><![CDATA[智能人机交互自然语言理解]]></title>
+        
+        <updated>2021-07-19T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/511"/>
+        <summary>智能人机交互自然语言理解</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/511"><![CDATA[<h3>Description</h3>智能人机交互自然语言理解<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/510</id>
+        <title><![CDATA[中文命名实体识别算法鲁棒性评测]]></title>
+        
+        <updated>2021-07-19T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/510"/>
+        <summary>中文命名实体识别算法鲁棒性评测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/510"><![CDATA[<h3>Description</h3>中文命名实体识别算法鲁棒性评测<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/509</id>
+        <title><![CDATA[预训练模型知识量度量]]></title>
+        
+        <updated>2021-07-19T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/509"/>
+        <summary>预训练模型知识量度量</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/509"><![CDATA[<h3>Description</h3>预训练模型知识量度量<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/504</id>
@@ -816,7 +830,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000041411/introduction"/>
         <summary>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. </summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041411/introduction"><![CDATA[<h3>Description</h3>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. <h3>Deadline: 2021-07-20T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041411/introduction"><![CDATA[<h3>Description</h3>The Dynamic Pickup and Delivery Problem is an essential problem in logistics domain, we organize the competition at ICAPS 2021 on this problem. <h3>Deadline: 2021-07-22T23:59:59+08:00</h3><h3>Reward: ￥10000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -837,6 +851,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb</id>
+        <title><![CDATA[夏令营🔥 训练营之数据可视化]]></title>
+        
+        <updated>2021-07-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-08-18T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50</id>
@@ -996,20 +1024,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c</id>
-        <title><![CDATA[夏令营🔥 训练营之Python基础2]]></title>
-        
-        <updated>2021-07-12T15:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-07-31T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +学分+周边+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -1115,6 +1129,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”冷冻电镜蛋白质结构建模大赛(赛季 1)]]></title>
+        
+        <updated>2021-07-15T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531916/introduction"/>
+        <summary>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531916/introduction"><![CDATA[<h3>Description</h3>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。<h3>Deadline: 2021-08-27T18:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531906/introduction</id>
         <title><![CDATA[云上开发，高效智能--阿里云ECS Cloudbuild开发者大赛算法挑战赛道(赛季 1)]]></title>
         
@@ -1127,34 +1155,6 @@
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531906/introduction"><![CDATA[<h3>Description</h3>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
 阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
 围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-08-06T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531915/introduction</id>
-        <title><![CDATA[“天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛高级赛道(赛季 1)]]></title>
-        
-        <updated>2021-07-16T01:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531915/introduction"/>
-        <summary>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531915/introduction"><![CDATA[<h3>Description</h3>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。<h3>Deadline: 2021-07-28T23:55:00+08:00</h3><h3>Reward: ￥83000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531914/introduction</id>
-        <title><![CDATA[“天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛中级赛道(赛季 1)]]></title>
-        
-        <updated>2021-07-15T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531914/introduction"/>
-        <summary>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531914/introduction"><![CDATA[<h3>Description</h3>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。<h3>Deadline: 2021-11-26T23:55:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

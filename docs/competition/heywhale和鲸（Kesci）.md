@@ -2,6 +2,14 @@
 
 
 
+## 夏令营🔥 训练营之数据可视化 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb  
+Description:   
+Deadline: 2021-08-18T00:00:00+0800  
+Reward: 鲸币🐳 +学分+周边+购物卡  
+
+
 ## 夏令营🔥 和鲸训练营之机器学习
 
 Link: https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50  
@@ -90,12 +98,4 @@ Description:  “水下目标检测算法赛”是2020年初的一个全新算�
 “水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
 Deadline: 2021-09-17T20:00:00+0800  
 Reward: 奖金15万+鹏城实验室招聘绿色通道  
-
-
-## 夏令营🔥 训练营之Python基础2
-
-Link: https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c  
-Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
 
