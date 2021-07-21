@@ -58,18 +58,18 @@ Deadline: 2021-08-03T08:00:00+0800
 Reward: ￥25,000  
 
 
-## Event Causality Extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
-Description: Event Causality Extraction  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥15,000  
-
-
 ## Event Elements Extraction
 
 Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
 Description: Event Elements Extraction  
+Deadline: 2021-07-21T08:00:00+0800  
+Reward: ￥15,000  
+
+
+## Event Causality Extraction
+
+Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
+Description: Event Causality Extraction  
 Deadline: 2021-07-21T08:00:00+0800  
 Reward: ￥15,000  
 
@@ -96,14 +96,6 @@ Link: https://www.biendata.xyz/competition/ccks_2021_eti/
 Description: Entity Type Inference for General Encyclopedia Knowledge Graph  
 Deadline: 2021-07-21T08:00:00+0800  
 Reward: ￥30,000  
-
-
-## CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map
-
-Link: https://www.biendata.xyz/competition/ccks_2021_kg_link_prediction/  
-Description: CCKS 2021 : Link prediction of phenotype-drug-molecule multi-level knowledge map  
-Deadline: 2021-07-20T08:00:00+0800  
-Reward: ￥15,000  
 
 
 ## SIGSPATIAL 2021 GISCUP
@@ -134,6 +126,14 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/open_book_qa/  
 Description: OpenBookQA Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## Dream Dataset
+
+Link: https://www.biendata.xyz/competition/dream/  
+Description: Dream Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
@@ -182,14 +182,6 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/race_c/  
 Description: RACE-C Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## Dream Dataset
-
-Link: https://www.biendata.xyz/competition/dream/  
-Description: Dream Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
