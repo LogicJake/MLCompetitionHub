@@ -34,18 +34,18 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## IJCAI 2021 - WhoIsWho Task1
-
-Link: https://www.biendata.xyz/competition/who-is-who2021/  
-Description: IJCAI 2021 - WhoIsWho Task1  
-Deadline: 2021-07-31T08:00:00+0800  
-Reward: $15,000  
-
-
 ## IJCAI 2021 - WhoIsWho Task2
 
 Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
 Description: IJCAI 2021 - WhoIsWho Task2  
+Deadline: 2021-07-31T08:00:00+0800  
+Reward: $15,000  
+
+
+## IJCAI 2021 - WhoIsWho Task1
+
+Link: https://www.biendata.xyz/competition/who-is-who2021/  
+Description: IJCAI 2021 - WhoIsWho Task1  
 Deadline: 2021-07-31T08:00:00+0800  
 Reward: $15,000  
 
@@ -56,22 +56,6 @@ Link: https://www.biendata.xyz/competition/ccks_aminer_profiling/
 Description: CCKS2021: AMiner Scholar profiling  
 Deadline: 2021-08-03T08:00:00+0800  
 Reward: ￥25,000  
-
-
-## Event Elements Extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_task6_1/  
-Description: Event Elements Extraction  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥15,000  
-
-
-## Event Causality Extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_task6_2/  
-Description: Event Causality Extraction  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥15,000  
 
 
 ## ccks_2021_UAVs_KG
@@ -88,14 +72,6 @@ Link: https://www.biendata.xyz/competition/ccks_2021_videounderstanding/
 Description: CCKS 2021: Knowledge-enhanced Video Understanding Challenge  
 Deadline: 2021-08-01T08:00:00+0800  
 Reward: ￥40,000  
-
-
-## Entity Type Inference for General Encyclopedia Knowledge Graph
-
-Link: https://www.biendata.xyz/competition/ccks_2021_eti/  
-Description: Entity Type Inference for General Encyclopedia Knowledge Graph  
-Deadline: 2021-07-21T08:00:00+0800  
-Reward: ￥30,000  
 
 
 ## SIGSPATIAL 2021 GISCUP
@@ -194,18 +170,18 @@ Deadline: 2021-08-21T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
-
-Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
-Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
-Deadline: 2021-08-06T08:00:00+0800  
-Reward: ￥20,000  
-
-
 ## CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference
 
 Link: https://www.biendata.xyz/competition/ccks_2021_cpe_2/  
 Description: CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference  
+Deadline: 2021-08-06T08:00:00+0800  
+Reward: ￥20,000  
+
+
+## CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction
+
+Link: https://www.biendata.xyz/competition/ccks_2021_cpe_1/  
+Description: CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction  
 Deadline: 2021-08-06T08:00:00+0800  
 Reward: ￥20,000  
 
