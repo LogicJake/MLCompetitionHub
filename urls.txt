@@ -594,3 +594,4 @@ https://www.datafountain.cn/competitions/509
 https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb
 https://tianchi.aliyun.com/competition/entrance/531916/introduction
 https://js.dclab.run/v2/cmptDetail.html?id=552
+https://js.dclab.run/v2/cmptDetail.html?id=554
