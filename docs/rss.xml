@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-26T16:01:21+08:00</updated>
+    <updated>2021-07-27T16:00:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -167,20 +167,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
-        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
-        
-        <updated>2021-05-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
-        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/who-is-who2021/</id>
         <title><![CDATA[IJCAI 2021 - WhoIsWho Task1]]></title>
         
@@ -189,6 +175,20 @@
         <link href="https://www.biendata.xyz/competition/who-is-who2021/"/>
         <summary>IJCAI 2021 - WhoIsWho Task1</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task1<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/who-is-who2021_2/</id>
+        <title><![CDATA[IJCAI 2021 - WhoIsWho Task2]]></title>
+        
+        <updated>2021-05-21T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/who-is-who2021_2/"/>
+        <summary>IJCAI 2021 - WhoIsWho Task2</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/who-is-who2021_2/"><![CDATA[<h3>Description</h3>IJCAI 2021 - WhoIsWho Task2<h3>Deadline: 2021-07-31T08:00:00+08:00</h3><h3>Reward: $15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -521,6 +521,34 @@
     
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=554</id>
+        <title><![CDATA[A.I.开发者大赛-车内贵重物品检测挑战赛]]></title>
+        
+        <updated>2021-07-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=554"/>
+        <summary>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=554"><![CDATA[<h3>Description</h3>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=552</id>
+        <title><![CDATA[A.I.开发者大赛-医疗实体及关系抽取挑战赛]]></title>
+        
+        <updated>2021-07-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=552"/>
+        <summary>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=552"><![CDATA[<h3>Description</h3>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=550</id>
         <title><![CDATA[2021 Datathon数智马拉松大赛]]></title>
         
@@ -585,34 +613,6 @@
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=482"/>
         <summary>单细胞转录组测序（scRNA-seq）已成为鉴定和表征细胞类型、状态、谱系和网络的核心工具。将细胞聚类成簇通常是任何单细胞分析的第一个中间结果。聚类分析的目的是在待定义细胞类型的数据集中保留主要的变异来源，同时尽量屏蔽由于无用的变异来源（测序深度，细胞周期差异，线粒体表达，批次效应等）而产生的变异。目前已有多个成熟的单细胞聚类算法，例如经典的层次聚类和K-means，专门为单细胞技术开发的SC3聚类等，随着单细胞数据的不断产出，数据处理的通量将不断攀升，所以单细胞聚类算法的性能也需要不断提升。</summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=482"><![CDATA[<h3>Description</h3>单细胞转录组测序（scRNA-seq）已成为鉴定和表征细胞类型、状态、谱系和网络的核心工具。将细胞聚类成簇通常是任何单细胞分析的第一个中间结果。聚类分析的目的是在待定义细胞类型的数据集中保留主要的变异来源，同时尽量屏蔽由于无用的变异来源（测序深度，细胞周期差异，线粒体表达，批次效应等）而产生的变异。目前已有多个成熟的单细胞聚类算法，例如经典的层次聚类和K-means，专门为单细胞技术开发的SC3聚类等，随着单细胞数据的不断产出，数据处理的通量将不断攀升，所以单细胞聚类算法的性能也需要不断提升。<h3>Deadline: 2021-08-15T23:59:59+08:00</h3><h3>Reward: ￥53000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=554</id>
-        <title><![CDATA[A.I.开发者大赛-车内贵重物品检测挑战赛]]></title>
-        
-        <updated>2021-07-21T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=554"/>
-        <summary>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=554"><![CDATA[<h3>Description</h3>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=552</id>
-        <title><![CDATA[A.I.开发者大赛-医疗实体及关系抽取挑战赛]]></title>
-        
-        <updated>2021-07-21T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=552"/>
-        <summary>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=552"><![CDATA[<h3>Description</h3>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -853,20 +853,6 @@
     </entry>
     
     <entry>
-        <id>https://www.nishika.com/competitions/15</id>
-        <title><![CDATA[コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）]]></title>
-        
-        <updated>2021-04-28T17:00:00+08:00</updated>
-        
-        <link href="https://www.nishika.com/competitions/15"/>
-        <summary>コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/15"><![CDATA[<h3>Description</h3>コペルニクス・マスターズ日本大会（ディスカッション・質問フォーラム）<h3>Deadline: 2021-07-22T05:59:00+08:00</h3><h3>Reward: 50万円,その他特典</h3>]]></content>
-        <author>
-            <name><![CDATA[Nishika]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.nishika.com/competitions/13</id>
         <title><![CDATA[【トレーニングコンペ】中古マンション価格予測]]></title>
         
@@ -917,20 +903,6 @@
     
     
     <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
-        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
         <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
         
@@ -939,6 +911,20 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
         <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
+        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

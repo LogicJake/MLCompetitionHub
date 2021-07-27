@@ -2,7 +2,7 @@
 
 
 
-## Knowledge graph-based AI+ Educational application dev competition <sup style="color:red">[new]<sup>  
+## Knowledge graph-based AI+ Educational application dev competition
 
 Link: https://www.biendata.xyz/competition/edukg/  
 Description: Knowledge graph-based AI+ Educational application dev competition  
@@ -34,18 +34,18 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## IJCAI 2021 - WhoIsWho Task2
-
-Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
-Description: IJCAI 2021 - WhoIsWho Task2  
-Deadline: 2021-07-31T08:00:00+0800  
-Reward: $15,000  
-
-
 ## IJCAI 2021 - WhoIsWho Task1
 
 Link: https://www.biendata.xyz/competition/who-is-who2021/  
 Description: IJCAI 2021 - WhoIsWho Task1  
+Deadline: 2021-07-31T08:00:00+0800  
+Reward: $15,000  
+
+
+## IJCAI 2021 - WhoIsWho Task2
+
+Link: https://www.biendata.xyz/competition/who-is-who2021_2/  
+Description: IJCAI 2021 - WhoIsWho Task2  
 Deadline: 2021-07-31T08:00:00+0800  
 Reward: $15,000  
 
