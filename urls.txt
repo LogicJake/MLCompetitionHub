@@ -596,3 +596,5 @@ https://tianchi.aliyun.com/competition/entrance/531916/introduction
 https://js.dclab.run/v2/cmptDetail.html?id=552
 https://js.dclab.run/v2/cmptDetail.html?id=554
 https://www.datafountain.cn/competitions/512
+https://js.dclab.run/v2/cmptDetail.html?id=556
+https://signate.jp/competitions/471
