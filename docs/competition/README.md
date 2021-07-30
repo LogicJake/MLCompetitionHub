@@ -9,7 +9,6 @@
 * [SIGNATE](competition/SIGNATE.md)
 * [天池](competition/天池.md)
 * [图灵联邦](competition/图灵联邦.md)
-* [AI研习社](competition/AI研习社.md)
 * [ZINDI](competition/ZINDI.md)
   
 > 新平台需求可以留言
