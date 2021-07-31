@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-07-30T15:59:10+08:00</updated>
+    <updated>2021-07-31T15:58:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -753,20 +753,6 @@
     </entry>
     
     <entry>
-        <id>https://competition.huaweicloud.com/information/1000041492/introduction</id>
-        <title><![CDATA[“华为云-东吴杯”2021数字化转型创新应用大赛·企业赛道]]></title>
-        
-        <updated>2021-05-21T00:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041492/introduction"/>
-        <summary>本赛事聚焦工业智能化应用落地的全场景创新，旨在促进数字化转型技术与实体产业深度融合，提升产业效率，推动吴中区数字化转型人才集聚和产业集聚。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041492/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦工业智能化应用落地的全场景创新，旨在促进数字化转型技术与实体产业深度融合，提升产业效率，推动吴中区数字化转型人才集聚和产业集聚。<h3>Deadline: 2021-07-30T18:00:00+08:00</h3><h3>Reward: ￥11</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://competition.huaweicloud.com/information/1000041490/introduction</id>
         <title><![CDATA[“华为云-东吴杯”2021数字化转型创新应用大赛·创客赛道]]></title>
         
@@ -789,20 +775,6 @@
         <link href="https://competition.huaweicloud.com/information/1000041388/introduction"/>
         <summary>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。</summary>
         <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-08-05T14:47:19+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041392/introduction</id>
-        <title><![CDATA[“华为云杯”2021人工智能创新应用大赛·企业赛道]]></title>
-        
-        <updated>2021-04-22T15:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041392/introduction"/>
-        <summary>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041392/introduction"><![CDATA[<h3>Description</h3>本赛事是由华为（苏州）人工智能创新中心、苏州工业园区科技发展有限公司主办，以“云聚姑苏，智享未来”为主题，面向全国的人工智能交流赛事。<h3>Deadline: 2021-07-30T20:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -900,7 +872,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-07-30T15:59:10+08:00</updated>
+        <updated>2021-07-31T15:58:57+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -1018,19 +990,7 @@
     
     
     
-    <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
-        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
+    
     
     <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
@@ -1041,6 +1001,20 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
         <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
+        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-09-06T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -1097,20 +1071,6 @@
         <link href="https://zindi.africa/competitions/cryptocurrency-closing-price-prediction"/>
         <summary>Can you predict the closing price for a cryptocurrency? </summary>
         <content type="text/html" src="https://zindi.africa/competitions/cryptocurrency-closing-price-prediction"><![CDATA[<h3>Description</h3>Can you predict the closing price for a cryptocurrency? <h3>Deadline: 2021-09-20T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/deepfake-africa-challenge</id>
-        <title><![CDATA[Deepfake Africa Challenge ]]></title>
-        
-        <updated>2021-05-06T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/deepfake-africa-challenge"/>
-        <summary>Shining a light on deepfake media &amp; tools in Africa </summary>
-        <content type="text/html" src="https://zindi.africa/competitions/deepfake-africa-challenge"><![CDATA[<h3>Description</h3>Shining a light on deepfake media &amp; tools in Africa <h3>Deadline: 2021-07-31T07:59:00+08:00</h3><h3>Reward: $1 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
