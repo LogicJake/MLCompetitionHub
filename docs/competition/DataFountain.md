@@ -2,7 +2,7 @@
 
 
 
-## 第五届“达观杯” 基于大规模预训练模型的风险事件标签识别 <sup style="color:red">[new]<sup>  
+## 第五届“达观杯” 基于大规模预训练模型的风险事件标签识别
 
 Link: https://www.datafountain.cn/competitions/512  
 Description: 第五届“达观杯” 基于大规模预训练模型的风险事件标签识别  

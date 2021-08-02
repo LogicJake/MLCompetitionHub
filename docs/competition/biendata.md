@@ -42,22 +42,6 @@ Deadline: 2021-08-03T08:00:00+0800
 Reward: ￥25,000  
 
 
-## ccks_2021_UAVs_KG
-
-Link: https://www.biendata.xyz/competition/ccks_2021_UAVs_KG/  
-Description: ccks_2021_UAVs_KG  
-Deadline: 2021-08-01T08:00:00+0800  
-Reward: ￥50,000  
-
-
-## CCKS 2021: Knowledge-enhanced Video Understanding Challenge
-
-Link: https://www.biendata.xyz/competition/ccks_2021_videounderstanding/  
-Description: CCKS 2021: Knowledge-enhanced Video Understanding Challenge  
-Deadline: 2021-08-01T08:00:00+0800  
-Reward: ￥40,000  
-
-
 ## SIGSPATIAL 2021 GISCUP
 
 Link: https://www.biendata.xyz/competition/didi-eta/  
