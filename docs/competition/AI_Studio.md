@@ -2,6 +2,14 @@
 
 
 
+## 飞桨论文复现挑战赛（第四期） <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
+Deadline: 2021-09-30T08:00:00+0800  
+Reward: 总计￥1,500,000  
+
+
 ## AI创造营 ：Metaverse启动机之重构现世
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
