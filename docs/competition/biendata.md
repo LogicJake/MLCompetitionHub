@@ -34,14 +34,6 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## CCKS2021: AMiner Scholar profiling
-
-Link: https://www.biendata.xyz/competition/ccks_aminer_profiling/  
-Description: CCKS2021: AMiner Scholar profiling  
-Deadline: 2021-08-03T08:00:00+0800  
-Reward: ￥25,000  
-
-
 ## SIGSPATIAL 2021 GISCUP
 
 Link: https://www.biendata.xyz/competition/didi-eta/  

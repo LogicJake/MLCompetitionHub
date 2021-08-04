@@ -600,3 +600,4 @@ https://js.dclab.run/v2/cmptDetail.html?id=556
 https://signate.jp/competitions/471
 https://aistudio.baidu.com/aistudio/competition/detail/106
 https://competition.huaweicloud.com/information/1000041570/introduction
+https://js.dclab.run/v2/cmptDetail.html?id=558
