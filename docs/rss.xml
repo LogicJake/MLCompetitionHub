@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-04T15:59:12+08:00</updated>
+    <updated>2021-08-05T15:58:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -722,20 +722,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://competition.huaweicloud.com/information/1000041388/introduction</id>
-        <title><![CDATA[“华为云杯”2021人工智能应用创新大赛·创客赛道]]></title>
-        
-        <updated>2021-04-22T15:00:00+08:00</updated>
-        
-        <link href="https://competition.huaweicloud.com/information/1000041388/introduction"/>
-        <summary>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041388/introduction"><![CDATA[<h3>Description</h3>本赛事聚焦生物医药研发的前沿领域，面向虚拟筛选场景，预测化合物小分子是否能和蛋白质发生相互作用，推动大数据、人工智能等技术与生物医药行业融合。<h3>Deadline: 2021-08-05T14:47:19+08:00</h3><h3>Reward: ￥330000</h3>]]></content>
-        <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -828,7 +814,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-04T15:59:12+08:00</updated>
+        <updated>2021-08-05T15:58:54+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
