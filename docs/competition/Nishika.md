@@ -2,6 +2,14 @@
 
 
 
+## ケーブルコネクタの種類判別  <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/19  
+Description: ケーブルコネクタの種類判別   
+Deadline: 2021-10-22T13:59:00+0800  
+Reward: 15万円  
+
+
 ## 中古マンション価格予測 2021夏の部
 
 Link: https://www.nishika.com/competitions/18  
