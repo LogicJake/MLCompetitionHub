@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-06T15:58:58+08:00</updated>
+    <updated>2021-08-07T15:58:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -348,34 +348,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_cpe_2/</id>
-        <title><![CDATA[CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference]]></title>
-        
-        <updated>2021-04-01T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_cpe_2/"/>
-        <summary>CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_cpe_2/"><![CDATA[<h3>Description</h3>CCKS 2021：Process knowledge extraction for communication domain（2）Event Coreference<h3>Deadline: 2021-08-06T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks_2021_cpe_1/</id>
-        <title><![CDATA[CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction]]></title>
-        
-        <updated>2021-04-01T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"/>
-        <summary>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks_2021_cpe_1/"><![CDATA[<h3>Description</h3>CCKS 2021：Process knowledge extraction for communication domain（1）Event extraction<h3>Deadline: 2021-08-06T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -654,7 +626,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000041539/introduction"/>
         <summary>本大赛基于华为云人工智能平台（一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）及无人驾驶小车，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041539/introduction"><![CDATA[<h3>Description</h3>本大赛基于华为云人工智能平台（一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）及无人驾驶小车，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧。<h3>Deadline: 2021-08-10T18:00:00+08:00</h3><h3>Reward: ￥250000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041539/introduction"><![CDATA[<h3>Description</h3>本大赛基于华为云人工智能平台（一站式AI开发平台ModelArts、端云协同多模态AI开发应用平台HiLens）及无人驾驶小车，全面锻炼和提高赛队的AI解决方案能力及无人驾驶编程技巧。<h3>Deadline: 2021-08-23T18:00:00+08:00</h3><h3>Reward: ￥250000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -822,7 +794,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-06T15:58:58+08:00</updated>
+        <updated>2021-08-07T15:58:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -833,6 +805,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
+        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 1)]]></title>
+        
+        <updated>2021-08-04T15:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
+        <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-09-24T17:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
@@ -860,7 +846,7 @@
 围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531906/introduction"><![CDATA[<h3>Description</h3>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
 阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
-围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-08-06T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
+围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-08-09T18:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
