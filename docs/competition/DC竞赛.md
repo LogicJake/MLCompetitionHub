@@ -12,7 +12,7 @@ Deadline: 2021-10-24T00:00:00+0800
 Reward: ￥77,500  
 
 
-## A.I.开发者大赛-碎米识别挑战赛 <sup style="color:red">[new]<sup>  
+## A.I.开发者大赛-碎米识别挑战赛
 
 Link: https://js.dclab.run/v2/cmptDetail.html?id=559  
 Description: 美亚光电在光电色选领域深耕多年，秉承着绿色设计、绿色生产、绿色管理的发展理念，并基于人工智能和大数据技术，助力传统农业数字化转型。
