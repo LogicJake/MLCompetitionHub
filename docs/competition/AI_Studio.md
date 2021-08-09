@@ -2,7 +2,7 @@
 
 
 
-## 飞桨论文复现挑战赛（第四期） <sup style="color:red">[new]<sup>  
+## 飞桨论文复现挑战赛（第四期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
@@ -56,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/90
 Description: GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.  
 Deadline: 2021-10-01T08:00:00+0800  
 Reward: €4,000  
-
-
-## 轻量级文字识别技术创新大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/75  
-Description: CSIG图像图形技术挑战赛百度赛道，以文字识别为主题，建立轻量级OCR模型，对图像区域中的文字行进行预测，返回文字行的内容。  
-Deadline: 2021-08-08T08:00:00+0800  
-Reward: ¥100,000  
 
