@@ -34,14 +34,6 @@ Deadline: 2021-08-15T08:00:00+0800
 Reward: ¥20,000  
 
 
-## SIGSPATIAL 2021 GISCUP
-
-Link: https://www.biendata.xyz/competition/didi-eta/  
-Description: SIGSPATIAL 2021 GISCUP  
-Deadline: 2021-08-09T08:00:00+0800  
-Reward: $25,000  
-
-
 ## RACE Dataset
 
 Link: https://www.biendata.xyz/competition/race/  
