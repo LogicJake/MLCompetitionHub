@@ -10,6 +10,14 @@ Deadline: 2021-09-30T08:00:00+0800
 Reward: 总计￥1,500,000  
 
 
+## 中意青年未来时尚设计大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/112  
+Description: 面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。  
+Deadline: 2021-09-06T08:00:00+0800  
+Reward: ￥630,000+清华暑校资格  
+
+
 ## AI创造营 ：Metaverse启动机之重构现世
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
