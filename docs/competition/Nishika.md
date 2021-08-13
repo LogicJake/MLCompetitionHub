@@ -2,7 +2,7 @@
 
 
 
-## ケーブルコネクタの種類判別  <sup style="color:red">[new]<sup>  
+## ケーブルコネクタの種類判別 
 
 Link: https://www.nishika.com/competitions/19  
 Description: ケーブルコネクタの種類判別   
