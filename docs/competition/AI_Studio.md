@@ -2,6 +2,14 @@
 
 
 
+## 人工智能创新应用大赛：飞桨开源框架前沿模型复现专题赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/113  
+Description: 首届全国人工智能创新应用大赛-飞桨开源框架前沿模型复现专题赛  
+Deadline: 2021-09-30T08:00:00+0800  
+Reward: 参见比赛详情  
+
+
 ## 飞桨论文复现挑战赛（第四期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/106  

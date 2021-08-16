@@ -607,3 +607,4 @@ https://www.nishika.com/competitions/19
 https://tianchi.aliyun.com/competition/entrance/531925/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/112
 https://competition.huaweicloud.com/information/1000041554/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/113
