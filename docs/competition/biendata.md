@@ -10,14 +10,6 @@ Deadline: 2021-09-09T08:00:00+0800
 Reward: ￥29,000  
 
 
-## Conversational AI Competition
-
-Link: https://www.biendata.xyz/competition/xiaobu/  
-Description: Conversational AI Competition  
-Deadline: 2021-08-17T08:00:00+0800  
-Reward: ￥50,000  
-
-
 ## SMP2021-EMWRT Task2
 
 Link: https://www.biendata.xyz/competition/smp2021_2/  
