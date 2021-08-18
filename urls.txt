@@ -608,3 +608,7 @@ https://tianchi.aliyun.com/competition/entrance/531925/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/112
 https://competition.huaweicloud.com/information/1000041554/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/113
+https://aistudio.baidu.com/aistudio/competition/detail/108
+https://aistudio.baidu.com/aistudio/competition/detail/109
+https://aistudio.baidu.com/aistudio/competition/detail/110
+https://aistudio.baidu.com/aistudio/competition/detail/111

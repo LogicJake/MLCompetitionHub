@@ -3,12 +3,68 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-17T16:00:42+08:00</updated>
+    <updated>2021-08-18T15:58:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/108</id>
+        <title><![CDATA[国家电网调控AI创新大赛：电网厂站接线图识别]]></title>
+        
+        <updated>2021-08-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/108"/>
+        <summary>电网厂站接线图识别赛题，要求参赛者设计一个智能识图模型并提交至平台，该模型可实现自动识别电力系统厂站接线图的设计原图（jpg、png格式）中的电气图元（厂站接线图中基本的电气设备图例）、文字、连接线等元素，并按照举办方提供的《电网一次接线图识别规则说明》中XML格式规范转换为识别结果文件，举办方对参赛者模型输出的结果文件进行评价、排榜。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/108"><![CDATA[<h3>Description</h3>电网厂站接线图识别赛题，要求参赛者设计一个智能识图模型并提交至平台，该模型可实现自动识别电力系统厂站接线图的设计原图（jpg、png格式）中的电气图元（厂站接线图中基本的电气设备图例）、文字、连接线等元素，并按照举办方提供的《电网一次接线图识别规则说明》中XML格式规范转换为识别结果文件，举办方对参赛者模型输出的结果文件进行评价、排榜。<h3>Deadline: 2021-10-26T08:00:00+08:00</h3><h3>Reward: ¥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/109</id>
+        <title><![CDATA[国家电网调控AI创新大赛：电网运行信息智能检索]]></title>
+        
+        <updated>2021-08-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/109"/>
+        <summary>以Text-to-SQL任务为赛题，基于大规模电网调控领域的复杂中文数据集，参赛者需设计并优化一个语义解析模型，可将调度常见问题自动翻译成SQL语言。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/109"><![CDATA[<h3>Description</h3>以Text-to-SQL任务为赛题，基于大规模电网调控领域的复杂中文数据集，参赛者需设计并优化一个语义解析模型，可将调度常见问题自动翻译成SQL语言。<h3>Deadline: 2021-10-26T08:00:00+08:00</h3><h3>Reward: ¥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/110</id>
+        <title><![CDATA[国家电网调控AI创新大赛：新能源发电预测]]></title>
+        
+        <updated>2021-08-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/110"/>
+        <summary>参赛者根据主办方提供的天气预报数据、天气实况数据、风电场出力、风电机组数据、光伏电站出力、光伏电站机组数据、AGC限值调整数据等多种类型数据，训练AI预测模型，预测未来7天新能源出力。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/110"><![CDATA[<h3>Description</h3>参赛者根据主办方提供的天气预报数据、天气实况数据、风电场出力、风电机组数据、光伏电站出力、光伏电站机组数据、AGC限值调整数据等多种类型数据，训练AI预测模型，预测未来7天新能源出力。<h3>Deadline: 2021-10-26T08:00:00+08:00</h3><h3>Reward: ¥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/111</id>
+        <title><![CDATA[国家电网调控AI创新大赛：电网运行组织智能安排]]></title>
+        
+        <updated>2021-08-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/111"/>
+        <summary>针对电网源荷双侧波动性带来的平衡及消纳问题，主办方提供新能源发电占比可配置的网架和电网运行数据，参赛者采用人工智能算法训练智能体，通过与仿真模拟器交互迭代，快速给出电网运行方式调整策略，在保证电网安全运行条件下最大程度消纳新能源。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/111"><![CDATA[<h3>Description</h3>针对电网源荷双侧波动性带来的平衡及消纳问题，主办方提供新能源发电占比可配置的网架和电网运行数据，参赛者采用人工智能算法训练智能体，通过与仿真模拟器交互迭代，快速给出电网运行方式调整策略，在保证电网安全运行条件下最大程度消纳新能源。<h3>Deadline: 2021-10-26T08:00:00+08:00</h3><h3>Reward: ¥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/113</id>
@@ -89,48 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/94"/>
         <summary>第四届中国软件开源创新大赛-任务挑战组</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/94"><![CDATA[<h3>Description</h3>第四届中国软件开源创新大赛-任务挑战组<h3>Deadline: 2021-11-30T08:00:00+08:00</h3><h3>Reward: 参见比赛详情</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/91</id>
-        <title><![CDATA[2021国际大数据竞赛：基于车载影像的实时环境感知]]></title>
-        
-        <updated>2021-05-28T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/91"/>
-        <summary>2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&amp;西安交大大数据竞赛</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/91"><![CDATA[<h3>Description</h3>2021 IKCEST第三届“一带一路”国际大数据竞赛暨第七届百度&amp;西安交大大数据竞赛<h3>Deadline: 2021-08-31T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/95</id>
-        <title><![CDATA[第二届湖南省研究生人工智能创新大赛]]></title>
-        
-        <updated>2021-06-11T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/95"/>
-        <summary>开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/95"><![CDATA[<h3>Description</h3>开放式赛题，围绕人工智能相关技术探索和设计有明确场景驱动的应用创新方案<h3>Deadline: 2021-09-20T08:00:00+08:00</h3><h3>Reward: 超级大礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/90</id>
-        <title><![CDATA[MICCAI2021 Contest : GAMMA]]></title>
-        
-        <updated>2021-05-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/90"/>
-        <summary>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/90"><![CDATA[<h3>Description</h3>GAMMA challenge consists of three tasks:1) Grading glaucoma using multi-modality data; 2) Localization of macular fovea in fundus images; 3) Segmentation of optic disc and cup in fundus images.<h3>Deadline: 2021-10-01T08:00:00+08:00</h3><h3>Reward: €4,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -780,7 +794,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-17T16:00:42+08:00</updated>
+        <updated>2021-08-18T15:58:51+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -789,6 +803,70 @@
             <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
+        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 1)]]></title>
+        
+        <updated>2021-08-04T15:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
+        <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-09-24T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”冷冻电镜蛋白质结构建模大赛(赛季 1)]]></title>
+        
+        <updated>2021-07-15T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531916/introduction"/>
+        <summary>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531916/introduction"><![CDATA[<h3>Description</h3>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。<h3>Deadline: 2021-09-29T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531906/introduction</id>
+        <title><![CDATA[云上开发，高效智能--阿里云ECS Cloudbuild开发者大赛算法挑战赛道(赛季 2)]]></title>
+        
+        <updated>2021-08-13T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531906/introduction"/>
+        <summary>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
+阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
+围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531906/introduction"><![CDATA[<h3>Description</h3>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
+阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
+围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-09-21T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 5)]]></title>
+        
+        <updated>2021-08-16T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
+        <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-09-30T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    
     
     
     
