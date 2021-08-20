@@ -38,7 +38,7 @@ Reward: $5 000 USD
 
 Link: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge  
 Description: Can you identify which passion fruit are diseased and which are healthy?  
-Deadline: 2021-10-11T07:59:00+0800  
+Deadline: 2021-11-22T07:59:00+0800  
 Reward: $1 000 USD  
 
 

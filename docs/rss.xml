@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-19T15:59:02+08:00</updated>
+    <updated>2021-08-20T15:59:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -67,6 +67,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/112</id>
+        <title><![CDATA[中意青年未来时尚设计大赛]]></title>
+        
+        <updated>2021-08-12T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/112"/>
+        <summary>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/112"><![CDATA[<h3>Description</h3>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。<h3>Deadline: 2021-09-06T08:00:00+08:00</h3><h3>Reward: ￥630,000+清华暑校资格</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/113</id>
         <title><![CDATA[人工智能创新应用大赛：飞桨开源框架前沿模型复现专题赛]]></title>
         
@@ -89,20 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/106"/>
         <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/106"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: 总计￥1,500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/112</id>
-        <title><![CDATA[中意青年未来时尚设计大赛]]></title>
-        
-        <updated>2021-08-12T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/112"/>
-        <summary>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/112"><![CDATA[<h3>Description</h3>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。<h3>Deadline: 2021-09-06T08:00:00+08:00</h3><h3>Reward: ￥630,000+清华暑校资格</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -836,7 +836,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-19T15:59:02+08:00</updated>
+        <updated>2021-08-20T15:59:00+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -974,11 +974,11 @@
         <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
         <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
         
-        <updated>2021-08-20T14:00:00+08:00</updated>
+        <updated>2021-08-21T00:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
         <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-10-11T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-11-22T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
