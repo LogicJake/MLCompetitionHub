@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-20T15:59:00+08:00</updated>
+    <updated>2021-08-21T15:58:40+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -117,20 +117,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/98"/>
         <summary>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/98"><![CDATA[<h3>Description</h3>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: ¥30,000 + 超级大礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/78</id>
-        <title><![CDATA[第三届中国AI+创新创业大赛：半监督学习目标定位竞赛]]></title>
-        
-        <updated>2021-06-18T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/78"/>
-        <summary>第三届中国AI+创新创业大赛由中国人工智能学会主办，半监督学习目标定位竞赛分赛道要求选手基于少量有标注数据训练模型，使分类网络具有目标定位能力，实现半监督目标定位任务。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/78"><![CDATA[<h3>Description</h3>第三届中国AI+创新创业大赛由中国人工智能学会主办，半监督学习目标定位竞赛分赛道要求选手基于少量有标注数据训练模型，使分类网络具有目标定位能力，实现半监督目标定位任务。<h3>Deadline: 2021-08-20T08:00:00+08:00</h3><h3>Reward: ¥50,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -545,34 +531,6 @@
     </entry>
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=554</id>
-        <title><![CDATA[A.I.开发者大赛-车内贵重物品检测挑战赛]]></title>
-        
-        <updated>2021-07-21T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=554"/>
-        <summary>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=554"><![CDATA[<h3>Description</h3>车内遗留物品检测是智能座舱系统的重要组成部分。如果能及时对车主遗留贵重物品在车舱进行提示或者警告，不仅能为车主避免后续回来拿东西的麻烦，也能降低被破窗盗窃风险。因此，对车内遗留贵重物品进行提示或者警告，可以有效提升车主的用车体验，也是车厂卖车的一大亮点。本赛题要求选手通过计算机视觉以及人工智能算法来实现车内遗留物品自动化检测。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=552</id>
-        <title><![CDATA[A.I.开发者大赛-医疗实体及关系抽取挑战赛]]></title>
-        
-        <updated>2021-07-21T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=552"/>
-        <summary>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=552"><![CDATA[<h3>Description</h3>电子病历是医疗机构对门诊、住院患者进行临床治疗和指导干预的数字化医疗服务工作记录，包含了大量的患者医学信息。医技报告单是电子病历十分重要组成部分，其中包含了患者详细的检查检验信息，如超声、CT和磁共振等。但是，医技报告单是一种半结构化的数据，不同医生的表述风格不一致，文本形式缺乏统一的规范，因此将其中非结构化的部分转换为结构化的信息是非常重要的，可以有效的提高医生工作效率，优化医疗机构流程。医技领域的命名实体和实体关系识别是目前的研究热点之一，同时也是电子病历信息抽取的重要研究内容。<h3>Deadline: 2021-08-21T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=550</id>
         <title><![CDATA[2021 Datathon数智马拉松大赛]]></title>
         
@@ -623,6 +581,34 @@
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=503"/>
         <summary>蛋白质折叠识别常被用于解决蛋白质结构预测问题，本次大赛提供了蛋白质结构分类数据库SCOP中的ASTRAL SCOPe 2.07数据中蛋白质相似性小于40%的α，β，α＋β，α/β类中所属的折叠类型作为研究对象。参赛选手需基于提供的样本集构建模型，实现蛋白质的折叠分类。</summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=503"><![CDATA[<h3>Description</h3>蛋白质折叠识别常被用于解决蛋白质结构预测问题，本次大赛提供了蛋白质结构分类数据库SCOP中的ASTRAL SCOPe 2.07数据中蛋白质相似性小于40%的α，β，α＋β，α/β类中所属的折叠类型作为研究对象。参赛选手需基于提供的样本集构建模型，实现蛋白质的折叠分类。<h3>Deadline: 2021-09-20T17:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=518</id>
+        <title><![CDATA[A.I.开发者大赛-低资源多语种文本翻译挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=518"/>
+        <summary>当前神经机器翻译依赖大数据和算力的加持，在中英等丰富资源场景下达到了好用门槛，然而稀缺资源语种的机器翻译技术仍不够成熟，面临着数据稀疏、质量低下，语言形态各异、复杂多变等难题。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=518"><![CDATA[<h3>Description</h3>当前神经机器翻译依赖大数据和算力的加持，在中英等丰富资源场景下达到了好用门槛，然而稀缺资源语种的机器翻译技术仍不够成熟，面临着数据稀疏、质量低下，语言形态各异、复杂多变等难题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ¥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=536</id>
+        <title><![CDATA[A.I.开发者大赛-连续多语种分类挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=536"/>
+        <summary>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“连续多语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛和2020年多语种分类挑战赛以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛从真实场景和实际应用出发，提出了更具挑战性的连续多语种分类任务，期待业内同仁们能在这些任务上相互切磋、共同进步。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=536"><![CDATA[<h3>Description</h3>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“连续多语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛和2020年多语种分类挑战赛以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛从真实场景和实际应用出发，提出了更具挑战性的连续多语种分类任务，期待业内同仁们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -836,7 +822,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-20T15:59:00+08:00</updated>
+        <updated>2021-08-21T15:58:40+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -974,7 +960,7 @@
         <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
         <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
         
-        <updated>2021-08-21T00:00:00+08:00</updated>
+        <updated>2021-08-20T14:00:00+08:00</updated>
         
         <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
         <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>

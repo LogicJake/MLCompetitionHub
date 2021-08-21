@@ -616,3 +616,4 @@ https://www.datafountain.cn/competitions/508
 https://www.datafountain.cn/competitions/507
 https://www.datafountain.cn/competitions/506
 https://competition.huaweicloud.com/information/1000041401/introduction
+https://js.dclab.run/v2/cmptDetail.html?id=518
