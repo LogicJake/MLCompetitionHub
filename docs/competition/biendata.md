@@ -14,7 +14,7 @@ Reward: ￥29,000
 
 Link: https://www.biendata.xyz/competition/smp2021_2/  
 Description: SMP2021-EMWRT Task2  
-Deadline: 2021-09-30T08:00:00+0800  
+Deadline: 2021-09-12T08:00:00+0800  
 Reward: ¥20,000  
 
 
@@ -22,7 +22,7 @@ Reward: ¥20,000
 
 Link: https://www.biendata.xyz/competition/smp2021_1/  
 Description: SMP2021-EMWRT Task1  
-Deadline: 2021-09-30T08:00:00+0800  
+Deadline: 2021-09-12T08:00:00+0800  
 Reward: ¥20,000  
 
 
