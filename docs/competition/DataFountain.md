@@ -34,7 +34,7 @@ Deadline: 2021-10-31T23:59:59+0800
 Reward: ￥25000  
 
 
-## 面向黑灰产治理的恶意短信变体字还原 <sup style="color:red">[new]<sup>  
+## 面向黑灰产治理的恶意短信变体字还原
 
 Link: https://www.datafountain.cn/competitions/508  
 Description: 面向黑灰产治理的恶意短信变体字还原  
@@ -42,7 +42,7 @@ Deadline: 2021-11-06T23:59:59+0800
 Reward: ￥100000  
 
 
-## 基于人工智能的恶意软件家族分类 <sup style="color:red">[new]<sup>  
+## 基于人工智能的恶意软件家族分类
 
 Link: https://www.datafountain.cn/competitions/507  
 Description: 基于人工智能的恶意软件家族分类  
@@ -50,7 +50,7 @@ Deadline: 2021-11-06T23:59:59+0800
 Reward: ￥100000  
 
 
-## 工业安全生产环境违规使用手机的识别 <sup style="color:red">[new]<sup>  
+## 工业安全生产环境违规使用手机的识别
 
 Link: https://www.datafountain.cn/competitions/506  
 Description: 工业安全生产环境违规使用手机的识别  

@@ -618,3 +618,6 @@ https://www.datafountain.cn/competitions/506
 https://competition.huaweicloud.com/information/1000041401/introduction
 https://js.dclab.run/v2/cmptDetail.html?id=518
 https://competition.huaweicloud.com/information/1000041548/introduction
+https://js.dclab.run/v2/cmptDetail.html?id=553
+https://js.dclab.run/v2/cmptDetail.html?id=538
+https://zindi.africa/competitions/expresso-churn-prediction
