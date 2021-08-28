@@ -1,25 +1,17 @@
-> 更新时间: 2021-08-27T15:58:53+0800 
+> 更新时间: 2021-08-28T15:59:11+0800 
 
 # 新上线比赛
 
 
-## 第二届数字四川创新大赛-国产数据库算法比拼
-Link: https://js.dclab.run/v2/cmptDetail.html?id=553  
-Description: 人口普查是国之大计。当前，我国正处于“两个一百年”奋斗目标的历史交汇期，全面建成小康社会进入决战决胜阶段，即将开启全面建设社会主义现代化国家的新征程。开展全国人口普查，有着重大而深远的现实意义。
-国家统计局局长宁吉喆表示，党的十九届五中全会刚刚胜利闭幕，全会审议通过了《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》。开展全国人口普查意义重大，这是在我国转向高质量发展阶段，人口发展进入重要转折期开展的一次重大国情国力调查。
-及时查清“几世同堂”这一基本国情，摸清人力资源结构和空间分布等方面的准确信息，才能够更加准确地把握需求结构、城乡结构、区域结构、产业结构、要素投入结构等状况。  
-Deadline: 2021-09-29T15:00:00+0800  
-Reward: ￥100000  
+## 2021全球抗体亲和力预测大赛
+Link: https://js.dclab.run/v2/cmptDetail.html?id=562  
+Description: AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。   
+Deadline: 2021-12-31T23:59:59+0800  
+Reward: ￥140000  
 
-## 第二届数字四川创新大赛-媒体领域智能文本纠错
-Link: https://js.dclab.run/v2/cmptDetail.html?id=538  
-Description: 日常生活中，我们经常会在微信、微博等社交工具、公众号文章、甚至新闻稿件中发现许多拼写、语法、标点等错误；经过初步统计：在微博等新媒体领域中，文本敏感和出错概率在2%左右；在语音识别领域中，出错率最高可达8-10%；而在某保险问答领域中，用户提问出错率在去重后仍高达9%。而文本纠错作为自然语言处理最基础的模块，是实现中文语句自动检查、自动纠错的一项重要技术，其目的是提高语言正确性的同时减少人工校验成本，其重要程度不言而喻。  
-Deadline: 2021-09-29T15:00:00+0800  
-Reward: ￥52000  
-
-## Expresso Churn Prediction Challenge
-Link: https://zindi.africa/competitions/expresso-churn-prediction  
-Description: Can you predict when an airtime customer will move to another provider?  
-Deadline: 2021-11-29T07:59:00+0800  
-Reward: $1 000 USD  
+## 2021 亚太眼科学会大数据竞赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531929/introduction  
+Description: 第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。  
+Deadline: 2021-10-31T12:00:00+0800  
+Reward: $15000  
 
