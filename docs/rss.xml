@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-08-29T15:58:45+08:00</updated>
+    <updated>2021-08-30T16:00:36+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -382,7 +382,7 @@
         <id>https://www.datafountain.cn/competitions/508</id>
         <title><![CDATA[面向黑灰产治理的恶意短信变体字还原]]></title>
         
-        <updated>2021-08-19T00:00:00+08:00</updated>
+        <updated>2021-08-23T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/508"/>
         <summary>面向黑灰产治理的恶意短信变体字还原</summary>
@@ -396,7 +396,7 @@
         <id>https://www.datafountain.cn/competitions/507</id>
         <title><![CDATA[基于人工智能的恶意软件家族分类]]></title>
         
-        <updated>2021-08-19T00:00:00+08:00</updated>
+        <updated>2021-08-23T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/507"/>
         <summary>基于人工智能的恶意软件家族分类</summary>
@@ -410,7 +410,7 @@
         <id>https://www.datafountain.cn/competitions/506</id>
         <title><![CDATA[工业安全生产环境违规使用手机的识别]]></title>
         
-        <updated>2021-08-19T00:00:00+08:00</updated>
+        <updated>2021-08-23T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/506"/>
         <summary>工业安全生产环境违规使用手机的识别</summary>
@@ -782,89 +782,13 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-08-29T15:58:45+08:00</updated>
+        <updated>2021-08-30T16:00:36+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
         <content type="text/html" src="https://signate.jp/competitions/471"><![CDATA[<h3>Description</h3>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！<h3>Deadline: 2021-10-04T23:59:59+08:00</h3><h3>Reward: 総額￥400,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531929/introduction</id>
-        <title><![CDATA[2021 亚太眼科学会大数据竞赛(赛季 1)]]></title>
-        
-        <updated>2021-08-25T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531929/introduction"/>
-        <summary>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531929/introduction"><![CDATA[<h3>Description</h3>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。<h3>Deadline: 2021-10-31T12:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
-        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 1)]]></title>
-        
-        <updated>2021-08-04T15:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
-        <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-09-24T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”冷冻电镜蛋白质结构建模大赛(赛季 1)]]></title>
-        
-        <updated>2021-07-15T12:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531916/introduction"/>
-        <summary>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531916/introduction"><![CDATA[<h3>Description</h3>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。<h3>Deadline: 2021-09-29T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531906/introduction</id>
-        <title><![CDATA[云上开发，高效智能--阿里云ECS Cloudbuild开发者大赛算法挑战赛道(赛季 2)]]></title>
-        
-        <updated>2021-08-13T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531906/introduction"/>
-        <summary>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
-阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
-围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531906/introduction"><![CDATA[<h3>Description</h3>云已成趋势，未来会有越来越多的IT服务，直接在云上创建、部署和优化。这样的背景下，如何利用云上的资源及根据云的特点，构建兼具高性能、高稳定、高性价比的IT服务，已经成为IT从业人员未来的主流话题之一。
-阿里云弹性计算（Elastic Compute Service，ECS）是几乎每一位阿里云用户最早接触到的云产品，ECS提供了兼具性能、稳定与灵活性的计算底座，给到每一位用户，开发和运维他们的服务。
-围绕“Cloudbuild云上开发”的主题，阿里云弹性计算联合英特尔，举办第一届“云上开发，高效智能——阿里云ECS Cloudbuild开发者大赛”，让各位参赛者通过性能挑战赛和算法挑战赛两个赛道，一同体验云上开发的高效便捷，挑战性能与稳定的极限。<h3>Deadline: 2021-09-21T20:00:00+08:00</h3><h3>Reward: ￥400000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 5)]]></title>
-        
-        <updated>2021-08-16T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
-        <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-09-30T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
@@ -897,34 +821,6 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
         <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition</id>
-        <title><![CDATA[SFC PAYGo Solar Credit Repayment Competition]]></title>
-        
-        <updated>2021-06-07T07:59:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition"/>
-        <summary>Can you predict PAYGo solar customer payments?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition"><![CDATA[<h3>Description</h3>Can you predict PAYGo solar customer payments?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge</id>
-        <title><![CDATA[AFD Solutions for Gender-based Violence Challenge]]></title>
-        
-        <updated>2021-05-28T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge"/>
-        <summary>What solutions can you build using datasets related to gender-based violence?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge"><![CDATA[<h3>Description</h3>What solutions can you build using datasets related to gender-based violence?<h3>Deadline: 2021-08-30T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

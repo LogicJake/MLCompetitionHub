@@ -18,22 +18,6 @@ Deadline: 2021-10-04T07:59:00+0800
 Reward: $8 800USD  
 
 
-## SFC PAYGo Solar Credit Repayment Competition
-
-Link: https://zindi.africa/competitions/sfc-paygo-solar-credit-repayment-competition  
-Description: Can you predict PAYGo solar customer payments?  
-Deadline: 2021-08-30T07:59:00+0800  
-Reward: $5 000 USD  
-
-
-## AFD Solutions for Gender-based Violence Challenge
-
-Link: https://zindi.africa/competitions/afd-solutions-for-gender-based-violence-challenge  
-Description: What solutions can you build using datasets related to gender-based violence?  
-Deadline: 2021-08-30T07:59:00+0800  
-Reward: $5 000 USD  
-
-
 ## Makerere Passion Fruit Disease Detection Challenge
 
 Link: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge  
