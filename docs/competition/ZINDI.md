@@ -26,7 +26,7 @@ Deadline: 2021-11-22T07:59:00+0800
 Reward: $1 000 USD  
 
 
-## Expresso Churn Prediction Challenge <sup style="color:red">[new]<sup>  
+## Expresso Churn Prediction Challenge
 
 Link: https://zindi.africa/competitions/expresso-churn-prediction  
 Description: Can you predict when an airtime customer will move to another provider?  

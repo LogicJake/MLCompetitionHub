@@ -2,7 +2,7 @@
 
 
 
-## 2021全球抗体亲和力预测大赛 <sup style="color:red">[new]<sup>  
+## 2021全球抗体亲和力预测大赛
 
 Link: https://js.dclab.run/v2/cmptDetail.html?id=562  
 Description: AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。   
