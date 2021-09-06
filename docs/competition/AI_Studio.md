@@ -2,6 +2,14 @@
 
 
 
+## 飞桨论文复现挑战赛（第四期）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
+Deadline: 2021-09-30T08:00:00+0800  
+Reward: 总计￥1,500,000  
+
+
 ## 国家电网调控AI创新大赛：电网厂站接线图识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/108  
@@ -48,14 +56,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/113
 Description: 首届全国人工智能创新应用大赛-飞桨开源框架前沿模型复现专题赛  
 Deadline: 2021-09-30T08:00:00+0800  
 Reward: 参见比赛详情  
-
-
-## 飞桨论文复现挑战赛（第四期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2021-09-30T08:00:00+0800  
-Reward: 总计￥1,500,000  
 
 
 ## AI创造营 ：Metaverse启动机之重构现世

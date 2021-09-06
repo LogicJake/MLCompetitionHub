@@ -623,3 +623,4 @@ https://js.dclab.run/v2/cmptDetail.html?id=538
 https://zindi.africa/competitions/expresso-churn-prediction
 https://js.dclab.run/v2/cmptDetail.html?id=562
 https://tianchi.aliyun.com/competition/entrance/531929/introduction
+https://www.biendata.xyz/competition/wudao2021/
