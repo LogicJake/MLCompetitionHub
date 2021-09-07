@@ -46,7 +46,7 @@ Reward: ¥200,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/112  
 Description: 面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。  
-Deadline: 2021-09-06T08:00:00+0800  
+Deadline: 2021-09-30T08:00:00+0800  
 Reward: ￥630,000+清华暑校资格  
 
 
