@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-07T15:58:50+08:00</updated>
+    <updated>2021-09-08T15:59:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -627,8 +627,8 @@
         <updated>2021-08-23T09:00:00+08:00</updated>
         
         <link href="https://competition.huaweicloud.com/information/1000041548/introduction"/>
-        <summary>本赛事致力于推动广西人工智能产业发展，服务及培养AI人才，构建“用得起、用的好、用得放心”的普惠AI生态。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041548/introduction"><![CDATA[<h3>Description</h3>本赛事致力于推动广西人工智能产业发展，服务及培养AI人才，构建“用得起、用的好、用得放心”的普惠AI生态。<h3>Deadline: 2021-10-10T18:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <summary>本赛题任务是基于显微镜成像的金相图片评估定级结果，本赛事致力于推动广西人工智能产业发展，服务及培养AI人才，构建“用得起、用的好、用得放心”的普惠AI生态。</summary>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041548/introduction"><![CDATA[<h3>Description</h3>本赛题任务是基于显微镜成像的金相图片评估定级结果，本赛事致力于推动广西人工智能产业发展，服务及培养AI人才，构建“用得起、用的好、用得放心”的普惠AI生态。<h3>Deadline: 2021-10-10T18:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -768,7 +768,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-07T15:58:50+08:00</updated>
+        <updated>2021-09-08T15:59:12+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
