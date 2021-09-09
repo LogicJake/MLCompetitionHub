@@ -10,14 +10,6 @@ Deadline: 2021-11-14T08:00:00+0800
 Reward: ￥1,000,000  
 
 
-## Knowledge graph-based AI+ Educational application dev competition
-
-Link: https://www.biendata.xyz/competition/edukg/  
-Description: Knowledge graph-based AI+ Educational application dev competition  
-Deadline: 2021-09-09T08:00:00+0800  
-Reward: ￥29,000  
-
-
 ## SMP2021-EMWRT Task2
 
 Link: https://www.biendata.xyz/competition/smp2021_2/  

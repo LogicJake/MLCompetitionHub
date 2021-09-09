@@ -18,14 +18,6 @@ Deadline: 2021-09-30T13:59:00+0800
 Reward: 各種賞品  
 
 
-## 航空機ターボエンジンの残存耐用時間（RUL）予測
-
-Link: https://www.nishika.com/competitions/17  
-Description: 航空機ターボエンジンの残存耐用時間（RUL）予測  
-Deadline: 2021-07-25T13:59:00+0800  
-Reward: 14万円  
-
-
 ## リチウムイオン電池の充電率予測
 
 Link: https://www.nishika.com/competitions/16  
