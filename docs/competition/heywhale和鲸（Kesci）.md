@@ -2,100 +2,100 @@
 
 
 
-## 夏令营🔥 训练营之数据可视化 <sup style="color:red">[new]<sup>  
+## 保守或融贯：重审《学衡》杂志中新文化运动思想与立场的历史定位
 
-Link: https://www.kesci.com/home/competition/60d985aa0666dc0018d6f8cb  
+Link: https://www.kesci.com/home/competition/6127152839efe300170cd454  
 Description:   
-Deadline: 2021-08-18T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 夏令营🔥 和鲸训练营之机器学习
+## 《建康实录》文本挖掘及六朝人物关系时空分析
 
-Link: https://www.kesci.com/home/competition/60dae4a60666dc0018d6fa50  
+Link: https://www.kesci.com/home/competition/6129dba839efe300170cd969  
 Description:   
-Deadline: 2021-08-31T00:00:00+0800  
-Reward: 结课证书+纸质书+购物卡  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 夏令营🔥 训练营之Numpy+Pandas数据处理
+## 《拉贝日记》中《日本士兵在南京安全区的暴行》文件文本挖掘处理
 
-Link: https://www.kesci.com/home/competition/60d9857f0666dc0018d6f8c1  
+Link: https://www.kesci.com/home/competition/612a437639efe300170cda48  
 Description:   
-Deadline: 2021-08-05T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 夏令营🔥 政治经济数据分析实战
+## 明清时期文献中的色彩知识探秘
 
-Link: https://www.kesci.com/home/competition/60e290177c23290017733938  
+Link: https://www.kesci.com/home/competition/612a471739efe300170cda83  
 Description:   
-Deadline: 2021-08-31T00:00:00+0800  
-Reward: 结课证书+纸质书+购物卡  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 和鲸 2021 数据科学夏令营
+## 南京市政府出让住宅用地及其地价的时空建模与可视化研究
 
-Link: https://www.kesci.com/home/competition/60e27d7f7c232900177337e7  
+Link: https://www.kesci.com/home/competition/612a494c39efe300170cdaa6  
 Description:   
-Deadline: 2021-09-01T00:00:00+0800  
-Reward: 证书+项目证明+大礼包  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 好未来表格识别技术挑战赛
+## 中国历代人物传记资料库
 
-Link: https://www.kesci.com/home/competition/606d6fff0e04ac0017c3bf7f  
-Description: 表格在教育场景中分步广泛，对表格结构的还原和内容识别，能帮助计算机更好的理解表格，在教学内容生产、智能解答等场景下，具有非常重要的应用价值。  
-Deadline: 2021-09-08T23:59:00+0800  
-Reward: 10万元奖金+PRCV2021竞赛证书+入职内推  
-
-
-## 2021中国大学生保险数字挑战赛-产品赛道
-
-Link: https://www.kesci.com/home/competition/60755b136e25d40017d41c8e  
+Link: https://www.kesci.com/home/competition/612a4ba739efe300170cdacd  
 Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 13W+奖金+校招内推+荣誉证书+专业培训  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 2021中国大学生保险数字挑战赛-数字赛道
+## 识别故事中隐藏的社会偏见
 
-Link: https://www.kesci.com/home/competition/607d279965852e0017ab9575  
+Link: https://www.kesci.com/home/competition/612a4eff39efe300170cdaf2  
 Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 13W+奖金+校招内推+荣誉证书+专业培训  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
 
 
-## 以企业为服务目标的政策大数据应用
+## 宋元学案学术传承数据分析
 
-Link: https://www.kesci.com/home/competition/5fcef670807ccb002cb62113  
-Description: 数行千里 慧致广大——中国智慧城市数据开放创新应用大赛暨中国高校数据驱动创新大赛  
-Deadline: 2021-08-21T23:59:00+0800  
-Reward: 30W奖金和亿元政策扶持  
-
-
-## 水下光学目标检测产业应用赛项
-
-Link: https://www.kesci.com/home/competition/60cd6142b027c60017cdc98f  
-Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
-Deadline: 2021-09-17T20:00:00+0800  
-Reward: 奖金20万+鹏城实验室招聘绿色通道  
-
-
-## 水下声学通信应用产业赛项
-
-Link: https://www.kesci.com/home/competition/60cd61b8b027c60017cdc9a0  
-Description:  “水下目标检测算法赛”是2020年初的一个全新算法比赛，该赛事紧扣水下目标检测算法领域，通过提供真实环境下的水下光学图像和声学图像，让选手在线上提交创新的目标检测算法和运算结果，采用线上测评和线上打分的方法来实施比赛，着重考察选手的实际算法和研究能力。
-“水下目标检测算法赛”属于2020年全国水下机器人（湛江）大赛的线上赛，本次算法赛由国家自然科学基金委员会、鹏城实验室和湛江市人民政府主办，将面向国内及海外各院校和科研机构、科技企业招募优秀选手，深化和拓宽水下机器人和水下目标检测领域的相关研究，推进算法技术向实际产业应用进行赋能。  
-Deadline: 2021-09-17T20:00:00+0800  
-Reward: 奖金15万+鹏城实验室招聘绿色通道  
-
-
-## 夏令营🔥 训练营之Python基础2
-
-Link: https://www.kesci.com/home/competition/60ebaf7c7c2329001773567c  
+Link: https://www.kesci.com/home/competition/612a513a39efe300170cdb18  
 Description:   
-Deadline: 2021-07-31T00:00:00+0800  
-Reward: 鲸币🐳 +学分+周边+购物卡  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 奖金￥20,000，获奖证书  
+
+
+## 中国数字人文开放数据创新研究大赛
+
+Link: https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb  
+Description: 本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。  
+Deadline: 2021-10-31T00:00:00+0800  
+Reward: 20000奖金池，获奖证书  
+
+
+## RMDS 2021 第3季度数据科学竞赛：设计餐饮智能分析平台
+
+Link: https://www.kesci.com/home/competition/611ed7d47db76d0017825511  
+Description: 通过收集餐饮经营的重要数据，利用数据科学为餐饮从业者和商家创建实用的数据分析平台，用智能化操作系统解决实际商业问题，提升业绩。  
+Deadline: 2021-10-12T04:00:00+0800  
+Reward: $2,000奖金+获奖证书+全球峰会演讲机会+实习机会  
+
+
+## 情感分析·推特文本情感分类
+
+Link: https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导、
+本次练习赛所使用数据集基于推特用户发表的推文数据集  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 新人赛  
+
+
+## 首届计算精神病学挑战赛
+
+Link: https://www.kesci.com/home/competition/612310e47db76d0017825f3b  
+Description: Learning by doing  
+Deadline: 2021-09-11T18:00:00+0800  
+Reward: 奖金+奖杯+证书+实习机会  
 
