@@ -10,22 +10,6 @@ Deadline: 2021-11-14T08:00:00+0800
 Reward: ￥1,000,000  
 
 
-## SMP2021-EMWRT Task2
-
-Link: https://www.biendata.xyz/competition/smp2021_2/  
-Description: SMP2021-EMWRT Task2  
-Deadline: 2021-09-12T08:00:00+0800  
-Reward: ¥20,000  
-
-
-## SMP2021-EMWRT Task1
-
-Link: https://www.biendata.xyz/competition/smp2021_1/  
-Description: SMP2021-EMWRT Task1  
-Deadline: 2021-09-12T08:00:00+0800  
-Reward: ¥20,000  
-
-
 ## RACE Dataset
 
 Link: https://www.biendata.xyz/competition/race/  

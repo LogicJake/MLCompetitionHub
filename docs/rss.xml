@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-11T15:59:16+08:00</updated>
+    <updated>2021-09-13T15:58:41+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -147,34 +147,6 @@
         <link href="https://www.biendata.xyz/competition/wudao2021/"/>
         <summary>悟道之巅 AI 创新应用大赛</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/wudao2021/"><![CDATA[<h3>Description</h3>悟道之巅 AI 创新应用大赛<h3>Deadline: 2021-11-14T08:00:00+08:00</h3><h3>Reward: ￥1,000,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/smp2021_2/</id>
-        <title><![CDATA[SMP2021-EMWRT Task2]]></title>
-        
-        <updated>2021-06-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/smp2021_2/"/>
-        <summary>SMP2021-EMWRT Task2</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/smp2021_2/"><![CDATA[<h3>Description</h3>SMP2021-EMWRT Task2<h3>Deadline: 2021-09-12T08:00:00+08:00</h3><h3>Reward: ¥20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/smp2021_1/</id>
-        <title><![CDATA[SMP2021-EMWRT Task1]]></title>
-        
-        <updated>2021-06-21T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/smp2021_1/"/>
-        <summary>SMP2021-EMWRT Task1</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/smp2021_1/"><![CDATA[<h3>Description</h3>SMP2021-EMWRT Task1<h3>Deadline: 2021-09-12T08:00:00+08:00</h3><h3>Reward: ¥20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -823,14 +795,14 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/612310e47db76d0017825f3b</id>
-        <title><![CDATA[首届计算精神病学挑战赛]]></title>
+        <id>https://www.kesci.com/home/competition/611dccf87db76d00178252ac</id>
+        <title><![CDATA[《深入浅出Embedding技术原理及应用实战》 读书实践]]></title>
         
-        <updated>2021-08-23T11:10:00+08:00</updated>
+        <updated>2021-08-19T12:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/612310e47db76d0017825f3b"/>
-        <summary>Learning by doing</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612310e47db76d0017825f3b"><![CDATA[<h3>Description</h3>Learning by doing<h3>Deadline: 2021-09-11T18:00:00+08:00</h3><h3>Reward: 奖金+奖杯+证书+实习机会</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/611dccf87db76d00178252ac"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/611dccf87db76d00178252ac"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -928,7 +900,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-11T15:59:16+08:00</updated>
+        <updated>2021-09-13T15:58:41+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -942,7 +914,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-11T15:59:16+08:00</updated>
+        <updated>2021-09-13T15:58:41+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>

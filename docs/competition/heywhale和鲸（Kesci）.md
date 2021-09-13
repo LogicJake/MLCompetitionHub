@@ -92,10 +92,10 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 新人赛  
 
 
-## 首届计算精神病学挑战赛
+## 《深入浅出Embedding技术原理及应用实战》 读书实践
 
-Link: https://www.kesci.com/home/competition/612310e47db76d0017825f3b  
-Description: Learning by doing  
-Deadline: 2021-09-11T18:00:00+0800  
-Reward: 奖金+奖杯+证书+实习机会  
+Link: https://www.kesci.com/home/competition/611dccf87db76d00178252ac  
+Description:   
+Deadline: 2021-09-30T00:00:00+0800  
+Reward:   
 
