@@ -2,6 +2,38 @@
 
 
 
+## 2021上海新能源汽车大数据竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/612c662d34003c00179be8fa  
+Description:   
+Deadline: 2021-11-26T00:00:00+0800  
+Reward: ￥100,000+获奖证书+名企实习机会+实验室入驻名额  
+
+
+## 动力电池安全预警分析 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/612c79ef34003c00179be964  
+Description:   
+Deadline: 2021-11-20T00:00:00+0800  
+Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
+
+
+## 基于交通路况的新能源汽车节能路径规划 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61397f5d82b26b0017d8c31d  
+Description:   
+Deadline: 2021-11-20T00:00:00+0800  
+Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
+
+
+## 新能源汽车公共充换电设施配套评价及优化分析 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6139856882b26b0017d8c33d  
+Description:   
+Deadline: 2021-11-20T00:00:00+0800  
+Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
+
+
 ## 保守或融贯：重审《学衡》杂志中新文化运动思想与立场的历史定位
 
 Link: https://www.kesci.com/home/competition/6127152839efe300170cd454  
@@ -64,38 +96,4 @@ Link: https://www.kesci.com/home/competition/612a513a39efe300170cdb18
 Description:   
 Deadline: 2021-11-05T00:00:00+0800  
 Reward: 奖金￥20,000，获奖证书  
-
-
-## 中国数字人文开放数据创新研究大赛
-
-Link: https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb  
-Description: 本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。  
-Deadline: 2021-10-31T00:00:00+0800  
-Reward: 20000奖金池，获奖证书  
-
-
-## RMDS 2021 第3季度数据科学竞赛：设计餐饮智能分析平台
-
-Link: https://www.kesci.com/home/competition/611ed7d47db76d0017825511  
-Description: 通过收集餐饮经营的重要数据，利用数据科学为餐饮从业者和商家创建实用的数据分析平台，用智能化操作系统解决实际商业问题，提升业绩。  
-Deadline: 2021-10-12T04:00:00+0800  
-Reward: $2,000奖金+获奖证书+全球峰会演讲机会+实习机会  
-
-
-## 情感分析·推特文本情感分类
-
-Link: https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-在本次练习赛旨在引导、
-本次练习赛所使用数据集基于推特用户发表的推文数据集  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
-
-
-## 《深入浅出Embedding技术原理及应用实战》 读书实践
-
-Link: https://www.kesci.com/home/competition/611dccf87db76d00178252ac  
-Description:   
-Deadline: 2021-09-30T00:00:00+0800  
-Reward:   
 
