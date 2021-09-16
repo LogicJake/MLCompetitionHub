@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-15T15:58:50+08:00</updated>
+    <updated>2021-09-16T15:59:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -586,7 +586,7 @@
         
         <link href="https://competition.huaweicloud.com/information/1000041485/introduction"/>
         <summary>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战赛”。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041485/introduction"><![CDATA[<h3>Description</h3>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战赛”。<h3>Deadline: 2021-10-29T18:00:00+08:00</h3><h3>Reward: ￥900000</h3>]]></content>
+        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041485/introduction"><![CDATA[<h3>Description</h3>为了方便开发者们感受国产AI计算框架，认知体验全栈全场景的AI解决方案，头歌社区携手华为昇腾社区、鹏城实验室、启智社区，共同打造了中国软件开源创新大赛--“模型王者挑战赛”。<h3>Deadline: 2021-10-29T18:00:00+08:00</h3><h3>Reward: ￥380000</h3>]]></content>
         <author>
             <name><![CDATA[华为云大赛（人工智能赛）]]></name>
         </author>
@@ -896,7 +896,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-15T15:58:50+08:00</updated>
+        <updated>2021-09-16T15:59:04+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -910,7 +910,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-15T15:58:50+08:00</updated>
+        <updated>2021-09-16T15:59:04+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
