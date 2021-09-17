@@ -2,6 +2,22 @@
 
 
 
+## 2021 CCF BDCI 花样滑冰选手骨骼点动作识别 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/115  
+Description: 本赛题旨在探索基于骨骼点的细粒度人体动作识别方法，要求参赛选手利用比赛提供的数据集，构建基于骨骼点的时空细粒度动作识别模型，完成测试集的动作识别任务。  
+Deadline: 2021-12-31T08:00:00+0800  
+Reward: ¥100,000  
+
+
+## 2021 CCF BDCI 千言-问题匹配鲁棒性评测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/116  
+Description: 本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。  
+Deadline: 2021-12-31T08:00:00+0800  
+Reward: ¥50,000  
+
+
 ## 飞桨论文复现挑战赛（第四期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
@@ -64,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/98
 Description: PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！  
 Deadline: 2021-09-30T08:00:00+0800  
 Reward: ¥30,000 + 超级大礼包  
-
-
-## 中国软件开源创新大赛：开源任务挑战赛（顶会论文复现赛）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/94  
-Description: 第四届中国软件开源创新大赛-任务挑战组  
-Deadline: 2021-11-30T08:00:00+0800  
-Reward: 参见比赛详情  
 

@@ -2,6 +2,14 @@
 
 
 
+## 金融数据分析训练营—Python基础 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d  
+Description:   
+Deadline: 2021-10-02T00:00:00+0800  
+Reward: 鲸币🐳 +周边+购物卡  
+
+
 ## 2021上海新能源汽车大数据竞赛 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/612c662d34003c00179be8fa  
@@ -85,14 +93,6 @@ Reward: 奖金￥20,000，获奖证书
 ## 识别故事中隐藏的社会偏见
 
 Link: https://www.kesci.com/home/competition/612a4eff39efe300170cdaf2  
-Description:   
-Deadline: 2021-11-05T00:00:00+0800  
-Reward: 奖金￥20,000，获奖证书  
-
-
-## 宋元学案学术传承数据分析
-
-Link: https://www.kesci.com/home/competition/612a513a39efe300170cdb18  
 Description:   
 Deadline: 2021-11-05T00:00:00+0800  
 Reward: 奖金￥20,000，获奖证书  

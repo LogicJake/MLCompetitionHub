@@ -3,12 +3,40 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-16T15:59:04+08:00</updated>
+    <updated>2021-09-17T15:58:44+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/115</id>
+        <title><![CDATA[2021 CCF BDCI 花样滑冰选手骨骼点动作识别]]></title>
+        
+        <updated>2021-09-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/115"/>
+        <summary>本赛题旨在探索基于骨骼点的细粒度人体动作识别方法，要求参赛选手利用比赛提供的数据集，构建基于骨骼点的时空细粒度动作识别模型，完成测试集的动作识别任务。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/115"><![CDATA[<h3>Description</h3>本赛题旨在探索基于骨骼点的细粒度人体动作识别方法，要求参赛选手利用比赛提供的数据集，构建基于骨骼点的时空细粒度动作识别模型，完成测试集的动作识别任务。<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/116</id>
+        <title><![CDATA[2021 CCF BDCI 千言-问题匹配鲁棒性评测]]></title>
+        
+        <updated>2021-09-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/116"/>
+        <summary>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/116"><![CDATA[<h3>Description</h3>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/106</id>
@@ -117,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/98"/>
         <summary>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/98"><![CDATA[<h3>Description</h3>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: ¥30,000 + 超级大礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/94</id>
-        <title><![CDATA[中国软件开源创新大赛：开源任务挑战赛（顶会论文复现赛）]]></title>
-        
-        <updated>2021-06-10T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/94"/>
-        <summary>第四届中国软件开源创新大赛-任务挑战组</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/94"><![CDATA[<h3>Description</h3>第四届中国软件开源创新大赛-任务挑战组<h3>Deadline: 2021-11-30T08:00:00+08:00</h3><h3>Reward: 参见比赛详情</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -293,6 +307,146 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/532</id>
+        <title><![CDATA[大规模金融仿真图数据中金融交易环路查询的设计与性能优化]]></title>
+        
+        <updated>2021-09-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/532"/>
+        <summary>大规模金融仿真图数据中金融交易环路查询的设计与性能优化</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/532"><![CDATA[<h3>Description</h3>大规模金融仿真图数据中金融交易环路查询的设计与性能优化<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/530</id>
+        <title><![CDATA[个贷违约预测]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/530"/>
+        <summary>个贷违约预测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/530"><![CDATA[<h3>Description</h3>个贷违约预测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/529</id>
+        <title><![CDATA[产品评论观点提取]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/529"/>
+        <summary>产品评论观点提取</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/529"><![CDATA[<h3>Description</h3>产品评论观点提取<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/522</id>
+        <title><![CDATA[POI名称生成]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/522"/>
+        <summary>POI名称生成</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/522"><![CDATA[<h3>Description</h3>POI名称生成<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/527</id>
+        <title><![CDATA[openLooKeng跨域数据分析性能提升]]></title>
+        
+        <updated>2021-09-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/527"/>
+        <summary>openLooKeng跨域数据分析性能提升</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/527"><![CDATA[<h3>Description</h3>openLooKeng跨域数据分析性能提升<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/528</id>
+        <title><![CDATA[基于MindSpore AI框架实现零售商品识别]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/528"/>
+        <summary>基于MindSpore AI框架实现零售商品识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/528"><![CDATA[<h3>Description</h3>基于MindSpore AI框架实现零售商品识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/520</id>
+        <title><![CDATA[基于UEBA的用户上网异常行为分析]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/520"/>
+        <summary>基于UEBA的用户上网异常行为分析</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/520"><![CDATA[<h3>Description</h3>基于UEBA的用户上网异常行为分析<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/519</id>
+        <title><![CDATA[花样滑冰选手骨骼点动作识别]]></title>
+        
+        <updated>2021-09-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/519"/>
+        <summary>花样滑冰选手骨骼点动作识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/519"><![CDATA[<h3>Description</h3>花样滑冰选手骨骼点动作识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/518</id>
+        <title><![CDATA[剧本角色情感识别]]></title>
+        
+        <updated>2021-09-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/518"/>
+        <summary>剧本角色情感识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/518"><![CDATA[<h3>Description</h3>剧本角色情感识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/516</id>
+        <title><![CDATA[千言-问题匹配鲁棒性评测]]></title>
+        
+        <updated>2021-09-16T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/516"/>
+        <summary>千言-问题匹配鲁棒性评测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/516"><![CDATA[<h3>Description</h3>千言-问题匹配鲁棒性评测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/512</id>
@@ -651,6 +805,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d</id>
+        <title><![CDATA[金融数据分析训练营—Python基础]]></title>
+        
+        <updated>2021-09-17T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-10-02T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/612c662d34003c00179be8fa</id>
         <title><![CDATA[2021上海新能源汽车大数据竞赛]]></title>
         
@@ -804,20 +972,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/612a513a39efe300170cdb18</id>
-        <title><![CDATA[宋元学案学术传承数据分析]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/612a513a39efe300170cdb18"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a513a39efe300170cdb18"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -896,7 +1050,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-16T15:59:04+08:00</updated>
+        <updated>2021-09-17T15:58:44+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -910,7 +1064,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-16T15:59:04+08:00</updated>
+        <updated>2021-09-17T15:58:44+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -1003,20 +1157,6 @@
     
     
     <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
-        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
         <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
         
@@ -1025,6 +1165,20 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
         <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
+        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
+        
+        <updated>2021-07-05T08:01:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
+        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
