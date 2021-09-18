@@ -58,10 +58,10 @@ Deadline: 2021-12-30T23:59:59+0800
 Reward: ￥50000  
 
 
-## 花样滑冰选手骨骼点动作识别 <sup style="color:red">[new]<sup>  
+## 基于飞桨实现花样滑冰选手骨骼点动作识别 <sup style="color:red">[new]<sup>  
 
 Link: https://www.datafountain.cn/competitions/519  
-Description: 花样滑冰选手骨骼点动作识别  
+Description: 基于飞桨实现花样滑冰选手骨骼点动作识别  
 Deadline: 2021-12-30T23:59:59+0800  
 Reward: ￥100000  
 

@@ -2,7 +2,7 @@
 
 
 
-## 2021 CCF BDCI 花样滑冰选手骨骼点动作识别 <sup style="color:red">[new]<sup>  
+## 2021 CCF BDCI 基于飞桨实现花样滑冰选手骨骼点动作识别 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/115  
 Description: 本赛题旨在探索基于骨骼点的细粒度人体动作识别方法，要求参赛选手利用比赛提供的数据集，构建基于骨骼点的时空细粒度动作识别模型，完成测试集的动作识别任务。  
