@@ -656,3 +656,9 @@ https://www.datafountain.cn/competitions/518
 https://www.datafountain.cn/competitions/516
 https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d
 https://competition.huaweicloud.com/information/1000041591/introduction
+https://www.biendata.xyz/competition/maxp_dgl/
+https://www.biendata.xyz/competition/maxp_innovation/
+https://www.biendata.xyz/competition/maxp_lambda/
+https://www.biendata.xyz/competition/hgb-3/
+https://www.biendata.xyz/competition/hgb-2/
+https://www.biendata.xyz/competition/hgb-1/

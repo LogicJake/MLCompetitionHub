@@ -2,12 +2,60 @@
 
 
 
+## 2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务
+
+Link: https://www.biendata.xyz/competition/maxp_dgl/  
+Description: 2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务  
+Deadline: 2021-11-26T08:00:00+0800  
+Reward: ￥150,000  
+
+
+## 2021 MAXP Innovation Track
+
+Link: https://www.biendata.xyz/competition/maxp_innovation/  
+Description: 2021 MAXP Innovation Track  
+Deadline: 2021-11-26T08:00:00+0800  
+Reward: ￥120,000  
+
+
+## 2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算
+
+Link: https://www.biendata.xyz/competition/maxp_lambda/  
+Description: 2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算  
+Deadline: 2021-11-26T08:00:00+0800  
+Reward: ￥80,000  
+
+
 ## 悟道之巅 AI 创新应用大赛
 
 Link: https://www.biendata.xyz/competition/wudao2021/  
 Description: 悟道之巅 AI 创新应用大赛  
 Deadline: 2021-11-14T08:00:00+0800  
 Reward: ￥1,000,000  
+
+
+## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
+
+Link: https://www.biendata.xyz/competition/hgb-3/  
+Description: Heterogeneous Graph Benchmark - Knowledge-aware Recommendation  
+Deadline: 2030-06-30T08:00:00+0800  
+Reward: Interst  
+
+
+## Heterogeneous Graph Benchmark - Link Prediction
+
+Link: https://www.biendata.xyz/competition/hgb-2/  
+Description: Heterogeneous Graph Benchmark - Link Prediction  
+Deadline: 2030-06-30T08:00:00+0800  
+Reward: Interst  
+
+
+## Heterogeneous Graph Benchmark - Node Classification
+
+Link: https://www.biendata.xyz/competition/hgb-1/  
+Description: Heterogeneous Graph Benchmark - Node Classification  
+Deadline: 2030-06-30T08:00:00+0800  
+Reward: Interst  
 
 
 ## RACE Dataset
@@ -58,14 +106,6 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## SciQ Dataset
-
-Link: https://www.biendata.xyz/competition/sciq/  
-Description: SciQ Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
 ## LogiQA Dataset
 
 Link: https://www.biendata.xyz/competition/logiqa/  
@@ -86,6 +126,14 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/race_c/  
 Description: RACE-C Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## SciQ Dataset
+
+Link: https://www.biendata.xyz/competition/sciq/  
+Description: SciQ Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
