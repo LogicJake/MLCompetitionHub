@@ -2,7 +2,7 @@
 
 
 
-## 金融数据分析训练营—Python基础 <sup style="color:red">[new]<sup>  
+## 金融数据分析训练营—Python基础
 
 Link: https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d  
 Description:   
