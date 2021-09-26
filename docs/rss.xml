@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-25T15:58:46+08:00</updated>
+    <updated>2021-09-26T16:00:39+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -886,21 +886,23 @@
         </author>
     </entry>
     
+    
+    
     <entry>
-        <id>https://competition.huaweicloud.com/information/1000041542/introduction</id>
-        <title><![CDATA[云聚沈抚 · 智赢未来 沈抚示范区·“华为云杯”2021全国AI大赛]]></title>
+        <id>https://www.kesci.com/home/competition/61415ef0fb30960017332b0c</id>
+        <title><![CDATA[和鲸训练营·商业数据可视化]]></title>
         
-        <updated>2021-07-12T00:00:00+08:00</updated>
+        <updated>2021-09-26T00:00:00+08:00</updated>
         
-        <link href="https://competition.huaweicloud.com/information/1000041542/introduction"/>
-        <summary>沈抚示范区·“华为云杯”2021全国AI大赛是由沈抚改革创新示范区、华为（辽宁）人工智能创新中心和上海交通大学三方合作，共同主办的面向全国的人工智能交流赛事。</summary>
-        <content type="text/html" src="https://competition.huaweicloud.com/information/1000041542/introduction"><![CDATA[<h3>Description</h3>沈抚示范区·“华为云杯”2021全国AI大赛是由沈抚改革创新示范区、华为（辽宁）人工智能创新中心和上海交通大学三方合作，共同主办的面向全国的人工智能交流赛事。<h3>Deadline: 2021-09-25T17:00:00+08:00</h3><h3>Reward: ￥210000</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/61415ef0fb30960017332b0c"/>
+        <summary>数据分析师带你玩转商业数据可视化，真实业务场景下如何应用可视化完成工作，本次训练营带你深入了解ython可视化神器-Pyecharts。
+</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61415ef0fb30960017332b0c"><![CDATA[<h3>Description</h3>数据分析师带你玩转商业数据可视化，真实业务场景下如何应用可视化完成工作，本次训练营带你深入了解ython可视化神器-Pyecharts。
+<h3>Deadline: 2021-10-15T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
         <author>
-            <name><![CDATA[华为云大赛（人工智能赛）]]></name>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
-    
-    
     
     <entry>
         <id>https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d</id>
@@ -1056,20 +1058,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/612a4eff39efe300170cdaf2</id>
-        <title><![CDATA[识别故事中隐藏的社会偏见]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/612a4eff39efe300170cdaf2"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a4eff39efe300170cdaf2"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -1148,7 +1136,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-25T15:58:46+08:00</updated>
+        <updated>2021-09-26T16:00:39+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1162,71 +1150,13 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-25T15:58:46+08:00</updated>
+        <updated>2021-09-26T16:00:39+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
         <content type="text/html" src="https://signate.jp/competitions/471"><![CDATA[<h3>Description</h3>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！<h3>Deadline: 2021-10-04T23:59:59+08:00</h3><h3>Reward: 総額￥400,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531929/introduction</id>
-        <title><![CDATA[2021 亚太眼科学会大数据竞赛(赛季 1)]]></title>
-        
-        <updated>2021-08-25T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531929/introduction"/>
-        <summary>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531929/introduction"><![CDATA[<h3>Description</h3>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。<h3>Deadline: 2021-10-31T12:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
-        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 1)]]></title>
-        
-        <updated>2021-08-04T15:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
-        <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-09-30T17:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”冷冻电镜蛋白质结构建模大赛(赛季 1)]]></title>
-        
-        <updated>2021-07-15T12:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531916/introduction"/>
-        <summary>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531916/introduction"><![CDATA[<h3>Description</h3>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。<h3>Deadline: 2021-09-29T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
-        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 5)]]></title>
-        
-        <updated>2021-08-16T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
-        <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-10-08T12:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
