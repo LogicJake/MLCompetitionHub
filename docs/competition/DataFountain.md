@@ -2,6 +2,38 @@
 
 
 
+## 泛在感知数据关联融合计算
+
+Link: https://www.datafountain.cn/competitions/539  
+Description: 泛在感知数据关联融合计算  
+Deadline: 2021-12-30T23:59:59+0800  
+Reward: ￥20000  
+
+
+## 基于BERT的大模型容量挑战赛
+
+Link: https://www.datafountain.cn/competitions/538  
+Description: 基于BERT的大模型容量挑战赛  
+Deadline: 2021-12-30T23:59:59+0800  
+Reward: ￥50000  
+
+
+## 系统认证风险预测
+
+Link: https://www.datafountain.cn/competitions/537  
+Description: 系统认证风险预测  
+Deadline: 2021-12-30T23:59:59+0800  
+Reward: ￥50000  
+
+
+## 客服通话文本摘要提取
+
+Link: https://www.datafountain.cn/competitions/536  
+Description: 客服通话文本摘要提取  
+Deadline: 2021-12-30T23:59:59+0800  
+Reward: ￥50000  
+
+
 ## 大规模金融仿真图数据中金融交易环路查询的设计与性能优化
 
 Link: https://www.datafountain.cn/competitions/532  

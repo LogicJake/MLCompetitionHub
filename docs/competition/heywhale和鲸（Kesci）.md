@@ -2,20 +2,20 @@
 
 
 
+## 商业数据分析实战营·互联网运营 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6144694b9cae740018337080  
+Description: 独家数据大公开，带你玩转互联网商业数据分析  
+Deadline: 2021-11-14T00:00:00+0800  
+Reward:   
+
+
 ## 和鲸训练营·商业数据可视化 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/61415ef0fb30960017332b0c  
 Description: 数据分析师带你玩转商业数据可视化，真实业务场景下如何应用可视化完成工作，本次训练营带你深入了解ython可视化神器-Pyecharts。
   
 Deadline: 2021-10-15T00:00:00+0800  
-Reward: 鲸币🐳 +周边+购物卡  
-
-
-## 金融数据分析训练营—Python基础
-
-Link: https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d  
-Description:   
-Deadline: 2021-10-02T00:00:00+0800  
 Reward: 鲸币🐳 +周边+购物卡  
 
 

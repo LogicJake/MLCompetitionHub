@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-27T15:58:47+08:00</updated>
+    <updated>2021-09-28T15:59:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -393,6 +393,62 @@
     
     
     <entry>
+        <id>https://www.datafountain.cn/competitions/539</id>
+        <title><![CDATA[泛在感知数据关联融合计算]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/539"/>
+        <summary>泛在感知数据关联融合计算</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/539"><![CDATA[<h3>Description</h3>泛在感知数据关联融合计算<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/538</id>
+        <title><![CDATA[基于BERT的大模型容量挑战赛]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/538"/>
+        <summary>基于BERT的大模型容量挑战赛</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/538"><![CDATA[<h3>Description</h3>基于BERT的大模型容量挑战赛<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/537</id>
+        <title><![CDATA[系统认证风险预测]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/537"/>
+        <summary>系统认证风险预测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/537"><![CDATA[<h3>Description</h3>系统认证风险预测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/536</id>
+        <title><![CDATA[客服通话文本摘要提取]]></title>
+        
+        <updated>2021-09-16T15:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/536"/>
+        <summary>客服通话文本摘要提取</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/536"><![CDATA[<h3>Description</h3>客服通话文本摘要提取<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.datafountain.cn/competitions/532</id>
         <title><![CDATA[大规模金融仿真图数据中金融交易环路查询的设计与性能优化]]></title>
         
@@ -675,6 +731,20 @@
     </entry>
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=568</id>
+        <title><![CDATA[超级传播者识别挑战赛]]></title>
+        
+        <updated>2021-09-28T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=568"/>
+        <summary>风险管理需要保持风险和效益的平衡发展，不但要通过风险识别、计量、监测等程序管理好风险，同时也需要通过市场运营扩大客群，进而能有效降低逾期率控制风险。市场运营和产品推广不仅是依靠广告、宣传等手段，寻找有传播能力的用户能更好的推广，从既有客户中发现“超级传播者”，以合理的奖励激励其主动参与企业产品推广活动、吸引和转化其他潜在客户，是市场运营的重要方式之一。本次竞赛提供了某产品部分既有客户的历史信息，需要参赛选手通过合理的数据分析与建模来实现对“超级传播者”的有效识别，以期达到培养参赛选手运用统计和数据科学知识实现客户有效运营的合作精神和实践能力的目的。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=568"><![CDATA[<h3>Description</h3>风险管理需要保持风险和效益的平衡发展，不但要通过风险识别、计量、监测等程序管理好风险，同时也需要通过市场运营扩大客群，进而能有效降低逾期率控制风险。市场运营和产品推广不仅是依靠广告、宣传等手段，寻找有传播能力的用户能更好的推广，从既有客户中发现“超级传播者”，以合理的奖励激励其主动参与企业产品推广活动、吸引和转化其他潜在客户，是市场运营的重要方式之一。本次竞赛提供了某产品部分既有客户的历史信息，需要参赛选手通过合理的数据分析与建模来实现对“超级传播者”的有效识别，以期达到培养参赛选手运用统计和数据科学知识实现客户有效运营的合作精神和实践能力的目的。<h3>Deadline: 2021-11-27T18:00:00+08:00</h3><h3>Reward: ￥63000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=550</id>
         <title><![CDATA[2021 Datathon数智马拉松大赛]]></title>
         
@@ -798,23 +868,23 @@
         </author>
     </entry>
     
+    
+    
+    
+    
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=538</id>
-        <title><![CDATA[第二届数字四川创新大赛-媒体领域智能文本纠错]]></title>
+        <id>https://www.kesci.com/home/competition/6144694b9cae740018337080</id>
+        <title><![CDATA[商业数据分析实战营·互联网运营]]></title>
         
-        <updated>2021-07-05T10:00:00+08:00</updated>
+        <updated>2021-09-28T00:00:00+08:00</updated>
         
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=538"/>
-        <summary>日常生活中，我们经常会在微信、微博等社交工具、公众号文章、甚至新闻稿件中发现许多拼写、语法、标点等错误；经过初步统计：在微博等新媒体领域中，文本敏感和出错概率在2%左右；在语音识别领域中，出错率最高可达8-10%；而在某保险问答领域中，用户提问出错率在去重后仍高达9%。而文本纠错作为自然语言处理最基础的模块，是实现中文语句自动检查、自动纠错的一项重要技术，其目的是提高语言正确性的同时减少人工校验成本，其重要程度不言而喻。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=538"><![CDATA[<h3>Description</h3>日常生活中，我们经常会在微信、微博等社交工具、公众号文章、甚至新闻稿件中发现许多拼写、语法、标点等错误；经过初步统计：在微博等新媒体领域中，文本敏感和出错概率在2%左右；在语音识别领域中，出错率最高可达8-10%；而在某保险问答领域中，用户提问出错率在去重后仍高达9%。而文本纠错作为自然语言处理最基础的模块，是实现中文语句自动检查、自动纠错的一项重要技术，其目的是提高语言正确性的同时减少人工校验成本，其重要程度不言而喻。<h3>Deadline: 2021-09-29T15:00:00+08:00</h3><h3>Reward: ￥52000</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/6144694b9cae740018337080"/>
+        <summary>独家数据大公开，带你玩转互联网商业数据分析</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6144694b9cae740018337080"><![CDATA[<h3>Description</h3>独家数据大公开，带你玩转互联网商业数据分析<h3>Deadline: 2021-11-14T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
-            <name><![CDATA[DC竞赛]]></name>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
-    
-    
-    
-    
     
     <entry>
         <id>https://www.kesci.com/home/competition/61415ef0fb30960017332b0c</id>
@@ -827,20 +897,6 @@
 </summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/61415ef0fb30960017332b0c"><![CDATA[<h3>Description</h3>数据分析师带你玩转商业数据可视化，真实业务场景下如何应用可视化完成工作，本次训练营带你深入了解ython可视化神器-Pyecharts。
 <h3>Deadline: 2021-10-15T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d</id>
-        <title><![CDATA[金融数据分析训练营—Python基础]]></title>
-        
-        <updated>2021-09-17T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6141c1067989ad0017b3c39d"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-10-02T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1064,7 +1120,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-27T15:58:47+08:00</updated>
+        <updated>2021-09-28T15:59:05+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1078,7 +1134,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-27T15:58:47+08:00</updated>
+        <updated>2021-09-28T15:59:05+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
