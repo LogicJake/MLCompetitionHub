@@ -2,6 +2,14 @@
 
 
 
+## 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~ <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/21  
+Description: 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~  
+Deadline: 2021-11-29T13:59:00+0800  
+Reward: 15万円  
+
+
 ## ケーブルコネクタの種類判別 
 
 Link: https://www.nishika.com/competitions/19  

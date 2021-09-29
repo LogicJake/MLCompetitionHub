@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-28T15:59:05+08:00</updated>
+    <updated>2021-09-29T15:58:45+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -851,18 +851,18 @@
     </entry>
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=553</id>
-        <title><![CDATA[第二届数字四川创新大赛-国产数据库算法比拼]]></title>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=560</id>
+        <title><![CDATA[A.I.开发者大赛-基于深度学习的小样本分类识别任务挑战赛]]></title>
         
-        <updated>2021-07-15T10:00:00+08:00</updated>
+        <updated>2021-08-02T00:00:00+08:00</updated>
         
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=553"/>
-        <summary>人口普查是国之大计。当前，我国正处于“两个一百年”奋斗目标的历史交汇期，全面建成小康社会进入决战决胜阶段，即将开启全面建设社会主义现代化国家的新征程。开展全国人口普查，有着重大而深远的现实意义。
-国家统计局局长宁吉喆表示，党的十九届五中全会刚刚胜利闭幕，全会审议通过了《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》。开展全国人口普查意义重大，这是在我国转向高质量发展阶段，人口发展进入重要转折期开展的一次重大国情国力调查。
-及时查清“几世同堂”这一基本国情，摸清人力资源结构和空间分布等方面的准确信息，才能够更加准确地把握需求结构、城乡结构、区域结构、产业结构、要素投入结构等状况。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=553"><![CDATA[<h3>Description</h3>人口普查是国之大计。当前，我国正处于“两个一百年”奋斗目标的历史交汇期，全面建成小康社会进入决战决胜阶段，即将开启全面建设社会主义现代化国家的新征程。开展全国人口普查，有着重大而深远的现实意义。
-国家统计局局长宁吉喆表示，党的十九届五中全会刚刚胜利闭幕，全会审议通过了《中共中央关于制定国民经济和社会发展第十四个五年规划和二〇三五年远景目标的建议》。开展全国人口普查意义重大，这是在我国转向高质量发展阶段，人口发展进入重要转折期开展的一次重大国情国力调查。
-及时查清“几世同堂”这一基本国情，摸清人力资源结构和空间分布等方面的准确信息，才能够更加准确地把握需求结构、城乡结构、区域结构、产业结构、要素投入结构等状况。<h3>Deadline: 2021-09-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=560"/>
+        <summary>尽管深度学习在计算机视觉的诸多领域取得了巨大进步，但是这些方法都需要大量的数据作为支持，但是在某些任务上，数据的获取和标注往往是十分困难的，如何使用少量的样本训练出一个性能较好的模型成为这一问题的关键，而小样本学习正是为了解决这一类问题。
+
+近年来在小样本学习领域虽然大量的算法被提了出来，但是仍然面临诸多问题，例如样本量过少，类内方差过大等等。这些问题导致小样本学习的实际效果与期望相差甚远。如何解决这些问题，使小样本学习能够真正的投入使用成为这一领域亟待突破的关键问题。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=560"><![CDATA[<h3>Description</h3>尽管深度学习在计算机视觉的诸多领域取得了巨大进步，但是这些方法都需要大量的数据作为支持，但是在某些任务上，数据的获取和标注往往是十分困难的，如何使用少量的样本训练出一个性能较好的模型成为这一问题的关键，而小样本学习正是为了解决这一类问题。
+
+近年来在小样本学习领域虽然大量的算法被提了出来，但是仍然面临诸多问题，例如样本量过少，类内方差过大等等。这些问题导致小样本学习的实际效果与期望相差甚远。如何解决这些问题，使小样本学习能够真正的投入使用成为这一领域亟待突破的关键问题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77,500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -871,6 +871,20 @@
     
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca</id>
+        <title><![CDATA[智能辅助诊疗创新设计方案征集]]></title>
+        
+        <updated>2021-09-29T10:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-10-28T23:59:00+08:00</h3><h3>Reward: 论文发表推荐+机构合作机会</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/6144694b9cae740018337080</id>
@@ -1028,21 +1042,21 @@
         </author>
     </entry>
     
+    
+    
     <entry>
-        <id>https://www.kesci.com/home/competition/612a4ba739efe300170cdacd</id>
-        <title><![CDATA[中国历代人物传记资料库]]></title>
+        <id>https://www.nishika.com/competitions/21</id>
+        <title><![CDATA[小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~]]></title>
         
-        <updated>2021-09-01T00:00:00+08:00</updated>
+        <updated>2021-09-29T14:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/612a4ba739efe300170cdacd"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a4ba739efe300170cdacd"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
+        <link href="https://www.nishika.com/competitions/21"/>
+        <summary>小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/21"><![CDATA[<h3>Description</h3>小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~<h3>Deadline: 2021-11-29T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
         <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+            <name><![CDATA[Nishika]]></name>
         </author>
     </entry>
-    
-    
     
     <entry>
         <id>https://www.nishika.com/competitions/19</id>
@@ -1120,7 +1134,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-28T15:59:05+08:00</updated>
+        <updated>2021-09-29T15:58:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1134,7 +1148,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-28T15:59:05+08:00</updated>
+        <updated>2021-09-29T15:58:45+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>

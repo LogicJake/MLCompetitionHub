@@ -2,6 +2,14 @@
 
 
 
+## 智能辅助诊疗创新设计方案征集 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca  
+Description:   
+Deadline: 2021-10-28T23:59:00+0800  
+Reward: 论文发表推荐+机构合作机会  
+
+
 ## 商业数据分析实战营·互联网运营 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/6144694b9cae740018337080  
@@ -86,14 +94,6 @@ Reward: 奖金￥20,000，获奖证书
 ## 南京市政府出让住宅用地及其地价的时空建模与可视化研究
 
 Link: https://www.kesci.com/home/competition/612a494c39efe300170cdaa6  
-Description:   
-Deadline: 2021-11-05T00:00:00+0800  
-Reward: 奖金￥20,000，获奖证书  
-
-
-## 中国历代人物传记资料库
-
-Link: https://www.kesci.com/home/competition/612a4ba739efe300170cdacd  
 Description:   
 Deadline: 2021-11-05T00:00:00+0800  
 Reward: 奖金￥20,000，获奖证书  
