@@ -672,3 +672,4 @@ https://js.dclab.run/v2/cmptDetail.html?id=568
 https://www.kesci.com/home/competition/6144694b9cae740018337080
 https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca
 https://www.nishika.com/competitions/21
+https://js.dclab.run/v2/cmptDetail.html?id=569

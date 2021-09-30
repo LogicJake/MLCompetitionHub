@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-29T15:58:45+08:00</updated>
+    <updated>2021-09-30T15:58:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -759,6 +759,24 @@
     </entry>
     
     <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=569</id>
+        <title><![CDATA[OPPO安全挑战赛]]></title>
+        
+        <updated>2021-06-18T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=569"/>
+        <summary>随着人工智能尤其是深度学习技术的发展，人脸识别已经成为当下最为成熟的领域应用之一。在现实生活中，人脸识别技术已经被广泛地用于诸如：基于人证对的实名人证、金融级别的刷脸支付和刷脸认证、闸机验证签到等。但与此同时，通过对抗样本生成、深度伪造假脸生成等技术手段，可以在原始人脸图像做微小的像素级别的改动，从而能够欺骗人脸识别系统，使之给出错误的判断结果。
+
+本次比赛将会聚焦于人脸识别场景中的反AI的对抗攻击。为了模拟真实的人脸识别场景并增加比赛的难度，我们将在后台使用防御性较好的一组模型作为黑盒模型。选手在不清楚模型细节的前提之下，构造有目标或无目标的对抗样本。比赛过程中，选手在线下对提供的测试样本进行修改，并提交生成的结果数据至线上进行攻击评测。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=569"><![CDATA[<h3>Description</h3>随着人工智能尤其是深度学习技术的发展，人脸识别已经成为当下最为成熟的领域应用之一。在现实生活中，人脸识别技术已经被广泛地用于诸如：基于人证对的实名人证、金融级别的刷脸支付和刷脸认证、闸机验证签到等。但与此同时，通过对抗样本生成、深度伪造假脸生成等技术手段，可以在原始人脸图像做微小的像素级别的改动，从而能够欺骗人脸识别系统，使之给出错误的判断结果。
+
+本次比赛将会聚焦于人脸识别场景中的反AI的对抗攻击。为了模拟真实的人脸识别场景并增加比赛的难度，我们将在后台使用防御性较好的一组模型作为黑盒模型。选手在不清楚模型细节的前提之下，构造有目标或无目标的对抗样本。比赛过程中，选手在线下对提供的测试样本进行修改，并提交生成的结果数据至线上进行攻击评测。<h3>Deadline: 2021-11-22T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=486</id>
         <title><![CDATA[2021中国华录杯·数据湖算法大赛]]></title>
         
@@ -769,82 +787,6 @@
 本届大赛将继续为优胜队伍发放丰厚奖金，提供创业辅导与技术指导，为优秀算法提供落地应用场景机会，帮助团队快速形成技术成果转化。同时，为了提升落地成效和团队育留效果，将额外奖励位于天津津南华录未来科技园的团队入驻券，获奖的参赛者可以极优惠条件入驻华录数据湖孵化平台，享受集创业载体、数据要素、产业政策、技术资源于一体的产业孵化服务。</summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=486"><![CDATA[<h3>Description</h3>华录杯数据湖算法大赛已举办至第四届，累计吸引了来自全球的5500个参赛队伍，本届大赛秉持“从行业中来，到行业中去”的办赛原则，本届赛题均来自于真实的场景需求，赛题数据均来自于真实的项目场景数据，评选算法要遵循“实战性”原则，所得模型算法进一步孵化后可直接应用于项目场景中，解决实际行业问题。
 本届大赛将继续为优胜队伍发放丰厚奖金，提供创业辅导与技术指导，为优秀算法提供落地应用场景机会，帮助团队快速形成技术成果转化。同时，为了提升落地成效和团队育留效果，将额外奖励位于天津津南华录未来科技园的团队入驻券，获奖的参赛者可以极优惠条件入驻华录数据湖孵化平台，享受集创业载体、数据要素、产业政策、技术资源于一体的产业孵化服务。<h3>Deadline: 2021-10-17T00:00:00+08:00</h3><h3>Reward: ￥695000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=497</id>
-        <title><![CDATA[2021 DIGIX全球校园AI算法精英大赛 - 小样本菜单识别]]></title>
-        
-        <updated>2021-06-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=497"/>
-        <summary>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。
-</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=497"><![CDATA[<h3>Description</h3>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。
-<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: $61000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=496</id>
-        <title><![CDATA[2021 DIGIX全球校园AI算法精英大赛 - 基于多模态多语言的搜索排序]]></title>
-        
-        <updated>2021-06-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=496"/>
-        <summary>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。
-
-</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=496"><![CDATA[<h3>Description</h3>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。
-
-<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: $61000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=495</id>
-        <title><![CDATA[2021 DIGIX全球校园AI算法精英大赛 - 基于多目标优化的视频推荐]]></title>
-        
-        <updated>2021-06-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=495"/>
-        <summary>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=495"><![CDATA[<h3>Description</h3>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: $61000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=494</id>
-        <title><![CDATA[2021 DIGIX全球校园AI算法精英大赛 - 基于多模型迁移预训练文章质量判别]]></title>
-        
-        <updated>2021-06-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=494"/>
-        <summary>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=494"><![CDATA[<h3>Description</h3>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: $61000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=493</id>
-        <title><![CDATA[2021 DIGIX全球校园AI算法精英大赛 - 基于多目标多视图的用户留存周期预测]]></title>
-        
-        <updated>2021-06-10T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=493"/>
-        <summary>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=493"><![CDATA[<h3>Description</h3>AI技术的迭代发展，将加速行业升级，从单场景AI创新向全场景智能数字化迈进。2021 DIGIX全球校园AI算法精英大赛邀请全球校园算法达人共同挑战数字时代前沿命题，为构建万物互联的智能世界贡献全新算法力量。<h3>Deadline: 2021-09-30T00:00:00+08:00</h3><h3>Reward: $61000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -863,6 +805,68 @@
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=560"><![CDATA[<h3>Description</h3>尽管深度学习在计算机视觉的诸多领域取得了巨大进步，但是这些方法都需要大量的数据作为支持，但是在某些任务上，数据的获取和标注往往是十分困难的，如何使用少量的样本训练出一个性能较好的模型成为这一问题的关键，而小样本学习正是为了解决这一类问题。
 
 近年来在小样本学习领域虽然大量的算法被提了出来，但是仍然面临诸多问题，例如样本量过少，类内方差过大等等。这些问题导致小样本学习的实际效果与期望相差甚远。如何解决这些问题，使小样本学习能够真正的投入使用成为这一领域亟待突破的关键问题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77,500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=559</id>
+        <title><![CDATA[A.I.开发者大赛-碎米识别挑战赛]]></title>
+        
+        <updated>2021-08-01T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=559"/>
+        <summary>美亚光电在光电色选领域深耕多年，秉承着绿色设计、绿色生产、绿色管理的发展理念，并基于人工智能和大数据技术，助力传统农业数字化转型。
+
+我国是世界上最大的稻米生产国，而稻米品质问题已经成为制约我国大米生产、销售和出口的瓶颈。大米的碎米率是影响大米质量和售价的重要指标，同时也是反映稻米种植水平、大米加工水平的重要指标。从整米中识别、分割出碎米，并提高碎米的识别率是提高大米品质的关键性问题。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=559"><![CDATA[<h3>Description</h3>美亚光电在光电色选领域深耕多年，秉承着绿色设计、绿色生产、绿色管理的发展理念，并基于人工智能和大数据技术，助力传统农业数字化转型。
+
+我国是世界上最大的稻米生产国，而稻米品质问题已经成为制约我国大米生产、销售和出口的瓶颈。大米的碎米率是影响大米质量和售价的重要指标，同时也是反映稻米种植水平、大米加工水平的重要指标。从整米中识别、分割出碎米，并提高碎米的识别率是提高大米品质的关键性问题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=558</id>
+        <title><![CDATA[A.I.开发者大赛-领域迁移机器翻译挑战赛]]></title>
+        
+        <updated>2021-07-26T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=558"/>
+        <summary>在“一带一路”合作倡议共建的大背景下，国家间的合作区域与领域不断被拓展，新的合作模式不断被探索与尝试，利用机器翻译在非通用领域进行沟通交流的需求不断扩大。
+目前神经机器翻译技术已经取得了很大的突破，在具有丰富数据资源的领域机器翻译质量不断提高，但是由于数据资源获取困难等原因，机器翻译在某些特殊领域的翻译效果还不够理想。如何利用富资源领域的丰富数据，将知识迁移到低资源领域以实现翻译性能的提升是一个亟须解决的难题。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=558"><![CDATA[<h3>Description</h3>在“一带一路”合作倡议共建的大背景下，国家间的合作区域与领域不断被拓展，新的合作模式不断被探索与尝试，利用机器翻译在非通用领域进行沟通交流的需求不断扩大。
+目前神经机器翻译技术已经取得了很大的突破，在具有丰富数据资源的领域机器翻译质量不断提高，但是由于数据资源获取困难等原因，机器翻译在某些特殊领域的翻译效果还不够理想。如何利用富资源领域的丰富数据，将知识迁移到低资源领域以实现翻译性能的提升是一个亟须解决的难题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=556</id>
+        <title><![CDATA[A.I.开发者大赛-家庭行为识别挑战赛]]></title>
+        
+        <updated>2021-07-26T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=556"/>
+        <summary>品冠科技深耕智能家居多年，基于人工智能和大数据技术，智能家居系统更加智能化， 其中通过算法预测一天中某段时间是否有人，也能提高系统智能化体验。因为可通过家中是否有人来确定是否启动相应的智能设备，如某个时间段家庭没人，就启动监控设备，若有人就打开窗帘等等。故判断预测某个时间段家庭是否有人的行为识别也是公司亟待解决的关键问题。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=556"><![CDATA[<h3>Description</h3>品冠科技深耕智能家居多年，基于人工智能和大数据技术，智能家居系统更加智能化， 其中通过算法预测一天中某段时间是否有人，也能提高系统智能化体验。因为可通过家中是否有人来确定是否启动相应的智能设备，如某个时间段家庭没人，就启动监控设备，若有人就打开窗帘等等。故判断预测某个时间段家庭是否有人的行为识别也是公司亟待解决的关键问题。<h3>Deadline: 2021-10-27T00:00:00+08:00</h3><h3>Reward: ¥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=536</id>
+        <title><![CDATA[A.I.开发者大赛-连续多语种分类挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=536"/>
+        <summary>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“连续多语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛和2020年多语种分类挑战赛以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛从真实场景和实际应用出发，提出了更具挑战性的连续多语种分类任务，期待业内同仁们能在这些任务上相互切磋、共同进步。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=536"><![CDATA[<h3>Description</h3>随着经济全球化发展和“一带一路”国家倡议的提出，跨境的国际合作和交流日益频繁，越来越多的中国企业正走向世界参与世界经济发展和管理，对多语种语音技术提出大量多样化的需求。“连续多语种分类挑战赛”旨在加强语种识别研究的交流、促进语种识别技术的发展。自2018年第一届方言挑战赛和2020年多语种分类挑战赛以来，多种实用、高效的语种识别技术在竞赛中得到打磨。本届竞赛从真实场景和实际应用出发，提出了更具挑战性的连续多语种分类任务，期待业内同仁们能在这些任务上相互切磋、共同进步。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1134,7 +1138,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-29T15:58:45+08:00</updated>
+        <updated>2021-09-30T15:58:59+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1148,7 +1152,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-29T15:58:45+08:00</updated>
+        <updated>2021-09-30T15:58:59+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -1223,6 +1227,48 @@
     
     
     <entry>
+        <id>https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge</id>
+        <title><![CDATA[Zindi User Behaviour Birthday Challenge]]></title>
+        
+        <updated>2021-09-24T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"/>
+        <summary>Can you predict which users will be active on Zindi in the next month?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"><![CDATA[<h3>Description</h3>Can you predict which users will be active on Zindi in the next month?<h3>Deadline: 2022-01-31T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/expresso-churn-prediction</id>
+        <title><![CDATA[Expresso Churn Prediction Challenge]]></title>
+        
+        <updated>2021-08-27T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/expresso-churn-prediction"/>
+        <summary>Can you predict when an airtime customer will move to another provider?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/expresso-churn-prediction"><![CDATA[<h3>Description</h3>Can you predict when an airtime customer will move to another provider?<h3>Deadline: 2021-11-29T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
+        <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
+        
+        <updated>2021-08-20T14:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
+        <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-11-22T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
         <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
         
@@ -1245,48 +1291,6 @@
         <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
         <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge</id>
-        <title><![CDATA[Zindi User Behaviour Birthday Challenge]]></title>
-        
-        <updated>2021-09-24T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"/>
-        <summary>Can you predict which users will be active on Zindi in the next month?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"><![CDATA[<h3>Description</h3>Can you predict which users will be active on Zindi in the next month?<h3>Deadline: 2022-01-31T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
-        <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
-        
-        <updated>2021-08-20T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
-        <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-11-22T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/expresso-churn-prediction</id>
-        <title><![CDATA[Expresso Churn Prediction Challenge]]></title>
-        
-        <updated>2021-08-27T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/expresso-churn-prediction"/>
-        <summary>Can you predict when an airtime customer will move to another provider?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/expresso-churn-prediction"><![CDATA[<h3>Description</h3>Can you predict when an airtime customer will move to another provider?<h3>Deadline: 2021-11-29T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
