@@ -18,14 +18,6 @@ Deadline: 2021-12-31T08:00:00+0800
 Reward: ¥50,000  
 
 
-## 飞桨论文复现挑战赛（第四期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/106  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2021-09-30T08:00:00+0800  
-Reward: 总计￥1,500,000  
-
-
 ## 国家电网调控AI创新大赛：电网厂站接线图识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/108  
@@ -56,28 +48,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/111
 Description: 针对电网源荷双侧波动性带来的平衡及消纳问题，主办方提供新能源发电占比可配置的网架和电网运行数据，参赛者采用人工智能算法训练智能体，通过与仿真模拟器交互迭代，快速给出电网运行方式调整策略，在保证电网安全运行条件下最大程度消纳新能源。  
 Deadline: 2021-10-26T08:00:00+0800  
 Reward: ¥200,000  
-
-
-## 中意青年未来时尚设计大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/112  
-Description: 面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。  
-Deadline: 2021-09-30T08:00:00+0800  
-Reward: ￥630,000+清华暑校资格  
-
-
-## 人工智能创新应用大赛：飞桨开源框架前沿模型复现专题赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/113  
-Description: 首届全国人工智能创新应用大赛-飞桨开源框架前沿模型复现专题赛  
-Deadline: 2021-09-30T08:00:00+0800  
-Reward: 参见比赛详情  
-
-
-## AI创造营 ：Metaverse启动机之重构现世
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/98  
-Description: PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！  
-Deadline: 2021-09-30T08:00:00+0800  
-Reward: ¥30,000 + 超级大礼包  
 

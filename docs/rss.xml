@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-09-30T15:58:59+08:00</updated>
+    <updated>2021-10-01T15:58:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,20 +33,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/116"/>
         <summary>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/116"><![CDATA[<h3>Description</h3>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/106</id>
-        <title><![CDATA[飞桨论文复现挑战赛（第四期）]]></title>
-        
-        <updated>2021-08-02T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/106"/>
-        <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/106"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: 总计￥1,500,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -103,48 +89,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/111"/>
         <summary>针对电网源荷双侧波动性带来的平衡及消纳问题，主办方提供新能源发电占比可配置的网架和电网运行数据，参赛者采用人工智能算法训练智能体，通过与仿真模拟器交互迭代，快速给出电网运行方式调整策略，在保证电网安全运行条件下最大程度消纳新能源。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/111"><![CDATA[<h3>Description</h3>针对电网源荷双侧波动性带来的平衡及消纳问题，主办方提供新能源发电占比可配置的网架和电网运行数据，参赛者采用人工智能算法训练智能体，通过与仿真模拟器交互迭代，快速给出电网运行方式调整策略，在保证电网安全运行条件下最大程度消纳新能源。<h3>Deadline: 2021-10-26T08:00:00+08:00</h3><h3>Reward: ¥200,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/112</id>
-        <title><![CDATA[中意青年未来时尚设计大赛]]></title>
-        
-        <updated>2021-08-12T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/112"/>
-        <summary>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/112"><![CDATA[<h3>Description</h3>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: ￥630,000+清华暑校资格</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/113</id>
-        <title><![CDATA[人工智能创新应用大赛：飞桨开源框架前沿模型复现专题赛]]></title>
-        
-        <updated>2021-08-13T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/113"/>
-        <summary>首届全国人工智能创新应用大赛-飞桨开源框架前沿模型复现专题赛</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/113"><![CDATA[<h3>Description</h3>首届全国人工智能创新应用大赛-飞桨开源框架前沿模型复现专题赛<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: 参见比赛详情</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/98</id>
-        <title><![CDATA[AI创造营 ：Metaverse启动机之重构现世]]></title>
-        
-        <updated>2021-07-09T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/98"/>
-        <summary>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/98"><![CDATA[<h3>Description</h3>PaddlePaddle × Wechaty × Mixlab 创意赛再升级！本次比赛聚焦炫酷科幻主题，科幻爱好者可以充分挖掘自己的脑洞，借助飞桨PaddlePaddle技术，构建未来世界的超级ChatBot。Metaverse元宇宙的奥秘，等你来揭晓！<h3>Deadline: 2021-09-30T08:00:00+08:00</h3><h3>Reward: ¥30,000 + 超级大礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -686,34 +630,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.datafountain.cn/competitions/504</id>
-        <title><![CDATA[AI-based Channel Estimation]]></title>
-        
-        <updated>2021-06-24T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/504"/>
-        <summary>AI-based Channel Estimation</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/504"><![CDATA[<h3>Description</h3>AI-based Channel Estimation<h3>Deadline: 2021-09-30T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/503</id>
-        <title><![CDATA[AI-based Channel State Information Feedback]]></title>
-        
-        <updated>2021-06-24T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/503"/>
-        <summary>AI-based Channel State Information Feedback</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/503"><![CDATA[<h3>Description</h3>AI-based Channel State Information Feedback<h3>Deadline: 2021-09-30T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -1063,6 +979,20 @@
     </entry>
     
     <entry>
+        <id>https://www.nishika.com/competitions/20</id>
+        <title><![CDATA[中古マンション価格予測 2021秋の部]]></title>
+        
+        <updated>2021-10-01T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/20"/>
+        <summary>中古マンション価格予測 2021秋の部</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/20"><![CDATA[<h3>Description</h3>中古マンション価格予測 2021秋の部<h3>Deadline: 2021-12-24T13:59:00+08:00</h3><h3>Reward: 各種賞品</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.nishika.com/competitions/19</id>
         <title><![CDATA[ケーブルコネクタの種類判別 ]]></title>
         
@@ -1138,7 +1068,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-09-30T15:58:59+08:00</updated>
+        <updated>2021-10-01T15:58:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1152,7 +1082,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-09-30T15:58:59+08:00</updated>
+        <updated>2021-10-01T15:58:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -1180,13 +1110,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
-        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 1)]]></title>
+        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 2)]]></title>
         
-        <updated>2021-08-04T15:00:00+08:00</updated>
+        <updated>2021-10-11T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
         <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-09-30T17:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-11-09T17:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

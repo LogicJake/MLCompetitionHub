@@ -2,7 +2,7 @@
 
 
 
-## Zindi User Behaviour Birthday Challenge <sup style="color:red">[new]<sup>  
+## Zindi User Behaviour Birthday Challenge
 
 Link: https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge  
 Description: Can you predict which users will be active on Zindi in the next month?  
