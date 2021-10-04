@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-03T15:59:06+08:00</updated>
+    <updated>2021-10-04T15:59:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -1068,7 +1068,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-03T15:59:06+08:00</updated>
+        <updated>2021-10-04T15:59:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
@@ -1082,7 +1082,7 @@
         <id>https://signate.jp/competitions/471</id>
         <title><![CDATA[医学論文の自動仕分けチャレンジ]]></title>
         
-        <updated>2021-10-03T15:59:06+08:00</updated>
+        <updated>2021-10-04T15:59:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/471"/>
         <summary>網羅的に収集された論文の中から、目的に沿った論文のみを抽出しよう！</summary>
@@ -1193,34 +1193,6 @@
         <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
         <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-11-22T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"/>
-        <summary>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge</id>
-        <title><![CDATA[Radiant Earth Spot the Crop XL Challenge]]></title>
-        
-        <updated>2021-07-05T08:01:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"/>
-        <summary>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/radiant-earth-spot-the-crop-xl-challenge"><![CDATA[<h3>Description</h3>Based on time-series of Sentinel-1 and Sentinel-2 satellite images can you classify crop types in South Africa?<h3>Deadline: 2021-10-04T07:59:00+08:00</h3><h3>Reward: $8 800 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
