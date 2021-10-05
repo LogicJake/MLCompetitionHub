@@ -10,7 +10,7 @@ Deadline: 2021-10-28T23:59:00+0800
 Reward: 论文发表推荐+机构合作机会  
 
 
-## 商业数据分析实战营·互联网运营 <sup style="color:red">[new]<sup>  
+## 商业数据分析实战营·互联网运营
 
 Link: https://www.kesci.com/home/competition/6144694b9cae740018337080  
 Description: 独家数据大公开，带你玩转互联网商业数据分析  
