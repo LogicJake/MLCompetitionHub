@@ -2,7 +2,7 @@
 
 
 
-## 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~ <sup style="color:red">[new]<sup>  
+## 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~
 
 Link: https://www.nishika.com/competitions/21  
 Description: 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~  

@@ -2,7 +2,7 @@
 
 
 
-## 智能辅助诊疗创新设计方案征集 <sup style="color:red">[new]<sup>  
+## 智能辅助诊疗创新设计方案征集
 
 Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca  
 Description:   
