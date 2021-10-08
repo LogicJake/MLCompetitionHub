@@ -10,7 +10,7 @@ Deadline: 2021-11-29T13:59:00+0800
 Reward: 15万円  
 
 
-## 中古マンション価格予測 2021秋の部 <sup style="color:red">[new]<sup>  
+## 中古マンション価格予測 2021秋の部
 
 Link: https://www.nishika.com/competitions/20  
 Description: 中古マンション価格予測 2021秋の部  
