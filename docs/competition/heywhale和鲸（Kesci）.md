@@ -2,6 +2,15 @@
 
 
 
+## 预测分析·用户贷款违约预测 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/615ff7bdc270e400182b249e  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+本次练习赛所使用数据集基于某贷款用户行为数据，预测用户贷款违约。  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 机器学习+训练营+练习赛  
+
+
 ## 智能辅助诊疗创新设计方案征集
 
 Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca  
@@ -86,14 +95,6 @@ Reward: 奖金￥20,000，获奖证书
 ## 明清时期文献中的色彩知识探秘
 
 Link: https://www.kesci.com/home/competition/612a471739efe300170cda83  
-Description:   
-Deadline: 2021-11-05T00:00:00+0800  
-Reward: 奖金￥20,000，获奖证书  
-
-
-## 南京市政府出让住宅用地及其地价的时空建模与可视化研究
-
-Link: https://www.kesci.com/home/competition/612a494c39efe300170cdaa6  
 Description:   
 Deadline: 2021-11-05T00:00:00+0800  
 Reward: 奖金￥20,000，获奖证书  
