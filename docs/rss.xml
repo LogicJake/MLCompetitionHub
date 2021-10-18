@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-17T15:59:13+08:00</updated>
+    <updated>2021-10-18T15:59:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -533,20 +533,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/512</id>
-        <title><![CDATA[第五届“达观杯” 基于大规模预训练模型的风险事件标签识别]]></title>
-        
-        <updated>2021-07-26T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/512"/>
-        <summary>第五届“达观杯” 基于大规模预训练模型的风险事件标签识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/512"><![CDATA[<h3>Description</h3>第五届“达观杯” 基于大规模预训练模型的风险事件标签识别<h3>Deadline: 2021-10-17T23:59:59+08:00</h3><h3>Reward: ￥59000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/511</id>
         <title><![CDATA[智能人机交互自然语言理解]]></title>
         
@@ -795,6 +781,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/6145850c9cae740018337223</id>
+        <title><![CDATA[和鲸训练营·Python爬虫实战]]></title>
+        
+        <updated>2021-10-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6145850c9cae740018337223"/>
+        <summary>玩转Python爬虫实战，从理论到实战进阶</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6145850c9cae740018337223"><![CDATA[<h3>Description</h3>玩转Python爬虫实战，从理论到实战进阶<h3>Deadline: 2021-11-15T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/615ff7bdc270e400182b249e</id>
         <title><![CDATA[预测分析·用户贷款违约预测]]></title>
         
@@ -950,27 +950,27 @@
         </author>
     </entry>
     
+    
+    
     <entry>
-        <id>https://www.kesci.com/home/competition/612a494c39efe300170cdaa6</id>
-        <title><![CDATA[南京市政府出让住宅用地及其地价的时空建模与可视化研究]]></title>
+        <id>https://signate.jp/competitions/537</id>
+        <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-09-01T00:00:00+08:00</updated>
+        <updated>2021-10-18T15:59:17+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/612a494c39efe300170cdaa6"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a494c39efe300170cdaa6"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
+        <link href="https://signate.jp/competitions/537"/>
+        <summary>Vehicle Driving Image Recognition using RISC-V</summary>
+        <content type="text/html" src="https://signate.jp/competitions/537"><![CDATA[<h3>Description</h3>Vehicle Driving Image Recognition using RISC-V<h3>Deadline: 2022-02-15T23:59:59+08:00</h3><h3>Reward: total 1,000,000 yen</h3>]]></content>
         <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+            <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
-    
-    
     
     <entry>
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-17T15:59:13+08:00</updated>
+        <updated>2021-10-18T15:59:17+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
