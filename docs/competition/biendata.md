@@ -15,7 +15,7 @@ Reward: ￥120,000
 Link: https://www.biendata.xyz/competition/maxp_dgl/  
 Description: 2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务  
 Deadline: 2021-12-31T08:00:00+0800  
-Reward: ￥150,000  
+Reward: ￥180,000  
 
 
 ## 2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算

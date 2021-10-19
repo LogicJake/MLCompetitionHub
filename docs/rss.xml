@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-18T15:59:17+08:00</updated>
+    <updated>2021-10-19T15:59:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -118,7 +118,7 @@
         
         <link href="https://www.biendata.xyz/competition/maxp_dgl/"/>
         <summary>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥150,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥180,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -895,6 +895,20 @@
     </entry>
     
     <entry>
+        <id>https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb</id>
+        <title><![CDATA[中国数字人文开放数据创新研究大赛]]></title>
+        
+        <updated>2021-09-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb"/>
+        <summary>本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb"><![CDATA[<h3>Description</h3>本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。<h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 20000奖金池，获奖证书</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/6127152839efe300170cd454</id>
         <title><![CDATA[保守或融贯：重审《学衡》杂志中新文化运动思想与立场的历史定位]]></title>
         
@@ -936,27 +950,13 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/612a471739efe300170cda83</id>
-        <title><![CDATA[明清时期文献中的色彩知识探秘]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/612a471739efe300170cda83"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a471739efe300170cda83"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-10-18T15:59:17+08:00</updated>
+        <updated>2021-10-19T15:59:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -970,7 +970,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-18T15:59:17+08:00</updated>
+        <updated>2021-10-19T15:59:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>

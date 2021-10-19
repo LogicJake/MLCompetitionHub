@@ -67,6 +67,14 @@ Deadline: 2021-11-20T00:00:00+0800
 Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
 
 
+## 中国数字人文开放数据创新研究大赛
+
+Link: https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb  
+Description: 本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。  
+Deadline: 2021-11-05T00:00:00+0800  
+Reward: 20000奖金池，获奖证书  
+
+
 ## 保守或融贯：重审《学衡》杂志中新文化运动思想与立场的历史定位
 
 Link: https://www.kesci.com/home/competition/6127152839efe300170cd454  
@@ -86,14 +94,6 @@ Reward: 奖金￥20,000，获奖证书
 ## 《拉贝日记》中《日本士兵在南京安全区的暴行》文件文本挖掘处理
 
 Link: https://www.kesci.com/home/competition/612a437639efe300170cda48  
-Description:   
-Deadline: 2021-11-05T00:00:00+0800  
-Reward: 奖金￥20,000，获奖证书  
-
-
-## 明清时期文献中的色彩知识探秘
-
-Link: https://www.kesci.com/home/competition/612a471739efe300170cda83  
 Description:   
 Deadline: 2021-11-05T00:00:00+0800  
 Reward: 奖金￥20,000，获奖证书  
