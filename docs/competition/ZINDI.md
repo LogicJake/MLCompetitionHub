@@ -2,6 +2,14 @@
 
 
 
+## bloods.ai Blood Spectroscopy Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge  
+Description: Given blood spectroscopy readings can you predict which compounds are in the blood?  
+Deadline: 2022-02-21T07:59:00+0800  
+Reward: $7 500 USD  
+
+
 ## Zindi User Behaviour Birthday Challenge
 
 Link: https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge  
