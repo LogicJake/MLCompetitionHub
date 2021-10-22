@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-21T16:01:03+08:00</updated>
+    <updated>2021-10-22T15:59:24+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -781,6 +781,48 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/615fc810c270e400182b23f8</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ① 快速入门]]></title>
+        
+        <updated>2021-10-21T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2021-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6163d190b3c89100171fcedc</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ② 基础应用]]></title>
+        
+        <updated>2021-10-21T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2021-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e</id>
+        <title><![CDATA[金融数据分析训练营—Pandas数据处理]]></title>
+        
+        <updated>2021-10-19T16:10:28+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-18T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/6145850c9cae740018337223</id>
         <title><![CDATA[和鲸训练营·Python爬虫实战]]></title>
         
@@ -908,55 +950,13 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/6127152839efe300170cd454</id>
-        <title><![CDATA[保守或融贯：重审《学衡》杂志中新文化运动思想与立场的历史定位]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6127152839efe300170cd454"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6127152839efe300170cd454"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6129dba839efe300170cd969</id>
-        <title><![CDATA[《建康实录》文本挖掘及六朝人物关系时空分析]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6129dba839efe300170cd969"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6129dba839efe300170cd969"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/612a437639efe300170cda48</id>
-        <title><![CDATA[《拉贝日记》中《日本士兵在南京安全区的暴行》文件文本挖掘处理]]></title>
-        
-        <updated>2021-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/612a437639efe300170cda48"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/612a437639efe300170cda48"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-05T00:00:00+08:00</h3><h3>Reward: 奖金￥20,000，获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-10-21T16:01:03+08:00</updated>
+        <updated>2021-10-22T15:59:24+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -970,7 +970,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-21T16:01:03+08:00</updated>
+        <updated>2021-10-22T15:59:24+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
