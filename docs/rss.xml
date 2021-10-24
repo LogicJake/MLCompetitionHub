@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-23T15:59:18+08:00</updated>
+    <updated>2021-10-24T15:59:29+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -679,58 +679,6 @@
     </entry>
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=560</id>
-        <title><![CDATA[A.I.开发者大赛-基于深度学习的小样本分类识别任务挑战赛]]></title>
-        
-        <updated>2021-08-02T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=560"/>
-        <summary>尽管深度学习在计算机视觉的诸多领域取得了巨大进步，但是这些方法都需要大量的数据作为支持，但是在某些任务上，数据的获取和标注往往是十分困难的，如何使用少量的样本训练出一个性能较好的模型成为这一问题的关键，而小样本学习正是为了解决这一类问题。
-
-近年来在小样本学习领域虽然大量的算法被提了出来，但是仍然面临诸多问题，例如样本量过少，类内方差过大等等。这些问题导致小样本学习的实际效果与期望相差甚远。如何解决这些问题，使小样本学习能够真正的投入使用成为这一领域亟待突破的关键问题。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=560"><![CDATA[<h3>Description</h3>尽管深度学习在计算机视觉的诸多领域取得了巨大进步，但是这些方法都需要大量的数据作为支持，但是在某些任务上，数据的获取和标注往往是十分困难的，如何使用少量的样本训练出一个性能较好的模型成为这一问题的关键，而小样本学习正是为了解决这一类问题。
-
-近年来在小样本学习领域虽然大量的算法被提了出来，但是仍然面临诸多问题，例如样本量过少，类内方差过大等等。这些问题导致小样本学习的实际效果与期望相差甚远。如何解决这些问题，使小样本学习能够真正的投入使用成为这一领域亟待突破的关键问题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77,500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=559</id>
-        <title><![CDATA[A.I.开发者大赛-碎米识别挑战赛]]></title>
-        
-        <updated>2021-08-01T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=559"/>
-        <summary>美亚光电在光电色选领域深耕多年，秉承着绿色设计、绿色生产、绿色管理的发展理念，并基于人工智能和大数据技术，助力传统农业数字化转型。
-
-我国是世界上最大的稻米生产国，而稻米品质问题已经成为制约我国大米生产、销售和出口的瓶颈。大米的碎米率是影响大米质量和售价的重要指标，同时也是反映稻米种植水平、大米加工水平的重要指标。从整米中识别、分割出碎米，并提高碎米的识别率是提高大米品质的关键性问题。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=559"><![CDATA[<h3>Description</h3>美亚光电在光电色选领域深耕多年，秉承着绿色设计、绿色生产、绿色管理的发展理念，并基于人工智能和大数据技术，助力传统农业数字化转型。
-
-我国是世界上最大的稻米生产国，而稻米品质问题已经成为制约我国大米生产、销售和出口的瓶颈。大米的碎米率是影响大米质量和售价的重要指标，同时也是反映稻米种植水平、大米加工水平的重要指标。从整米中识别、分割出碎米，并提高碎米的识别率是提高大米品质的关键性问题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=558</id>
-        <title><![CDATA[A.I.开发者大赛-领域迁移机器翻译挑战赛]]></title>
-        
-        <updated>2021-07-26T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=558"/>
-        <summary>在“一带一路”合作倡议共建的大背景下，国家间的合作区域与领域不断被拓展，新的合作模式不断被探索与尝试，利用机器翻译在非通用领域进行沟通交流的需求不断扩大。
-目前神经机器翻译技术已经取得了很大的突破，在具有丰富数据资源的领域机器翻译质量不断提高，但是由于数据资源获取困难等原因，机器翻译在某些特殊领域的翻译效果还不够理想。如何利用富资源领域的丰富数据，将知识迁移到低资源领域以实现翻译性能的提升是一个亟须解决的难题。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=558"><![CDATA[<h3>Description</h3>在“一带一路”合作倡议共建的大背景下，国家间的合作区域与领域不断被拓展，新的合作模式不断被探索与尝试，利用机器翻译在非通用领域进行沟通交流的需求不断扩大。
-目前神经机器翻译技术已经取得了很大的突破，在具有丰富数据资源的领域机器翻译质量不断提高，但是由于数据资源获取困难等原因，机器翻译在某些特殊领域的翻译效果还不够理想。如何利用富资源领域的丰富数据，将知识迁移到低资源领域以实现翻译性能的提升是一个亟须解决的难题。<h3>Deadline: 2021-10-24T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=556</id>
         <title><![CDATA[A.I.开发者大赛-家庭行为识别挑战赛]]></title>
         
@@ -771,6 +719,48 @@
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=535"><![CDATA[<h3>Description</h3>X光安检机是目前我国使用最广泛的安检技术手段，广泛应用于城市轨交、铁路、机场、重点场馆、物流寄递等场景。使用人工智能技术，辅助一线安检员进行X光安检判图，可以有效降低因为人员疲劳或注意力不集中带来的漏报等问题。但在实际场景中，因物品的多样性、成像角度、遮挡等问题，为算法的开发带来了一定的挑战。
 
 讯飞看见X光智能安检信息化解决方案是针对安检场景推出的智能化、信息化解决方案，旨在将传统的安检业务场景，通过人工智能、大数据等先进技术手段进行赋能，辅助一线安检检查工作，为安检管理方提供量化数据与大数据预警等更多技术管理工具。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=534</id>
+        <title><![CDATA[A.I.开发者大赛-叶菜病虫害图像识别挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=534"/>
+        <summary>农作物病虫害严重制约着农业生产，因为农作物病虫害种类多、密度大，极易造成农作物大量减产。同时由于传统人眼识别病虫害的方法速度较慢、准确度较低，会导致农药的滥用，破坏自然环境。如今随着精准农业和智慧农业概念的兴起和发展，利用信息技术辅助农业生产，实现对农作物病虫害的智能识别和检测，以减少不必要的农药喷施，对保护生态系统均衡，保障农作物安全生产，提高农作物的质量方面，有着十分重要的促进作用。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=534"><![CDATA[<h3>Description</h3>农作物病虫害严重制约着农业生产，因为农作物病虫害种类多、密度大，极易造成农作物大量减产。同时由于传统人眼识别病虫害的方法速度较慢、准确度较低，会导致农药的滥用，破坏自然环境。如今随着精准农业和智慧农业概念的兴起和发展，利用信息技术辅助农业生产，实现对农作物病虫害的智能识别和检测，以减少不必要的农药喷施，对保护生态系统均衡，保障农作物安全生产，提高农作物的质量方面，有着十分重要的促进作用。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=533</id>
+        <title><![CDATA[A.I.开发者大赛-遥感影像典型目标提取挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=533"/>
+        <summary>观微科技深耕于地理空间情报服务，以人工智能和专家解译知识为基础，打造了数字化地理空间情报产业生态体系。帮助典型目标主用AI+大数据实现检测效能的全面提升，打造典型目标智能提取的新生态。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=533"><![CDATA[<h3>Description</h3>观微科技深耕于地理空间情报服务，以人工智能和专家解译知识为基础，打造了数字化地理空间情报产业生态体系。帮助典型目标主用AI+大数据实现检测效能的全面提升，打造典型目标智能提取的新生态。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=532</id>
+        <title><![CDATA[A.I.开发者大赛-基于脑电的情绪识别算法挑战赛]]></title>
+        
+        <updated>2021-06-21T00:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=532"/>
+        <summary>人工智能是通过计算机程序来模拟呈现人类智能的技术。情绪识别是智能人机交互中非常重要且具有挑战的一环。制造出“有温度的”智能产品，与我们交互的机器就不再是冷冰冰的机器，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的智能才是真正实现了的“人工智能”的梦想。脑电波数据承载着大量的人类情感和思考的信息，也是使用各种其它信道实现情绪识别的基线标准。为了让机器能够有效感知我们的情绪状态，此次挑战赛向广大人工智能开发者发起情感分析与识别的挑战，用脑电数据解开人类情感状态的密码。</summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=532"><![CDATA[<h3>Description</h3>人工智能是通过计算机程序来模拟呈现人类智能的技术。情绪识别是智能人机交互中非常重要且具有挑战的一环。制造出“有温度的”智能产品，与我们交互的机器就不再是冷冰冰的机器，而是能够感知我们的情绪，能够对应不同的情绪触发不同的人机交互模式，模拟人类的表情、声音、与我们共情，那时的智能才是真正实现了的“人工智能”的梦想。脑电波数据承载着大量的人类情感和思考的信息，也是使用各种其它信道实现情绪识别的基线标准。为了让机器能够有效感知我们的情绪状态，此次挑战赛向广大人工智能开发者发起情感分析与识别的挑战，用脑电数据解开人类情感状态的密码。<h3>Deadline: 2021-10-25T00:00:00+08:00</h3><h3>Reward: ￥77500</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -956,7 +946,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-10-23T15:59:18+08:00</updated>
+        <updated>2021-10-24T15:59:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -970,7 +960,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-23T15:59:18+08:00</updated>
+        <updated>2021-10-24T15:59:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
