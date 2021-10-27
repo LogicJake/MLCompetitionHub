@@ -2,7 +2,7 @@
 
 
 
-## bloods.ai Blood Spectroscopy Classification Challenge <sup style="color:red">[new]<sup>  
+## bloods.ai Blood Spectroscopy Classification Challenge
 
 Link: https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge  
 Description: Given blood spectroscopy readings can you predict which compounds are in the blood?  

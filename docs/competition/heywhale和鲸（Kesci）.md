@@ -18,7 +18,7 @@ Deadline: 2021-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
-## 金融数据分析训练营—Pandas数据处理 <sup style="color:red">[new]<sup>  
+## 金融数据分析训练营—Pandas数据处理
 
 Link: https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e  
 Description:   
