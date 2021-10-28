@@ -2,7 +2,15 @@
 
 
 
-## 超友好！气象 Python 训练营 ① 快速入门 <sup style="color:red">[new]<sup>  
+## 一起学习 | Python 气象数据分析 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0  
+Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
+Deadline: 2021-11-19T00:00:00+0800  
+Reward: 气象数据分析+项目实战  
+
+
+## 超友好！气象 Python 训练营 ① 快速入门
 
 Link: https://www.kesci.com/home/competition/615fc810c270e400182b23f8  
 Description: 动手学习，快乐刷题  
@@ -10,7 +18,7 @@ Deadline: 2021-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
-## 超友好！气象 Python 训练营 ② 基础应用 <sup style="color:red">[new]<sup>  
+## 超友好！气象 Python 训练营 ② 基础应用
 
 Link: https://www.kesci.com/home/competition/6163d190b3c89100171fcedc  
 Description: 动手学习，快乐刷题  
@@ -47,7 +55,7 @@ Reward: 机器学习+训练营+练习赛
 
 Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca  
 Description:   
-Deadline: 2021-10-28T23:59:00+0800  
+Deadline: 2021-12-11T23:59:00+0800  
 Reward: 论文发表推荐+机构合作机会  
 
 
@@ -89,12 +97,4 @@ Link: https://www.kesci.com/home/competition/6139856882b26b0017d8c33d
 Description:   
 Deadline: 2021-11-20T00:00:00+0800  
 Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
-
-
-## 中国数字人文开放数据创新研究大赛
-
-Link: https://www.kesci.com/home/competition/6126ff3c39efe300170cd3fb  
-Description: 本次大赛鼓励海内外数字人文研究者及数据分析爱好者利用各种数字人文新技术对开放数据进行具备人文性的探索研究与应用。通过人文数据的创新研究竞赛，促成数字领域与人文领域研究者在竞赛合作过程中的深度协作，培育出新一代在数字与人文之间融通无间的DH学人，夯实中国的数字人文研究领域人才与成果基石。  
-Deadline: 2021-11-05T00:00:00+0800  
-Reward: 20000奖金池，获奖证书  
 
