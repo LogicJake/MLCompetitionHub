@@ -683,3 +683,4 @@ https://www.kesci.com/home/competition/6163d190b3c89100171fcedc
 https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e
 https://js.dclab.run/v2/cmptDetail.html?id=532
 https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0
+https://aistudio.baidu.com/aistudio/competition/detail/123

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-10-31T15:59:10+08:00</updated>
+    <updated>2021-11-01T15:59:18+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/116"/>
         <summary>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/116"><![CDATA[<h3>Description</h3>本次比赛重点关注问题匹配模型在真实应用场景中的鲁棒性，从词汇理解、句法结构、错别字、口语化、对话理解五个维度检测模型的鲁棒性，以期推动语义匹配技术的发展。<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ¥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/123</id>
+        <title><![CDATA[2021“智荟杯”浦发百度高校极客挑战赛]]></title>
+        
+        <updated>2021-11-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/123"/>
+        <summary>本次大赛设立“方案赛道“和”算法赛道”两个赛道；本平台不提供报名服务，报名方式详见页面“参赛方式及规则”</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/123"><![CDATA[<h3>Description</h3>本次大赛设立“方案赛道“和”算法赛道”两个赛道；本平台不提供报名服务，报名方式详见页面“参赛方式及规则”<h3>Deadline: 2021-12-20T08:00:00+08:00</h3><h3>Reward: ¥440,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -477,48 +491,6 @@
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/511</id>
-        <title><![CDATA[智能人机交互自然语言理解]]></title>
-        
-        <updated>2021-07-19T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/511"/>
-        <summary>智能人机交互自然语言理解</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/511"><![CDATA[<h3>Description</h3>智能人机交互自然语言理解<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/510</id>
-        <title><![CDATA[中文命名实体识别算法鲁棒性评测]]></title>
-        
-        <updated>2021-07-19T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/510"/>
-        <summary>中文命名实体识别算法鲁棒性评测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/510"><![CDATA[<h3>Description</h3>中文命名实体识别算法鲁棒性评测<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/509</id>
-        <title><![CDATA[预训练模型知识量度量]]></title>
-        
-        <updated>2021-07-19T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/509"/>
-        <summary>预训练模型知识量度量</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/509"><![CDATA[<h3>Description</h3>预训练模型知识量度量<h3>Deadline: 2021-10-31T23:59:59+08:00</h3><h3>Reward: ￥25000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/508</id>
         <title><![CDATA[面向黑灰产治理的恶意短信变体字还原]]></title>
         
@@ -788,7 +760,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-10-31T15:59:10+08:00</updated>
+        <updated>2021-11-01T15:59:18+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -802,7 +774,7 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-10-31T15:59:10+08:00</updated>
+        <updated>2021-11-01T15:59:18+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>

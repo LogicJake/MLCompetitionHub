@@ -114,30 +114,6 @@ Deadline: 2021-12-30T23:59:59+0800
 Reward: ￥50000  
 
 
-## 智能人机交互自然语言理解
-
-Link: https://www.datafountain.cn/competitions/511  
-Description: 智能人机交互自然语言理解  
-Deadline: 2021-10-31T23:59:59+0800  
-Reward: ￥25000  
-
-
-## 中文命名实体识别算法鲁棒性评测
-
-Link: https://www.datafountain.cn/competitions/510  
-Description: 中文命名实体识别算法鲁棒性评测  
-Deadline: 2021-10-31T23:59:59+0800  
-Reward: ￥25000  
-
-
-## 预训练模型知识量度量
-
-Link: https://www.datafountain.cn/competitions/509  
-Description: 预训练模型知识量度量  
-Deadline: 2021-10-31T23:59:59+0800  
-Reward: ￥25000  
-
-
 ## 面向黑灰产治理的恶意短信变体字还原
 
 Link: https://www.datafountain.cn/competitions/508  
