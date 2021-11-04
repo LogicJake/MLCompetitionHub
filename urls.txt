@@ -684,3 +684,13 @@ https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e
 https://js.dclab.run/v2/cmptDetail.html?id=532
 https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0
 https://aistudio.baidu.com/aistudio/competition/detail/123
+https://www.kaggle.com/c/g-research-crypto-forecasting
+https://www.kaggle.com/c/sartorius-cell-instance-segmentation
+https://www.kaggle.com/c/kaggle-survey-2021
+https://www.kaggle.com/c/nfl-big-data-bowl-2022
+https://www.kaggle.com/c/petfinder-pawpularity-score
+https://www.kaggle.com/c/lux-ai-2021
+https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering
+https://www.kaggle.com/c/optiver-realized-volatility-prediction
+https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
+https://www.nishika.com/competitions/22
