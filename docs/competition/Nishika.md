@@ -2,6 +2,14 @@
 
 
 
+## 商標×AI：イメージサーチコンペティション（類似商標画像の検出）
+
+Link: https://www.nishika.com/competitions/22  
+Description: 商標×AI：イメージサーチコンペティション（類似商標画像の検出）  
+Deadline: 2022-01-28T13:59:00+0800  
+Reward: 50万円  
+
+
 ## 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~
 
 Link: https://www.nishika.com/competitions/21  
@@ -24,14 +32,6 @@ Link: https://www.nishika.com/competitions/19
 Description: ケーブルコネクタの種類判別   
 Deadline: 2021-10-22T13:59:00+0800  
 Reward: 15万円  
-
-
-## 中古マンション価格予測 2021夏の部
-
-Link: https://www.nishika.com/competitions/18  
-Description: 中古マンション価格予測 2021夏の部  
-Deadline: 2021-09-30T13:59:00+0800  
-Reward: 各種賞品  
 
 
 ## 【トレーニングコンペ】中古マンション価格予測

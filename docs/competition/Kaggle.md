@@ -2,59 +2,66 @@
 
 
 
-## Jane Street Market Prediction
+## G-Research Crypto Forecasting  <sup style="color:red">[new]<sup>  
 
-Link: https://www.kaggle.com/c/jane-street-market-prediction  
-Description: Test your model against future real market data  
-Deadline: 2021-08-24T07:59:00+0800  
+Link: https://www.kaggle.com/c/g-research-crypto-forecasting  
+Description: Use your ML expertise to predict real crypto market data  
+Deadline: 2022-02-02T07:59:00+0800  
+Reward: 125000.0 USD  
+
+
+## Sartorius - Cell Instance Segmentation
+
+Link: https://www.kaggle.com/c/sartorius-cell-instance-segmentation  
+Description: Detect single neuronal cells in microscopy images  
+Deadline: 2021-12-31T07:59:00+0800  
+Reward: 75000.0 USD  
+
+
+## 2021 Kaggle Machine Learning & Data Science Survey
+
+Link: https://www.kaggle.com/c/kaggle-survey-2021  
+Description: The most comprehensive dataset available on the state of ML and data science  
+Deadline: 2021-11-29T07:59:00+0800  
+Reward: 30000.0 USD  
+
+
+## NFL Big Data Bowl 2022
+
+Link: https://www.kaggle.com/c/nfl-big-data-bowl-2022  
+Description: Help evaluate special teams performance  
+Deadline: 2022-01-07T07:59:00+0800  
 Reward: 100000.0 USD  
 
 
-## Coleridge Initiative - Show US the Data 
+## PetFinder.my - Pawpularity Contest
 
-Link: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data  
-Description: Discover how data is used for the public good  
-Deadline: 2021-06-23T07:59:00+0800  
-Reward: 90000.0 USD  
-
-
-## CommonLit Readability Prize
-
-Link: https://www.kaggle.com/c/commonlitreadabilityprize  
-Description: Rate the complexity of literary passages for grades 3-12 classroom use  
-Deadline: 2021-08-03T07:59:00+0800  
-Reward: 60000.0 USD  
+Link: https://www.kaggle.com/c/petfinder-pawpularity-score  
+Description: Predict the popularity of shelter pet photos  
+Deadline: 2022-01-14T07:59:00+0800  
+Reward: 25000.0 USD  
 
 
-## Bristol-Myers Squibb – Molecular Translation
+## Lux AI
 
-Link: https://www.kaggle.com/c/bms-molecular-translation  
-Description: Can you translate chemical images to text?  
-Deadline: 2021-06-03T07:59:00+0800  
-Reward: 50000.0 USD  
-
-
-## SETI Breakthrough Listen - E.T. Signal Search <sup style="color:red">[new]<sup>  
-
-Link: https://www.kaggle.com/c/seti-breakthrough-listen  
-Description: Find extraterrestrial signals in data from deep space    
-Deadline: 2021-07-29T07:59:00+0800  
-Reward: 15000.0 USD  
-
-
-## Indoor Location & Navigation
-
-Link: https://www.kaggle.com/c/indoor-location-navigation  
-Description: Identify the position of a smartphone in a shopping mall  
-Deadline: 2021-05-18T07:59:00+0800  
+Link: https://www.kaggle.com/c/lux-ai-2021  
+Description: Gather the most resources and survive the night!  
+Deadline: 2021-12-07T07:59:00+0800  
 Reward: 10000.0 USD  
 
 
-## BirdCLEF 2021 - Birdcall Identification
+## chaii - Hindi and Tamil Question Answering
 
-Link: https://www.kaggle.com/c/birdclef-2021  
-Description: Identify bird calls in soundscape recordings
-  
-Deadline: 2021-06-01T07:59:00+0800  
-Reward: 5000.0 USD  
+Link: https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering  
+Description: Identify the answer to questions found in Indian language passages  
+Deadline: 2021-11-16T07:59:00+0800  
+Reward: 10000.0 USD  
+
+
+## Optiver Realized Volatility Prediction
+
+Link: https://www.kaggle.com/c/optiver-realized-volatility-prediction  
+Description: Apply your data science skills to make financial markets better  
+Deadline: 2022-01-11T07:59:00+0800  
+Reward: 100000.0 USD  
 

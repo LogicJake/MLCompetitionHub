@@ -26,11 +26,23 @@ def get_data():
             description = name
 
         deadline = competition['closingAt']
-        FORMAT = "%Y-%m-%dT%H:%M:%S+09:00"
-        deadline = datetime.strptime(deadline, FORMAT) - timedelta(hours=1)
-
         start_time = competition['startAt']
-        start_time = datetime.strptime(start_time, FORMAT) - timedelta(hours=1)
+
+        FORMAT1 = "%Y-%m-%dT%H:%M:%S+09:00"
+        FORMAT2 = "%Y-%m-%dT%H:%M:%S.%f+09:00"
+
+        try:
+            deadline = datetime.strptime(deadline,
+                                         FORMAT1) - timedelta(hours=1)
+        except Exception:
+            deadline = datetime.strptime(deadline,
+                                         FORMAT2) - timedelta(hours=1)
+        try:
+            start_time = datetime.strptime(start_time,
+                                           FORMAT1) - timedelta(hours=1)
+        except Exception:
+            start_time = datetime.strptime(start_time,
+                                           FORMAT2) - timedelta(hours=1)
 
         reward = competition['totalPrize']
 

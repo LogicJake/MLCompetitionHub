@@ -43,7 +43,7 @@ datas = []
 competitions = []
 
 for _, module_name, _ in pkgutil.iter_modules(['source']):
-    if module_name in ['futurelab', 'flyai']:
+    if module_name in ['futurelab', 'flyai', 'huaweicloud']:
         continue
 
     try:
@@ -58,8 +58,9 @@ for _, module_name, _ in pkgutil.iter_modules(['source']):
             link = data['name']
         competitions.append({'name': data['name'], 'link': link})
 
-    except Exception:
+    except Exception as e:
         print(module_name)
+        print(e)
 
 # 数据渲染
 for module_name in mode_actions:

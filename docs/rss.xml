@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-03T15:59:21+08:00</updated>
+    <updated>2021-11-04T09:52:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -585,6 +585,120 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/g-research-crypto-forecasting</id>
+        <title><![CDATA[G-Research Crypto Forecasting ]]></title>
+        
+        <updated>2021-11-03T00:00:27+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/g-research-crypto-forecasting"/>
+        <summary>Use your ML expertise to predict real crypto market data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/g-research-crypto-forecasting"><![CDATA[<h3>Description</h3>Use your ML expertise to predict real crypto market data<h3>Deadline: 2022-02-02T07:59:00+08:00</h3><h3>Reward: 125000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/sartorius-cell-instance-segmentation</id>
+        <title><![CDATA[Sartorius - Cell Instance Segmentation]]></title>
+        
+        <updated>2021-10-15T03:57:51+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/sartorius-cell-instance-segmentation"/>
+        <summary>Detect single neuronal cells in microscopy images</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/sartorius-cell-instance-segmentation"><![CDATA[<h3>Description</h3>Detect single neuronal cells in microscopy images<h3>Deadline: 2021-12-31T07:59:00+08:00</h3><h3>Reward: 75000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/kaggle-survey-2021</id>
+        <title><![CDATA[2021 Kaggle Machine Learning &amp; Data Science Survey]]></title>
+        
+        <updated>2021-10-14T22:09:51+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/kaggle-survey-2021"/>
+        <summary>The most comprehensive dataset available on the state of ML and data science</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2021"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2021-11-29T07:59:00+08:00</h3><h3>Reward: 30000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/nfl-big-data-bowl-2022</id>
+        <title><![CDATA[NFL Big Data Bowl 2022]]></title>
+        
+        <updated>2021-09-24T02:26:32+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/nfl-big-data-bowl-2022"/>
+        <summary>Help evaluate special teams performance</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/nfl-big-data-bowl-2022"><![CDATA[<h3>Description</h3>Help evaluate special teams performance<h3>Deadline: 2022-01-07T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/petfinder-pawpularity-score</id>
+        <title><![CDATA[PetFinder.my - Pawpularity Contest]]></title>
+        
+        <updated>2021-09-23T22:20:14+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/petfinder-pawpularity-score"/>
+        <summary>Predict the popularity of shelter pet photos</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/petfinder-pawpularity-score"><![CDATA[<h3>Description</h3>Predict the popularity of shelter pet photos<h3>Deadline: 2022-01-14T07:59:00+08:00</h3><h3>Reward: 25000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/lux-ai-2021</id>
+        <title><![CDATA[Lux AI]]></title>
+        
+        <updated>2021-08-17T06:01:05+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/lux-ai-2021"/>
+        <summary>Gather the most resources and survive the night!</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/lux-ai-2021"><![CDATA[<h3>Description</h3>Gather the most resources and survive the night!<h3>Deadline: 2021-12-07T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering</id>
+        <title><![CDATA[chaii - Hindi and Tamil Question Answering]]></title>
+        
+        <updated>2021-08-12T02:43:59+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering"/>
+        <summary>Identify the answer to questions found in Indian language passages</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering"><![CDATA[<h3>Description</h3>Identify the answer to questions found in Indian language passages<h3>Deadline: 2021-11-16T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/optiver-realized-volatility-prediction</id>
+        <title><![CDATA[Optiver Realized Volatility Prediction]]></title>
+        
+        <updated>2021-06-28T23:12:56+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/optiver-realized-volatility-prediction"/>
+        <summary>Apply your data science skills to make financial markets better</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/optiver-realized-volatility-prediction"><![CDATA[<h3>Description</h3>Apply your data science skills to make financial markets better<h3>Deadline: 2022-01-11T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0</id>
         <title><![CDATA[一起学习 | Python 气象数据分析]]></title>
         
@@ -621,6 +735,20 @@
         <link href="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"/>
         <summary>动手学习，快乐刷题</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2021-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ③ 数组进阶]]></title>
+        
+        <updated>2021-10-20T16:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2021-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -740,17 +868,103 @@
         </author>
     </entry>
     
+    
+    
     <entry>
-        <id>https://www.kesci.com/home/competition/6139856882b26b0017d8c33d</id>
-        <title><![CDATA[新能源汽车公共充换电设施配套评价及优化分析]]></title>
+        <id>https://www.nishika.com/competitions/22</id>
+        <title><![CDATA[商標×AI：イメージサーチコンペティション（類似商標画像の検出）]]></title>
         
-        <updated>2021-09-15T12:00:00+08:00</updated>
+        <updated>2021-10-01T09:45:07+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/6139856882b26b0017d8c33d"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6139856882b26b0017d8c33d"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-20T00:00:00+08:00</h3><h3>Reward: ¥100,000+奖杯奖状+名企实习+实验室名额</h3>]]></content>
+        <link href="https://www.nishika.com/competitions/22"/>
+        <summary>商標×AI：イメージサーチコンペティション（類似商標画像の検出）</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>商標×AI：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-28T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
         <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/21</id>
+        <title><![CDATA[小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~]]></title>
+        
+        <updated>2021-09-29T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/21"/>
+        <summary>小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/21"><![CDATA[<h3>Description</h3>小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~<h3>Deadline: 2021-11-29T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/20</id>
+        <title><![CDATA[中古マンション価格予測 2021秋の部]]></title>
+        
+        <updated>2021-10-01T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/20"/>
+        <summary>中古マンション価格予測 2021秋の部</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/20"><![CDATA[<h3>Description</h3>中古マンション価格予測 2021秋の部<h3>Deadline: 2021-12-24T13:59:00+08:00</h3><h3>Reward: 各種賞品</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/19</id>
+        <title><![CDATA[ケーブルコネクタの種類判別 ]]></title>
+        
+        <updated>2021-08-06T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/19"/>
+        <summary>ケーブルコネクタの種類判別 </summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/19"><![CDATA[<h3>Description</h3>ケーブルコネクタの種類判別 <h3>Deadline: 2021-10-22T13:59:00+08:00</h3><h3>Reward: 15万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/13</id>
+        <title><![CDATA[【トレーニングコンペ】中古マンション価格予測]]></title>
+        
+        <updated>2021-04-06T10:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/13"/>
+        <summary>【トレーニングコンペ】中古マンション価格予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/13"><![CDATA[<h3>Description</h3>【トレーニングコンペ】中古マンション価格予測<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/9</id>
+        <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
+        
+        <updated>2020-12-09T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/9"/>
+        <summary>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/9"><![CDATA[<h3>Description</h3>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/3</id>
+        <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
+        
+        <updated>2020-03-05T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/3"/>
+        <summary>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
         </author>
     </entry>
     
@@ -760,7 +974,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-11-03T15:59:21+08:00</updated>
+        <updated>2021-11-04T09:52:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -774,13 +988,141 @@
         <id>https://signate.jp/competitions/428</id>
         <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
         
-        <updated>2021-11-03T15:59:21+08:00</updated>
+        <updated>2021-11-04T09:52:52+08:00</updated>
         
         <link href="https://signate.jp/competitions/428"/>
         <summary>Let's try to build a controller using the crane simulator!</summary>
         <content type="text/html" src="https://signate.jp/competitions/428"><![CDATA[<h3>Description</h3>Let's try to build a controller using the crane simulator!<h3>Deadline: 2021-11-30T23:59:59+08:00</h3><h3>Reward: Total amount of 4,000,000 yen</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531934/introduction</id>
+        <title><![CDATA[2021阿里云供应链大赛——需求预测及单级库存优化(赛季 1)]]></title>
+        
+        <updated>2021-10-18T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531934/introduction"/>
+        <summary>云平台为了满足不同云上客户的需求，提供了一种可随时自助获取、可弹性伸缩、成本保障的云资源服务。为满足客户服务水平同时、并尽可能提高云上资源利用率、降低供应链成本，自动化、智能化的资源规划和供应链管理系统非常关键。供应链精益管理作为在互联网和云计算的场景下的新型交叉领域，是工业4.0领域的核心，在学术界和工业界都是极具挑战的命题。同时，我们可以通过赛事实现人才发现和引入，并推动产学研结合的创新技术领域的研究。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531934/introduction"><![CDATA[<h3>Description</h3>云平台为了满足不同云上客户的需求，提供了一种可随时自助获取、可弹性伸缩、成本保障的云资源服务。为满足客户服务水平同时、并尽可能提高云上资源利用率、降低供应链成本，自动化、智能化的资源规划和供应链管理系统非常关键。供应链精益管理作为在互联网和云计算的场景下的新型交叉领域，是工业4.0领域的核心，在学术界和工业界都是极具挑战的命题。同时，我们可以通过赛事实现人才发现和引入，并推动产学研结合的创新技术领域的研究。<h3>Deadline: 2021-12-06T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531929/introduction</id>
+        <title><![CDATA[2021 亚太眼科学会大数据竞赛(赛季 1)]]></title>
+        
+        <updated>2021-08-25T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531929/introduction"/>
+        <summary>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531929/introduction"><![CDATA[<h3>Description</h3>第 2 届 APTOS 大数据竞赛，诣在预测糖尿病性黄斑水肿 (DME) 患者的Anti-VEGF血管内皮生长因子 (VEGF) 治疗转归，您将使用医院环境中收集的数千张影像，帮助预测患者对Anti-VEGF治疗的反应。<h3>Deadline: 2021-11-19T10:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531925/introduction</id>
+        <title><![CDATA[第三届 Apache Flink 极客挑战赛暨AAIG CUP——电商推荐“抱大腿”攻击识别(赛季 2)]]></title>
+        
+        <updated>2021-10-11T09:40:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531925/introduction"/>
+        <summary>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531925/introduction"><![CDATA[<h3>Description</h3>本赛题要求选手基于Flink，Analytics Zoo/BigDL 等组件，在Occlum环境中搭建保护数据安全的PPML（Privacy Preserving Machine Learning）应用，实现对恶意流量的实时识别。<h3>Deadline: 2021-11-09T17:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531916/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”冷冻电镜蛋白质结构建模大赛(赛季 2)]]></title>
+        
+        <updated>2021-10-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531916/introduction"/>
+        <summary>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531916/introduction"><![CDATA[<h3>Description</h3>本次大赛意在探索基于大数据训练的人工智能方法在由电势能分布获取蛋白质原子模型方面的潜力。<h3>Deadline: 2021-11-30T16:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531915/introduction</id>
+        <title><![CDATA[“天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛高级赛道(赛季 1)]]></title>
+        
+        <updated>2021-07-16T01:55:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531915/introduction"/>
+        <summary>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531915/introduction"><![CDATA[<h3>Description</h3>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。<h3>Deadline: 2021-11-28T18:00:00+08:00</h3><h3>Reward: ￥83000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531914/introduction</id>
+        <title><![CDATA[“天池·TEENTOP杯”AI少年挑战赛-数据科学挑战赛中级赛道(赛季 1)]]></title>
+        
+        <updated>2021-07-15T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531914/introduction"/>
+        <summary>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531914/introduction"><![CDATA[<h3>Description</h3>为响应国务院《新一代人工智能发展规划》的号召，向广大青少年普及推广人工智能的相关知识和技能，阿里云天池主办，TEENTOP、钉钉、淘宝教育协办，共同推出“天池·TEENTOP杯”AI少年挑战赛。<h3>Deadline: 2021-11-28T18:00:00+08:00</h3><h3>Reward: ￥0</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531902/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道1：通用场景OCR文本识别任务(赛季 6)]]></title>
+        
+        <updated>2021-10-14T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531902/introduction"/>
+        <summary>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531902/introduction"><![CDATA[<h3>Description</h3>OCR (Optical Character Recognition,光学字符识别)是最早的计算机视觉任务之一。人类使用电子设备（图像采集装置）采集现实场景中打印的字符，然后通过检测字符的形状，用字符识别的方法将其翻译成计算机文字。随着技术的发展，OCR已经逐渐应用到社会的各种需求中。如今，我们可以在各个行业领域中看到OCR的广泛用途，包括：证件、车牌识别；物流分拣；智慧医疗；无纸化办公；文档检索等等。因此，在互联网时代中，OCR的应用算法，具有很大的商业价值。<h3>Deadline: 2021-11-19T18:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531901/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道3：CCKS2021中文NLP地址相关性任务(赛季 4)]]></title>
+        
+        <updated>2021-10-14T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531901/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531901/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-11-19T18:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531900/introduction</id>
+        <title><![CDATA[“英特尔创新大师杯”深度学习挑战赛  赛道2：CCKS2021中文NLP地址要素解析(赛季 4)]]></title>
+        
+        <updated>2021-10-14T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531900/introduction"/>
+        <summary>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531900/introduction"><![CDATA[<h3>Description</h3>人类的活动离不开位置，从空间上可以表征为坐标，从文本上表征为通讯地址。通讯地址广泛存在于电商物流、政府登记、金融交通等领域。对通讯地址的分析、聚合服务已经是一项重要基础服务，支撑着诸多互联网场景，比如地图搜索、电商物流分析等。实际应用中，地址文本存在写法自由、缺省别名多、地域性强等特点，对地址的解析、归一和匹配等都造成困难。针对这些难点，阿里达摩院机器智能技术团队联合CCKS2021大会举办此次地址评测任务。该评测包含2个子任务，分别是:中文地址要素解析、地址文本相关性。<h3>Deadline: 2021-11-19T18:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     

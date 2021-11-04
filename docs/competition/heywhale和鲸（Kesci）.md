@@ -26,6 +26,14 @@ Deadline: 2021-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
+## 超友好！气象 Python 训练营 ③ 数组进阶
+
+Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f  
+Description: 动手学习，快乐刷题  
+Deadline: 2021-11-22T12:00:00+0800  
+Reward: 鲸币+电子证书+社区花样周边+购物卡  
+
+
 ## 金融数据分析训练营—Pandas数据处理
 
 Link: https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e  
@@ -86,14 +94,6 @@ Reward: ¥100,000+奖杯奖状+名企实习+实验室名额
 ## 基于交通路况的新能源汽车节能路径规划
 
 Link: https://www.kesci.com/home/competition/61397f5d82b26b0017d8c31d  
-Description:   
-Deadline: 2021-11-20T00:00:00+0800  
-Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
-
-
-## 新能源汽车公共充换电设施配套评价及优化分析
-
-Link: https://www.kesci.com/home/competition/6139856882b26b0017d8c33d  
 Description:   
 Deadline: 2021-11-20T00:00:00+0800  
 Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  

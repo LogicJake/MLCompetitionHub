@@ -1,16 +1,37 @@
+import json
 from datetime import datetime, timedelta
 
-from requests import request
+import requests
 
 PLATFORM_NAME = 'Kaggle'
 
 
 def get_data():
-    url = 'https://www.kaggle.com/competitions.json?sortBy=grouped&group=general&page=1&pageSize=20'
+    session = requests.session()
+    session.get('https://www.kaggle.com/competitions')
+    token = session.cookies.get_dict()['XSRF-TOKEN']
 
-    response = request(method='GET', url=url)
+    url = 'https://www.kaggle.com/requests/CompetitionService/ListCompetitions'
+    data = {
+        "selector": {
+            "competitionIds": [],
+            "listOption": "active",
+            "sortOption": "newest",
+            "hostSegmentIdFilter": 0,
+            "searchQuery": "",
+            "prestigeFilter": "unspecified",
+            "tagIds": [],
+            "requireSimulations": False
+        },
+        "pageToken": "",
+        "pageSize": 50
+    }
+
+    headers = {'x-xsrf-token': token}
+
+    response = session.post(url=url, data=json.dumps(data), headers=headers)
     content = response.json()
-    competitions = content['fullCompetitionGroups'][1]['competitions']
+    competitions = content['result']['competitions']
 
     data = {'name': PLATFORM_NAME}
     cps = []
@@ -19,15 +40,15 @@ def get_data():
             continue
 
         # 必须字段
-        name = competition['competitionTitle']
-        url = 'https://www.kaggle.com' + competition['competitionUrl']
-        description = competition['competitionDescription']
+        name = competition['title']
+        url = 'https://www.kaggle.com/c/' + competition['competitionName']
+        description = competition['briefDescription']
 
         deadline = competition['deadline']
         FORMAT = "%Y-%m-%dT%H:%M:%SZ"
         deadline = datetime.strptime(deadline, FORMAT) + timedelta(hours=8)
 
-        start_time = competition['enabledDate']
+        start_time = competition['dateEnabled']
         FORMAT = "%Y-%m-%dT%H:%M:%S.%fZ"
         start_time = datetime.strptime(start_time, FORMAT) + timedelta(hours=8)
 
