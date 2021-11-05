@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-04T15:59:08+08:00</updated>
+    <updated>2021-11-05T15:59:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -535,20 +535,6 @@
     
     
     <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=562</id>
-        <title><![CDATA[2021全球抗体亲和力预测大赛]]></title>
-        
-        <updated>2021-08-27T15:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=562"/>
-        <summary>AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。 </summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=562"><![CDATA[<h3>Description</h3>AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。 <h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://js.dclab.run/v2/cmptDetail.html?id=568</id>
         <title><![CDATA[超级传播者识别挑战赛]]></title>
         
@@ -557,6 +543,20 @@
         <link href="https://js.dclab.run/v2/cmptDetail.html?id=568"/>
         <summary>风险管理需要保持风险和效益的平衡发展，不但要通过风险识别、计量、监测等程序管理好风险，同时也需要通过市场运营扩大客群，进而能有效降低逾期率控制风险。市场运营和产品推广不仅是依靠广告、宣传等手段，寻找有传播能力的用户能更好的推广，从既有客户中发现“超级传播者”，以合理的奖励激励其主动参与企业产品推广活动、吸引和转化其他潜在客户，是市场运营的重要方式之一。本次竞赛提供了某产品部分既有客户的历史信息，需要参赛选手通过合理的数据分析与建模来实现对“超级传播者”的有效识别，以期达到培养参赛选手运用统计和数据科学知识实现客户有效运营的合作精神和实践能力的目的。</summary>
         <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=568"><![CDATA[<h3>Description</h3>风险管理需要保持风险和效益的平衡发展，不但要通过风险识别、计量、监测等程序管理好风险，同时也需要通过市场运营扩大客群，进而能有效降低逾期率控制风险。市场运营和产品推广不仅是依靠广告、宣传等手段，寻找有传播能力的用户能更好的推广，从既有客户中发现“超级传播者”，以合理的奖励激励其主动参与企业产品推广活动、吸引和转化其他潜在客户，是市场运营的重要方式之一。本次竞赛提供了某产品部分既有客户的历史信息，需要参赛选手通过合理的数据分析与建模来实现对“超级传播者”的有效识别，以期达到培养参赛选手运用统计和数据科学知识实现客户有效运营的合作精神和实践能力的目的。<h3>Deadline: 2021-11-27T18:00:00+08:00</h3><h3>Reward: ￥63000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://js.dclab.run/v2/cmptDetail.html?id=562</id>
+        <title><![CDATA[2021全球抗体亲和力预测大赛]]></title>
+        
+        <updated>2021-08-27T15:00:00+08:00</updated>
+        
+        <link href="https://js.dclab.run/v2/cmptDetail.html?id=562"/>
+        <summary>AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。 </summary>
+        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=562"><![CDATA[<h3>Description</h3>AI时代的到来，给全新的交叉学科生物计算带来了无限可能。我们以“抗体亲和力预测”场景为赛题进行算法模型开发，根据抗原和抗体的氨基酸序列预测抗体-抗原结合的亲和力数值。 <h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: ￥140000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -970,36 +970,6 @@
     
     
     
-    <entry>
-        <id>https://signate.jp/competitions/537</id>
-        <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
-        
-        <updated>2021-11-04T15:59:08+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/537"/>
-        <summary>Vehicle Driving Image Recognition using RISC-V</summary>
-        <content type="text/html" src="https://signate.jp/competitions/537"><![CDATA[<h3>Description</h3>Vehicle Driving Image Recognition using RISC-V<h3>Deadline: 2022-02-15T23:59:59+08:00</h3><h3>Reward: TBD</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/428</id>
-        <title><![CDATA[Tadano Crane Slewing Operation Optimization Challenge]]></title>
-        
-        <updated>2021-11-04T15:59:08+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/428"/>
-        <summary>Let's try to build a controller using the crane simulator!</summary>
-        <content type="text/html" src="https://signate.jp/competitions/428"><![CDATA[<h3>Description</h3>Let's try to build a controller using the crane simulator!<h3>Deadline: 2021-11-30T23:59:59+08:00</h3><h3>Reward: Total amount of 4,000,000 yen</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
-    
     
     
     
@@ -1012,7 +982,7 @@
         
         <link href="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"/>
         <summary>Given blood spectroscopy readings can you predict which compounds are in the blood?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"><![CDATA[<h3>Description</h3>Given blood spectroscopy readings can you predict which compounds are in the blood?<h3>Deadline: 2022-02-21T07:59:00+08:00</h3><h3>Reward: $7 500 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"><![CDATA[<h3>Description</h3>Given blood spectroscopy readings can you predict which compounds are in the blood?<h3>Deadline: 2022-02-14T07:59:00+08:00</h3><h3>Reward: $7 500 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
@@ -1026,7 +996,7 @@
         
         <link href="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"/>
         <summary>Can you predict which users will be active on Zindi in the next month?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"><![CDATA[<h3>Description</h3>Can you predict which users will be active on Zindi in the next month?<h3>Deadline: 2022-01-31T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
+        <content type="text/html" src="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"><![CDATA[<h3>Description</h3>Can you predict which users will be active on Zindi in the next month?<h3>Deadline: 2022-01-24T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>

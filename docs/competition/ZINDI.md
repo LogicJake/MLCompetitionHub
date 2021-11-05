@@ -6,7 +6,7 @@
 
 Link: https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge  
 Description: Given blood spectroscopy readings can you predict which compounds are in the blood?  
-Deadline: 2022-02-21T07:59:00+0800  
+Deadline: 2022-02-14T07:59:00+0800  
 Reward: $7 500 USD  
 
 
@@ -14,7 +14,7 @@ Reward: $7 500 USD
 
 Link: https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge  
 Description: Can you predict which users will be active on Zindi in the next month?  
-Deadline: 2022-01-31T07:59:00+0800  
+Deadline: 2022-01-24T07:59:00+0800  
 Reward: $3 000 USD  
 
 
