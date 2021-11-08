@@ -2,6 +2,14 @@
 
 
 
+## 2021 Go-Bigger: Multi-Agent Decision Intelligence Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/549  
+Description: 2021 Go-Bigger: Multi-Agent Decision Intelligence Challenge  
+Deadline: 2022-04-30T23:59:59+0800  
+Reward: ￥150000  
+
+
 ## 泛在感知数据关联融合计算
 
 Link: https://www.datafountain.cn/competitions/539  

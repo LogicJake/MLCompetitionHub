@@ -2,6 +2,14 @@
 
 
 
+## Task Mate Kenyan Sign Language Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/kenyan-sign-language-classification-challenge  
+Description: Can you classify words in Kenyan Sign Language?   
+Deadline: 2022-02-28T07:59:00+0800  
+Reward: $5 000 USD  
+
+
 ## bloods.ai Blood Spectroscopy Classification Challenge
 
 Link: https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge  

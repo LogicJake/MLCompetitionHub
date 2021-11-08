@@ -18,7 +18,7 @@ Deadline: 2021-12-31T08:00:00+0800
 Reward: ¥50,000  
 
 
-## 2021“智荟杯”浦发百度高校极客挑战赛 <sup style="color:red">[new]<sup>  
+## 2021“智荟杯”浦发百度高校极客挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/123  
 Description: 本次大赛设立“方案赛道“和”算法赛道”两个赛道；本平台不提供报名服务，报名方式详见页面“参赛方式及规则”  

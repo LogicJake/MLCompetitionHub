@@ -694,3 +694,5 @@ https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering
 https://www.kaggle.com/c/optiver-realized-volatility-prediction
 https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 https://www.nishika.com/competitions/22
+https://www.datafountain.cn/competitions/549
+https://zindi.africa/competitions/kenyan-sign-language-classification-challenge
