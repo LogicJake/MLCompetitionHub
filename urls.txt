@@ -696,3 +696,6 @@ https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 https://www.nishika.com/competitions/22
 https://www.datafountain.cn/competitions/549
 https://zindi.africa/competitions/kenyan-sign-language-classification-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/124
+https://aistudio.baidu.com/aistudio/competition/detail/125
+https://www.kaggle.com/c/jigsaw-toxic-severity-rating

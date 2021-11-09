@@ -2,10 +2,10 @@
 
 
 
-## 2021 Go-Bigger: Multi-Agent Decision Intelligence Challenge <sup style="color:red">[new]<sup>  
+## 玩转“大吃小进化”｜Go-Bigger多智能体决策智能挑战赛 <sup style="color:red">[new]<sup>  
 
 Link: https://www.datafountain.cn/competitions/549  
-Description: 2021 Go-Bigger: Multi-Agent Decision Intelligence Challenge  
+Description: 玩转“大吃小进化”｜Go-Bigger多智能体决策智能挑战赛  
 Deadline: 2022-04-30T23:59:59+0800  
 Reward: ￥150000  
 
