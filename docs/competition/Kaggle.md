@@ -10,7 +10,7 @@ Deadline: 2022-02-08T07:59:00+0800
 Reward: 50000.0 USD  
 
 
-## G-Research Crypto Forecasting  <sup style="color:red">[new]<sup>  
+## G-Research Crypto Forecasting 
 
 Link: https://www.kaggle.com/c/g-research-crypto-forecasting  
 Description: Use your ML expertise to predict real crypto market data  
