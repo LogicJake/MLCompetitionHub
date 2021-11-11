@@ -699,3 +699,4 @@ https://zindi.africa/competitions/kenyan-sign-language-classification-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/124
 https://aistudio.baidu.com/aistudio/competition/detail/125
 https://www.kaggle.com/c/jigsaw-toxic-severity-rating
+https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951

@@ -2,6 +2,14 @@
 
 
 
+## 超友好！气象 Python 训练营  ④ 进阶应用 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951  
+Description: 动手学习，快乐刷题  
+Deadline: 2021-11-22T12:00:00+0800  
+Reward: 鲸币+电子证书+社区花样周边+购物卡  
+
+
 ## 一起学习 | Python 气象数据分析
 
 Link: https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0  
@@ -34,14 +42,6 @@ Deadline: 2021-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
-## 金融数据分析训练营—Pandas数据处理
-
-Link: https://www.kesci.com/home/competition/616e41aeb3c89100171fe05e  
-Description:   
-Deadline: 2021-11-18T00:00:00+0800  
-Reward: 鲸币🐳 +周边+购物卡  
-
-
 ## 预测分析·用户贷款违约预测
 
 Link: https://www.kesci.com/home/competition/615ff7bdc270e400182b249e  
@@ -57,14 +57,6 @@ Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca
 Description:   
 Deadline: 2021-12-11T23:59:00+0800  
 Reward: 论文发表推荐+机构合作机会  
-
-
-## 商业数据分析实战营·互联网运营
-
-Link: https://www.kesci.com/home/competition/6144694b9cae740018337080  
-Description: 独家数据大公开，带你玩转互联网商业数据分析  
-Deadline: 2021-11-14T00:00:00+0800  
-Reward:   
 
 
 ## 2021上海新能源汽车大数据竞赛
@@ -97,4 +89,14 @@ Link: https://www.kesci.com/home/competition/6139856882b26b0017d8c33d
 Description:   
 Deadline: 2021-11-20T00:00:00+0800  
 Reward: ¥100,000+奖杯奖状+名企实习+实验室名额  
+
+
+## 情感分析·推特文本情感分类
+
+Link: https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导、
+本次练习赛所使用数据集基于推特用户发表的推文数据集  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 新人赛  
 
