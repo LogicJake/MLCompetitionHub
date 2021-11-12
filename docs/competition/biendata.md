@@ -106,6 +106,14 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
+## SciQ Dataset
+
+Link: https://www.biendata.xyz/competition/sciq/  
+Description: SciQ Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
 ## LogiQA Dataset
 
 Link: https://www.biendata.xyz/competition/logiqa/  
@@ -126,14 +134,6 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/race_c/  
 Description: RACE-C Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## SciQ Dataset
-
-Link: https://www.biendata.xyz/competition/sciq/  
-Description: SciQ Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
