@@ -26,14 +26,6 @@ Deadline: 2021-12-31T08:00:00+0800
 Reward: ￥180,000  
 
 
-## 悟道之巅 AI 创新应用大赛
-
-Link: https://www.biendata.xyz/competition/wudao2021/  
-Description: 悟道之巅 AI 创新应用大赛  
-Deadline: 2021-11-14T08:00:00+0800  
-Reward: ￥1,000,000  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
