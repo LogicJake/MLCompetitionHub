@@ -2,7 +2,7 @@
 
 
 
-## 超友好！气象 Python 训练营  ④ 进阶应用 <sup style="color:red">[new]<sup>  
+## 超友好！气象 Python 训练营  ④ 进阶应用
 
 Link: https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951  
 Description: 动手学习，快乐刷题  

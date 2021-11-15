@@ -2,7 +2,7 @@
 
 
 
-## Task Mate Kenyan Sign Language Classification Challenge <sup style="color:red">[new]<sup>  
+## Task Mate Kenyan Sign Language Classification Challenge
 
 Link: https://zindi.africa/competitions/kenyan-sign-language-classification-challenge  
 Description: Can you classify words in Kenyan Sign Language?   
