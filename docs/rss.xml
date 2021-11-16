@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-15T15:59:24+08:00</updated>
+    <updated>2021-11-16T15:59:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -97,14 +97,28 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/maxp_dgl/</id>
-        <title><![CDATA[2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务]]></title>
+        <id>https://www.biendata.xyz/competition/qkl-1/</id>
+        <title><![CDATA[2021未来杯区块链应用创新大赛-应用场景创新]]></title>
         
-        <updated>2021-09-15T08:00:00+08:00</updated>
+        <updated>2021-09-24T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/maxp_dgl/"/>
-        <summary>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥180,000</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/qkl-1/"/>
+        <summary>2021未来杯区块链应用创新大赛-应用场景创新</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-1/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-应用场景创新<h3>Deadline: 2022-01-22T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/qkl-2/</id>
+        <title><![CDATA[2021未来杯区块链应用创新大赛-区块链工具开发]]></title>
+        
+        <updated>2021-09-24T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/qkl-2/"/>
+        <summary>2021未来杯区块链应用创新大赛-区块链工具开发</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-2/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-区块链工具开发<h3>Deadline: 2022-01-22T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -119,6 +133,20 @@
         <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
         <summary>2021 MAXP Innovation Track</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-15T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/maxp_dgl/</id>
+        <title><![CDATA[2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务]]></title>
+        
+        <updated>2021-09-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/maxp_dgl/"/>
+        <summary>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥180,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -175,6 +203,20 @@
         <link href="https://www.biendata.xyz/competition/hgb-1/"/>
         <summary>Heterogeneous Graph Benchmark - Node Classification</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/hgb-1/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Node Classification<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -265,6 +307,20 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/mutual/</id>
         <title><![CDATA[MuTual Dataset]]></title>
         
@@ -287,34 +343,6 @@
         <link href="https://www.biendata.xyz/competition/race_c/"/>
         <summary>RACE-C Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race/</id>
-        <title><![CDATA[RACE Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race/"/>
-        <summary>RACE Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -683,20 +711,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering</id>
-        <title><![CDATA[chaii - Hindi and Tamil Question Answering]]></title>
-        
-        <updated>2021-08-12T02:43:59+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering"/>
-        <summary>Identify the answer to questions found in Indian language passages</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering"><![CDATA[<h3>Description</h3>Identify the answer to questions found in Indian language passages<h3>Deadline: 2021-11-16T07:59:00+08:00</h3><h3>Reward: 10000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kaggle.com/c/optiver-realized-volatility-prediction</id>
         <title><![CDATA[Optiver Realized Volatility Prediction]]></title>
         
@@ -896,7 +910,7 @@
         
         <link href="https://www.nishika.com/competitions/22"/>
         <summary>商標×AI：イメージサーチコンペティション（類似商標画像の検出）</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>商標×AI：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-28T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
+        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>商標×AI：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-31T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>

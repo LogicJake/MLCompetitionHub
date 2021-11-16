@@ -2,7 +2,7 @@
 
 
 
-## Jigsaw Rate Severity of Toxic Comments    <sup style="color:red">[new]<sup>  
+## Jigsaw Rate Severity of Toxic Comments   
 
 Link: https://www.kaggle.com/c/jigsaw-toxic-severity-rating  
 Description: Rank relative ratings of toxicity between comments  
@@ -55,14 +55,6 @@ Reward: 25000.0 USD
 Link: https://www.kaggle.com/c/lux-ai-2021  
 Description: Gather the most resources and survive the night!  
 Deadline: 2021-12-07T07:59:00+0800  
-Reward: 10000.0 USD  
-
-
-## chaii - Hindi and Tamil Question Answering
-
-Link: https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering  
-Description: Identify the answer to questions found in Indian language passages  
-Deadline: 2021-11-16T07:59:00+0800  
 Reward: 10000.0 USD  
 
 
