@@ -703,3 +703,4 @@ https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951
 https://www.biendata.xyz/competition/qhxmz/
 https://www.biendata.xyz/competition/qkl-1/
 https://www.biendata.xyz/competition/qkl-2/
+https://www.kaggle.com/c/santa-2021
