@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-17T15:59:09+08:00</updated>
+    <updated>2021-11-18T16:00:36+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -132,7 +132,7 @@
         
         <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
         <summary>2021 MAXP Innovation Track</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-15T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -366,13 +366,13 @@
     
     <entry>
         <id>https://www.datafountain.cn/competitions/549</id>
-        <title><![CDATA[玩转“大吃小进化”｜Go-Bigger多智能体决策智能挑战赛]]></title>
+        <title><![CDATA[AI球球大作战：Go-Bigger多智能体决策智能挑战赛 ]]></title>
         
         <updated>2021-11-08T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/549"/>
-        <summary>玩转“大吃小进化”｜Go-Bigger多智能体决策智能挑战赛</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/549"><![CDATA[<h3>Description</h3>玩转“大吃小进化”｜Go-Bigger多智能体决策智能挑战赛<h3>Deadline: 2022-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <summary>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 </summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/549"><![CDATA[<h3>Description</h3>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 <h3>Deadline: 2022-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>

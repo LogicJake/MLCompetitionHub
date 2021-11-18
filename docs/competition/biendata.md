@@ -30,7 +30,7 @@ Reward: ￥50,000
 
 Link: https://www.biendata.xyz/competition/maxp_innovation/  
 Description: 2021 MAXP Innovation Track  
-Deadline: 2021-12-15T08:00:00+0800  
+Deadline: 2021-12-30T08:00:00+0800  
 Reward: ￥120,000  
 
 
