@@ -2,6 +2,14 @@
 
 
 
+## Turtle Recall: Conservation Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
+Description: Can you build a facial recognition model... for turtles?  
+Deadline: 2022-03-14T07:59:00+0800  
+Reward: $10000 USD  
+
+
 ## Task Mate Kenyan Sign Language Classification Challenge
 
 Link: https://zindi.africa/competitions/kenyan-sign-language-classification-challenge  
