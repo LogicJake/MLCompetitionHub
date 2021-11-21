@@ -2,7 +2,7 @@
 
 
 
-## 清华-西门子智能开发赛 <sup style="color:red">[new]<sup>  
+## 清华-西门子智能开发赛
 
 Link: https://www.biendata.xyz/competition/qhxmz/  
 Description: 清华-西门子智能开发赛  
