@@ -41,11 +41,3 @@ Description: Can you predict when an airtime customer will move to another provi
 Deadline: 2021-11-29T07:59:00+0800  
 Reward: $1 000 USD  
 
-
-## Makerere Passion Fruit Disease Detection Challenge
-
-Link: https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge  
-Description: Can you identify which passion fruit are diseased and which are healthy?  
-Deadline: 2021-11-22T07:59:00+0800  
-Reward: $1 000 USD  
-

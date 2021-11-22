@@ -2,6 +2,14 @@
 
 
 
+## 飞桨论文复现挑战赛（第五期） <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/126  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
+Deadline: 2022-01-14T08:00:00+0800  
+Reward: 总计1,000,000  
+
+
 ## 2021 CCF BDCI 基于飞桨实现花样滑冰选手骨骼点动作识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/115  

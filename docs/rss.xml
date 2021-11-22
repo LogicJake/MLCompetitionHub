@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-21T15:59:09+08:00</updated>
+    <updated>2021-11-22T15:59:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/126</id>
+        <title><![CDATA[飞桨论文复现挑战赛（第五期）]]></title>
+        
+        <updated>2021-11-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/126"/>
+        <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/126"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2022-01-14T08:00:00+08:00</h3><h3>Reward: 总计1,000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/115</id>
@@ -604,24 +618,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://js.dclab.run/v2/cmptDetail.html?id=569</id>
-        <title><![CDATA[OPPO安全挑战赛]]></title>
-        
-        <updated>2021-06-18T00:00:00+08:00</updated>
-        
-        <link href="https://js.dclab.run/v2/cmptDetail.html?id=569"/>
-        <summary>随着人工智能尤其是深度学习技术的发展，人脸识别已经成为当下最为成熟的领域应用之一。在现实生活中，人脸识别技术已经被广泛地用于诸如：基于人证对的实名人证、金融级别的刷脸支付和刷脸认证、闸机验证签到等。但与此同时，通过对抗样本生成、深度伪造假脸生成等技术手段，可以在原始人脸图像做微小的像素级别的改动，从而能够欺骗人脸识别系统，使之给出错误的判断结果。
-
-本次比赛将会聚焦于人脸识别场景中的反AI的对抗攻击。为了模拟真实的人脸识别场景并增加比赛的难度，我们将在后台使用防御性较好的一组模型作为黑盒模型。选手在不清楚模型细节的前提之下，构造有目标或无目标的对抗样本。比赛过程中，选手在线下对提供的测试样本进行修改，并提交生成的结果数据至线上进行攻击评测。</summary>
-        <content type="text/html" src="https://js.dclab.run/v2/cmptDetail.html?id=569"><![CDATA[<h3>Description</h3>随着人工智能尤其是深度学习技术的发展，人脸识别已经成为当下最为成熟的领域应用之一。在现实生活中，人脸识别技术已经被广泛地用于诸如：基于人证对的实名人证、金融级别的刷脸支付和刷脸认证、闸机验证签到等。但与此同时，通过对抗样本生成、深度伪造假脸生成等技术手段，可以在原始人脸图像做微小的像素级别的改动，从而能够欺骗人脸识别系统，使之给出错误的判断结果。
-
-本次比赛将会聚焦于人脸识别场景中的反AI的对抗攻击。为了模拟真实的人脸识别场景并增加比赛的难度，我们将在后台使用防御性较好的一组模型作为黑盒模型。选手在不清楚模型细节的前提之下，构造有目标或无目标的对抗样本。比赛过程中，选手在线下对提供的测试样本进行修改，并提交生成的结果数据至线上进行攻击评测。<h3>Deadline: 2021-11-22T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     
@@ -934,13 +930,13 @@
     
     <entry>
         <id>https://www.nishika.com/competitions/22</id>
-        <title><![CDATA[商標×AI：イメージサーチコンペティション（類似商標画像の検出）]]></title>
+        <title><![CDATA[AI×商標：イメージサーチコンペティション（類似商標画像の検出）]]></title>
         
         <updated>2021-10-01T09:45:07+08:00</updated>
         
         <link href="https://www.nishika.com/competitions/22"/>
-        <summary>商標×AI：イメージサーチコンペティション（類似商標画像の検出）</summary>
-        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>商標×AI：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-31T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
+        <summary>AI×商標：イメージサーチコンペティション（類似商標画像の検出）</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>AI×商標：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-31T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
         </author>
@@ -1101,20 +1097,6 @@
         <link href="https://zindi.africa/competitions/expresso-churn-prediction"/>
         <summary>Can you predict when an airtime customer will move to another provider?</summary>
         <content type="text/html" src="https://zindi.africa/competitions/expresso-churn-prediction"><![CDATA[<h3>Description</h3>Can you predict when an airtime customer will move to another provider?<h3>Deadline: 2021-11-29T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge</id>
-        <title><![CDATA[Makerere Passion Fruit Disease Detection Challenge]]></title>
-        
-        <updated>2021-08-20T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"/>
-        <summary>Can you identify which passion fruit are diseased and which are healthy?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/makerere-passion-fruit-disease-detection-challenge"><![CDATA[<h3>Description</h3>Can you identify which passion fruit are diseased and which are healthy?<h3>Deadline: 2021-11-22T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
         <author>
             <name><![CDATA[ZINDI]]></name>
         </author>
