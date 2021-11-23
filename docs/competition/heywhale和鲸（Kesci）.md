@@ -2,6 +2,22 @@
 
 
 
+## 和鲸训练营·Python爬虫实战 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4  
+Description: 玩转Python爬虫实战，从理论到实战进阶  
+Deadline: 2021-12-20T00:00:00+0800  
+Reward: 鲸币🐳 +周边+购物卡  
+
+
+## Numpy+Pandas数据处理·闯关
+
+Link: https://www.kesci.com/home/competition/6154198bc270e400182b11f9  
+Description: Numpy+Pandas，线上免费学习，自学刷题闯关  
+Deadline: 2024-12-31T00:00:00+0800  
+Reward:   
+
+
 ## Python基础·闯关
 
 Link: https://www.kesci.com/home/competition/61542939c270e400182b1294  
@@ -82,22 +98,4 @@ Link: https://www.kesci.com/home/competition/612c662d34003c00179be8fa
 Description:   
 Deadline: 2021-11-26T00:00:00+0800  
 Reward: ￥100,000+获奖证书+名企实习机会+实验室入驻名额  
-
-
-## 情感分析·推特文本情感分类
-
-Link: https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9  
-Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-在本次练习赛旨在引导、
-本次练习赛所使用数据集基于推特用户发表的推文数据集  
-Deadline: 2042-12-31T00:00:00+0800  
-Reward: 新人赛  
-
-
-## 和鲸社区·每周挑战
-
-Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
-Description: 写项目，赢鲸币，开启你的数据分析之旅  
-Deadline: 2022-12-31T00:00:00+0800  
-Reward:   
 

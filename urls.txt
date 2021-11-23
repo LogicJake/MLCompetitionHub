@@ -709,3 +709,6 @@ https://www.kesci.com/home/competition/6189ee9f7b6f7d001813a922
 https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac
 https://zindi.africa/competitions/turtle-recall-conservation-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/126
+https://www.kaggle.com/c/tensorflow-great-barrier-reef
+https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4
+https://www.kesci.com/home/competition/6154198bc270e400182b11f9

@@ -2,6 +2,14 @@
 
 
 
+## Tensorflow - Help Protect the Great Barrier Reef  <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/tensorflow-great-barrier-reef  
+Description: Detect crown-of-thorns starfish in underwater image data  
+Deadline: 2022-02-15T07:59:00+0800  
+Reward: 150000.0 USD  
+
+
 ## Santa 2021 - The Merry Movie Montage <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/santa-2021  

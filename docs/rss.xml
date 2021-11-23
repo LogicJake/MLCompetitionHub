@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-22T15:59:01+08:00</updated>
+    <updated>2021-11-23T15:59:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -623,6 +623,20 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/tensorflow-great-barrier-reef</id>
+        <title><![CDATA[Tensorflow - Help Protect the Great Barrier Reef ]]></title>
+        
+        <updated>2021-11-23T02:53:57+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/tensorflow-great-barrier-reef"/>
+        <summary>Detect crown-of-thorns starfish in underwater image data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/tensorflow-great-barrier-reef"><![CDATA[<h3>Description</h3>Detect crown-of-thorns starfish in underwater image data<h3>Deadline: 2022-02-15T07:59:00+08:00</h3><h3>Reward: 150000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/santa-2021</id>
         <title><![CDATA[Santa 2021 - The Merry Movie Montage]]></title>
         
@@ -749,6 +763,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4</id>
+        <title><![CDATA[和鲸训练营·Python爬虫实战]]></title>
+        
+        <updated>2021-11-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"/>
+        <summary>玩转Python爬虫实战，从理论到实战进阶</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"><![CDATA[<h3>Description</h3>玩转Python爬虫实战，从理论到实战进阶<h3>Deadline: 2021-12-20T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6154198bc270e400182b11f9</id>
+        <title><![CDATA[Numpy+Pandas数据处理·闯关]]></title>
+        
+        <updated>2021-11-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"/>
+        <summary>Numpy+Pandas，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"><![CDATA[<h3>Description</h3>Numpy+Pandas，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/61542939c270e400182b1294</id>
@@ -889,38 +931,6 @@
         <link href="https://www.kesci.com/home/competition/612c662d34003c00179be8fa"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/612c662d34003c00179be8fa"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-11-26T00:00:00+08:00</h3><h3>Reward: ￥100,000+获奖证书+名企实习机会+实验室入驻名额</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9</id>
-        <title><![CDATA[情感分析·推特文本情感分类]]></title>
-        
-        <updated>2021-08-25T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9"/>
-        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-在本次练习赛旨在引导、
-本次练习赛所使用数据集基于推特用户发表的推文数据集</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
-在本次练习赛旨在引导、
-本次练习赛所使用数据集基于推特用户发表的推文数据集<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac</id>
-        <title><![CDATA[和鲸社区·每周挑战]]></title>
-        
-        <updated>2021-08-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"/>
-        <summary>写项目，赢鲸币，开启你的数据分析之旅</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"><![CDATA[<h3>Description</h3>写项目，赢鲸币，开启你的数据分析之旅<h3>Deadline: 2022-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
