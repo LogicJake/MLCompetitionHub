@@ -10,6 +10,14 @@ Deadline: 2021-12-20T00:00:00+0800
 Reward: 鲸币🐳 +周边+购物卡  
 
 
+## 《Python机器学习》 读书实践 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9  
+Description:   
+Deadline: 2021-12-31T00:00:00+0800  
+Reward:   
+
+
 ## Numpy+Pandas数据处理·闯关
 
 Link: https://www.kesci.com/home/competition/6154198bc270e400182b11f9  
@@ -90,12 +98,4 @@ Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca
 Description:   
 Deadline: 2021-12-11T23:59:00+0800  
 Reward: 论文发表推荐+机构合作机会  
-
-
-## 2021上海新能源汽车大数据竞赛
-
-Link: https://www.kesci.com/home/competition/612c662d34003c00179be8fa  
-Description:   
-Deadline: 2021-11-26T00:00:00+0800  
-Reward: ￥100,000+获奖证书+名企实习机会+实验室入驻名额  
 
