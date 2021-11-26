@@ -51,14 +51,6 @@ Deadline: 2022-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
-## 一起学习 | Python 气象数据分析
-
-Link: https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0  
-Description: 本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。  
-Deadline: 2021-11-26T00:00:00+0800  
-Reward: 气象数据分析+项目实战  
-
-
 ## 超友好！气象 Python 训练营 ① 快速入门
 
 Link: https://www.kesci.com/home/competition/615fc810c270e400182b23f8  
@@ -98,4 +90,14 @@ Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca
 Description:   
 Deadline: 2021-12-11T23:59:00+0800  
 Reward: 论文发表推荐+机构合作机会  
+
+
+## 情感分析·推特文本情感分类
+
+Link: https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9  
+Description: DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导、
+本次练习赛所使用数据集基于推特用户发表的推文数据集  
+Deadline: 2042-12-31T00:00:00+0800  
+Reward: 新人赛  
 

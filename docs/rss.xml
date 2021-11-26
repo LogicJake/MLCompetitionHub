@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-11-25T15:59:27+08:00</updated>
+    <updated>2021-11-26T15:59:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -139,20 +139,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
-        <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
-        
-        <updated>2021-09-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/maxp_lambda/"/>
-        <summary>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_lambda/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算<h3>Deadline: 2021-12-15T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/maxp_dgl/</id>
         <title><![CDATA[2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务]]></title>
         
@@ -161,6 +147,20 @@
         <link href="https://www.biendata.xyz/competition/maxp_dgl/"/>
         <summary>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥180,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
+        <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
+        
+        <updated>2021-09-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/maxp_lambda/"/>
+        <summary>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_lambda/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算<h3>Deadline: 2021-12-15T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -821,20 +821,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0</id>
-        <title><![CDATA[一起学习 | Python 气象数据分析]]></title>
-        
-        <updated>2021-10-27T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0"/>
-        <summary>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6177cd12a3ee260017c0e9b0"><![CDATA[<h3>Description</h3>本 Workshop 聚焦 Python 气象数据分析，全程提供免费算力和上手即用的 开发工具，面向所有人免费开放，欢迎所有气象领域人才和对气象数据科学感兴趣的数据分析师共同参与、交流。<h3>Deadline: 2021-11-26T00:00:00+08:00</h3><h3>Reward: 气象数据分析+项目实战</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/615fc810c270e400182b23f8</id>
         <title><![CDATA[超友好！气象 Python 训练营 ① 快速入门]]></title>
         
@@ -901,6 +887,24 @@
         <link href="https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca"/>
         <summary></summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-12-11T23:59:00+08:00</h3><h3>Reward: 论文发表推荐+机构合作机会</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9</id>
+        <title><![CDATA[情感分析·推特文本情感分类]]></title>
+        
+        <updated>2021-08-25T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9"/>
+        <summary>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导、
+本次练习赛所使用数据集基于推特用户发表的推文数据集</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/611cbe90ba12a0001753d1e9"><![CDATA[<h3>Description</h3>DataJoy® 「新人赛」难度较低，定位数据科学新人，通过赛题引导大家了解数据分析的接触流程和思路。
+在本次练习赛旨在引导、
+本次练习赛所使用数据集基于推特用户发表的推文数据集<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 新人赛</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
