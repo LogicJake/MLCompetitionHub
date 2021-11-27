@@ -2,7 +2,7 @@
 
 
 
-## Turtle Recall: Conservation Challenge <sup style="color:red">[new]<sup>  
+## Turtle Recall: Conservation Challenge
 
 Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
 Description: Can you build a facial recognition model... for turtles?  
