@@ -33,11 +33,3 @@ Description: Can you predict which users will be active on Zindi in the next mon
 Deadline: 2022-01-24T07:59:00+0800  
 Reward: $3 000 USD  
 
-
-## Expresso Churn Prediction Challenge
-
-Link: https://zindi.africa/competitions/expresso-churn-prediction  
-Description: Can you predict when an airtime customer will move to another provider?  
-Deadline: 2021-11-29T07:59:00+0800  
-Reward: $1 000 USD  
-

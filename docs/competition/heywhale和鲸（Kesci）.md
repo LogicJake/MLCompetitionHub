@@ -18,7 +18,7 @@ Deadline: 2021-12-20T00:00:00+0800
 Reward: 鲸币🐳 +周边+购物卡  
 
 
-## 《Python机器学习》 读书实践 <sup style="color:red">[new]<sup>  
+## 《Python机器学习》 读书实践
 
 Link: https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9  
 Description:   

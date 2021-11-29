@@ -42,14 +42,6 @@ Deadline: 2021-12-31T07:59:00+0800
 Reward: 75000.0 USD  
 
 
-## 2021 Kaggle Machine Learning & Data Science Survey
-
-Link: https://www.kaggle.com/c/kaggle-survey-2021  
-Description: The most comprehensive dataset available on the state of ML and data science  
-Deadline: 2021-11-29T07:59:00+0800  
-Reward: 30000.0 USD  
-
-
 ## NFL Big Data Bowl 2022
 
 Link: https://www.kaggle.com/c/nfl-big-data-bowl-2022  

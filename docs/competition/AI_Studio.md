@@ -2,7 +2,7 @@
 
 
 
-## 飞桨论文复现挑战赛（第五期） <sup style="color:red">[new]<sup>  
+## 飞桨论文复现挑战赛（第五期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/126  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
