@@ -2,7 +2,7 @@
 
 
 
-## Tensorflow - Help Protect the Great Barrier Reef  <sup style="color:red">[new]<sup>  
+## Tensorflow - Help Protect the Great Barrier Reef 
 
 Link: https://www.kaggle.com/c/tensorflow-great-barrier-reef  
 Description: Detect crown-of-thorns starfish in underwater image data  

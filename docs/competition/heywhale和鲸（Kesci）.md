@@ -10,7 +10,7 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 机器学习+练习赛  
 
 
-## 和鲸训练营·Python爬虫实战 <sup style="color:red">[new]<sup>  
+## 和鲸训练营·Python爬虫实战
 
 Link: https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4  
 Description: 玩转Python爬虫实战，从理论到实战进阶  
