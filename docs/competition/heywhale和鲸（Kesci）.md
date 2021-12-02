@@ -2,6 +2,14 @@
 
 
 
+## Workshop | Python 气象海洋数据分析 II <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61a4a53db91a5300170f340e  
+Description: 疗程短，见效快  
+Deadline: 2022-01-05T12:00:00+0800  
+Reward:   
+
+
 ## 预测分析·视频评分预测挑战赛 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9  
@@ -89,12 +97,4 @@ Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca
 Description:   
 Deadline: 2021-12-11T23:59:00+0800  
 Reward: 论文发表推荐+机构合作机会  
-
-
-## 和鲸社区·每周挑战
-
-Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
-Description: 写项目，赢鲸币，开启你的数据分析之旅  
-Deadline: 2022-12-31T00:00:00+0800  
-Reward:   
 
