@@ -10,7 +10,7 @@ Deadline: 2022-01-05T12:00:00+0800
 Reward:   
 
 
-## 预测分析·视频评分预测挑战赛 <sup style="color:red">[new]<sup>  
+## 预测分析·视频评分预测挑战赛
 
 Link: https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9  
 Description: DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。  
