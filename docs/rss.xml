@@ -3,12 +3,40 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-05T15:59:26+08:00</updated>
+    <updated>2021-12-06T15:59:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/128</id>
+        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛：文档图像摩尔纹消除（赛题一）]]></title>
+        
+        <updated>2021-12-06T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/128"/>
+        <summary>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/128"><![CDATA[<h3>Description</h3>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/129</id>
+        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛：手写文字擦除（赛题二）]]></title>
+        
+        <updated>2021-12-06T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/129"/>
+        <summary>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/129"><![CDATA[<h3>Description</h3>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/126</id>
