@@ -2,7 +2,7 @@
 
 
 
-## Workshop | Python 气象海洋数据分析 II <sup style="color:red">[new]<sup>  
+## Workshop | Python 气象海洋数据分析 II
 
 Link: https://www.kesci.com/home/competition/61a4a53db91a5300170f340e  
 Description: 疗程短，见效快  

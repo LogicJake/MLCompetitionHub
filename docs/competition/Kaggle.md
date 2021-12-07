@@ -62,7 +62,7 @@ Reward: 25000.0 USD
 
 Link: https://www.kaggle.com/c/lux-ai-2021  
 Description: Gather the most resources and survive the night!  
-Deadline: 2021-12-07T07:59:00+0800  
+Deadline: 2021-12-21T07:59:00+0800  
 Reward: 10000.0 USD  
 
 
