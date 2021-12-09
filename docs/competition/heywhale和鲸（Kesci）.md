@@ -91,10 +91,10 @@ Deadline: 2022-11-22T12:00:00+0800
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
 
 
-## 智能辅助诊疗创新设计方案征集
+## 和鲸社区·每周挑战
 
-Link: https://www.kesci.com/home/competition/6152c13b90fbdd0017b2c2ca  
-Description:   
-Deadline: 2021-12-11T23:59:00+0800  
-Reward: 论文发表推荐+机构合作机会  
+Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
+Description: 写项目，赢鲸币，开启你的数据分析之旅  
+Deadline: 2022-12-31T00:00:00+0800  
+Reward:   
 
