@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-09T15:59:09+08:00</updated>
+    <updated>2021-12-10T15:59:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -12,13 +12,13 @@
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/128</id>
-        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛：文档图像摩尔纹消除（赛题一）]]></title>
+        <title><![CDATA[百度网盘AI大赛：文档图像摩尔纹消除(赛题一)]]></title>
         
         <updated>2021-12-06T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/128"/>
-        <summary>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/128"><![CDATA[<h3>Description</h3>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
+        <summary>百度网盘AI大赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/128"><![CDATA[<h3>Description</h3>百度网盘AI大赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -26,13 +26,13 @@
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/129</id>
-        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛：手写文字擦除（赛题二）]]></title>
+        <title><![CDATA[百度网盘AI大赛：手写文字擦除(赛题二)]]></title>
         
         <updated>2021-12-06T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/129"/>
-        <summary>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/129"><![CDATA[<h3>Description</h3>百度网盘AI大赛——图像处理挑战赛是百度网盘开放平台面向AI开发者和爱好者发起的计算机视觉领域挑战赛，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
+        <summary>百度网盘AI大赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/129"><![CDATA[<h3>Description</h3>百度网盘AI大赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: ￥40,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -747,6 +747,20 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/61a48e49b91a5300170f3337</id>
+        <title><![CDATA[零基础学Python·闯关]]></title>
+        
+        <updated>2021-12-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"/>
+        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/61a4a53db91a5300170f340e</id>
         <title><![CDATA[Workshop | Python 气象海洋数据分析 II]]></title>
         
@@ -897,20 +911,6 @@
         <link href="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"/>
         <summary>动手学习，快乐刷题</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac</id>
-        <title><![CDATA[和鲸社区·每周挑战]]></title>
-        
-        <updated>2021-08-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"/>
-        <summary>写项目，赢鲸币，开启你的数据分析之旅</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"><![CDATA[<h3>Description</h3>写项目，赢鲸币，开启你的数据分析之旅<h3>Deadline: 2022-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>

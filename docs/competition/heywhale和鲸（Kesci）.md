@@ -2,6 +2,14 @@
 
 
 
+## 零基础学Python·闯关 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61a48e49b91a5300170f3337  
+Description: Python闯关，线上免费学习，自学刷题闯关  
+Deadline: 2024-12-31T00:00:00+0800  
+Reward: 鲸币+电子证书+社区周边  
+
+
 ## Workshop | Python 气象海洋数据分析 II
 
 Link: https://www.kesci.com/home/competition/61a4a53db91a5300170f340e  
@@ -89,12 +97,4 @@ Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 Description: 动手学习，快乐刷题  
 Deadline: 2022-11-22T12:00:00+0800  
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
-
-
-## 和鲸社区·每周挑战
-
-Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
-Description: 写项目，赢鲸币，开启你的数据分析之旅  
-Deadline: 2022-12-31T00:00:00+0800  
-Reward:   
 
