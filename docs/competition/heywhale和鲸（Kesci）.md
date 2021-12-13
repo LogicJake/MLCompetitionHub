@@ -2,7 +2,7 @@
 
 
 
-## 零基础学Python·闯关 <sup style="color:red">[new]<sup>  
+## 零基础学Python·闯关
 
 Link: https://www.kesci.com/home/competition/61a48e49b91a5300170f3337  
 Description: Python闯关，线上免费学习，自学刷题闯关  
