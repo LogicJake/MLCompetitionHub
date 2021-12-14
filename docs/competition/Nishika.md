@@ -26,14 +26,6 @@ Deadline: 2021-12-24T13:59:00+0800
 Reward: 各種賞品  
 
 
-## ケーブルコネクタの種類判別 
-
-Link: https://www.nishika.com/competitions/19  
-Description: ケーブルコネクタの種類判別   
-Deadline: 2021-10-22T13:59:00+0800  
-Reward: 15万円  
-
-
 ## 【トレーニングコンペ】中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/13  
