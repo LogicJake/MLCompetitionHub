@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-14T16:01:48+08:00</updated>
+    <updated>2021-12-15T16:03:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -619,6 +619,20 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/feedback-prize-2021</id>
+        <title><![CDATA[Feedback Prize - Evaluating Student Writing]]></title>
+        
+        <updated>2021-12-15T02:48:08+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/feedback-prize-2021"/>
+        <summary>Analyze argumentative writing elements from students grade 6-12 </summary>
+        <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-2021"><![CDATA[<h3>Description</h3>Analyze argumentative writing elements from students grade 6-12 <h3>Deadline: 2022-03-16T07:59:00+08:00</h3><h3>Reward: 160000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/tensorflow-great-barrier-reef</id>
         <title><![CDATA[TensorFlow - Help Protect the Great Barrier Reef ]]></title>
         
@@ -747,6 +761,176 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/61a48e49b91a5300170f3337</id>
+        <title><![CDATA[零基础学Python·闯关]]></title>
+        
+        <updated>2021-12-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"/>
+        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61a4a53db91a5300170f340e</id>
+        <title><![CDATA[Workshop | Python 气象海洋数据分析 II]]></title>
+        
+        <updated>2021-11-29T18:05:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"/>
+        <summary>疗程短，见效快</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"><![CDATA[<h3>Description</h3>疗程短，见效快<h3>Deadline: 2022-01-05T12:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9</id>
+        <title><![CDATA[预测分析·视频评分预测挑战赛]]></title>
+        
+        <updated>2021-11-26T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"/>
+        <summary>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"><![CDATA[<h3>Description</h3>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 机器学习+练习赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4</id>
+        <title><![CDATA[和鲸训练营·Python爬虫实战]]></title>
+        
+        <updated>2021-11-23T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"/>
+        <summary>玩转Python爬虫实战，从理论到实战进阶</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"><![CDATA[<h3>Description</h3>玩转Python爬虫实战，从理论到实战进阶<h3>Deadline: 2021-12-20T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9</id>
+        <title><![CDATA[《Python机器学习》 读书实践]]></title>
+        
+        <updated>2021-11-22T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6154198bc270e400182b11f9</id>
+        <title><![CDATA[Numpy+Pandas数据处理·闯关]]></title>
+        
+        <updated>2021-11-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"/>
+        <summary>Numpy+Pandas，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"><![CDATA[<h3>Description</h3>Numpy+Pandas，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61542939c270e400182b1294</id>
+        <title><![CDATA[Python基础·闯关]]></title>
+        
+        <updated>2021-11-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61542939c270e400182b1294"/>
+        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61542939c270e400182b1294"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951</id>
+        <title><![CDATA[超友好！气象 Python 训练营  ④ 进阶应用]]></title>
+        
+        <updated>2021-11-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/615fc810c270e400182b23f8</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ① 快速入门]]></title>
+        
+        <updated>2021-10-21T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6163d190b3c89100171fcedc</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ② 基础应用]]></title>
+        
+        <updated>2021-10-21T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6163d190b3c89100171fcedc"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ③ 数组进阶]]></title>
+        
+        <updated>2021-10-20T16:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac</id>
+        <title><![CDATA[和鲸社区·每周挑战]]></title>
+        
+        <updated>2021-08-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"/>
+        <summary>写项目，赢鲸币，开启你的数据分析之旅</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"><![CDATA[<h3>Description</h3>写项目，赢鲸币，开启你的数据分析之旅<h3>Deadline: 2022-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
         <id>https://www.nishika.com/competitions/22</id>
         <title><![CDATA[AI×商標：イメージサーチコンペティション（類似商標画像の検出）]]></title>
         
@@ -833,78 +1017,6 @@
     
     
     
-    
-    
-    
-    <entry>
-        <id>https://zindi.africa/competitions/turtle-recall-conservation-challenge</id>
-        <title><![CDATA[Turtle Recall: Conservation Challenge]]></title>
-        
-        <updated>2021-11-19T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/turtle-recall-conservation-challenge"/>
-        <summary>Can you build a facial recognition model... for turtles?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/turtle-recall-conservation-challenge"><![CDATA[<h3>Description</h3>Can you build a facial recognition model... for turtles?<h3>Deadline: 2022-03-14T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/kenyan-sign-language-classification-challenge</id>
-        <title><![CDATA[Task Mate Kenyan Sign Language Classification Challenge]]></title>
-        
-        <updated>2021-11-08T07:59:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/kenyan-sign-language-classification-challenge"/>
-        <summary>Can you classify words in Kenyan Sign Language? </summary>
-        <content type="text/html" src="https://zindi.africa/competitions/kenyan-sign-language-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify words in Kenyan Sign Language? <h3>Deadline: 2022-02-28T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge</id>
-        <title><![CDATA[bloods.ai Blood Spectroscopy Classification Challenge]]></title>
-        
-        <updated>2021-10-19T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"/>
-        <summary>Given blood spectroscopy readings can you predict which compounds are in the blood?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"><![CDATA[<h3>Description</h3>Given blood spectroscopy readings can you predict which compounds are in the blood?<h3>Deadline: 2022-02-14T07:59:00+08:00</h3><h3>Reward: $7 500 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition</id>
-        <title><![CDATA[Mozilla Luganda Automatic Speech Recognition]]></title>
-        
-        <updated>2021-10-13T20:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition"/>
-        <summary>Can you create an Automatic Speech Recognition model for Luganda?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition"><![CDATA[<h3>Description</h3>Can you create an Automatic Speech Recognition model for Luganda?<h3>Deadline: 2022-01-17T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge</id>
-        <title><![CDATA[Zindi User Behaviour Birthday Challenge]]></title>
-        
-        <updated>2021-09-24T14:00:00+08:00</updated>
-        
-        <link href="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"/>
-        <summary>Can you predict which users will be active on Zindi in the next month?</summary>
-        <content type="text/html" src="https://zindi.africa/competitions/zindi-user-behaviour-birthday-challenge"><![CDATA[<h3>Description</h3>Can you predict which users will be active on Zindi in the next month?<h3>Deadline: 2022-01-24T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[ZINDI]]></name>
-        </author>
-    </entry>
     
     
 </feed>

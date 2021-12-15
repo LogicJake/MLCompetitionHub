@@ -2,6 +2,14 @@
 
 
 
+## Feedback Prize - Evaluating Student Writing <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/feedback-prize-2021  
+Description: Analyze argumentative writing elements from students grade 6-12   
+Deadline: 2022-03-16T07:59:00+0800  
+Reward: 160000.0 USD  
+
+
 ## TensorFlow - Help Protect the Great Barrier Reef 
 
 Link: https://www.kaggle.com/c/tensorflow-great-barrier-reef  

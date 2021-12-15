@@ -58,15 +58,6 @@ Deadline: 2024-12-31T00:00:00+0800
 Reward: 鲸币+电子证书+社区周边  
 
 
-## 和鲸训练营·商业数据可视化
-
-Link: https://www.kesci.com/home/competition/6189ee9f7b6f7d001813a922  
-Description: 数据分析师带你玩转商业数据可视化，真实业务场景下如何应用可视化完成工作，本次训练营带你深入了解ython可视化神器-Pyecharts。
-  
-Deadline: 2021-12-15T00:00:00+0800  
-Reward: 鲸币🐳 +周边+购物卡  
-
-
 ## 超友好！气象 Python 训练营  ④ 进阶应用
 
 Link: https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951  
@@ -97,4 +88,12 @@ Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 Description: 动手学习，快乐刷题  
 Deadline: 2022-11-22T12:00:00+0800  
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
+
+
+## 和鲸社区·每周挑战
+
+Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
+Description: 写项目，赢鲸币，开启你的数据分析之旅  
+Deadline: 2022-12-31T00:00:00+0800  
+Reward:   
 
