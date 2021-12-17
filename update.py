@@ -43,7 +43,13 @@ datas = []
 competitions = []
 
 for _, module_name, _ in pkgutil.iter_modules(['source']):
-    if module_name in ['futurelab', 'flyai', 'huaweicloud']:
+    # if module_name not in ['signate']:
+    #     continue
+    '''
+    死亡时间:
+    dianshi: 2021.12.17 点石竞赛平台error page
+    '''
+    if module_name in ['futurelab', 'flyai', 'huaweicloud', 'dianshi']:
         continue
 
     try:
@@ -61,6 +67,7 @@ for _, module_name, _ in pkgutil.iter_modules(['source']):
     except Exception as e:
         print(module_name)
         print(e)
+        raise e
 
 # 数据渲染
 for module_name in mode_actions:

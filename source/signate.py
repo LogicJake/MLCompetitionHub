@@ -1,6 +1,6 @@
 import json
 from datetime import datetime
-
+import re
 import requests
 from lxml import etree
 
@@ -8,7 +8,7 @@ PLATFORM_NAME = 'SIGNATE'
 
 
 def get_data():
-    url = 'https://signate.jp/competitions/with-prizes?per=20'
+    url = 'https://signate.jp/competitions/'
 
     response = requests.get(url=url)
     html = response.text
@@ -17,6 +17,10 @@ def get_data():
     text = html.cssselect('#app component')[0]
     text = text.attrib['v-bind']
     text = text.encode('utf-8').decode('unicode_escape')
+
+    # bad case json key中存在引号，解析失败
+    pattern = re.compile(r'("実践的な学び")')
+    text = re.sub(pattern, '実践的な学び', text)
 
     data = {'name': PLATFORM_NAME}
     cps_raw = json.loads(text)['competitions']
