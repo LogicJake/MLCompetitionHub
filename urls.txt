@@ -721,3 +721,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/129
 https://www.kesci.com/home/competition/61a48e49b91a5300170f3337
 https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition
 https://www.kaggle.com/c/feedback-prize-2021
+https://challenge.datacastle.cn/v3/cmptDetail.html?id=604
+https://signate.jp/competitions/563
