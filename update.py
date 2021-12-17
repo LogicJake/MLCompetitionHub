@@ -67,7 +67,6 @@ for _, module_name, _ in pkgutil.iter_modules(['source']):
     except Exception as e:
         print(module_name)
         print(e)
-        raise e
 
 # 数据渲染
 for module_name in mode_actions:
