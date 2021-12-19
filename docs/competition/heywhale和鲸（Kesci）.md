@@ -2,6 +2,14 @@
 
 
 
+## 2021全国人工智能大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23  
+Description:   
+Deadline: 2022-04-15T00:00:00+0800  
+Reward:   
+
+
 ## 零基础学Python·闯关
 
 Link: https://www.kesci.com/home/competition/61a48e49b91a5300170f3337  
@@ -88,12 +96,4 @@ Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 Description: 动手学习，快乐刷题  
 Deadline: 2022-11-22T12:00:00+0800  
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
-
-
-## 和鲸社区·每周挑战
-
-Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
-Description: 写项目，赢鲸币，开启你的数据分析之旅  
-Deadline: 2022-12-31T00:00:00+0800  
-Reward:   
 

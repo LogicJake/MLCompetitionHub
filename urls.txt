@@ -723,3 +723,4 @@ https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition
 https://www.kaggle.com/c/feedback-prize-2021
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=604
 https://signate.jp/competitions/563
+https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23
