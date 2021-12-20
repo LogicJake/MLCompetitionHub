@@ -2,7 +2,7 @@
 
 
 
-## 第三届厦门国际银行数创金融杯金融营销建模大赛 <sup style="color:red">[new]<sup>  
+## 第三届厦门国际银行数创金融杯金融营销建模大赛
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=604  
 Description: 此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。

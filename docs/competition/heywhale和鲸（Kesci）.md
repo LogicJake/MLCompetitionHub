@@ -34,14 +34,6 @@ Deadline: 2042-12-31T00:00:00+0800
 Reward: 机器学习+练习赛  
 
 
-## 和鲸训练营·Python爬虫实战
-
-Link: https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4  
-Description: 玩转Python爬虫实战，从理论到实战进阶  
-Deadline: 2021-12-20T00:00:00+0800  
-Reward: 鲸币🐳 +周边+购物卡  
-
-
 ## 《Python机器学习》 读书实践
 
 Link: https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9  
@@ -96,4 +88,12 @@ Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f
 Description: 动手学习，快乐刷题  
 Deadline: 2022-11-22T12:00:00+0800  
 Reward: 鲸币+电子证书+社区花样周边+购物卡  
+
+
+## 和鲸社区·每周挑战
+
+Link: https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac  
+Description: 写项目，赢鲸币，开启你的数据分析之旅  
+Deadline: 2022-12-31T00:00:00+0800  
+Reward:   
 

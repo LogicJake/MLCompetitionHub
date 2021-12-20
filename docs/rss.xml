@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-19T15:59:15+08:00</updated>
+    <updated>2021-12-20T15:59:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -125,20 +125,6 @@
     
     
     <entry>
-        <id>https://www.biendata.xyz/competition/qhxmz/</id>
-        <title><![CDATA[清华-西门子智能开发赛]]></title>
-        
-        <updated>2021-11-14T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/qhxmz/"/>
-        <summary>清华-西门子智能开发赛</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/qhxmz/"><![CDATA[<h3>Description</h3>清华-西门子智能开发赛<h3>Deadline: 2021-12-19T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/qkl-2/</id>
         <title><![CDATA[2021未来杯区块链应用创新大赛-区块链工具开发]]></title>
         
@@ -167,20 +153,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/maxp_innovation/</id>
-        <title><![CDATA[2021 MAXP Innovation Track]]></title>
-        
-        <updated>2021-09-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
-        <summary>2021 MAXP Innovation Track</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
         <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
         
@@ -203,6 +175,20 @@
         <link href="https://www.biendata.xyz/competition/maxp_dgl/"/>
         <summary>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/maxp_dgl/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥180,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/maxp_innovation/</id>
+        <title><![CDATA[2021 MAXP Innovation Track]]></title>
+        
+        <updated>2021-09-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
+        <summary>2021 MAXP Innovation Track</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -251,56 +237,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
-        <title><![CDATA[OpenBookQA Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
-        <summary>OpenBookQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/sciq/</id>
-        <title><![CDATA[SciQ Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/sciq/"/>
-        <summary>SciQ Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/mctest/</id>
-        <title><![CDATA[MCTest Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/mctest/"/>
-        <summary>MCTest Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -349,6 +293,62 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
+        <title><![CDATA[OpenBookQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
+        <summary>OpenBookQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mctest/</id>
+        <title><![CDATA[MCTest Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mctest/"/>
+        <summary>MCTest Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/mutual/</id>
         <title><![CDATA[MuTual Dataset]]></title>
         
@@ -371,20 +371,6 @@
         <link href="https://www.biendata.xyz/competition/race_c/"/>
         <summary>RACE-C Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race/</id>
-        <title><![CDATA[RACE Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race/"/>
-        <summary>RACE Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -823,20 +809,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4</id>
-        <title><![CDATA[和鲸训练营·Python爬虫实战]]></title>
-        
-        <updated>2021-11-23T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"/>
-        <summary>玩转Python爬虫实战，从理论到实战进阶</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6194d0599bdbc5001895bcd4"><![CDATA[<h3>Description</h3>玩转Python爬虫实战，从理论到实战进阶<h3>Deadline: 2021-12-20T00:00:00+08:00</h3><h3>Reward: 鲸币🐳 +周边+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9</id>
         <title><![CDATA[《Python机器学习》 读书实践]]></title>
         
@@ -934,6 +906,20 @@
         </author>
     </entry>
     
+    <entry>
+        <id>https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac</id>
+        <title><![CDATA[和鲸社区·每周挑战]]></title>
+        
+        <updated>2021-08-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"/>
+        <summary>写项目，赢鲸币，开启你的数据分析之旅</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/60ffe026e9eceb001727cfac"><![CDATA[<h3>Description</h3>写项目，赢鲸币，开启你的数据分析之旅<h3>Deadline: 2022-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -1026,7 +1012,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2021-12-19T15:59:15+08:00</updated>
+        <updated>2021-12-20T15:59:04+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1040,7 +1026,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-12-19T15:59:15+08:00</updated>
+        <updated>2021-12-20T15:59:04+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
