@@ -2,6 +2,14 @@
 
 
 
+## 空戦AIチャレンジ <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/23  
+Description: 空戦AIチャレンジ  
+Deadline: 2022-02-25T13:59:00+0800  
+Reward: 100万円  
+
+
 ## AI×商標：イメージサーチコンペティション（類似商標画像の検出）
 
 Link: https://www.nishika.com/competitions/22  

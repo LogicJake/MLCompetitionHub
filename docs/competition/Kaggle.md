@@ -2,7 +2,7 @@
 
 
 
-## Feedback Prize - Evaluating Student Writing <sup style="color:red">[new]<sup>  
+## Feedback Prize - Evaluating Student Writing
 
 Link: https://www.kaggle.com/c/feedback-prize-2021  
 Description: Analyze argumentative writing elements from students grade 6-12   
