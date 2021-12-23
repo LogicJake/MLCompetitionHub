@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-22T15:59:18+08:00</updated>
+    <updated>2021-12-23T15:59:14+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -602,7 +602,21 @@
 厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。</summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=604"><![CDATA[<h3>Description</h3>此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
 厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2021全球银行1000强”榜单中，本行按总资产排名第158位，按一级资本排名第180位，连续五年入围全球银行200强。
-厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2022-01-25T15:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2022-02-14T15:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-12-17T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>城市网格化管理，是将城市管理辖区按照一定的标准划分为单元网格。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>城市网格化管理，是将城市管理辖区按照一定的标准划分为单元网格。<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1040,7 +1054,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2021-12-22T15:59:18+08:00</updated>
+        <updated>2021-12-23T15:59:14+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1054,7 +1068,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-12-22T15:59:18+08:00</updated>
+        <updated>2021-12-23T15:59:14+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>

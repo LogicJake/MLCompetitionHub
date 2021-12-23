@@ -727,3 +727,4 @@ https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=606
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=608
 https://www.nishika.com/competitions/23
+https://challenge.datacastle.cn/v3/cmptDetail.html?id=616

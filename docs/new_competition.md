@@ -1,11 +1,11 @@
-> 更新时间: 2021-12-22T15:59:18+0800 
+> 更新时间: 2021-12-23T15:59:14+0800 
 
 # 新上线比赛
 
 
-## 空戦AIチャレンジ
-Link: https://www.nishika.com/competitions/23  
-Description: 空戦AIチャレンジ  
-Deadline: 2022-02-25T13:59:00+0800  
-Reward: 100万円  
+## 网格事件智能分类
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=616  
+Description: 城市网格化管理，是将城市管理辖区按照一定的标准划分为单元网格。  
+Deadline: 2022-03-29T15:00:00+0800  
+Reward: ¥100000  
 
