@@ -18,14 +18,6 @@ Deadline: 2022-01-31T13:59:00+0800
 Reward: 50万円  
 
 
-## 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~
-
-Link: https://www.nishika.com/competitions/21  
-Description: 小説家になろう ブクマ数予測 ~”伸びる”タイトルとは？~  
-Deadline: 2021-11-29T13:59:00+0800  
-Reward: 15万円  
-
-
 ## 中古マンション価格予測 2021秋の部
 
 Link: https://www.nishika.com/competitions/20  
