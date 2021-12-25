@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-24T15:58:59+08:00</updated>
+    <updated>2021-12-25T15:58:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -125,20 +125,6 @@
     
     
     <entry>
-        <id>https://www.biendata.xyz/competition/qkl-2/</id>
-        <title><![CDATA[2021未来杯区块链应用创新大赛-区块链工具开发]]></title>
-        
-        <updated>2021-09-24T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/qkl-2/"/>
-        <summary>2021未来杯区块链应用创新大赛-区块链工具开发</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-2/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-区块链工具开发<h3>Deadline: 2022-01-22T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/qkl-1/</id>
         <title><![CDATA[2021未来杯区块链应用创新大赛-应用场景创新]]></title>
         
@@ -147,6 +133,20 @@
         <link href="https://www.biendata.xyz/competition/qkl-1/"/>
         <summary>2021未来杯区块链应用创新大赛-应用场景创新</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/qkl-1/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-应用场景创新<h3>Deadline: 2022-01-22T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/qkl-2/</id>
+        <title><![CDATA[2021未来杯区块链应用创新大赛-区块链工具开发]]></title>
+        
+        <updated>2021-09-24T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/qkl-2/"/>
+        <summary>2021未来杯区块链应用创新大赛-区块链工具开发</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-2/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-区块链工具开发<h3>Deadline: 2022-01-22T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -167,20 +167,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
-        <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
-        
-        <updated>2021-09-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/maxp_lambda/"/>
-        <summary>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_lambda/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/maxp_innovation/</id>
         <title><![CDATA[2021 MAXP Innovation Track]]></title>
         
@@ -189,6 +175,20 @@
         <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
         <summary>2021 MAXP Innovation Track</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
+        <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
+        
+        <updated>2021-09-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/maxp_lambda/"/>
+        <summary>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_lambda/"><![CDATA[<h3>Description</h3>2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算<h3>Deadline: 2021-12-31T08:00:00+08:00</h3><h3>Reward: ￥80,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -1012,7 +1012,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2021-12-24T15:58:59+08:00</updated>
+        <updated>2021-12-25T15:58:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1026,7 +1026,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-12-24T15:58:59+08:00</updated>
+        <updated>2021-12-25T15:58:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
