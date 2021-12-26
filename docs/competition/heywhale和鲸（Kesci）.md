@@ -2,7 +2,7 @@
 
 
 
-## 2021全国人工智能大赛 <sup style="color:red">[new]<sup>  
+## 2021全国人工智能大赛
 
 Link: https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23  
 Description:   
