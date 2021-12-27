@@ -729,3 +729,4 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=608
 https://www.nishika.com/competitions/23
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=616
 https://www.datafountain.cn/competitions/557
+https://aistudio.baidu.com/aistudio/competition/detail/127

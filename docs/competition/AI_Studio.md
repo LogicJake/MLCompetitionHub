@@ -2,6 +2,14 @@
 
 
 
+## 基于飞桨实现乒乓球时序动作定位大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/127  
+Description: 时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。  
+Deadline: 2022-03-10T08:00:00+0800  
+Reward: ¥20,000+特别礼包  
+
+
 ## 百度网盘AI大赛：文档图像摩尔纹消除(赛题一)
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/128  
@@ -56,12 +64,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/125
 Description: “AI创意派”是百度大脑打造的百度认知AI创意赛，百度将开放自研的ERNIE3.0知识增强大模型能力，让每一位对AI感兴趣的人可以充分发挥创造力，实现关于文字、语言的创意想法。  
 Deadline: 2022-01-05T08:00:00+0800  
 Reward: ¥105,000+AI派大礼包  
-
-
-## 2021“智荟杯”浦发百度高校极客挑战赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/123  
-Description: 本次大赛设立“方案赛道“和”算法赛道”两个赛道；本平台不提供报名服务，报名方式详见页面“参赛方式及规则”  
-Deadline: 2022-01-31T08:00:00+0800  
-Reward: ¥440,000  
 
