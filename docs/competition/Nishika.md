@@ -2,6 +2,14 @@
 
 
 
+## 中古マンション価格予測 2022冬の部 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/25  
+Description: 中古マンション価格予測 2022冬の部  
+Deadline: 2022-03-31T13:59:00+0800  
+Reward: 各種賞品  
+
+
 ## 空戦AIチャレンジ <sup style="color:red">[new]<sup>  
 
 Link: https://www.nishika.com/competitions/23  
