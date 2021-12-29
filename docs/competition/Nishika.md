@@ -10,7 +10,7 @@ Deadline: 2022-03-31T13:59:00+0800
 Reward: 各種賞品  
 
 
-## 空戦AIチャレンジ <sup style="color:red">[new]<sup>  
+## 空戦AIチャレンジ
 
 Link: https://www.nishika.com/competitions/23  
 Description: 空戦AIチャレンジ  
