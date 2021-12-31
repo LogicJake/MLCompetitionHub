@@ -42,14 +42,6 @@ Deadline: 2022-02-02T07:59:00+0800
 Reward: 125000.0 USD  
 
 
-## Sartorius - Cell Instance Segmentation
-
-Link: https://www.kaggle.com/c/sartorius-cell-instance-segmentation  
-Description: Detect single neuronal cells in microscopy images  
-Deadline: 2021-12-31T07:59:00+0800  
-Reward: 75000.0 USD  
-
-
 ## NFL Big Data Bowl 2022
 
 Link: https://www.kaggle.com/c/nfl-big-data-bowl-2022  

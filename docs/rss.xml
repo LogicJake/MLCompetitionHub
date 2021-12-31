@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2021-12-30T15:58:58+08:00</updated>
+    <updated>2021-12-31T15:59:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -153,20 +153,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/maxp_innovation/</id>
-        <title><![CDATA[2021 MAXP Innovation Track]]></title>
-        
-        <updated>2021-09-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/maxp_innovation/"/>
-        <summary>2021 MAXP Innovation Track</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/maxp_innovation/"><![CDATA[<h3>Description</h3>2021 MAXP Innovation Track<h3>Deadline: 2021-12-30T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/maxp_lambda/</id>
         <title><![CDATA[2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算]]></title>
         
@@ -237,42 +223,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/mutual/</id>
-        <title><![CDATA[MuTual Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/mutual/"/>
-        <summary>MuTual Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race_c/</id>
-        <title><![CDATA[RACE-C Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race_c/"/>
-        <summary>RACE-C Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
-        <title><![CDATA[CommonsenseQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
-        <summary>CommonsenseQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -307,14 +265,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/mctest/</id>
-        <title><![CDATA[MCTest Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/mctest/"/>
-        <summary>MCTest Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -335,6 +293,34 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/mctest/</id>
+        <title><![CDATA[MCTest Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mctest/"/>
+        <summary>MCTest Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/race/</id>
         <title><![CDATA[RACE Dataset]]></title>
         
@@ -349,20 +335,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/sciq/</id>
-        <title><![CDATA[SciQ Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/sciq/"/>
-        <summary>SciQ Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/logiqa/</id>
         <title><![CDATA[LogiQA Dataset]]></title>
         
@@ -371,6 +343,20 @@
         <link href="https://www.biendata.xyz/competition/logiqa/"/>
         <summary>LogiQA Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -401,202 +387,6 @@
         <link href="https://www.datafountain.cn/competitions/549"/>
         <summary>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 </summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/549"><![CDATA[<h3>Description</h3>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 <h3>Deadline: 2022-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/539</id>
-        <title><![CDATA[泛在感知数据关联融合计算]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/539"/>
-        <summary>泛在感知数据关联融合计算</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/539"><![CDATA[<h3>Description</h3>泛在感知数据关联融合计算<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/538</id>
-        <title><![CDATA[基于BERT的大模型容量挑战赛]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/538"/>
-        <summary>基于BERT的大模型容量挑战赛</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/538"><![CDATA[<h3>Description</h3>基于BERT的大模型容量挑战赛<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/537</id>
-        <title><![CDATA[系统认证风险预测]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/537"/>
-        <summary>系统认证风险预测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/537"><![CDATA[<h3>Description</h3>系统认证风险预测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/536</id>
-        <title><![CDATA[客服通话文本摘要提取]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/536"/>
-        <summary>客服通话文本摘要提取</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/536"><![CDATA[<h3>Description</h3>客服通话文本摘要提取<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/532</id>
-        <title><![CDATA[大规模金融仿真图数据中金融交易环路查询的设计与性能优化]]></title>
-        
-        <updated>2021-09-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/532"/>
-        <summary>大规模金融仿真图数据中金融交易环路查询的设计与性能优化</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/532"><![CDATA[<h3>Description</h3>大规模金融仿真图数据中金融交易环路查询的设计与性能优化<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/530</id>
-        <title><![CDATA[个贷违约预测]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/530"/>
-        <summary>个贷违约预测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/530"><![CDATA[<h3>Description</h3>个贷违约预测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/529</id>
-        <title><![CDATA[产品评论观点提取]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/529"/>
-        <summary>产品评论观点提取</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/529"><![CDATA[<h3>Description</h3>产品评论观点提取<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/522</id>
-        <title><![CDATA[POI名称生成]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/522"/>
-        <summary>POI名称生成</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/522"><![CDATA[<h3>Description</h3>POI名称生成<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/527</id>
-        <title><![CDATA[openLooKeng跨域数据分析性能提升]]></title>
-        
-        <updated>2021-09-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/527"/>
-        <summary>openLooKeng跨域数据分析性能提升</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/527"><![CDATA[<h3>Description</h3>openLooKeng跨域数据分析性能提升<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/528</id>
-        <title><![CDATA[基于MindSpore AI框架实现零售商品识别]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/528"/>
-        <summary>基于MindSpore AI框架实现零售商品识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/528"><![CDATA[<h3>Description</h3>基于MindSpore AI框架实现零售商品识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/520</id>
-        <title><![CDATA[基于UEBA的用户上网异常行为分析]]></title>
-        
-        <updated>2021-09-16T15:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/520"/>
-        <summary>基于UEBA的用户上网异常行为分析</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/520"><![CDATA[<h3>Description</h3>基于UEBA的用户上网异常行为分析<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/519</id>
-        <title><![CDATA[基于飞桨实现花样滑冰选手骨骼点动作识别]]></title>
-        
-        <updated>2021-09-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/519"/>
-        <summary>基于飞桨实现花样滑冰选手骨骼点动作识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/519"><![CDATA[<h3>Description</h3>基于飞桨实现花样滑冰选手骨骼点动作识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/518</id>
-        <title><![CDATA[剧本角色情感识别]]></title>
-        
-        <updated>2021-09-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/518"/>
-        <summary>剧本角色情感识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/518"><![CDATA[<h3>Description</h3>剧本角色情感识别<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥40000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/516</id>
-        <title><![CDATA[千言-问题匹配鲁棒性评测]]></title>
-        
-        <updated>2021-09-16T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/516"/>
-        <summary>千言-问题匹配鲁棒性评测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/516"><![CDATA[<h3>Description</h3>千言-问题匹配鲁棒性评测<h3>Deadline: 2021-12-30T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -805,6 +595,20 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=618</id>
+        <title><![CDATA[基于多源车辆GPS数据的智慧交通应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"/>
+        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=611</id>
         <title><![CDATA[道路积水预测]]></title>
         
@@ -827,6 +631,34 @@
         <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"/>
         <summary>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。</summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"><![CDATA[<h3>Description</h3>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥132000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -859,34 +691,6 @@
 </summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
 <h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1099,20 +903,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/sartorius-cell-instance-segmentation</id>
-        <title><![CDATA[Sartorius - Cell Instance Segmentation]]></title>
-        
-        <updated>2021-10-15T03:57:51+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/sartorius-cell-instance-segmentation"/>
-        <summary>Detect single neuronal cells in microscopy images</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/sartorius-cell-instance-segmentation"><![CDATA[<h3>Description</h3>Detect single neuronal cells in microscopy images<h3>Deadline: 2021-12-31T07:59:00+08:00</h3><h3>Reward: 75000.0 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kaggle.com/c/nfl-big-data-bowl-2022</id>
         <title><![CDATA[NFL Big Data Bowl 2022]]></title>
         
@@ -1220,7 +1010,7 @@
         
         <link href="https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9"/>
         <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9"><![CDATA[<h3>Description</h3><h3>Deadline: 2021-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9"><![CDATA[<h3>Description</h3><h3>Deadline: 2022-01-20T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1430,7 +1220,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2021-12-30T15:58:58+08:00</updated>
+        <updated>2021-12-31T15:59:13+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1444,7 +1234,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2021-12-30T15:58:58+08:00</updated>
+        <updated>2021-12-31T15:59:13+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>

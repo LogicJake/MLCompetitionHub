@@ -38,7 +38,7 @@ Reward: 机器学习+练习赛
 
 Link: https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9  
 Description:   
-Deadline: 2021-12-31T00:00:00+0800  
+Deadline: 2022-01-20T00:00:00+0800  
 Reward:   
 
 
