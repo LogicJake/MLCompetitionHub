@@ -18,22 +18,6 @@ Deadline: 2022-01-22T08:00:00+0800
 Reward: ￥50,000  
 
 
-## 2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算
-
-Link: https://www.biendata.xyz/competition/maxp_lambda/  
-Description: 2021 MAXP 命题赛 任务二：基于Lambda的无服务器计算  
-Deadline: 2021-12-31T08:00:00+0800  
-Reward: ￥80,000  
-
-
-## 2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务
-
-Link: https://www.biendata.xyz/competition/maxp_dgl/  
-Description: 2021 MAXP 命题赛 任务一：基于DGL的图机器学习任务  
-Deadline: 2021-12-31T08:00:00+0800  
-Reward: ￥180,000  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
@@ -58,10 +42,26 @@ Deadline: 2030-06-30T08:00:00+0800
 Reward: Interst  
 
 
+## C3 Dataset
+
+Link: https://www.biendata.xyz/competition/c3/  
+Description: C3 Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
 ## SciQ Dataset
 
 Link: https://www.biendata.xyz/competition/sciq/  
 Description: SciQ Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## MCTest Dataset
+
+Link: https://www.biendata.xyz/competition/mctest/  
+Description: MCTest Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
@@ -90,18 +90,10 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## C3 Dataset
+## MuTual Dataset
 
-Link: https://www.biendata.xyz/competition/c3/  
-Description: C3 Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## MCTest Dataset
-
-Link: https://www.biendata.xyz/competition/mctest/  
-Description: MCTest Dataset  
+Link: https://www.biendata.xyz/competition/mutual/  
+Description: MuTual Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
@@ -126,14 +118,6 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/logiqa/  
 Description: LogiQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## MuTual Dataset
-
-Link: https://www.biendata.xyz/competition/mutual/  
-Description: MuTual Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
