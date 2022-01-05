@@ -2,7 +2,7 @@
 
 
 
-## 基于飞桨实现乒乓球时序动作定位大赛 <sup style="color:red">[new]<sup>  
+## 基于飞桨实现乒乓球时序动作定位大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/127  
 Description: 时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。  

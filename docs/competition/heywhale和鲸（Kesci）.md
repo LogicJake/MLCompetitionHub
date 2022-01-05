@@ -22,7 +22,7 @@ Reward: 鲸币+电子证书+社区周边
 
 Link: https://www.kesci.com/home/competition/61a4a53db91a5300170f340e  
 Description: 疗程短，见效快  
-Deadline: 2022-01-05T12:00:00+0800  
+Deadline: 2022-01-14T12:00:00+0800  
 Reward:   
 
 
