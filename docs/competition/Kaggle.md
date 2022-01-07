@@ -42,14 +42,6 @@ Deadline: 2022-02-02T07:59:00+0800
 Reward: 125000.0 USD  
 
 
-## NFL Big Data Bowl 2022
-
-Link: https://www.kaggle.com/c/nfl-big-data-bowl-2022  
-Description: Help evaluate special teams performance  
-Deadline: 2022-01-07T07:59:00+0800  
-Reward: 100000.0 USD  
-
-
 ## PetFinder.my - Pawpularity Contest
 
 Link: https://www.kaggle.com/c/petfinder-pawpularity-score  
