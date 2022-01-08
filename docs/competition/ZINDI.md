@@ -2,6 +2,14 @@
 
 
 
+## Hack the Continent Open Buildings Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge  
+Description: Can you put Google’s Open Buildings Geospatial analysis dataset to good use in Africa?   
+Deadline: 2022-04-11T07:59:00+0800  
+Reward: $3 000 USD  
+
+
 ## Turtle Recall: Conservation Challenge
 
 Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  

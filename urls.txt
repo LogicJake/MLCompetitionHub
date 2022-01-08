@@ -757,3 +757,4 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=575
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=573
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=576
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=618
+https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge
