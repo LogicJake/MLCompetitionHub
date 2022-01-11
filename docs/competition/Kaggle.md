@@ -22,7 +22,7 @@ Reward: 150000.0 USD
 
 Link: https://www.kaggle.com/c/santa-2021  
 Description: Optimize television programming for the winter season  
-Deadline: 2022-01-12T07:59:00+0800  
+Deadline: 2022-01-13T07:59:00+0800  
 Reward: 25000.0 USD  
 
 
@@ -46,14 +46,6 @@ Reward: 125000.0 USD
 
 Link: https://www.kaggle.com/c/petfinder-pawpularity-score  
 Description: Predict the popularity of shelter pet photos  
-Deadline: 2022-01-14T07:59:00+0800  
+Deadline: 2022-01-15T07:59:00+0800  
 Reward: 25000.0 USD  
-
-
-## Optiver Realized Volatility Prediction
-
-Link: https://www.kaggle.com/c/optiver-realized-volatility-prediction  
-Description: Apply your data science skills to make financial markets better  
-Deadline: 2022-01-11T07:59:00+0800  
-Reward: 100000.0 USD  
 
