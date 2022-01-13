@@ -18,14 +18,6 @@ Deadline: 2022-02-15T07:59:00+0800
 Reward: 150000.0 USD  
 
 
-## Santa 2021 - The Merry Movie Montage
-
-Link: https://www.kaggle.com/c/santa-2021  
-Description: Optimize television programming for the winter season  
-Deadline: 2022-01-13T07:59:00+0800  
-Reward: 25000.0 USD  
-
-
 ## Jigsaw Rate Severity of Toxic Comments   
 
 Link: https://www.kaggle.com/c/jigsaw-toxic-severity-rating  
