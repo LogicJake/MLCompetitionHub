@@ -758,3 +758,4 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=573
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=576
 https://challenge.datacastle.cn/v3/cmptDetail.html?id=618
 https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge
+https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d

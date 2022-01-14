@@ -2,6 +2,14 @@
 
 
 
+## 20天学会PyTorch <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d  
+Description: GitHub 2.8K+ Stars 🌟  
+Deadline: 2022-02-28T00:00:00+0800  
+Reward:   
+
+
 ## 2021全国人工智能大赛
 
 Link: https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23  
@@ -16,14 +24,6 @@ Link: https://www.kesci.com/home/competition/61a48e49b91a5300170f3337
 Description: Python闯关，线上免费学习，自学刷题闯关  
 Deadline: 2024-12-31T00:00:00+0800  
 Reward: 鲸币+电子证书+社区周边  
-
-
-## Workshop | Python 气象海洋数据分析 II
-
-Link: https://www.kesci.com/home/competition/61a4a53db91a5300170f340e  
-Description: 疗程短，见效快  
-Deadline: 2022-01-14T12:00:00+0800  
-Reward:   
 
 
 ## 预测分析·视频评分预测挑战赛
