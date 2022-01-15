@@ -2,6 +2,14 @@
 
 
 
+## 商业数据分析冬令营·互联网运营 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e  
+Description: 数据大公开，带你玩转互联网商业数据分析  
+Deadline: 2022-03-01T00:00:00+0800  
+Reward:   
+
+
 ## 20天学会PyTorch <sup style="color:red">[new]<sup>  
 
 Link: https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d  
@@ -32,14 +40,6 @@ Link: https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9
 Description: DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。  
 Deadline: 2042-12-31T00:00:00+0800  
 Reward: 机器学习+练习赛  
-
-
-## 《Python机器学习》 读书实践
-
-Link: https://www.kesci.com/home/competition/6188defe7b6f7d001813a3e9  
-Description:   
-Deadline: 2022-01-20T00:00:00+0800  
-Reward:   
 
 
 ## Numpy+Pandas数据处理·闯关

@@ -1,11 +1,11 @@
-> 更新时间: 2022-01-14T15:59:12+0800 
+> 更新时间: 2022-01-15T15:59:25+0800 
 
 # 新上线比赛
 
 
-## 20天学会PyTorch
-Link: https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d  
-Description: GitHub 2.8K+ Stars 🌟  
-Deadline: 2022-02-28T00:00:00+0800  
+## 商业数据分析冬令营·互联网运营
+Link: https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e  
+Description: 数据大公开，带你玩转互联网商业数据分析  
+Deadline: 2022-03-01T00:00:00+0800  
 Reward:   
 

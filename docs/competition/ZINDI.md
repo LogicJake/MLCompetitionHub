@@ -2,7 +2,7 @@
 
 
 
-## Hack the Continent Open Buildings Challenge <sup style="color:red">[new]<sup>  
+## Hack the Continent Open Buildings Challenge
 
 Link: https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge  
 Description: Can you put Google’s Open Buildings Geospatial analysis dataset to good use in Africa?   

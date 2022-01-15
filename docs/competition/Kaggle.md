@@ -33,11 +33,3 @@ Description: Use your ML expertise to predict real crypto market data
 Deadline: 2022-02-02T07:59:00+0800  
 Reward: 125000.0 USD  
 
-
-## PetFinder.my - Pawpularity Contest
-
-Link: https://www.kaggle.com/c/petfinder-pawpularity-score  
-Description: Predict the popularity of shelter pet photos  
-Deadline: 2022-01-15T07:59:00+0800  
-Reward: 25000.0 USD  
-
