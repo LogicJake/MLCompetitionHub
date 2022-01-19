@@ -2,6 +2,14 @@
 
 
 
+## Ubiquant Market Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/ubiquant-market-prediction  
+Description: Make predictions against future market data  
+Deadline: 2022-04-19T07:59:00+0800  
+Reward: 100000.0 USD  
+
+
 ## Feedback Prize - Evaluating Student Writing
 
 Link: https://www.kaggle.com/c/feedback-prize-2021  
