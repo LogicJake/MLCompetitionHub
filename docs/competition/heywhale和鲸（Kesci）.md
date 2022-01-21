@@ -2,7 +2,23 @@
 
 
 
-## 商业数据分析冬令营·互联网运营 <sup style="color:red">[new]<sup>  
+## 有意思！气象世界 Python 任务挑战 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e  
+Description: 是时候展现真正的技术了 😎  
+Deadline: 2022-02-28T12:00:00+0800  
+Reward: 虚拟徽章+666奖金+花样周边+沉甸甸的知识  
+
+
+## CFM对金融市场的波动性预测 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9  
+Description:   
+Deadline: 2023-12-31T00:00:00+0800  
+Reward:   
+
+
+## 商业数据分析冬令营·互联网运营
 
 Link: https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e  
 Description: 数据大公开，带你玩转互联网商业数据分析  
@@ -10,7 +26,7 @@ Deadline: 2022-03-01T00:00:00+0800
 Reward:   
 
 
-## 20天学会PyTorch <sup style="color:red">[new]<sup>  
+## 20天学会PyTorch
 
 Link: https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d  
 Description: GitHub 2.8K+ Stars 🌟  
@@ -77,22 +93,6 @@ Reward: 鲸币+电子证书+社区花样周边+购物卡
 ## 超友好！气象 Python 训练营 ① 快速入门
 
 Link: https://www.kesci.com/home/competition/615fc810c270e400182b23f8  
-Description: 动手学习，快乐刷题  
-Deadline: 2022-11-22T12:00:00+0800  
-Reward: 鲸币+电子证书+社区花样周边+购物卡  
-
-
-## 超友好！气象 Python 训练营 ② 基础应用
-
-Link: https://www.kesci.com/home/competition/6163d190b3c89100171fcedc  
-Description: 动手学习，快乐刷题  
-Deadline: 2022-11-22T12:00:00+0800  
-Reward: 鲸币+电子证书+社区花样周边+购物卡  
-
-
-## 超友好！气象 Python 训练营 ③ 数组进阶
-
-Link: https://www.kesci.com/home/competition/616fc009a3ee260017c0da2f  
 Description: 动手学习，快乐刷题  
 Deadline: 2022-11-22T12:00:00+0800  
 Reward: 鲸币+电子证书+社区花样周边+购物卡  

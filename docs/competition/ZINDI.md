@@ -2,6 +2,14 @@
 
 
 
+## Google NLP Hack Series: Intro to ASR Africa Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge  
+Description: Calling on the Zindi community to help create automatic speech recognition datasets for African languages  
+Deadline: 2022-04-18T07:59:00+0800  
+Reward: $3 000 USD  
+
+
 ## Hack the Continent Open Buildings Challenge
 
 Link: https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge  
