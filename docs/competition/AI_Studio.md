@@ -2,7 +2,7 @@
 
 
 
-## 第十七届全国大学生智能汽车竞赛：完全模型组线上资格赛 <sup style="color:red">[new]<sup>  
+## 第十七届全国大学生智能汽车竞赛：完全模型组线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/131  
 Description: 第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
