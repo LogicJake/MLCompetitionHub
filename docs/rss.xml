@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-01-25T15:59:08+08:00</updated>
+    <updated>2022-01-26T15:59:20+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -88,7 +88,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/126"/>
         <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/126"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2022-01-28T08:00:00+08:00</h3><h3>Reward: 总计1,000,000</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/126"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2022-02-15T08:00:00+08:00</h3><h3>Reward: 总计1,000,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -309,6 +309,22 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=621</id>
+        <title><![CDATA[基于图像和激光雷达融合的障碍物识别]]></title>
+        
+        <updated>2022-01-25T16:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"/>
+        <summary>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
+       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"><![CDATA[<h3>Description</h3>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
+       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。<h3>Deadline: 2022-03-23T15:00:00+08:00</h3><h3>Reward: ￥146000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=604</id>
@@ -718,34 +734,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=573</id>
-        <title><![CDATA[机动车排气污染状况分析及管控]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=573"/>
-        <summary>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=573"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=576</id>
-        <title><![CDATA[公交线网优化分析]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=576"/>
-        <summary>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=576"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -1094,7 +1082,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2022-01-25T15:59:08+08:00</updated>
+        <updated>2022-01-26T15:59:20+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1108,7 +1096,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2022-01-25T15:59:08+08:00</updated>
+        <updated>2022-01-26T15:59:20+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
@@ -1117,6 +1105,8 @@
             <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
+    
+    
     
     
     

@@ -46,6 +46,6 @@ Reward: ￥40,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/126  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2022-01-28T08:00:00+0800  
+Deadline: 2022-02-15T08:00:00+0800  
 Reward: 总计1,000,000  
 

@@ -2,7 +2,7 @@
 
 
 
-## Ubiquant Market Prediction <sup style="color:red">[new]<sup>  
+## Ubiquant Market Prediction
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
 Description: Make predictions against future market data  
