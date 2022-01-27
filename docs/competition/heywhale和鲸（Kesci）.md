@@ -2,7 +2,7 @@
 
 
 
-## 有意思！气象世界 Python 任务挑战 <sup style="color:red">[new]<sup>  
+## 有意思！气象世界 Python 任务挑战
 
 Link: https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e  
 Description: 是时候展现真正的技术了 😎  
@@ -10,7 +10,7 @@ Deadline: 2022-02-28T12:00:00+0800
 Reward: 虚拟徽章+666奖金+花样周边+沉甸甸的知识  
 
 
-## CFM对金融市场的波动性预测 <sup style="color:red">[new]<sup>  
+## CFM对金融市场的波动性预测
 
 Link: https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9  
 Description:   
