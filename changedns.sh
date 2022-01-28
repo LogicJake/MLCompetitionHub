@@ -14,7 +14,6 @@ CheckRequirement(){
 
 # 修改 DNS
 DoChange(){
-	sudo mv /etc/resolv.conf /etc/resolv.conf.bak
 	sudo echo "nameserver 114.114.114.114" > /etc/resolv.conf
 	sudo echo "nameserver 114.114.114.114" > /etc/resolvconf/resolv.conf.d/head
 	sudo systemctl restart resolvconf.service
