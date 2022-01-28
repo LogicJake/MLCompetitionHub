@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
+      - name: change dns
+        run: bash changedns.sh
+
       - name: set up python 3.6
         uses: actions/setup-python@v1
         with:
