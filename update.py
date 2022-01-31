@@ -43,13 +43,16 @@ datas = []
 competitions = []
 
 for _, module_name, _ in pkgutil.iter_modules(['source']):
-    if module_name not in ['tianchi']:
-        continue
+    # if module_name not in ['tianchi']:
+    #     continue
     '''
     死亡时间:
     dianshi: 2021.12.17 点石竞赛平台error page
+    turingtopia: 2022.1.31 图灵联邦无法访问此网站
     '''
-    if module_name in ['futurelab', 'flyai', 'huaweicloud', 'dianshi']:
+    if module_name in [
+            'futurelab', 'flyai', 'huaweicloud', 'dianshi', 'turingtopia'
+    ]:
         continue
 
     try:
