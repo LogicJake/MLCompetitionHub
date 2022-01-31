@@ -5,7 +5,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     if: github.event.repository.owner.id == github.event.sender.id
 
     env:
@@ -17,11 +17,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
-
-      - name: change dns
-        run: |
-          chmod 777 changedns.sh
-          bash changedns.sh
 
       - name: set up python 3.6
         uses: actions/setup-python@v1
