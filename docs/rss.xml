@@ -3,10 +3,1154 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-01-31T14:22:58+08:00</updated>
+    <updated>2022-01-31T14:27:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
+    
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/131</id>
+        <title><![CDATA[第十七届全国大学生智能汽车竞赛：完全模型组线上资格赛]]></title>
+        
+        <updated>2022-01-15T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/131"/>
+        <summary>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/131"><![CDATA[<h3>Description</h3>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/127</id>
+        <title><![CDATA[基于飞桨实现乒乓球时序动作定位大赛]]></title>
+        
+        <updated>2021-12-29T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/127"/>
+        <summary>时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/127"><![CDATA[<h3>Description</h3>时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。<h3>Deadline: 2022-03-10T08:00:00+08:00</h3><h3>Reward: ¥20,000+特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/134</id>
+        <title><![CDATA[百度网盘AI大赛：文档图像阴影消除]]></title>
+        
+        <updated>2022-01-17T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/134"/>
+        <summary>本次比赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/134"><![CDATA[<h3>Description</h3>本次比赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。<h3>Deadline: 2022-02-24T08:00:00+08:00</h3><h3>Reward: 网盘神秘大礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/126</id>
+        <title><![CDATA[飞桨论文复现挑战赛（第五期）]]></title>
+        
+        <updated>2021-11-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/126"/>
+        <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/126"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2022-02-15T08:00:00+08:00</h3><h3>Reward: 总计1,000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-3/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Knowledge-aware Recommendation]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-3/"/>
+        <summary>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-3/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-2/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Link Prediction]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-2/"/>
+        <summary>Heterogeneous Graph Benchmark - Link Prediction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-2/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Link Prediction<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-1/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Node Classification]]></title>
+        
+        <updated>2021-06-28T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-1/"/>
+        <summary>Heterogeneous Graph Benchmark - Node Classification</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-1/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Node Classification<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mctest/</id>
+        <title><![CDATA[MCTest Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mctest/"/>
+        <summary>MCTest Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
+        <title><![CDATA[OpenBookQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
+        <summary>OpenBookQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/dream/</id>
+        <title><![CDATA[Dream Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/dream/"/>
+        <summary>Dream Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/c3/</id>
+        <title><![CDATA[C3 Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/c3/"/>
+        <summary>C3 Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/557</id>
+        <title><![CDATA[ AI based Channel Modeling and Generating]]></title>
+        
+        <updated>2021-12-24T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/557"/>
+        <summary> AI based Channel Modeling and Generating</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/557"><![CDATA[<h3>Description</h3> AI based Channel Modeling and Generating<h3>Deadline: 2022-03-11T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/549</id>
+        <title><![CDATA[AI球球大作战：Go-Bigger多智能体决策智能挑战赛 ]]></title>
+        
+        <updated>2021-11-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/549"/>
+        <summary>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 </summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/549"><![CDATA[<h3>Description</h3>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 <h3>Deadline: 2022-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=621</id>
+        <title><![CDATA[基于图像和激光雷达融合的障碍物识别]]></title>
+        
+        <updated>2022-01-25T16:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"/>
+        <summary>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
+       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"><![CDATA[<h3>Description</h3>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
+       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。<h3>Deadline: 2022-03-23T15:00:00+08:00</h3><h3>Reward: ￥146000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=604</id>
+        <title><![CDATA[第三届厦门国际银行数创金融杯金融营销建模大赛]]></title>
+        
+        <updated>2021-12-13T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=604"/>
+        <summary>此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
+厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2021全球银行1000强”榜单中，本行按总资产排名第158位，按一级资本排名第180位，连续五年入围全球银行200强。
+厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=604"><![CDATA[<h3>Description</h3>此次大赛由厦门国际银行与厦门大学数据挖掘研究中心联合举办。
+厦门国际银行成立于1985年，曾是中国第一家中外合资银行，于 2013 年从中外合资银行改制为中资商业银行，在港澳均拥有附属机构。在英国《银行家》（The Banker）杂志公布的“2021全球银行1000强”榜单中，本行按总资产排名第158位，按一级资本排名第180位，连续五年入围全球银行200强。
+厦门大学数据挖掘研究中心成立于2010年，是厦门大学直属的教学科研机构。承担70多项国家级、省部级课题以及企事业课题，内容涵盖金融风险、数据挖掘、数据质量管理、经济系统预警及指数指标体系等多个方面。<h3>Deadline: 2022-02-14T15:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=582</id>
+        <title><![CDATA[碳排放分析预测]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=582"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=582"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=588</id>
+        <title><![CDATA[信息化基础设施环境下的大规模告警分析]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=588"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=588"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=583</id>
+        <title><![CDATA[基层待就业人员岗位推荐赛]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=583"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=583"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=603</id>
+        <title><![CDATA[电网母线负荷预测]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=603"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=603"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=607</id>
+        <title><![CDATA[基层医院大数据分析]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=607"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=607"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=612</id>
+        <title><![CDATA[未知工作服属性识别]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=612"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=612"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=614</id>
+        <title><![CDATA[烟火云雾识别]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=614"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=614"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=613</id>
+        <title><![CDATA[行人重识别以及追踪]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=613"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=613"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=617</id>
+        <title><![CDATA[视频分析持刀持棍识别]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=617"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=617"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=606</id>
+        <title><![CDATA[高速服务区进出及停留分析]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=606"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=606"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=608</id>
+        <title><![CDATA[心电图智能事件识别]]></title>
+        
+        <updated>2021-11-02T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=608"/>
+        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=608"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=570</id>
+        <title><![CDATA[城市新能源车充电桩安装位置规划]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=570"/>
+        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=570"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=579</id>
+        <title><![CDATA[大数据赋能养老智慧地图项目]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=579"/>
+        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=579"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=618</id>
+        <title><![CDATA[基于多源车辆GPS数据的智慧交通应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"/>
+        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=611</id>
+        <title><![CDATA[道路积水预测]]></title>
+        
+        <updated>2021-12-12T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=611"/>
+        <summary>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=611"><![CDATA[<h3>Description</h3>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=571</id>
+        <title><![CDATA[机动车尾气排放估算挑战赛]]></title>
+        
+        <updated>2021-12-12T00:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"/>
+        <summary>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"><![CDATA[<h3>Description</h3>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥132000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
+        <title><![CDATA[医保大数据创意分析应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=580"/>
+        <summary>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
+</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=580"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
+<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=605</id>
+        <title><![CDATA[数字城管案件自动分发]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"/>
+        <summary>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
+</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
+<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=587</id>
+        <title><![CDATA[健康大数据分析]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=587"/>
+        <summary>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
+创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
+算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=587"><![CDATA[<h3>Description</h3>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
+创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
+算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。<h3>Deadline: 2022-04-02T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=610</id>
+        <title><![CDATA[后疫情时代的民宿空置房预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=610"/>
+        <summary>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
+创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
+算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=610"><![CDATA[<h3>Description</h3>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
+创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
+算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。<h3>Deadline: 2022-04-02T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=574</id>
+        <title><![CDATA[数字经济创新领域]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=574"/>
+        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=574"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=577</id>
+        <title><![CDATA[数字社会领域]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=577"/>
+        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=577"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=575</id>
+        <title><![CDATA[数字乡村领域]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"/>
+        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
+        <title><![CDATA[限时免费停车服务及应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
+        <title><![CDATA[供热大数据分析预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.kaggle.com/c/ubiquant-market-prediction</id>
+        <title><![CDATA[Ubiquant Market Prediction]]></title>
+        
+        <updated>2022-01-19T07:15:30+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/ubiquant-market-prediction"/>
+        <summary>Make predictions against future market data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/ubiquant-market-prediction"><![CDATA[<h3>Description</h3>Make predictions against future market data<h3>Deadline: 2022-04-19T07:59:00+08:00</h3><h3>Reward: 100000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/feedback-prize-2021</id>
+        <title><![CDATA[Feedback Prize - Evaluating Student Writing]]></title>
+        
+        <updated>2021-12-15T02:48:08+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/feedback-prize-2021"/>
+        <summary>Analyze argumentative writing elements from students grade 6-12 </summary>
+        <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-2021"><![CDATA[<h3>Description</h3>Analyze argumentative writing elements from students grade 6-12 <h3>Deadline: 2022-03-16T07:59:00+08:00</h3><h3>Reward: 160000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/tensorflow-great-barrier-reef</id>
+        <title><![CDATA[TensorFlow - Help Protect the Great Barrier Reef ]]></title>
+        
+        <updated>2021-11-23T02:53:57+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/tensorflow-great-barrier-reef"/>
+        <summary>Detect crown-of-thorns starfish in underwater image data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/tensorflow-great-barrier-reef"><![CDATA[<h3>Description</h3>Detect crown-of-thorns starfish in underwater image data<h3>Deadline: 2022-02-15T07:59:00+08:00</h3><h3>Reward: 150000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/jigsaw-toxic-severity-rating</id>
+        <title><![CDATA[Jigsaw Rate Severity of Toxic Comments   ]]></title>
+        
+        <updated>2021-11-09T01:09:53+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/jigsaw-toxic-severity-rating"/>
+        <summary>Rank relative ratings of toxicity between comments</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/jigsaw-toxic-severity-rating"><![CDATA[<h3>Description</h3>Rank relative ratings of toxicity between comments<h3>Deadline: 2022-02-08T07:59:00+08:00</h3><h3>Reward: 50000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/g-research-crypto-forecasting</id>
+        <title><![CDATA[G-Research Crypto Forecasting ]]></title>
+        
+        <updated>2021-11-03T00:00:27+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/g-research-crypto-forecasting"/>
+        <summary>Use your ML expertise to predict real crypto market data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/g-research-crypto-forecasting"><![CDATA[<h3>Description</h3>Use your ML expertise to predict real crypto market data<h3>Deadline: 2022-02-02T07:59:00+08:00</h3><h3>Reward: 125000.0 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e</id>
+        <title><![CDATA[有意思！气象世界 Python 任务挑战]]></title>
+        
+        <updated>2022-01-20T15:30:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e"/>
+        <summary>是时候展现真正的技术了 😎</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e"><![CDATA[<h3>Description</h3>是时候展现真正的技术了 😎<h3>Deadline: 2022-02-28T12:00:00+08:00</h3><h3>Reward: 虚拟徽章+666奖金+花样周边+沉甸甸的知识</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9</id>
+        <title><![CDATA[CFM对金融市场的波动性预测]]></title>
+        
+        <updated>2022-01-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9"><![CDATA[<h3>Description</h3><h3>Deadline: 2023-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e</id>
+        <title><![CDATA[商业数据分析冬令营·互联网运营]]></title>
+        
+        <updated>2022-01-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e"/>
+        <summary>数据大公开，带你玩转互联网商业数据分析</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e"><![CDATA[<h3>Description</h3>数据大公开，带你玩转互联网商业数据分析<h3>Deadline: 2022-03-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d</id>
+        <title><![CDATA[20天学会PyTorch]]></title>
+        
+        <updated>2022-01-14T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d"/>
+        <summary>GitHub 2.8K+ Stars 🌟</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d"><![CDATA[<h3>Description</h3>GitHub 2.8K+ Stars 🌟<h3>Deadline: 2022-02-28T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23</id>
+        <title><![CDATA[2021全国人工智能大赛]]></title>
+        
+        <updated>2021-12-19T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23"/>
+        <summary></summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23"><![CDATA[<h3>Description</h3><h3>Deadline: 2022-04-15T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61a48e49b91a5300170f3337</id>
+        <title><![CDATA[零基础学Python·闯关]]></title>
+        
+        <updated>2021-12-06T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"/>
+        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61a4a53db91a5300170f340e</id>
+        <title><![CDATA[Workshop | Python 气象海洋数据分析 II]]></title>
+        
+        <updated>2021-11-29T18:05:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"/>
+        <summary>疗程短，见效快</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"><![CDATA[<h3>Description</h3>疗程短，见效快<h3>Deadline: 2023-01-19T12:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9</id>
+        <title><![CDATA[预测分析·视频评分预测挑战赛]]></title>
+        
+        <updated>2021-11-26T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"/>
+        <summary>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"><![CDATA[<h3>Description</h3>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 机器学习+练习赛</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6154198bc270e400182b11f9</id>
+        <title><![CDATA[Numpy+Pandas数据处理·闯关]]></title>
+        
+        <updated>2021-11-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"/>
+        <summary>Numpy+Pandas，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"><![CDATA[<h3>Description</h3>Numpy+Pandas，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/61542939c270e400182b1294</id>
+        <title><![CDATA[Python基础·闯关]]></title>
+        
+        <updated>2021-11-15T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/61542939c270e400182b1294"/>
+        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61542939c270e400182b1294"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951</id>
+        <title><![CDATA[超友好！气象 Python 训练营  ④ 进阶应用]]></title>
+        
+        <updated>2021-11-08T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/615fc810c270e400182b23f8</id>
+        <title><![CDATA[超友好！气象 Python 训练营 ① 快速入门]]></title>
+        
+        <updated>2021-10-21T13:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"/>
+        <summary>动手学习，快乐刷题</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/25</id>
+        <title><![CDATA[中古マンション価格予測 2022冬の部]]></title>
+        
+        <updated>2021-12-28T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/25"/>
+        <summary>中古マンション価格予測 2022冬の部</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/25"><![CDATA[<h3>Description</h3>中古マンション価格予測 2022冬の部<h3>Deadline: 2022-03-31T13:59:00+08:00</h3><h3>Reward: 各種賞品</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/23</id>
+        <title><![CDATA[空戦AIチャレンジ]]></title>
+        
+        <updated>2021-12-22T12:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/23"/>
+        <summary>空戦AIチャレンジ</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/23"><![CDATA[<h3>Description</h3>空戦AIチャレンジ<h3>Deadline: 2022-02-25T13:59:00+08:00</h3><h3>Reward: 100万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/22</id>
+        <title><![CDATA[AI×商標：イメージサーチコンペティション（類似商標画像の検出）]]></title>
+        
+        <updated>2021-10-01T09:45:07+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/22"/>
+        <summary>AI×商標：イメージサーチコンペティション（類似商標画像の検出）</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/22"><![CDATA[<h3>Description</h3>AI×商標：イメージサーチコンペティション（類似商標画像の検出）<h3>Deadline: 2022-01-31T13:59:00+08:00</h3><h3>Reward: 50万円</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/20</id>
+        <title><![CDATA[中古マンション価格予測 2021秋の部]]></title>
+        
+        <updated>2021-10-01T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/20"/>
+        <summary>中古マンション価格予測 2021秋の部</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/20"><![CDATA[<h3>Description</h3>中古マンション価格予測 2021秋の部<h3>Deadline: 2021-12-24T13:59:00+08:00</h3><h3>Reward: 各種賞品</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/13</id>
+        <title><![CDATA[【トレーニングコンペ】中古マンション価格予測]]></title>
+        
+        <updated>2021-04-06T10:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/13"/>
+        <summary>【トレーニングコンペ】中古マンション価格予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/13"><![CDATA[<h3>Description</h3>【トレーニングコンペ】中古マンション価格予測<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/9</id>
+        <title><![CDATA[【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！]]></title>
+        
+        <updated>2020-12-09T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/9"/>
+        <summary>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/9"><![CDATA[<h3>Description</h3>【トレーニングコンペ】日本絵画に描かれた人物の顔分類に機械学習で挑戦！<h3>Deadline: 2025-12-31T13:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/3</id>
+        <title><![CDATA[【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？]]></title>
+        
+        <updated>2020-03-05T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/3"/>
+        <summary>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://signate.jp/competitions/563</id>
+        <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
+        
+        <updated>2022-01-31T14:27:15+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/563"/>
+        <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
+        <content type="text/html" src="https://signate.jp/competitions/563"><![CDATA[<h3>Description</h3>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成<h3>Deadline: 2022-01-31T23:59:59+08:00</h3><h3>Reward: 総額¥2,000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://signate.jp/competitions/537</id>
+        <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
+        
+        <updated>2022-01-31T14:27:15+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/537"/>
+        <summary>Vehicle Driving Image Recognition using RISC-V</summary>
+        <content type="text/html" src="https://signate.jp/competitions/537"><![CDATA[<h3>Description</h3>Vehicle Driving Image Recognition using RISC-V<h3>Deadline: 2022-02-15T23:59:59+08:00</h3><h3>Reward: total 1,600,000 yen</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    
+    
+    <entry>
+        <id>https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge</id>
+        <title><![CDATA[Google NLP Hack Series: Intro to ASR Africa Challenge]]></title>
+        
+        <updated>2022-02-14T07:59:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge"/>
+        <summary>Calling on the Zindi community to help create automatic speech recognition datasets for African languages</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge"><![CDATA[<h3>Description</h3>Calling on the Zindi community to help create automatic speech recognition datasets for African languages<h3>Deadline: 2022-04-18T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge</id>
+        <title><![CDATA[Hack the Continent Open Buildings Challenge]]></title>
+        
+        <updated>2022-01-07T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge"/>
+        <summary>Can you put Google’s Open Buildings Geospatial analysis dataset to good use in Africa? </summary>
+        <content type="text/html" src="https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge"><![CDATA[<h3>Description</h3>Can you put Google’s Open Buildings Geospatial analysis dataset to good use in Africa? <h3>Deadline: 2022-04-11T07:59:00+08:00</h3><h3>Reward: $3 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/turtle-recall-conservation-challenge</id>
+        <title><![CDATA[Turtle Recall: Conservation Challenge]]></title>
+        
+        <updated>2021-11-19T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/turtle-recall-conservation-challenge"/>
+        <summary>Can you build a facial recognition model... for turtles?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/turtle-recall-conservation-challenge"><![CDATA[<h3>Description</h3>Can you build a facial recognition model... for turtles?<h3>Deadline: 2022-03-14T07:59:00+08:00</h3><h3>Reward: $10 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/kenyan-sign-language-classification-challenge</id>
+        <title><![CDATA[Task Mate Kenyan Sign Language Classification Challenge]]></title>
+        
+        <updated>2021-11-08T07:59:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/kenyan-sign-language-classification-challenge"/>
+        <summary>Can you classify words in Kenyan Sign Language? </summary>
+        <content type="text/html" src="https://zindi.africa/competitions/kenyan-sign-language-classification-challenge"><![CDATA[<h3>Description</h3>Can you classify words in Kenyan Sign Language? <h3>Deadline: 2022-02-28T07:59:00+08:00</h3><h3>Reward: $5 000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge</id>
+        <title><![CDATA[bloods.ai Blood Spectroscopy Classification Challenge]]></title>
+        
+        <updated>2021-10-19T20:00:00+08:00</updated>
+        
+        <link href="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"/>
+        <summary>Given blood spectroscopy readings can you predict which compounds are in the blood?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge"><![CDATA[<h3>Description</h3>Given blood spectroscopy readings can you predict which compounds are in the blood?<h3>Deadline: 2022-02-14T07:59:00+08:00</h3><h3>Reward: $7 500 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[ZINDI]]></name>
+        </author>
+    </entry>
+    
     
 </feed>
