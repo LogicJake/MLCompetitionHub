@@ -7,9 +7,14 @@ PLATFORM_NAME = '天池'
 
 
 def get_data():
-    url = 'https://tianchi.aliyun.com/competition/proxy/api/competition/api/race/listBrief?pageNum=1&pageSize=10&type=1&userId=-1'
+    url = 'https://tianchi.aliyun.com/mobile/api/proxy/competitionService/api/race/listBrief?pageNum=1&pageSize=10&state=1&userId=-1'
 
-    response = request(method='GET', url=url)
+    headers = {
+        "User-Agent":
+        "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.1.6) "
+    }
+
+    response = request(method='GET', url=url, headers=headers)
     content = response.json()
     competitions = content['data']['list']
 
@@ -20,7 +25,7 @@ def get_data():
         url_map = json.load(f)
 
     for competition in competitions:
-        if int(competition['state']) != 1:
+        if int(competition['state']) != 1 or int(competition['bonus']) == 0:
             continue
 
         # 必须字段
