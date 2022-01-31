@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-01-31T14:27:15+08:00</updated>
+    <updated>2022-01-31T14:48:26+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -781,168 +781,42 @@
     
     
     <entry>
-        <id>https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e</id>
-        <title><![CDATA[有意思！气象世界 Python 任务挑战]]></title>
+        <id>https://www.kesci.com/home/competition/61b81042902a13001708eb17</id>
+        <title><![CDATA[2021全国人工智能大赛——AI+视觉特征编码]]></title>
         
-        <updated>2022-01-20T15:30:00+08:00</updated>
+        <updated>2021-12-19T12:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e"/>
-        <summary>是时候展现真正的技术了 😎</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61e90f41ae7a4e0018d53e0e"><![CDATA[<h3>Description</h3>是时候展现真正的技术了 😎<h3>Deadline: 2022-02-28T12:00:00+08:00</h3><h3>Reward: 虚拟徽章+666奖金+花样周边+沉甸甸的知识</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/61b81042902a13001708eb17"/>
+        <summary>2021全国人工智能大赛——AI+视觉特征编码</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61b81042902a13001708eb17"><![CDATA[<h3>Description</h3>2021全国人工智能大赛——AI+视觉特征编码<h3>Deadline: 2022-04-15T23:59:00+08:00</h3><h3>Reward: ￥1,980,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9</id>
-        <title><![CDATA[CFM对金融市场的波动性预测]]></title>
+        <id>https://www.kesci.com/home/competition/61b810c9902a13001708eb21</id>
+        <title><![CDATA[2021全国人工智能大赛——AI+无线通信]]></title>
         
-        <updated>2022-01-20T00:00:00+08:00</updated>
+        <updated>2021-12-19T12:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61dd3dffc238c000186ac3e9"><![CDATA[<h3>Description</h3><h3>Deadline: 2023-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/61b810c9902a13001708eb21"/>
+        <summary>2021全国人工智能大赛——AI+无线通信</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61b810c9902a13001708eb21"><![CDATA[<h3>Description</h3>2021全国人工智能大赛——AI+无线通信<h3>Deadline: 2022-04-15T20:00:00+08:00</h3><h3>Reward: ￥1,980,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e</id>
-        <title><![CDATA[商业数据分析冬令营·互联网运营]]></title>
+        <id>https://www.kesci.com/home/competition/61c95b5dc4437e0017d5feea</id>
+        <title><![CDATA[山东土地集团杯-滨州市数据应用创新创业大赛——算法赛-遥感图像语义分割]]></title>
         
-        <updated>2022-01-14T00:00:00+08:00</updated>
+        <updated>2021-12-31T12:00:00+08:00</updated>
         
-        <link href="https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e"/>
-        <summary>数据大公开，带你玩转互联网商业数据分析</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61d3efe7c9b4290017c5953e"><![CDATA[<h3>Description</h3>数据大公开，带你玩转互联网商业数据分析<h3>Deadline: 2022-03-01T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d</id>
-        <title><![CDATA[20天学会PyTorch]]></title>
-        
-        <updated>2022-01-14T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d"/>
-        <summary>GitHub 2.8K+ Stars 🌟</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61bff9a84b63a700179b7f8d"><![CDATA[<h3>Description</h3>GitHub 2.8K+ Stars 🌟<h3>Deadline: 2022-02-28T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23</id>
-        <title><![CDATA[2021全国人工智能大赛]]></title>
-        
-        <updated>2021-12-19T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23"/>
-        <summary></summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61bbf28d6667dc0017fc4c23"><![CDATA[<h3>Description</h3><h3>Deadline: 2022-04-15T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61a48e49b91a5300170f3337</id>
-        <title><![CDATA[零基础学Python·闯关]]></title>
-        
-        <updated>2021-12-06T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"/>
-        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61a48e49b91a5300170f3337"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61a4a53db91a5300170f340e</id>
-        <title><![CDATA[Workshop | Python 气象海洋数据分析 II]]></title>
-        
-        <updated>2021-11-29T18:05:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"/>
-        <summary>疗程短，见效快</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61a4a53db91a5300170f340e"><![CDATA[<h3>Description</h3>疗程短，见效快<h3>Deadline: 2023-01-19T12:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9</id>
-        <title><![CDATA[预测分析·视频评分预测挑战赛]]></title>
-        
-        <updated>2021-11-26T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"/>
-        <summary>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61a08b7ef2ce6b001732f9c9"><![CDATA[<h3>Description</h3>DataJoy® 「进阶赛」难度中等，以「新人赛」赛题为基础延展，继续探究较为发散的赛题方向；本次的赛题主要是根据用户对长视频网站上视频（包括电影、电视剧、动漫、等）的历史评分，预测用户对其余视频的评分以便给用户推荐更适合的视频。<h3>Deadline: 2042-12-31T00:00:00+08:00</h3><h3>Reward: 机器学习+练习赛</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6154198bc270e400182b11f9</id>
-        <title><![CDATA[Numpy+Pandas数据处理·闯关]]></title>
-        
-        <updated>2021-11-15T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"/>
-        <summary>Numpy+Pandas，线上免费学习，自学刷题闯关</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6154198bc270e400182b11f9"><![CDATA[<h3>Description</h3>Numpy+Pandas，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: </h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61542939c270e400182b1294</id>
-        <title><![CDATA[Python基础·闯关]]></title>
-        
-        <updated>2021-11-15T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61542939c270e400182b1294"/>
-        <summary>Python闯关，线上免费学习，自学刷题闯关</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61542939c270e400182b1294"><![CDATA[<h3>Description</h3>Python闯关，线上免费学习，自学刷题闯关<h3>Deadline: 2024-12-31T00:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区周边</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951</id>
-        <title><![CDATA[超友好！气象 Python 训练营  ④ 进阶应用]]></title>
-        
-        <updated>2021-11-08T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"/>
-        <summary>动手学习，快乐刷题</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6189f5ef7b6f7d001813a951"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/615fc810c270e400182b23f8</id>
-        <title><![CDATA[超友好！气象 Python 训练营 ① 快速入门]]></title>
-        
-        <updated>2021-10-21T13:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"/>
-        <summary>动手学习，快乐刷题</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/615fc810c270e400182b23f8"><![CDATA[<h3>Description</h3>动手学习，快乐刷题<h3>Deadline: 2022-11-22T12:00:00+08:00</h3><h3>Reward: 鲸币+电子证书+社区花样周边+购物卡</h3>]]></content>
+        <link href="https://www.kesci.com/home/competition/61c95b5dc4437e0017d5feea"/>
+        <summary>山东土地集团杯-滨州市数据应用创新创业大赛——算法赛-遥感图像语义分割</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/61c95b5dc4437e0017d5feea"><![CDATA[<h3>Description</h3>山东土地集团杯-滨州市数据应用创新创业大赛——算法赛-遥感图像语义分割<h3>Deadline: 2022-03-31T00:00:00+08:00</h3><h3>Reward: ¥110,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -1054,7 +928,7 @@
         <id>https://signate.jp/competitions/563</id>
         <title><![CDATA[SUBARU 画像認識チャレンジ]]></title>
         
-        <updated>2022-01-31T14:27:15+08:00</updated>
+        <updated>2022-01-31T14:48:26+08:00</updated>
         
         <link href="https://signate.jp/competitions/563"/>
         <summary>アイサイト画像データセットを用いた物体速度検出アルゴリズム作成</summary>
@@ -1068,7 +942,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2022-01-31T14:27:15+08:00</updated>
+        <updated>2022-01-31T14:48:26+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
