@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-from termios import CINTR
 
 import requests
 
