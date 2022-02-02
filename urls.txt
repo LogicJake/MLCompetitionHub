@@ -770,3 +770,5 @@ https://challenge.datacastle.cn/v3/cmptDetail.html?id=621
 https://www.kesci.com/home/competition/61b81042902a13001708eb17
 https://www.kesci.com/home/competition/61b810c9902a13001708eb21
 https://www.kesci.com/home/competition/61c95b5dc4437e0017d5feea
+https://www.kaggle.com/c/nbme-score-clinical-patient-notes
+https://www.kaggle.com/c/happy-whale-and-dolphin

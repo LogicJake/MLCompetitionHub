@@ -2,6 +2,22 @@
 
 
 
+## NBME - Score Clinical Patient Notes <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/nbme-score-clinical-patient-notes  
+Description: Identify Key Phrases in Patient Notes from Medical Licensing Exams  
+Deadline: 2022-05-04T07:59:00+0800  
+Reward: 50000.0 USD  
+
+
+## Happywhale - Whale and Dolphin Identification <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/happy-whale-and-dolphin  
+Description: Identify whales and dolphins by unique characteristics  
+Deadline: 2022-04-19T07:59:00+0800  
+Reward: 25000.0 USD  
+
+
 ## Ubiquant Market Prediction
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
@@ -38,6 +54,6 @@ Reward: 50000.0 USD
 
 Link: https://www.kaggle.com/c/g-research-crypto-forecasting  
 Description: Use your ML expertise to predict real crypto market data  
-Deadline: 2022-02-02T07:59:00+0800  
+Deadline: 2022-05-04T07:59:00+0800  
 Reward: 125000.0 USD  
 
