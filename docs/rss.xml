@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-02-08T16:01:30+08:00</updated>
+    <updated>2022-02-08T16:26:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -541,6 +541,34 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
         <title><![CDATA[医保大数据创意分析应用]]></title>
         
@@ -567,34 +595,6 @@
 </summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
 <h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -703,6 +703,106 @@
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations</id>
+        <title><![CDATA[H&amp;M Personalized Fashion Recommendations]]></title>
+        
+        <updated>2022-02-08T01:49:35+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations"/>
+        <summary>Provide product recommendations based on previous purchases</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations"><![CDATA[<h3>Description</h3>Provide product recommendations based on previous purchases<h3>Deadline: 2022-05-10T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/nbme-score-clinical-patient-notes</id>
+        <title><![CDATA[NBME - Score Clinical Patient Notes]]></title>
+        
+        <updated>2022-02-02T03:48:52+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/nbme-score-clinical-patient-notes"/>
+        <summary>Identify Key Phrases in Patient Notes from Medical Licensing Exams</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/nbme-score-clinical-patient-notes"><![CDATA[<h3>Description</h3>Identify Key Phrases in Patient Notes from Medical Licensing Exams<h3>Deadline: 2022-05-04T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/happy-whale-and-dolphin</id>
+        <title><![CDATA[Happywhale - Whale and Dolphin Identification]]></title>
+        
+        <updated>2022-02-02T00:28:32+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/happy-whale-and-dolphin"/>
+        <summary>Identify whales and dolphins by unique characteristics</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/happy-whale-and-dolphin"><![CDATA[<h3>Description</h3>Identify whales and dolphins by unique characteristics<h3>Deadline: 2022-04-19T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/ubiquant-market-prediction</id>
+        <title><![CDATA[Ubiquant Market Prediction]]></title>
+        
+        <updated>2022-01-19T07:15:30+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/ubiquant-market-prediction"/>
+        <summary>Make predictions against future market data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/ubiquant-market-prediction"><![CDATA[<h3>Description</h3>Make predictions against future market data<h3>Deadline: 2022-04-19T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/feedback-prize-2021</id>
+        <title><![CDATA[Feedback Prize - Evaluating Student Writing]]></title>
+        
+        <updated>2021-12-15T02:48:08+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/feedback-prize-2021"/>
+        <summary>Analyze argumentative writing elements from students grade 6-12 </summary>
+        <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-2021"><![CDATA[<h3>Description</h3>Analyze argumentative writing elements from students grade 6-12 <h3>Deadline: 2022-03-16T07:59:00+08:00</h3><h3>Reward: 160000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/tensorflow-great-barrier-reef</id>
+        <title><![CDATA[TensorFlow - Help Protect the Great Barrier Reef ]]></title>
+        
+        <updated>2021-11-23T02:53:57+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/tensorflow-great-barrier-reef"/>
+        <summary>Detect crown-of-thorns starfish in underwater image data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/tensorflow-great-barrier-reef"><![CDATA[<h3>Description</h3>Detect crown-of-thorns starfish in underwater image data<h3>Deadline: 2022-02-15T07:59:00+08:00</h3><h3>Reward: 150000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/g-research-crypto-forecasting</id>
+        <title><![CDATA[G-Research Crypto Forecasting ]]></title>
+        
+        <updated>2021-11-03T00:00:27+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/g-research-crypto-forecasting"/>
+        <summary>Use your ML expertise to predict real crypto market data</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/g-research-crypto-forecasting"><![CDATA[<h3>Description</h3>Use your ML expertise to predict real crypto market data<h3>Deadline: 2022-05-04T07:59:00+08:00</h3><h3>Reward: 125000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
         </author>
     </entry>
     
@@ -842,7 +942,7 @@
         <id>https://signate.jp/competitions/537</id>
         <title><![CDATA[The 5th AI Edge Contest (Implementation Contest 3)]]></title>
         
-        <updated>2022-02-08T16:01:30+08:00</updated>
+        <updated>2022-02-08T16:26:06+08:00</updated>
         
         <link href="https://signate.jp/competitions/537"/>
         <summary>Vehicle Driving Image Recognition using RISC-V</summary>
