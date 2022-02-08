@@ -11,15 +11,15 @@ def get_data():
     session.get('https://www.kaggle.com/competitions')
     token = session.cookies.get_dict()['XSRF-TOKEN']
 
-    url = 'https://www.kaggle.com/requests/CompetitionService/ListCompetitions'
+    url = 'https://www.kaggle.com/api/i/competitions.CompetitionService/ListCompetitions'
     data = {
         "selector": {
             "competitionIds": [],
-            "listOption": "active",
-            "sortOption": "newest",
+            "listOption": "LIST_OPTION_ACTIVE",
+            "sortOption": "SORT_OPTION_NEWEST",
             "hostSegmentIdFilter": 0,
             "searchQuery": "",
-            "prestigeFilter": "unspecified",
+            "prestigeFilter": "PRESTIGE_FILTER_UNSPECIFIED",
             "tagIds": [],
             "requireSimulations": False
         },
@@ -30,13 +30,15 @@ def get_data():
     headers = {'x-xsrf-token': token}
 
     response = session.post(url=url, data=json.dumps(data), headers=headers)
+
     content = response.json()
-    competitions = content['result']['competitions']
+    competitions = content['competitions']
 
     data = {'name': PLATFORM_NAME}
     cps = []
     for competition in competitions:
-        if competition['rewardTypeName'] != 'USD':
+        if 'rewardTypeName' not in competition or competition[
+                'rewardTypeName'] != 'USD':
             continue
 
         # 必须字段
