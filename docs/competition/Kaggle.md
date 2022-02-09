@@ -10,7 +10,7 @@ Deadline: 2022-05-10T07:59:00+0800
 Reward: 50000 USD  
 
 
-## NBME - Score Clinical Patient Notes <sup style="color:red">[new]<sup>  
+## NBME - Score Clinical Patient Notes
 
 Link: https://www.kaggle.com/c/nbme-score-clinical-patient-notes  
 Description: Identify Key Phrases in Patient Notes from Medical Licensing Exams  
@@ -18,7 +18,7 @@ Deadline: 2022-05-04T07:59:00+0800
 Reward: 50000 USD  
 
 
-## Happywhale - Whale and Dolphin Identification <sup style="color:red">[new]<sup>  
+## Happywhale - Whale and Dolphin Identification
 
 Link: https://www.kaggle.com/c/happy-whale-and-dolphin  
 Description: Identify whales and dolphins by unique characteristics  

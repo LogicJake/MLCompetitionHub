@@ -10,6 +10,14 @@ Deadline: 2022-04-18T07:59:00+0800
 Reward: $3 000 USD  
 
 
+## Hulkshare Recommendation Algorithm Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/hulkshare-recommendation-algorithm-challenge  
+Description: Can you predict if a song on a streaming platform is liked by looking at viewing patterns?  
+Deadline: 2022-05-02T07:59:00+0800  
+Reward: $7 500  
+
+
 ## Hack the Continent Open Buildings Challenge
 
 Link: https://zindi.africa/competitions/hack-the-continent-open-buildings-challenge  
