@@ -774,3 +774,6 @@ https://www.kaggle.com/c/nbme-score-clinical-patient-notes
 https://www.kaggle.com/c/happy-whale-and-dolphin
 https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations
 https://zindi.africa/competitions/hulkshare-recommendation-algorithm-challenge
+https://tianchi.aliyun.com/competition/entrance/531944/introduction
+https://tianchi.aliyun.com/competition/entrance/531942/introduction
+https://tianchi.aliyun.com/competition/entrance/531941/introduction
