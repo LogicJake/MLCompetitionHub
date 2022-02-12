@@ -2,6 +2,14 @@
 
 
 
+## 2022数字中国创新大赛：卫星应用赛题——海上船舶智能检测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/137  
+Description: 本场大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心承办，百度飞桨协办。  
+Deadline: 2022-04-30T08:00:00+0800  
+Reward: ￥160,000  
+
+
 ## 第十七届全国大学生智能汽车竞赛：完全模型组线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/131  

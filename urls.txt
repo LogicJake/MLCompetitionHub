@@ -777,3 +777,4 @@ https://zindi.africa/competitions/hulkshare-recommendation-algorithm-challenge
 https://tianchi.aliyun.com/competition/entrance/531944/introduction
 https://tianchi.aliyun.com/competition/entrance/531942/introduction
 https://tianchi.aliyun.com/competition/entrance/531941/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/137
