@@ -41,11 +41,3 @@ Description: Can you classify words in Kenyan Sign Language?
 Deadline: 2022-02-28T07:59:00+0800  
 Reward: $5 000 USD  
 
-
-## bloods.ai Blood Spectroscopy Classification Challenge
-
-Link: https://zindi.africa/competitions/bloodsai-blood-spectroscopy-classification-challenge  
-Description: Given blood spectroscopy readings can you predict which compounds are in the blood?  
-Deadline: 2022-02-14T07:59:00+0800  
-Reward: $7 500 USD  
-
