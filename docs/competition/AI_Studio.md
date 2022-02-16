@@ -5,7 +5,7 @@
 ## 2022数字中国创新大赛：卫星应用赛题——海上船舶智能检测 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/137  
-Description: 本场大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心承办，百度飞桨协办。  
+Description: 本场大赛由数数字中国创新大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨协办。  
 Deadline: 2022-04-30T08:00:00+0800  
 Reward: ￥160,000  
 
@@ -32,12 +32,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/134
 Description: 本次比赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。  
 Deadline: 2022-02-24T08:00:00+0800  
 Reward: 网盘神秘大礼包  
-
-
-## 飞桨论文复现挑战赛（第五期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/126  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2022-02-15T08:00:00+0800  
-Reward: 总计1,000,000  
 

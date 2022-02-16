@@ -2,6 +2,14 @@
 
 
 
+## BirdCLEF 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/birdclef-2022  
+Description: Identify bird calls in soundscapes  
+Deadline: 2022-05-25T07:59:00+0800  
+Reward: 10000 USD  
+
+
 ## H&M Personalized Fashion Recommendations
 
 Link: https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations  
