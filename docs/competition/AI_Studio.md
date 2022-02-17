@@ -2,7 +2,7 @@
 
 
 
-## 2022数字中国创新大赛：卫星应用赛题——海上船舶智能检测 <sup style="color:red">[new]<sup>  
+## 2022数字中国创新大赛：卫星应用赛题——海上船舶智能检测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/137  
 Description: 本场大赛由数数字中国创新大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨协办。  

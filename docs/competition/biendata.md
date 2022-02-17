@@ -2,6 +2,22 @@
 
 
 
+## 2021未来杯区块链应用创新大赛-应用场景创新
+
+Link: https://www.biendata.xyz/competition/qkl-1/  
+Description: 2021未来杯区块链应用创新大赛-应用场景创新  
+Deadline: 2022-02-28T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## 2021未来杯区块链应用创新大赛-区块链工具开发
+
+Link: https://www.biendata.xyz/competition/qkl-2/  
+Description: 2021未来杯区块链应用创新大赛-区块链工具开发  
+Deadline: 2022-02-28T08:00:00+0800  
+Reward: ￥50,000  
+
+
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
@@ -50,30 +66,6 @@ Deadline: 2026-04-15T08:00:00+0800
 Reward: Interest  
 
 
-## LogiQA Dataset
-
-Link: https://www.biendata.xyz/competition/logiqa/  
-Description: LogiQA Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## MuTual Dataset
-
-Link: https://www.biendata.xyz/competition/mutual/  
-Description: MuTual Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
-## RACE-C Dataset
-
-Link: https://www.biendata.xyz/competition/race_c/  
-Description: RACE-C Dataset  
-Deadline: 2026-04-15T08:00:00+0800  
-Reward: Interest  
-
-
 ## Dream Dataset
 
 Link: https://www.biendata.xyz/competition/dream/  
@@ -102,6 +94,30 @@ Reward: Interest
 
 Link: https://www.biendata.xyz/competition/sciq/  
 Description: SciQ Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## LogiQA Dataset
+
+Link: https://www.biendata.xyz/competition/logiqa/  
+Description: LogiQA Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## MuTual Dataset
+
+Link: https://www.biendata.xyz/competition/mutual/  
+Description: MuTual Dataset  
+Deadline: 2026-04-15T08:00:00+0800  
+Reward: Interest  
+
+
+## RACE-C Dataset
+
+Link: https://www.biendata.xyz/competition/race_c/  
+Description: RACE-C Dataset  
 Deadline: 2026-04-15T08:00:00+0800  
 Reward: Interest  
 
