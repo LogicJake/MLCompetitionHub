@@ -14,7 +14,7 @@ Reward: 各種賞品
 
 Link: https://www.nishika.com/competitions/23  
 Description: 空戦AIチャレンジ  
-Deadline: 2022-02-25T13:59:00+0800  
+Deadline: 2022-02-28T13:59:00+0800  
 Reward: 100万円  
 
 
