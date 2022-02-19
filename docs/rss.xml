@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-02-18T16:01:10+08:00</updated>
+    <updated>2022-02-19T16:01:17+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -17,8 +17,8 @@
         <updated>2022-02-10T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/137"/>
-        <summary>本场大赛由数数字中国创新大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨协办。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/137"><![CDATA[<h3>Description</h3>本场大赛由数数字中国创新大赛由数字中国建设峰会组委会主办，国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨协办。<h3>Deadline: 2022-04-30T08:00:00+08:00</h3><h3>Reward: ￥160,000</h3>]]></content>
+        <summary>本场大赛由国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨、国家超级计算济南中心协办举行。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/137"><![CDATA[<h3>Description</h3>本场大赛由国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨、国家超级计算济南中心协办举行。<h3>Deadline: 2022-03-12T08:00:00+08:00</h3><h3>Reward: ￥160,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -551,34 +551,6 @@
     </entry>
     
     <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
         <title><![CDATA[医保大数据创意分析应用]]></title>
         
@@ -605,6 +577,34 @@
 </summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
 <h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -641,6 +641,34 @@
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=610"><![CDATA[<h3>Description</h3>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
 创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
 算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。<h3>Deadline: 2022-04-02T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
+        <title><![CDATA[限时免费停车服务及应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
+        <title><![CDATA[供热大数据分析预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -689,34 +717,6 @@
     </entry>
     
     <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
-        <title><![CDATA[限时免费停车服务及应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
-        <title><![CDATA[供热大数据分析预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=573</id>
         <title><![CDATA[机动车排气污染状况分析及管控]]></title>
         
@@ -745,6 +745,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kaggle.com/c/mens-march-mania-2022</id>
+        <title><![CDATA[March Machine Learning Mania 2022 - Men’s]]></title>
+        
+        <updated>2022-02-19T09:15:53+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/mens-march-mania-2022"/>
+        <summary>Predict the 2022 College Men's Basketball Tournament</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/mens-march-mania-2022"><![CDATA[<h3>Description</h3>Predict the 2022 College Men's Basketball Tournament<h3>Deadline: 2022-03-17T23:00:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/womens-march-mania-2022</id>
+        <title><![CDATA[March Machine Learning Mania 2022 - Women's]]></title>
+        
+        <updated>2022-02-19T09:15:37+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/womens-march-mania-2022"/>
+        <summary>Predict the 2022 College Women's Basketball Tournament</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/womens-march-mania-2022"><![CDATA[<h3>Description</h3>Predict the 2022 College Women's Basketball Tournament<h3>Deadline: 2022-03-18T23:00:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kaggle.com/c/birdclef-2022</id>
