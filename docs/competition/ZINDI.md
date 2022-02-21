@@ -2,7 +2,7 @@
 
 
 
-## Google NLP Hack Series: Intro to ASR Africa Challenge <sup style="color:red">[new]<sup>  
+## Google NLP Hack Series: Intro to ASR Africa Challenge
 
 Link: https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge  
 Description: Calling on the Zindi community to help create automatic speech recognition datasets for African languages  
