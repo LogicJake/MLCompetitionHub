@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-02-21T16:01:16+08:00</updated>
+    <updated>2022-02-22T16:01:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -551,34 +551,6 @@
     </entry>
     
     <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
         <title><![CDATA[医保大数据创意分析应用]]></title>
         
@@ -605,6 +577,34 @@
 </summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
 <h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -647,6 +647,34 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
+        <title><![CDATA[限时免费停车服务及应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
+        <title><![CDATA[供热大数据分析预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=574</id>
         <title><![CDATA[数字经济创新领域]]></title>
         
@@ -683,34 +711,6 @@
         <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"/>
         <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
-        <title><![CDATA[限时免费停车服务及应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
-        <title><![CDATA[供热大数据分析预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1003,6 +1003,64 @@
     </entry>
     
     
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531945/introduction</id>
+        <title><![CDATA[真实场景篡改图像检测挑战赛(赛季 1)]]></title>
+        
+        <updated>2022-01-30T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531945/introduction"/>
+        <summary>针对真实场景中大量出现的篡改图像的检测比赛，提供一个接近真实经济生活场景的篡改图像数据集，让篡改检测领域更加关注此类高风险篡改图像，通过比赛促进此方向的技术进步。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531945/introduction"><![CDATA[<h3>Description</h3>针对真实场景中大量出现的篡改图像的检测比赛，提供一个接近真实经济生活场景的篡改图像数据集，让篡改检测领域更加关注此类高风险篡改图像，通过比赛促进此方向的技术进步。<h3>Deadline: 2022-03-21T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531944/introduction</id>
+        <title><![CDATA[阿里云数据库Tair Hackathon(赛季 1)]]></title>
+        
+        <updated>2022-01-21T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531944/introduction"/>
+        <summary>首届阿里云数据库Tair Hackathon正式开启！本次Tair Hackathon由阿里云数据库事业部联合阿里云开发者关系事业部共同举办。无论你是企业用户，还是社区老兵，或是在校学生，都欢迎你报名参与本次活动。我们认为，Hackathon的灵魂是：大家以合作的方式创造程序与应用。所以，叫上你的小伙伴，大家在一段时间内，相聚在一起，以你们想要的方式，去做你们想做的事情！</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531944/introduction"><![CDATA[<h3>Description</h3>首届阿里云数据库Tair Hackathon正式开启！本次Tair Hackathon由阿里云数据库事业部联合阿里云开发者关系事业部共同举办。无论你是企业用户，还是社区老兵，或是在校学生，都欢迎你报名参与本次活动。我们认为，Hackathon的灵魂是：大家以合作的方式创造程序与应用。所以，叫上你的小伙伴，大家在一段时间内，相聚在一起，以你们想要的方式，去做你们想做的事情！<h3>Deadline: 2022-03-23T23:55:00+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531942/introduction</id>
+        <title><![CDATA[Re-Cloud Challenges 2022(赛季 1)]]></title>
+        
+        <updated>2022-01-11T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531942/introduction"/>
+        <summary>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531942/introduction"><![CDATA[<h3>Description</h3>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.<h3>Deadline: 2022-02-24T23:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531941/introduction</id>
+        <title><![CDATA[Alibaba Cloud Low-Code Development Contest 2022(赛季 1)]]></title>
+        
+        <updated>2021-12-23T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531941/introduction"/>
+        <summary>Alibaba Cloud Low-Code Development Contest is a virtual solution building contest for professionals and students in India, Singapore, Thailand, Pakistan, Sri Lanka and Nepal, co-organized by Alibaba Cloud Tianchi and IndiaSpark.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531941/introduction"><![CDATA[<h3>Description</h3>Alibaba Cloud Low-Code Development Contest is a virtual solution building contest for professionals and students in India, Singapore, Thailand, Pakistan, Sri Lanka and Nepal, co-organized by Alibaba Cloud Tianchi and IndiaSpark.<h3>Deadline: 2022-02-28T09:30:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     
