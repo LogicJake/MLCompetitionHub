@@ -18,7 +18,7 @@ Deadline: 2022-03-18T23:00:00+0800
 Reward: 25000 USD  
 
 
-## BirdCLEF 2022 <sup style="color:red">[new]<sup>  
+## BirdCLEF 2022
 
 Link: https://www.kaggle.com/c/birdclef-2022  
 Description: Identify bird calls in soundscapes  
