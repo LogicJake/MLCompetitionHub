@@ -25,11 +25,3 @@ Description: 时序动作定位(即提案生成)是计算机视觉和视频分�
 Deadline: 2022-03-10T08:00:00+0800  
 Reward: ¥20,000+特别礼包  
 
-
-## 百度网盘AI大赛：文档图像阴影消除
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/134  
-Description: 本次比赛由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，完成模型设计搭建与训练优化，产出基于飞桨框架的开源模型方案。  
-Deadline: 2022-02-24T08:00:00+0800  
-Reward: 网盘神秘大礼包  
-
