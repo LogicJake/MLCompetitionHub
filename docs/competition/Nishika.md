@@ -2,6 +2,14 @@
 
 
 
+## ソフトウェアの異常検知 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/26  
+Description: ソフトウェアの異常検知  
+Deadline: 2022-04-26T13:59:00+0800  
+Reward: 25万円  
+
+
 ## 中古マンション価格予測 2022冬の部
 
 Link: https://www.nishika.com/competitions/25  

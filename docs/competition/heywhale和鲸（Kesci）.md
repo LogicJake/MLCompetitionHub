@@ -2,6 +2,22 @@
 
 
 
+## 2022全球人工智能技术创新大赛—算法挑战赛——电商关键属性的图文匹配 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca  
+Description: 2022全球人工智能技术创新大赛—算法挑战赛——电商关键属性的图文匹配  
+Deadline: 2022-06-30T23:00:00+0800  
+Reward: ￥500,000  
+
+
+## 2022全球人工智能技术创新大赛—算法挑战赛——商品标题实体识别 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/620b34ed28270b0017b823ad  
+Description: 2022全球人工智能技术创新大赛—算法挑战赛——商品标题实体识别  
+Deadline: 2022-06-30T23:00:00+0800  
+Reward: ￥500,000  
+
+
 ## 2021全国人工智能大赛——AI+视觉特征编码
 
 Link: https://www.kesci.com/home/competition/61b81042902a13001708eb17  

@@ -782,3 +782,6 @@ https://www.kaggle.com/c/birdclef-2022
 https://www.kaggle.com/c/mens-march-mania-2022
 https://www.kaggle.com/c/womens-march-mania-2022
 https://tianchi.aliyun.com/competition/entrance/531945/introduction
+https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca
+https://www.kesci.com/home/competition/620b34ed28270b0017b823ad
+https://www.nishika.com/competitions/26
