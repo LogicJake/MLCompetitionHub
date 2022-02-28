@@ -33,11 +33,3 @@ Description: Can you build a facial recognition model... for turtles?
 Deadline: 2022-03-14T07:59:00+0800  
 Reward: $10 000 USD  
 
-
-## Task Mate Kenyan Sign Language Classification Challenge
-
-Link: https://zindi.africa/competitions/kenyan-sign-language-classification-challenge  
-Description: Can you classify words in Kenyan Sign Language?   
-Deadline: 2022-02-28T07:59:00+0800  
-Reward: $5 000 USD  
-

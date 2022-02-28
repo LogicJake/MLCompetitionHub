@@ -26,14 +26,6 @@ Deadline: 2022-02-28T13:59:00+0800
 Reward: 100万円  
 
 
-## AI×商標：イメージサーチコンペティション（類似商標画像の検出）
-
-Link: https://www.nishika.com/competitions/22  
-Description: AI×商標：イメージサーチコンペティション（類似商標画像の検出）  
-Deadline: 2022-01-31T13:59:00+0800  
-Reward: 50万円  
-
-
 ## 【トレーニングコンペ】中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/13  
