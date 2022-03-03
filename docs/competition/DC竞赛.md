@@ -193,6 +193,22 @@ Deadline: 2022-04-02T15:00:00+0800
 Reward: ￥100000  
 
 
+## 限时免费停车服务及应用
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=572  
+Description: 潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台  
+Deadline: 2022-04-03T15:00:00+0800  
+Reward: ￥130000  
+
+
+## 供热大数据分析预测
+
+Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=615  
+Description: 潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台  
+Deadline: 2022-04-03T15:00:00+0800  
+Reward: ¥100000  
+
+
 ## 数字经济创新领域
 
 Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=574  
@@ -215,22 +231,6 @@ Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=575
 Description: 山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。  
 Deadline: 2022-04-03T15:00:00+0800  
 Reward: ￥100000  
-
-
-## 限时免费停车服务及应用
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=572  
-Description: 潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台  
-Deadline: 2022-04-03T15:00:00+0800  
-Reward: ￥130000  
-
-
-## 供热大数据分析预测
-
-Link: https://challenge.datacastle.cn/v3/cmptDetail.html?id=615  
-Description: 潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台  
-Deadline: 2022-04-03T15:00:00+0800  
-Reward: ¥100000  
 
 
 ## 机动车排气污染状况分析及管控
