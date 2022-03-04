@@ -2,7 +2,7 @@
 
 
 
-## ソフトウェアの異常検知 <sup style="color:red">[new]<sup>  
+## ソフトウェアの異常検知
 
 Link: https://www.nishika.com/competitions/26  
 Description: ソフトウェアの異常検知  
