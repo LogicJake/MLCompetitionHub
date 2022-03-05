@@ -2,7 +2,7 @@
 
 
 
-## 第十七届全国大学生智能车竞赛：智慧交通组创意赛线上资格赛 <sup style="color:red">[new]<sup>  
+## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
 Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
