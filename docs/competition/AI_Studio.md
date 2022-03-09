@@ -22,7 +22,7 @@ Reward: 教育部榜单赛事
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/137  
 Description: 本场大赛由国家对地观测科学数据中心、中国科学院空天信息创新研究院承办，百度飞桨、国家超级计算济南中心协办举行。  
-Deadline: 2022-03-12T08:00:00+0800  
+Deadline: 2022-03-23T08:00:00+0800  
 Reward: ￥160,000  
 
 
