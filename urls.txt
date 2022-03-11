@@ -789,3 +789,4 @@ https://tianchi.aliyun.com/competition/entrance/531947/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/132
 https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329
 https://aistudio.baidu.com/aistudio/competition/detail/148
+https://aistudio.baidu.com/aistudio/competition/detail/151

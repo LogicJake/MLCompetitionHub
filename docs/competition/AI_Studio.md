@@ -2,6 +2,14 @@
 
 
 
+## 第十一届 “中国软件杯”大学生软件设计大赛—本科组 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
+Description: 工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台  
+Deadline: 2022-08-01T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 2022 NAACL同传Workshop：千言 - 机器同传 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/148  
@@ -10,7 +18,7 @@ Deadline: 2022-06-16T08:00:00+0800
 Reward: $6,900  
 
 
-## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛 <sup style="color:red">[new]<sup>  
+## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
 Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
