@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-03-11T16:01:57+08:00</updated>
+    <updated>2022-03-12T16:02:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -14,7 +14,7 @@
         <id>https://aistudio.baidu.com/aistudio/competition/detail/151</id>
         <title><![CDATA[第十一届 “中国软件杯”大学生软件设计大赛—本科组]]></title>
         
-        <updated>2022-03-11T08:00:00+08:00</updated>
+        <updated>2022-03-15T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/151"/>
         <summary>工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台</summary>
@@ -75,20 +75,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/131"/>
         <summary>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/131"><![CDATA[<h3>Description</h3>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/127</id>
-        <title><![CDATA[基于飞桨实现乒乓球时序动作定位大赛]]></title>
-        
-        <updated>2021-12-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/127"/>
-        <summary>时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/127"><![CDATA[<h3>Description</h3>时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。<h3>Deadline: 2022-03-11T08:00:00+08:00</h3><h3>Reward: ¥20,000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -307,20 +293,6 @@
     </entry>
     
     
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/557</id>
-        <title><![CDATA[ AI based Channel Modeling and Generating]]></title>
-        
-        <updated>2021-12-24T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/557"/>
-        <summary> AI based Channel Modeling and Generating</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/557"><![CDATA[<h3>Description</h3> AI based Channel Modeling and Generating<h3>Deadline: 2022-03-11T23:59:59+08:00</h3><h3>Reward: ￥500000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/549</id>
@@ -675,6 +647,34 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
+        <title><![CDATA[限时免费停车服务及应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
+        <title><![CDATA[供热大数据分析预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=574</id>
         <title><![CDATA[数字经济创新领域]]></title>
         
@@ -711,34 +711,6 @@
         <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"/>
         <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
-        <title><![CDATA[限时免费停车服务及应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
-        <title><![CDATA[供热大数据分析预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1117,6 +1089,8 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    
     
     
     

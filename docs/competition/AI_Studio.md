@@ -41,11 +41,3 @@ Description: 第十七届全国大学生智能汽车竞赛——完全模型竞�
 Deadline: 2022-06-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
-
-## 基于飞桨实现乒乓球时序动作定位大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/127  
-Description: 时序动作定位(即提案生成)是计算机视觉和视频分析领域极具挑战性的任务之一，本赛题要求参赛选手基于给定的乒乓球转播画面动作数据集，定位运动员的挥拍动作(即时序动作提案生成)。  
-Deadline: 2022-03-11T08:00:00+0800  
-Reward: ¥20,000+特别礼包  
-
