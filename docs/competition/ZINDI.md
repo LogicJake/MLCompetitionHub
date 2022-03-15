@@ -2,6 +2,14 @@
 
 
 
+## Loan Default Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/loan-default-prediction-challenge  
+Description: A learning competition designed for DSN Bootcamp 2018  
+Deadline: 2022-04-17T07:59:00+0800  
+Reward: Internships  
+
+
 ## Google NLP Hack Series: Intro to ASR Africa Challenge
 
 Link: https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge  

@@ -1,11 +1,11 @@
-> 更新时间: 2022-03-14T16:00:53+0800 
+> 更新时间: 2022-03-15T16:01:08+0800 
 
 # 新上线比赛
 
 
-## 2022国际自主智能机器人大赛-线上初赛
-Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
-Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: $30,000  
+## Loan Default Prediction Challenge
+Link: https://zindi.africa/competitions/loan-default-prediction-challenge  
+Description: A learning competition designed for DSN Bootcamp 2018  
+Deadline: 2022-04-17T07:59:00+0800  
+Reward: Internships  
 
