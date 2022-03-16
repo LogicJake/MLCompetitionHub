@@ -2,6 +2,14 @@
 
 
 
+## Baidu KDD CUP 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
+Description: Spatial Dynamic Wind Power Forecast  
+Deadline: 2022-07-13T08:00:00+0800  
+Reward: $35000  
+
+
 ## 2022国际自主智能机器人大赛-线上初赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/147  

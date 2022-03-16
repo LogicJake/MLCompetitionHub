@@ -792,3 +792,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/148
 https://aistudio.baidu.com/aistudio/competition/detail/151
 https://aistudio.baidu.com/aistudio/competition/detail/147
 https://zindi.africa/competitions/loan-default-prediction-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/152

@@ -58,14 +58,6 @@ Deadline: 2022-04-19T07:59:00+0800
 Reward: 100000 USD  
 
 
-## Feedback Prize - Evaluating Student Writing
-
-Link: https://www.kaggle.com/c/feedback-prize-2021  
-Description: Analyze argumentative writing elements from students grade 6-12   
-Deadline: 2022-03-16T07:59:00+0800  
-Reward: 160000 USD  
-
-
 ## G-Research Crypto Forecasting 
 
 Link: https://www.kaggle.com/c/g-research-crypto-forecasting  
