@@ -6,7 +6,7 @@
 
 Link: https://www.kaggle.com/c/mens-march-mania-2022  
 Description: Predict the 2022 College Men's Basketball Tournament  
-Deadline: 2022-03-18T00:00:00+0800  
+Deadline: 2022-04-07T00:00:00+0800  
 Reward: 25000 USD  
 
 
