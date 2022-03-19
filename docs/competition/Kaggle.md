@@ -14,7 +14,7 @@ Reward: 25000 USD
 
 Link: https://www.kaggle.com/c/womens-march-mania-2022  
 Description: Predict the 2022 College Women's Basketball Tournament  
-Deadline: 2022-03-18T23:00:00+0800  
+Deadline: 2022-04-04T23:00:00+0800  
 Reward: 25000 USD  
 
 
