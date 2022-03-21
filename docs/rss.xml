@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-03-20T16:01:10+08:00</updated>
+    <updated>2022-03-21T16:00:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/152"/>
         <summary>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/152"><![CDATA[<h3>Description</h3>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.<h3>Deadline: 2022-07-13T08:00:00+08:00</h3><h3>Reward: $35000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/148</id>
+        <title><![CDATA[2022 NAACL同传Workshop：千言 - 机器同传]]></title>
+        
+        <updated>2022-03-07T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/148"/>
+        <summary>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/148"><![CDATA[<h3>Description</h3>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。<h3>Deadline: 2022-06-16T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -47,20 +61,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/151"/>
         <summary>工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/151"><![CDATA[<h3>Description</h3>工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台<h3>Deadline: 2022-05-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/148</id>
-        <title><![CDATA[2022 NAACL同传Workshop：千言 - 机器同传]]></title>
-        
-        <updated>2022-03-07T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/148"/>
-        <summary>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/148"><![CDATA[<h3>Description</h3>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。<h3>Deadline: 2022-06-16T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -111,34 +111,6 @@
     
     
     <entry>
-        <id>https://www.biendata.xyz/competition/qkl-2/</id>
-        <title><![CDATA[2021未来杯区块链应用创新大赛-区块链工具开发]]></title>
-        
-        <updated>2021-09-24T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/qkl-2/"/>
-        <summary>2021未来杯区块链应用创新大赛-区块链工具开发</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-2/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-区块链工具开发<h3>Deadline: 2022-03-20T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/qkl-1/</id>
-        <title><![CDATA[2021未来杯区块链应用创新大赛-应用场景创新]]></title>
-        
-        <updated>2021-09-24T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/qkl-1/"/>
-        <summary>2021未来杯区块链应用创新大赛-应用场景创新</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/qkl-1/"><![CDATA[<h3>Description</h3>2021未来杯区块链应用创新大赛-应用场景创新<h3>Deadline: 2022-03-20T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/hgb-3/</id>
         <title><![CDATA[Heterogeneous Graph Benchmark - Knowledge-aware Recommendation]]></title>
         
@@ -181,28 +153,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/c3/</id>
-        <title><![CDATA[C3 Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/c3/"/>
-        <summary>C3 Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/sciq/</id>
-        <title><![CDATA[SciQ Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/sciq/"/>
-        <summary>SciQ Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -237,28 +195,14 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/dream/</id>
-        <title><![CDATA[Dream Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/dream/"/>
-        <summary>Dream Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
-        <title><![CDATA[CommonsenseQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
-        <summary>CommonsenseQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -293,28 +237,56 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/race/</id>
-        <title><![CDATA[RACE Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/dream/</id>
+        <title><![CDATA[Dream Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/race/"/>
-        <summary>RACE Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/dream/"/>
+        <summary>Dream Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
         
         <updated>2021-04-15T08:00:00+08:00</updated>
         
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/c3/</id>
+        <title><![CDATA[C3 Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/c3/"/>
+        <summary>C3 Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -579,6 +551,34 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
+        <title><![CDATA[产品质检创新应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
+        <title><![CDATA[网格事件智能分类]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
+        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
         <title><![CDATA[医保大数据创意分析应用]]></title>
         
@@ -605,34 +605,6 @@
 </summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
 <h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -675,6 +647,34 @@
     </entry>
     
     <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
+        <title><![CDATA[限时免费停车服务及应用]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
+        <title><![CDATA[供热大数据分析预测]]></title>
+        
+        <updated>2021-11-02T10:00:00+08:00</updated>
+        
+        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
+        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
+        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[DC竞赛]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=574</id>
         <title><![CDATA[数字经济创新领域]]></title>
         
@@ -711,34 +711,6 @@
         <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"/>
         <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
         <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
-        <title><![CDATA[限时免费停车服务及应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
-        <title><![CDATA[供热大数据分析预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
         <author>
             <name><![CDATA[DC竞赛]]></name>
         </author>
@@ -1035,6 +1007,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531948/introduction</id>
+        <title><![CDATA[ICME-2022 安全AI挑战者计划第九期：小样本商标检测挑战赛(赛季 1)]]></title>
+        
+        <updated>2022-03-21T10:41:12+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531948/introduction"/>
+        <summary>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531948/introduction"><![CDATA[<h3>Description</h3>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。<h3>Deadline: 2022-05-30T10:41:44+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531947/introduction</id>
         <title><![CDATA[第三届阿里云磐久智维算法大赛(赛季 1)]]></title>
         
@@ -1064,13 +1050,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531945/introduction</id>
-        <title><![CDATA[真实场景篡改图像检测挑战赛(赛季 1)]]></title>
+        <title><![CDATA[真实场景篡改图像检测挑战赛(赛季 2)]]></title>
         
-        <updated>2022-01-30T00:00:00+08:00</updated>
+        <updated>2022-03-21T12:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531945/introduction"/>
         <summary>针对真实场景中大量出现的篡改图像的检测比赛，提供一个接近真实经济生活场景的篡改图像数据集，让篡改检测领域更加关注此类高风险篡改图像，通过比赛促进此方向的技术进步。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531945/introduction"><![CDATA[<h3>Description</h3>针对真实场景中大量出现的篡改图像的检测比赛，提供一个接近真实经济生活场景的篡改图像数据集，让篡改检测领域更加关注此类高风险篡改图像，通过比赛促进此方向的技术进步。<h3>Deadline: 2022-03-21T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531945/introduction"><![CDATA[<h3>Description</h3>针对真实场景中大量出现的篡改图像的检测比赛，提供一个接近真实经济生活场景的篡改图像数据集，让篡改检测领域更加关注此类高风险篡改图像，通过比赛促进此方向的技术进步。<h3>Deadline: 2022-03-25T23:55:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -1085,20 +1071,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531944/introduction"/>
         <summary>首届阿里云数据库Tair Hackathon正式开启！本次Tair Hackathon由阿里云数据库事业部联合阿里云开发者关系事业部共同举办。无论你是企业用户，还是社区老兵，或是在校学生，都欢迎你报名参与本次活动。我们认为，Hackathon的灵魂是：大家以合作的方式创造程序与应用。所以，叫上你的小伙伴，大家在一段时间内，相聚在一起，以你们想要的方式，去做你们想做的事情！</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531944/introduction"><![CDATA[<h3>Description</h3>首届阿里云数据库Tair Hackathon正式开启！本次Tair Hackathon由阿里云数据库事业部联合阿里云开发者关系事业部共同举办。无论你是企业用户，还是社区老兵，或是在校学生，都欢迎你报名参与本次活动。我们认为，Hackathon的灵魂是：大家以合作的方式创造程序与应用。所以，叫上你的小伙伴，大家在一段时间内，相聚在一起，以你们想要的方式，去做你们想做的事情！<h3>Deadline: 2022-03-23T23:55:00+08:00</h3><h3>Reward: ￥160000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531942/introduction</id>
-        <title><![CDATA[Re-Cloud Challenges 2022(赛季 2)]]></title>
-        
-        <updated>2022-03-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531942/introduction"/>
-        <summary>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531942/introduction"><![CDATA[<h3>Description</h3>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.<h3>Deadline: 2022-03-21T00:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
