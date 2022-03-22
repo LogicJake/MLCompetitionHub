@@ -794,3 +794,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/147
 https://zindi.africa/competitions/loan-default-prediction-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/152
 https://tianchi.aliyun.com/competition/entrance/531948/introduction
+https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching
+https://signate.jp/competitions/581
+https://signate.jp/competitions/580
+https://tianchi.aliyun.com/competition/entrance/531951/introduction

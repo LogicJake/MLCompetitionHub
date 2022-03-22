@@ -2,6 +2,14 @@
 
 
 
+## U.S. Patent Phrase to Phrase Matching  <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching  
+Description: Help Identify Similar Phrases in U.S. Patents  
+Deadline: 2022-06-21T07:59:00+0800  
+Reward: 25000 USD  
+
+
 ## March Machine Learning Mania 2022 - Men’s
 
 Link: https://www.kaggle.com/c/mens-march-mania-2022  

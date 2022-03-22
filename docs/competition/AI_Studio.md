@@ -6,7 +6,7 @@
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
 Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
-Deadline: 2022-07-13T08:00:00+0800  
+Deadline: 2022-07-15T08:00:00+0800  
 Reward: $35000  
 
 

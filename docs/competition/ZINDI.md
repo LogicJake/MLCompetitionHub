@@ -2,7 +2,7 @@
 
 
 
-## Loan Default Prediction Challenge <sup style="color:red">[new]<sup>  
+## Loan Default Prediction Challenge
 
 Link: https://zindi.africa/competitions/loan-default-prediction-challenge  
 Description: A learning competition designed for DSN Bootcamp 2018  
