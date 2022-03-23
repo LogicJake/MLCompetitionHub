@@ -2,7 +2,23 @@
 
 
 
-## Baidu KDD CUP 2022 <sup style="color:red">[new]<sup>  
+## 2022 CVPR track1：Supernet Track <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/149  
+Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
+Deadline: 2022-05-24T08:00:00+0800  
+Reward: $5,000  
+
+
+## 2022 CVPR track2：Performance Estimation <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/150  
+Description: Predict the performance of any architectures accurately without training.  
+Deadline: 2022-05-24T08:00:00+0800  
+Reward: $5,000  
+
+
+## Baidu KDD CUP 2022
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
 Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  

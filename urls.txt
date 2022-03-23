@@ -798,3 +798,5 @@ https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching
 https://signate.jp/competitions/581
 https://signate.jp/competitions/580
 https://tianchi.aliyun.com/competition/entrance/531951/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/149
+https://aistudio.baidu.com/aistudio/competition/detail/150
