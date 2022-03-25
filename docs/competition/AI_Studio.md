@@ -42,7 +42,7 @@ Deadline: 2022-07-31T08:00:00+0800
 Reward: $30,000  
 
 
-## 第十一届 “中国软件杯”大学生软件设计大赛—本科组 <sup style="color:red">[new]<sup>  
+## 第十一届 “中国软件杯”大学生软件设计大赛—A组
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
 Description: 工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台  
