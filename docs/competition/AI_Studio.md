@@ -2,6 +2,14 @@
 
 
 
+## 第十五届中国计算机设计大赛—智慧导盲组校赛评测通道 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/156  
+Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将智能学习的算法与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。  
+Deadline: 2022-05-01T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 2022 CVPR track1：Supernet Track <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/149  

@@ -800,3 +800,4 @@ https://signate.jp/competitions/580
 https://tianchi.aliyun.com/competition/entrance/531951/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/149
 https://aistudio.baidu.com/aistudio/competition/detail/150
+https://aistudio.baidu.com/aistudio/competition/detail/156
