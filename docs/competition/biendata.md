@@ -2,6 +2,14 @@
 
 
 
+## 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/sohu_2022/  
+Description: 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition  
+Deadline: 2022-05-28T08:00:00+0800  
+Reward: ￥80,000  
+
+
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  
