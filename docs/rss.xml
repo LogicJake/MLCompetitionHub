@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-03-28T16:06:23+08:00</updated>
+    <updated>2022-03-29T16:08:22+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -11,10 +11,24 @@
     
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/139</id>
+        <title><![CDATA[香港置地2022年置慧杯：商业综合体能耗预测]]></title>
+        
+        <updated>2022-04-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/139"/>
+        <summary>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/139"><![CDATA[<h3>Description</h3>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。<h3>Deadline: 2022-05-25T08:00:00+08:00</h3><h3>Reward: ￥90,000+其他奖励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/156</id>
         <title><![CDATA[第十五届中国计算机设计大赛—智慧导盲组校赛评测通道]]></title>
         
-        <updated>2022-03-28T08:00:00+08:00</updated>
+        <updated>2022-03-30T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/156"/>
         <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将智能学习的算法与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。</summary>
@@ -117,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/132"/>
         <summary>第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/132"><![CDATA[<h3>Description</h3>第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/131</id>
-        <title><![CDATA[第十七届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛]]></title>
-        
-        <updated>2022-01-15T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/131"/>
-        <summary>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/131"><![CDATA[<h3>Description</h3>第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -347,442 +347,6 @@
         <content type="text/html" src="https://www.datafountain.cn/competitions/549"><![CDATA[<h3>Description</h3>AI球球大作战：Go-Bigger多智能体决策智能挑战赛 <h3>Deadline: 2022-04-30T23:59:59+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=621</id>
-        <title><![CDATA[基于图像和激光雷达融合的障碍物识别]]></title>
-        
-        <updated>2022-01-25T16:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"/>
-        <summary>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
-       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=621"><![CDATA[<h3>Description</h3>       习近平总书记提出，“中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地”。当前，全球科技创新进入空前密集活跃的时期，新一轮科技革命和产业变革正在重构全球创新版图。以人工智能、移动通信、区块链等为代表的新一代信息技术加速突破应用，融合机器人、数字化的先进制造技术正在加速推进制造业向智能化、绿色化转型。
-       为把握智能化时代新机遇，勇担科技自立自强的历史使命，进一步巩固中国高铁作为科技创新龙头产业地位，打造高端装备原创技术策源地，中车株洲电力机车研究所有限公司联合株洲经济开发区管委会共同组织开展首届“沉香挑战杯”智能技术创新应用大赛。<h3>Deadline: 2022-04-23T15:00:00+08:00</h3><h3>Reward: ￥146000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=582</id>
-        <title><![CDATA[碳排放分析预测]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=582"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=582"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=588</id>
-        <title><![CDATA[信息化基础设施环境下的大规模告警分析]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=588"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=588"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=583</id>
-        <title><![CDATA[基层待就业人员岗位推荐赛]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=583"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=583"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=603</id>
-        <title><![CDATA[电网母线负荷预测]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=603"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=603"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=607</id>
-        <title><![CDATA[基层医院大数据分析]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=607"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=607"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=612</id>
-        <title><![CDATA[未知工作服属性识别]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=612"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=612"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=614</id>
-        <title><![CDATA[烟火云雾识别]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=614"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=614"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=613</id>
-        <title><![CDATA[行人重识别以及追踪]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=613"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=613"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=617</id>
-        <title><![CDATA[视频分析持刀持棍识别]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=617"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=617"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=606</id>
-        <title><![CDATA[高速服务区进出及停留分析]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=606"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=606"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=608</id>
-        <title><![CDATA[心电图智能事件识别]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=608"/>
-        <summary>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=608"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛主赛场以“协同创新 强省惠民”为主题，加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，集聚数据应用相关企业、团队、爱好者，打造一批具有创新性的数据产品、数据服务，促进发挥数据“优政、惠民、兴业”作用。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=570</id>
-        <title><![CDATA[城市新能源车充电桩安装位置规划]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=570"/>
-        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=570"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=579</id>
-        <title><![CDATA[大数据赋能养老智慧地图项目]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=579"/>
-        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=579"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=618</id>
-        <title><![CDATA[基于多源车辆GPS数据的智慧交通应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"/>
-        <summary>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=618"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛烟台分赛场正式启幕！为加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值，烟台市大数据局承办的山东省第三届数据应用创新创业大赛烟台分赛于11月2日正式启动。大赛以“数字强市 数创未来”为主题，紧扣烟台智慧城市建设需求，设置“城市新能源车充电桩安装位置规划”、“大数据赋能智慧养老地图”、“基于多源车辆GPS数据的智慧交通应用”等3道赛题，奖金总额高达30万元。大赛面向全球高校、企业和社会科研机构团队征集优秀方案作品，成果将用于烟台智慧城市建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=611</id>
-        <title><![CDATA[道路积水预测]]></title>
-        
-        <updated>2021-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=611"/>
-        <summary>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=611"><![CDATA[<h3>Description</h3>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥68000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=571</id>
-        <title><![CDATA[机动车尾气排放估算挑战赛]]></title>
-        
-        <updated>2021-12-12T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"/>
-        <summary>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=571"><![CDATA[<h3>Description</h3>本次数据创新创业大赛秉承“公平、公正、融合、创新、开放”的宗旨，依托市一体化大数据平台，旨在通过大赛构建良好的数据资源共享开放机制，营造德州市大数据的良性发展氛围，创新城市大数据的多维度应用，探索政务数据与互联网数据的融合创新。同时，促进大数据专业技术人才的培养，为大数据从业者及爱好者提供专业交流平台，将梦想照进现实，为智慧城市建设添砖加瓦。<h3>Deadline: 2022-04-03T00:00:00+08:00</h3><h3>Reward: ￥132000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=580</id>
-        <title><![CDATA[医保大数据创意分析应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=580"/>
-        <summary>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
-</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=580"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
-<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=605</id>
-        <title><![CDATA[数字城管案件自动分发]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"/>
-        <summary>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
-</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=605"><![CDATA[<h3>Description</h3>赛场有一道算法赛（数字城管案件自动分发）根据数字城管系统自动立案的案件进行自动分析识别，并按一定规则将案件自动派遣至处置单位；一道创意赛（医保大数据创意分析应用）利用日照市医保大数据为基础进行创意分析，研究医保数据在具体应用中可实现的应用方向，为医保数据便民惠民提供支撑。
-<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=589</id>
-        <title><![CDATA[产品质检创新应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=589"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=616</id>
-        <title><![CDATA[网格事件智能分类]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"/>
-        <summary>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=616"><![CDATA[<h3>Description</h3>产品质量问题是工业生产的重中之重，传统的在线人工客服质检工作，由于采用全覆盖式的方式进行质检，在线人工客服质检工作的时间成本和人工成本极高，几乎与一线人工客服团队成本相同；此外，采用抽检的方式进行，由于不能做到全覆盖，给在线人工客服工作人员以侥幸心理，为服务质量和工作效率留下隐患。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=587</id>
-        <title><![CDATA[健康大数据分析]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=587"/>
-        <summary>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
-创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
-算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=587"><![CDATA[<h3>Description</h3>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
-创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
-算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。<h3>Deadline: 2022-04-02T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=610</id>
-        <title><![CDATA[后疫情时代的民宿空置房预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=610"/>
-        <summary>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
-创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
-算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=610"><![CDATA[<h3>Description</h3>赛事方向：鼓励参赛队伍运用省市政府开放的数据，融合社会数据与互联网数据，创造“智慧化”产品及解决方案，有效解决政务服务、经济发展、社会治理等领域的重点、堵点、痛点问题，发挥开放数据在优政、兴业、惠民中的基础支撑和创新驱动作用。
-创意赛：健康大数据分析。随着大数据应用的不断成熟，威海市以医疗健康信息为基础，深度挖掘医疗健康大数据价值，为生态链中的政府管理部门、相关企业、医院以及个人等提供多样的数据服务与应用，实现医疗健康精细化管理和医疗服务健康协调发展，加快产业发展，实现优政、惠民及多方共赢。
-算法赛：违章建筑/垃圾箱溢出识别。随着城市建设速度较快，部分人口密度低的区域常会发生违法加扩改现象，房屋传统的违章建筑监测手段主要靠人力来检查，存在查处滞后和监管盲区的问题。随着人口和经济社会发展，人口的逐年增加使垃圾量呈增长趋势，由于人们对垃圾箱的不当使用等问题导致在部分区域经常出现垃圾箱满溢的情况。通过对对违章建筑、垃圾箱溢出等视频数据的算法识别，及时预测及发现城市管理相关问题，为人民创造良好的生活环境。<h3>Deadline: 2022-04-02T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=572</id>
-        <title><![CDATA[限时免费停车服务及应用]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=572"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥130000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=615</id>
-        <title><![CDATA[供热大数据分析预测]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"/>
-        <summary>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=615"><![CDATA[<h3>Description</h3>潍坊分赛场以“数据赋能、兴业惠民”为大赛主题，创新公共数据资源开发应用，推动城市高质量发展，欢迎国内外大数据人才积极探索，协力构建潍坊市大数据发展成果转化新平台<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ¥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=574</id>
-        <title><![CDATA[数字经济创新领域]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=574"/>
-        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=574"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=577</id>
-        <title><![CDATA[数字社会领域]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=577"/>
-        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=577"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=575</id>
-        <title><![CDATA[数字乡村领域]]></title>
-        
-        <updated>2021-11-02T10:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"/>
-        <summary>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=575"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛济南赛区以“数据创新、智绘泉城”为主题，通过比赛，提高社会大数据素养，增强依托数据解决问题的意识，推动公共数据与社会数据融合应用，激发政府各部门和全社会的创新活力，助力数字产业化，加快数字经济、数字社会融合发展，推进 ”数字山东”建设。<h3>Deadline: 2022-04-03T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=573</id>
-        <title><![CDATA[机动车排气污染状况分析及管控]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=573"/>
-        <summary>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=573"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://challenge.datacastle.cn/v3/cmptDetail.html?id=576</id>
-        <title><![CDATA[公交线网优化分析]]></title>
-        
-        <updated>2021-11-02T00:00:00+08:00</updated>
-        
-        <link href="https://challenge.datacastle.cn/v3/cmptDetail.html?id=576"/>
-        <summary>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。</summary>
-        <content type="text/html" src="https://challenge.datacastle.cn/v3/cmptDetail.html?id=576"><![CDATA[<h3>Description</h3>山东省第三届数据应用创新创业大赛聊城分赛场以“协同创新 强省惠民”为主题，以加快推动公共数据资源开发利用，充分释放公共数据资源的经济价值和社会价值为目的。集聚企业、团队、爱好者，打造一批着力于解决实际问题、优化现有公共服务质量且具有创新性的数据产品、数据服务，助力“智慧聊城 ，数字山东”建设。<h3>Deadline: 2022-03-29T15:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DC竞赛]]></name>
         </author>
     </entry>
     
@@ -1064,7 +628,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-03-28T16:06:23+08:00</updated>
+        <updated>2022-03-29T16:08:22+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -1078,7 +642,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-03-28T16:06:23+08:00</updated>
+        <updated>2022-03-29T16:08:22+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
@@ -1087,66 +651,6 @@
             <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531951/introduction</id>
-        <title><![CDATA[CVPR 2022 AliProducts Challenge:  Large-scale Cross-Modal Product Retrieval(赛季 1)]]></title>
-        
-        <updated>2022-03-22T00:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531951/introduction"/>
-        <summary>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531951/introduction"><![CDATA[<h3>Description</h3>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.<h3>Deadline: 2022-06-10T23:55:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531948/introduction</id>
-        <title><![CDATA[ICME-2022 安全AI挑战者计划第九期：小样本商标检测挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-03-21T10:41:12+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531948/introduction"/>
-        <summary>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531948/introduction"><![CDATA[<h3>Description</h3>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。<h3>Deadline: 2022-05-30T10:41:44+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531947/introduction</id>
-        <title><![CDATA[第三届阿里云磐久智维算法大赛(赛季 1)]]></title>
-        
-        <updated>2022-02-25T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531947/introduction"/>
-        <summary>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531947/introduction"><![CDATA[<h3>Description</h3>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。<h3>Deadline: 2022-04-15T14:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329</id>
-        <title><![CDATA[“阿里灵杰”问天引擎电商搜索算法赛(赛季 1)]]></title>
-        
-        <updated>2022-03-01T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"/>
-        <summary>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"><![CDATA[<h3>Description</h3>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。<h3>Deadline: 2022-04-13T12:00:00+08:00</h3><h3>Reward: ￥65000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    
     
     
     

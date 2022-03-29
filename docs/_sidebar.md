@@ -4,13 +4,10 @@
   * [AI Studio](competition/AI_Studio.md)
   * [biendata](competition/biendata.md)
   * [DataFountain](competition/DataFountain.md)
-  * [DC竞赛](competition/DC竞赛.md)
   * [Kaggle](competition/Kaggle.md)
   * [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
   * [Nishika](competition/Nishika.md)
   * [SIGNATE](competition/SIGNATE.md)
-  * [天池](competition/天池.md)
-  * [AI研习社](competition/AI研习社.md)
   * [ZINDI](competition/ZINDI.md)
 * **Links**
 * [![Github](https://icongram.jgog.in/devicon/github-original.svg?color=808080&size=16)Github](https://github.com/LogicJake/MLCompetitionHub)

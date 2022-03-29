@@ -2,7 +2,7 @@
 
 
 
-## U.S. Patent Phrase to Phrase Matching  <sup style="color:red">[new]<sup>  
+## U.S. Patent Phrase to Phrase Matching 
 
 Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching  
 Description: Help Identify Similar Phrases in U.S. Patents  

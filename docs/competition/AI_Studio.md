@@ -2,6 +2,14 @@
 
 
 
+## 香港置地2022年置慧杯：商业综合体能耗预测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
+Description: 2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。  
+Deadline: 2022-05-25T08:00:00+0800  
+Reward: ￥90,000+其他奖励  
+
+
 ## 第十五届中国计算机设计大赛—智慧导盲组校赛评测通道 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/156  
@@ -10,7 +18,7 @@ Deadline: 2022-05-01T08:00:00+0800
 Reward: 教育部榜单赛事  
 
 
-## 2022 CVPR track1：Supernet Track <sup style="color:red">[new]<sup>  
+## 2022 CVPR track1：Supernet Track
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/149  
 Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
@@ -18,7 +26,7 @@ Deadline: 2022-05-24T08:00:00+0800
 Reward: $5,000  
 
 
-## 2022 CVPR track2：Performance Estimation <sup style="color:red">[new]<sup>  
+## 2022 CVPR track2：Performance Estimation
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/150  
 Description: Predict the performance of any architectures accurately without training.  
@@ -62,14 +70,6 @@ Reward: 教育部榜单赛事
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
 Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
-Deadline: 2022-06-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十七届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/131  
-Description: 第十七届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
 Deadline: 2022-06-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
