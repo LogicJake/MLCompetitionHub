@@ -2,6 +2,46 @@
 
 
 
+## 2022语言与智能技术竞赛：段落检索 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/157  
+Description: 提供大规模的段落检索评测集，挑战机器检索相关段落的能力  
+Deadline: 2022-07-05T08:00:00+0800  
+Reward: ￥55,000  
+
+
+## 2022语言与智能技术竞赛：知识对话 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/158  
+Description: 让系统具备利用搜索引擎知识进行开放域对话交互的能力，提升对话的时效性、丰富性和准确性  
+Deadline: 2022-07-05T08:00:00+0800  
+Reward: ￥55,000  
+
+
+## 2022语言与智能技术竞赛：情感可解释评测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/159  
+Description: 评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据  
+Deadline: 2022-07-05T08:00:00+0800  
+Reward: ￥55,000  
+
+
+## 2022语言与智能技术竞赛：视频语义理解 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/160  
+Description: 让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签  
+Deadline: 2022-07-05T08:00:00+0800  
+Reward: ￥55,000  
+
+
+## 第十五届中国计算机设计大赛—智慧工厂组 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/163  
+Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”的制造业转型升级。晋级校赛即可获得博创智联“口袋机”的免费借用权。  
+Deadline: 2022-08-01T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 香港置地2022年置慧杯：商业综合体能耗预测 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
@@ -10,10 +50,10 @@ Deadline: 2022-05-25T08:00:00+0800
 Reward: ￥90,000+其他奖励  
 
 
-## 第十五届中国计算机设计大赛—智慧导盲组校赛评测通道 <sup style="color:red">[new]<sup>  
+## 第十五届中国计算机设计大赛—智慧导盲组 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/156  
-Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将智能学习的算法与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。  
+Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将飞桨与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。晋级校赛即可获得机器狗的免费借用权。  
 Deadline: 2022-05-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
@@ -40,36 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/152
 Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
 Deadline: 2022-07-15T08:00:00+0800  
 Reward: $35000  
-
-
-## 2022 NAACL同传Workshop：千言 - 机器同传
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/148  
-Description: 为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。  
-Deadline: 2022-06-16T08:00:00+0800  
-Reward: $6,900  
-
-
-## 2022国际自主智能机器人大赛-线上初赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
-Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: $30,000  
-
-
-## 第十一届 “中国软件杯”大学生软件设计大赛—A组
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
-Description: 工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台  
-Deadline: 2022-05-31T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
-Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
-Deadline: 2022-06-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
 

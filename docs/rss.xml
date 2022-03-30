@@ -3,12 +3,82 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-03-29T16:08:22+08:00</updated>
+    <updated>2022-03-30T16:06:29+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/157</id>
+        <title><![CDATA[2022语言与智能技术竞赛：段落检索]]></title>
+        
+        <updated>2022-03-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/157"/>
+        <summary>提供大规模的段落检索评测集，挑战机器检索相关段落的能力</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/157"><![CDATA[<h3>Description</h3>提供大规模的段落检索评测集，挑战机器检索相关段落的能力<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/158</id>
+        <title><![CDATA[2022语言与智能技术竞赛：知识对话]]></title>
+        
+        <updated>2022-03-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/158"/>
+        <summary>让系统具备利用搜索引擎知识进行开放域对话交互的能力，提升对话的时效性、丰富性和准确性</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/158"><![CDATA[<h3>Description</h3>让系统具备利用搜索引擎知识进行开放域对话交互的能力，提升对话的时效性、丰富性和准确性<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/159</id>
+        <title><![CDATA[2022语言与智能技术竞赛：情感可解释评测]]></title>
+        
+        <updated>2022-03-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/159"/>
+        <summary>评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/159"><![CDATA[<h3>Description</h3>评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/160</id>
+        <title><![CDATA[2022语言与智能技术竞赛：视频语义理解]]></title>
+        
+        <updated>2022-03-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/160"/>
+        <summary>让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/160"><![CDATA[<h3>Description</h3>让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/163</id>
+        <title><![CDATA[第十五届中国计算机设计大赛—智慧工厂组]]></title>
+        
+        <updated>2022-03-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/163"/>
+        <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”的制造业转型升级。晋级校赛即可获得博创智联“口袋机”的免费借用权。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/163"><![CDATA[<h3>Description</h3>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”的制造业转型升级。晋级校赛即可获得博创智联“口袋机”的免费借用权。<h3>Deadline: 2022-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/139</id>
@@ -26,13 +96,13 @@
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/156</id>
-        <title><![CDATA[第十五届中国计算机设计大赛—智慧导盲组校赛评测通道]]></title>
+        <title><![CDATA[第十五届中国计算机设计大赛—智慧导盲组]]></title>
         
-        <updated>2022-03-30T08:00:00+08:00</updated>
+        <updated>2022-03-31T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/156"/>
-        <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将智能学习的算法与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/156"><![CDATA[<h3>Description</h3>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将智能学习的算法与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。<h3>Deadline: 2022-05-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将飞桨与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。晋级校赛即可获得机器狗的免费借用权。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/156"><![CDATA[<h3>Description</h3>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧导盲组引导参赛队将飞桨与四足仿生机器人相结合，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。晋级校赛即可获得机器狗的免费借用权。<h3>Deadline: 2022-05-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -75,62 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/152"/>
         <summary>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/152"><![CDATA[<h3>Description</h3>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.<h3>Deadline: 2022-07-15T08:00:00+08:00</h3><h3>Reward: $35000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/148</id>
-        <title><![CDATA[2022 NAACL同传Workshop：千言 - 机器同传]]></title>
-        
-        <updated>2022-03-07T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/148"/>
-        <summary>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/148"><![CDATA[<h3>Description</h3>为推动机器同传技术的发展，在NAACL 2022顶会上，百度成功地申办了第三届同声传译研讨会，汇集了机器翻译、语音处理和人类口译领域的众多研究人员和实践者，共同讨论同声传译的最新进展和当下面临的突出挑战。<h3>Deadline: 2022-06-16T08:00:00+08:00</h3><h3>Reward: $6,900</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/147</id>
-        <title><![CDATA[2022国际自主智能机器人大赛-线上初赛]]></title>
-        
-        <updated>2022-03-14T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/147"/>
-        <summary>为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/147"><![CDATA[<h3>Description</h3>为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: $30,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/151</id>
-        <title><![CDATA[第十一届 “中国软件杯”大学生软件设计大赛—A组]]></title>
-        
-        <updated>2022-03-18T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/151"/>
-        <summary>工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/151"><![CDATA[<h3>Description</h3>工信部主办重量级国赛-百度赛项：基于深度学习的遥感图像智能解译平台<h3>Deadline: 2022-05-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/132</id>
-        <title><![CDATA[第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛]]></title>
-        
-        <updated>2022-03-04T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/132"/>
-        <summary>第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/132"><![CDATA[<h3>Description</h3>第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -628,7 +642,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-03-29T16:08:22+08:00</updated>
+        <updated>2022-03-30T16:06:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -642,7 +656,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-03-29T16:08:22+08:00</updated>
+        <updated>2022-03-30T16:06:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
@@ -651,6 +665,94 @@
             <name><![CDATA[SIGNATE]]></name>
         </author>
     </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531951/introduction</id>
+        <title><![CDATA[CVPR 2022 AliProducts Challenge:  Large-scale Cross-Modal Product Retrieval(赛季 1)]]></title>
+        
+        <updated>2022-03-22T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531951/introduction"/>
+        <summary>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531951/introduction"><![CDATA[<h3>Description</h3>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.<h3>Deadline: 2022-06-10T23:55:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531948/introduction</id>
+        <title><![CDATA[ICME-2022 安全AI挑战者计划第九期：小样本商标检测挑战赛(赛季 1)]]></title>
+        
+        <updated>2022-03-21T10:41:12+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531948/introduction"/>
+        <summary>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531948/introduction"><![CDATA[<h3>Description</h3>商品标识作为企业家的知识产权代表，应避免受恶意使用和剽窃。为保护商品标识资质、降低知识产权风险，我们提出小样本电商标标识检测挑战赛。<h3>Deadline: 2022-05-30T10:41:44+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531947/introduction</id>
+        <title><![CDATA[第三届阿里云磐久智维算法大赛(赛季 1)]]></title>
+        
+        <updated>2022-02-25T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531947/introduction"/>
+        <summary>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531947/introduction"><![CDATA[<h3>Description</h3>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。<h3>Deadline: 2022-04-15T14:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329</id>
+        <title><![CDATA[“阿里灵杰”问天引擎电商搜索算法赛(赛季 1)]]></title>
+        
+        <updated>2022-03-01T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"/>
+        <summary>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"><![CDATA[<h3>Description</h3>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。<h3>Deadline: 2022-04-13T12:00:00+08:00</h3><h3>Reward: ￥65000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531941/introduction</id>
+        <title><![CDATA[Alibaba Cloud Low-Code Development Contest 2022(赛季 2)]]></title>
+        
+        <updated>2022-03-29T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531941/introduction"/>
+        <summary>Alibaba Cloud Low-Code Development Contest is a virtual solution building contest for professionals and students in India, Singapore, Thailand, Pakistan, Sri Lanka and Nepal, co-organized by Alibaba Cloud Tianchi and IndiaSpark.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531941/introduction"><![CDATA[<h3>Description</h3>Alibaba Cloud Low-Code Development Contest is a virtual solution building contest for professionals and students in India, Singapore, Thailand, Pakistan, Sri Lanka and Nepal, co-organized by Alibaba Cloud Tianchi and IndiaSpark.<h3>Deadline: 2022-04-10T10:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531942/introduction</id>
+        <title><![CDATA[Re-Cloud Challenges 2022(赛季 3)]]></title>
+        
+        <updated>2022-03-29T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531942/introduction"/>
+        <summary>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531942/introduction"><![CDATA[<h3>Description</h3>Re-Cloud Challenges 2022, co-hosed by Alibaba Cloud and CodePolitan, is a virtual low-code development competition for participants in Indonesia and Malaysia.<h3>Deadline: 2022-04-10T10:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    
     
     
     
