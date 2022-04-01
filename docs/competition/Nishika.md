@@ -2,6 +2,14 @@
 
 
 
+## Fake News detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/27  
+Description: Fake News detection  
+Deadline: 2022-06-03T13:59:00+0800  
+Reward: 15万円  
+
+
 ## ソフトウェアの異常検知
 
 Link: https://www.nishika.com/competitions/26  
