@@ -2,6 +2,22 @@
 
 
 
+## 第十届未来设计师·全国高校数字艺术设计大赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
+Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
+Deadline: 2022-06-20T08:00:00+0800  
+Reward: ¥320,000  
+
+
+## 香港置地2022年置慧杯：商业综合体能耗预测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
+Description: 2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。  
+Deadline: 2022-05-25T08:00:00+0800  
+Reward: ￥90,000+其他奖励  
+
+
 ## 第十五届中国计算机设计大赛—智慧导盲组 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/156  
@@ -13,17 +29,9 @@ Reward: 教育部榜单赛事
 ## 第十五届中国计算机设计大赛—智慧工厂组 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/163  
-Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得物联网基础模块“口袋机”的免费借用权。  
+Description: 2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得“口袋机”的免费借用权。  
 Deadline: 2022-08-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
-
-
-## 香港置地2022年置慧杯：商业综合体能耗预测 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
-Description: 2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。  
-Deadline: 2022-05-25T08:00:00+0800  
-Reward: ￥90,000+其他奖励  
 
 
 ## 2022 CVPR track1：Supernet Track
@@ -70,14 +78,6 @@ Reward: ￥55,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/159  
 Description: 评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据  
-Deadline: 2022-07-05T08:00:00+0800  
-Reward: ￥55,000  
-
-
-## 2022语言与智能技术竞赛：视频语义理解 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/160  
-Description: 让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签  
 Deadline: 2022-07-05T08:00:00+0800  
 Reward: ￥55,000  
 

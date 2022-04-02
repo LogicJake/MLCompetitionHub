@@ -1,11 +1,11 @@
-> 更新时间: 2022-04-01T16:00:50+0800 
+> 更新时间: 2022-04-02T16:00:57+0800 
 
 # 新上线比赛
 
 
-## Fake News detection
-Link: https://www.nishika.com/competitions/27  
-Description: Fake News detection  
-Deadline: 2022-06-03T13:59:00+0800  
-Reward: 15万円  
+## 第十届未来设计师·全国高校数字艺术设计大赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
+Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
+Deadline: 2022-06-20T08:00:00+0800  
+Reward: ¥320,000  
 

@@ -809,3 +809,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/159
 https://aistudio.baidu.com/aistudio/competition/detail/160
 https://aistudio.baidu.com/aistudio/competition/detail/163
 https://www.nishika.com/competitions/27
+https://aistudio.baidu.com/aistudio/competition/detail/133

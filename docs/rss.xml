@@ -3,12 +3,40 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-01T16:00:50+08:00</updated>
+    <updated>2022-04-02T16:00:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/133</id>
+        <title><![CDATA[第十届未来设计师·全国高校数字艺术设计大赛]]></title>
+        
+        <updated>2022-03-15T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/133"/>
+        <summary>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/133"><![CDATA[<h3>Description</h3>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。<h3>Deadline: 2022-06-20T08:00:00+08:00</h3><h3>Reward: ¥320,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/139</id>
+        <title><![CDATA[香港置地2022年置慧杯：商业综合体能耗预测]]></title>
+        
+        <updated>2022-04-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/139"/>
+        <summary>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/139"><![CDATA[<h3>Description</h3>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。<h3>Deadline: 2022-05-25T08:00:00+08:00</h3><h3>Reward: ￥90,000+其他奖励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/156</id>
@@ -31,22 +59,8 @@
         <updated>2022-03-30T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/163"/>
-        <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得物联网基础模块“口袋机”的免费借用权。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/163"><![CDATA[<h3>Description</h3>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得物联网基础模块“口袋机”的免费借用权。<h3>Deadline: 2022-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/139</id>
-        <title><![CDATA[香港置地2022年置慧杯：商业综合体能耗预测]]></title>
-        
-        <updated>2022-04-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/139"/>
-        <summary>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/139"><![CDATA[<h3>Description</h3>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。<h3>Deadline: 2022-05-25T08:00:00+08:00</h3><h3>Reward: ￥90,000+其他奖励</h3>]]></content>
+        <summary>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得“口袋机”的免费借用权。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/163"><![CDATA[<h3>Description</h3>2022年飞桨承办了”中国计算机设计大赛“两个赛道。智慧工厂组采取半开放命题的方式，聚焦“工业+人工智能+物联网”，选手可以在主题范围内发挥创意，并完成方案设计与系统开发。晋级校赛即可获得“口袋机”的免费借用权。<h3>Deadline: 2022-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/159"/>
         <summary>评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/159"><![CDATA[<h3>Description</h3>评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/160</id>
-        <title><![CDATA[2022语言与智能技术竞赛：视频语义理解]]></title>
-        
-        <updated>2022-03-30T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/160"/>
-        <summary>让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/160"><![CDATA[<h3>Description</h3>让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签<h3>Deadline: 2022-07-05T08:00:00+08:00</h3><h3>Reward: ￥55,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -642,7 +642,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-01T16:00:50+08:00</updated>
+        <updated>2022-04-02T16:00:57+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -656,7 +656,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-01T16:00:50+08:00</updated>
+        <updated>2022-04-02T16:00:57+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
