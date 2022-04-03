@@ -1,11 +1,11 @@
-> 更新时间: 2022-04-02T16:00:57+0800 
+> 更新时间: 2022-04-03T16:01:15+0800 
 
 # 新上线比赛
 
 
-## 第十届未来设计师·全国高校数字艺术设计大赛
-Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
-Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
-Deadline: 2022-06-20T08:00:00+0800  
-Reward: ¥320,000  
+## 英伟达TensorRT加速AI推理 Hackathon 2022 —— Transformer模型优化赛(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/531953/introduction  
+Description: 深度学习深刻地改变了计算机应用程序的功能与形态，广泛渗透于我们生活。为了加速深度学习模型的推理，英伟达推出了TensorRT。经过多年的版本迭代，TensorRT在保持极致性能的同时，大大提高了易用性，已经成为GPU上推理计算的必备工具。  
+Deadline: 2022-05-20T10:00:00+0800  
+Reward: ￥49000  
 

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-02T16:00:57+08:00</updated>
+    <updated>2022-04-03T16:01:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -642,7 +642,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-02T16:00:57+08:00</updated>
+        <updated>2022-04-03T16:01:15+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -656,7 +656,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-02T16:00:57+08:00</updated>
+        <updated>2022-04-03T16:01:15+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
@@ -667,6 +667,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531953/introduction</id>
+        <title><![CDATA[英伟达TensorRT加速AI推理 Hackathon 2022 —— Transformer模型优化赛(赛季 1)]]></title>
+        
+        <updated>2022-04-02T01:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531953/introduction"/>
+        <summary>深度学习深刻地改变了计算机应用程序的功能与形态，广泛渗透于我们生活。为了加速深度学习模型的推理，英伟达推出了TensorRT。经过多年的版本迭代，TensorRT在保持极致性能的同时，大大提高了易用性，已经成为GPU上推理计算的必备工具。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531953/introduction"><![CDATA[<h3>Description</h3>深度学习深刻地改变了计算机应用程序的功能与形态，广泛渗透于我们生活。为了加速深度学习模型的推理，英伟达推出了TensorRT。经过多年的版本迭代，TensorRT在保持极致性能的同时，大大提高了易用性，已经成为GPU上推理计算的必备工具。<h3>Deadline: 2022-05-20T10:00:00+08:00</h3><h3>Reward: ￥49000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531951/introduction</id>
