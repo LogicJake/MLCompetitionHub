@@ -2,7 +2,7 @@
 
 
 
-## 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition <sup style="color:red">[new]<sup>  
+## 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition
 
 Link: https://www.biendata.xyz/competition/sohu_2022/  
 Description: 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition  

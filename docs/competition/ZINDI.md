@@ -5,7 +5,7 @@
 ## Loan Default Prediction Challenge
 
 Link: https://zindi.africa/competitions/loan-default-prediction-challenge  
-Description: A learning competition designed for DSN Bootcamp 2018  
+Description: Try out for a Tanzanian internship  
 Deadline: 2022-04-17T07:59:00+0800  
 Reward: Internships  
 
