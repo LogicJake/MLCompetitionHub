@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-04T16:00:48+08:00</updated>
+    <updated>2022-04-05T16:01:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -367,6 +367,34 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction</id>
+        <title><![CDATA[JPX: Tokyo Stock Exchange Prediction]]></title>
+        
+        <updated>2022-04-05T07:01:05+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction"/>
+        <summary>Explore the Tokyo market with your data science skills</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction"><![CDATA[<h3>Description</h3>Explore the Tokyo market with your data science skills<h3>Deadline: 2022-07-06T07:59:00+08:00</h3><h3>Reward: 63000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/image-matching-challenge-2022</id>
+        <title><![CDATA[Image Matching Challenge 2022]]></title>
+        
+        <updated>2022-04-05T00:59:28+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/image-matching-challenge-2022"/>
+        <summary>Register two images from different viewpoints</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/image-matching-challenge-2022"><![CDATA[<h3>Description</h3>Register two images from different viewpoints<h3>Deadline: 2022-06-03T07:59:00+08:00</h3><h3>Reward: 10000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching</id>
         <title><![CDATA[U.S. Patent Phrase to Phrase Matching ]]></title>
         
@@ -375,34 +403,6 @@
         <link href="https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching"/>
         <summary>Help Identify Similar Phrases in U.S. Patents</summary>
         <content type="text/html" src="https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching"><![CDATA[<h3>Description</h3>Help Identify Similar Phrases in U.S. Patents<h3>Deadline: 2022-06-21T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/mens-march-mania-2022</id>
-        <title><![CDATA[March Machine Learning Mania 2022 - Men’s]]></title>
-        
-        <updated>2022-02-19T09:15:53+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/mens-march-mania-2022"/>
-        <summary>Predict the 2022 College Men's Basketball Tournament</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/mens-march-mania-2022"><![CDATA[<h3>Description</h3>Predict the 2022 College Men's Basketball Tournament<h3>Deadline: 2022-04-07T00:00:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/womens-march-mania-2022</id>
-        <title><![CDATA[March Machine Learning Mania 2022 - Women's]]></title>
-        
-        <updated>2022-02-19T09:15:37+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/womens-march-mania-2022"/>
-        <summary>Predict the 2022 College Women's Basketball Tournament</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/womens-march-mania-2022"><![CDATA[<h3>Description</h3>Predict the 2022 College Women's Basketball Tournament<h3>Deadline: 2022-04-04T23:00:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -642,7 +642,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-04T16:00:48+08:00</updated>
+        <updated>2022-04-05T16:01:10+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -656,7 +656,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-04T16:00:48+08:00</updated>
+        <updated>2022-04-05T16:01:10+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>

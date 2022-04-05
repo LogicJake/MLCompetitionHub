@@ -2,27 +2,27 @@
 
 
 
+## JPX: Tokyo Stock Exchange Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  
+Description: Explore the Tokyo market with your data science skills  
+Deadline: 2022-07-06T07:59:00+0800  
+Reward: 63000 USD  
+
+
+## Image Matching Challenge 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/image-matching-challenge-2022  
+Description: Register two images from different viewpoints  
+Deadline: 2022-06-03T07:59:00+0800  
+Reward: 10000 USD  
+
+
 ## U.S. Patent Phrase to Phrase Matching 
 
 Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching  
 Description: Help Identify Similar Phrases in U.S. Patents  
 Deadline: 2022-06-21T07:59:00+0800  
-Reward: 25000 USD  
-
-
-## March Machine Learning Mania 2022 - Men’s
-
-Link: https://www.kaggle.com/c/mens-march-mania-2022  
-Description: Predict the 2022 College Men's Basketball Tournament  
-Deadline: 2022-04-07T00:00:00+0800  
-Reward: 25000 USD  
-
-
-## March Machine Learning Mania 2022 - Women's
-
-Link: https://www.kaggle.com/c/womens-march-mania-2022  
-Description: Predict the 2022 College Women's Basketball Tournament  
-Deadline: 2022-04-04T23:00:00+0800  
 Reward: 25000 USD  
 
 
