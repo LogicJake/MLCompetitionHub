@@ -2,7 +2,7 @@
 
 
 
-## JPX: Tokyo Stock Exchange Prediction <sup style="color:red">[new]<sup>  
+## JPX Tokyo Stock Exchange Prediction <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  
 Description: Explore the Tokyo market with your data science skills  

@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-05T16:01:10+08:00</updated>
+    <updated>2022-04-06T13:29:42+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -368,7 +368,7 @@
     
     <entry>
         <id>https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction</id>
-        <title><![CDATA[JPX: Tokyo Stock Exchange Prediction]]></title>
+        <title><![CDATA[JPX Tokyo Stock Exchange Prediction]]></title>
         
         <updated>2022-04-05T07:01:05+08:00</updated>
         
@@ -642,7 +642,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-05T16:01:10+08:00</updated>
+        <updated>2022-04-06T13:29:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -656,7 +656,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-05T16:01:10+08:00</updated>
+        <updated>2022-04-06T13:29:42+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
