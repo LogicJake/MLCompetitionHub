@@ -813,3 +813,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/133
 https://tianchi.aliyun.com/competition/entrance/531953/introduction
 https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction
 https://www.kaggle.com/c/image-matching-challenge-2022
+https://aistudio.baidu.com/aistudio/competition/detail/205

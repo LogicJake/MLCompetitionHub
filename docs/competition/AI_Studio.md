@@ -2,6 +2,14 @@
 
 
 
+## 飞桨论文复现挑战赛（第六期） <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/205  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
+Deadline: 2022-06-06T08:00:00+0800  
+Reward: 总计1,000,000  
+
+
 ## 第十届未来设计师·全国高校数字艺术设计大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
@@ -70,14 +78,6 @@ Reward: ￥55,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/158  
 Description: 让系统具备利用搜索引擎知识进行开放域对话交互的能力，提升对话的时效性、丰富性和准确性  
-Deadline: 2022-07-05T08:00:00+0800  
-Reward: ￥55,000  
-
-
-## 2022语言与智能技术竞赛：情感可解释评测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/159  
-Description: 评估情感分析模型的可解释性，即从合理性、一致性等维度评测模型预测所依赖的证据  
 Deadline: 2022-07-05T08:00:00+0800  
 Reward: ￥55,000  
 
