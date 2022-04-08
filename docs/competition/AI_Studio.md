@@ -18,12 +18,21 @@ Deadline: 2022-06-20T08:00:00+0800
 Reward: ¥320,000  
 
 
-## 香港置地2022年置慧杯：商业综合体能耗预测 <sup style="color:red">[new]<sup>  
+## 香港置地2022年置慧杯：商业综合体能耗预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
 Description: 2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。  
 Deadline: 2022-05-25T08:00:00+0800  
 Reward: ￥90,000+其他奖励  
+
+
+## PaddlePaddle Hackathon 飞桨黑客马拉松第二期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/216  
+Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第二期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。
+本次飞桨黑客马拉松由飞桨联合深度学习技术及应用国家工程实验室主办，线上任务以线上认领任务的形式进行，根据任务要求完成相应开发，参与项目共建，任务由四个专区组成，并有三个难度梯队，任你选择  
+Deadline: 2022-05-20T08:00:00+0800  
+Reward: 45万现金奖励  
 
 
 ## 第十五届中国计算机设计大赛—智慧导盲组
@@ -70,14 +79,6 @@ Reward: $35000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/157  
 Description: 提供大规模的段落检索评测集，挑战机器检索相关段落的能力  
-Deadline: 2022-07-05T08:00:00+0800  
-Reward: ￥55,000  
-
-
-## 2022语言与智能技术竞赛：知识对话
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/158  
-Description: 让系统具备利用搜索引擎知识进行开放域对话交互的能力，提升对话的时效性、丰富性和准确性  
 Deadline: 2022-07-05T08:00:00+0800  
 Reward: ￥55,000  
 

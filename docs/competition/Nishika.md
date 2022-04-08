@@ -2,7 +2,7 @@
 
 
 
-## Fake News detection <sup style="color:red">[new]<sup>  
+## Fake News detection
 
 Link: https://www.nishika.com/competitions/27  
 Description: Fake News detection  
