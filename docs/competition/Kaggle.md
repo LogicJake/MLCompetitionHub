@@ -2,7 +2,7 @@
 
 
 
-## JPX Tokyo Stock Exchange Prediction <sup style="color:red">[new]<sup>  
+## JPX Tokyo Stock Exchange Prediction
 
 Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  
 Description: Explore the Tokyo market with your data science skills  
@@ -10,7 +10,7 @@ Deadline: 2022-07-06T07:59:00+0800
 Reward: 63000 USD  
 
 
-## Image Matching Challenge 2022 <sup style="color:red">[new]<sup>  
+## Image Matching Challenge 2022
 
 Link: https://www.kaggle.com/c/image-matching-challenge-2022  
 Description: Register two images from different viewpoints  

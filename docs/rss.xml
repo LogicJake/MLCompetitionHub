@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-11T16:01:10+08:00</updated>
+    <updated>2022-04-12T16:06:29+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -644,7 +644,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-11T16:01:10+08:00</updated>
+        <updated>2022-04-12T16:06:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -658,7 +658,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-11T16:01:10+08:00</updated>
+        <updated>2022-04-12T16:06:29+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
@@ -669,6 +669,48 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531957/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务三：多模态商品知识图谱链接预测(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531957/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531957/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-05T12:55:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531956/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务二：基于知识图谱的商品同款挖掘(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531956/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531956/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-05T12:55:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531955/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务一：商品常识知识显著性推理(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531955/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531955/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-05T12:55:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531954/introduction</id>
