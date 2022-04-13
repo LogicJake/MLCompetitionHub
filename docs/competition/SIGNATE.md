@@ -2,6 +2,14 @@
 
 
 
+## ソニーグループ合同 データ分析コンペティション（for Recruiting）
+
+Link: https://signate.jp/competitions/624  
+Description: 大気中の汚染物質濃度の予測に挑戦しよう！  
+Deadline: 2022-06-02T23:59:59+0800  
+Reward: SONY製品（20名分）  
+
+
 ## 凸版印刷株式会社 くずし字認識チャレンジ②
 
 Link: https://signate.jp/competitions/581  

@@ -10,6 +10,22 @@ Deadline: 2022-06-06T08:00:00+0800
 Reward: 总计1,000,000  
 
 
+## 百度网盘AI大赛-图像处理挑战赛：文档检测优化赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/207  
+Description: 由百度网盘开放平台发起，通过模型算法实现文档边缘的识别监测。  
+Deadline: 2023-05-31T08:00:00+0800  
+Reward: ￥4,0000+特别礼包  
+
+
+## 百度网盘AI大赛-图像处理挑战赛：水印智能消除赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/209  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的水印智能消除。  
+Deadline: 2022-05-31T08:00:00+0800  
+Reward: ￥4,0000+特别礼包  
+
+
 ## 第十届未来设计师·全国高校数字艺术设计大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
@@ -65,20 +81,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/150
 Description: Predict the performance of any architectures accurately without training.  
 Deadline: 2022-05-24T08:00:00+0800  
 Reward: $5,000  
-
-
-## Baidu KDD CUP 2022
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
-Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
-Deadline: 2022-07-15T08:00:00+0800  
-Reward: $35000  
-
-
-## 2022语言与智能技术竞赛：段落检索
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/157  
-Description: 提供大规模的段落检索评测集，挑战机器检索相关段落的能力  
-Deadline: 2022-07-05T08:00:00+0800  
-Reward: ￥55,000  
 

@@ -1,23 +1,29 @@
-> 更新时间: 2022-04-12T16:06:29+0800 
+> 更新时间: 2022-04-13T16:02:32+0800 
 
 # 新上线比赛
 
 
-## CCKS2022 面向数字商务的知识图谱评测任务三：多模态商品知识图谱链接预测(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531957/introduction  
-Description: 阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。  
-Deadline: 2022-07-05T12:55:00+0800  
-Reward: ￥93000  
+## 百度网盘AI大赛-图像处理挑战赛：文档检测优化赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/207  
+Description: 由百度网盘开放平台发起，通过模型算法实现文档边缘的识别监测。  
+Deadline: 2023-05-31T08:00:00+0800  
+Reward: ￥4,0000+特别礼包  
 
-## CCKS2022 面向数字商务的知识图谱评测任务二：基于知识图谱的商品同款挖掘(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531956/introduction  
-Description: 阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。  
-Deadline: 2022-07-05T12:55:00+0800  
-Reward: ￥93000  
+## 百度网盘AI大赛-图像处理挑战赛：水印智能消除赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/209  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的水印智能消除。  
+Deadline: 2022-05-31T08:00:00+0800  
+Reward: ￥4,0000+特别礼包  
 
-## CCKS2022 面向数字商务的知识图谱评测任务一：商品常识知识显著性推理(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531955/introduction  
-Description: 阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。  
-Deadline: 2022-07-05T12:55:00+0800  
-Reward: ￥93000  
+## Kore 2022
+Link: https://www.kaggle.com/c/kore-2022  
+Description: Use a fleet of spaceships to mine minerals before your opponents  
+Deadline: 2022-07-13T07:59:00+0800  
+Reward: 15000 USD  
+
+## ソニーグループ合同 データ分析コンペティション（for Recruiting）
+Link: https://signate.jp/competitions/624  
+Description: 大気中の汚染物質濃度の予測に挑戦しよう！  
+Deadline: 2022-06-02T23:59:59+0800  
+Reward: SONY製品（20名分）  
 

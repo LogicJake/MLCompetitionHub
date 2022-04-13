@@ -2,6 +2,14 @@
 
 
 
+## Kore 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/kore-2022  
+Description: Use a fleet of spaceships to mine minerals before your opponents  
+Deadline: 2022-07-13T07:59:00+0800  
+Reward: 15000 USD  
+
+
 ## JPX Tokyo Stock Exchange Prediction
 
 Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  

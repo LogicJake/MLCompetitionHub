@@ -820,3 +820,7 @@ https://tianchi.aliyun.com/competition/entrance/531954/introduction
 https://tianchi.aliyun.com/competition/entrance/531957/introduction
 https://tianchi.aliyun.com/competition/entrance/531956/introduction
 https://tianchi.aliyun.com/competition/entrance/531955/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/207
+https://aistudio.baidu.com/aistudio/competition/detail/209
+https://www.kaggle.com/c/kore-2022
+https://signate.jp/competitions/624
