@@ -2,7 +2,7 @@
 
 
 
-## 飞桨论文复现挑战赛（第六期） <sup style="color:red">[new]<sup>  
+## 飞桨论文复现挑战赛（第六期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/205  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
@@ -42,7 +42,7 @@ Deadline: 2022-05-25T08:00:00+0800
 Reward: ￥90,000+其他奖励  
 
 
-## PaddlePaddle Hackathon 飞桨黑客马拉松第二期 <sup style="color:red">[new]<sup>  
+## PaddlePaddle Hackathon 飞桨黑客马拉松第二期
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/216  
 Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第二期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。
