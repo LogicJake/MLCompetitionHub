@@ -17,19 +17,3 @@ Description: 2022全球人工智能技术创新大赛—算法挑战赛——商
 Deadline: 2022-06-30T23:00:00+0800  
 Reward: ￥500,000  
 
-
-## 2021全国人工智能大赛——AI+视觉特征编码
-
-Link: https://www.kesci.com/home/competition/61b81042902a13001708eb17  
-Description: 2021全国人工智能大赛——AI+视觉特征编码  
-Deadline: 2022-04-15T23:59:00+0800  
-Reward: ￥1,980,000  
-
-
-## 2021全国人工智能大赛——AI+无线通信
-
-Link: https://www.kesci.com/home/competition/61b810c9902a13001708eb21  
-Description: 2021全国人工智能大赛——AI+无线通信  
-Deadline: 2022-04-15T20:00:00+0800  
-Reward: ￥1,980,000  
-

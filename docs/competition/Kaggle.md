@@ -2,6 +2,22 @@
 
 
 
+## UW-Madison GI Tract Image Segmentation  <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation  
+Description: Track healthy organs in medical scans to improve cancer treatment  
+Deadline: 2022-07-15T07:59:00+0800  
+Reward: 25000 USD  
+
+
+## Foursquare - Location Matching <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/foursquare-location-matching  
+Description: Match point of interest data across datasets  
+Deadline: 2022-07-08T07:59:00+0800  
+Reward: 25000 USD  
+
+
 ## Kore 2022 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/kore-2022  

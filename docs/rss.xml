@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-14T16:06:47+08:00</updated>
+    <updated>2022-04-15T16:00:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -369,6 +369,34 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation</id>
+        <title><![CDATA[UW-Madison GI Tract Image Segmentation ]]></title>
+        
+        <updated>2022-04-15T06:03:16+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation"/>
+        <summary>Track healthy organs in medical scans to improve cancer treatment</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation"><![CDATA[<h3>Description</h3>Track healthy organs in medical scans to improve cancer treatment<h3>Deadline: 2022-07-15T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/foursquare-location-matching</id>
+        <title><![CDATA[Foursquare - Location Matching]]></title>
+        
+        <updated>2022-04-15T05:03:27+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/foursquare-location-matching"/>
+        <summary>Match point of interest data across datasets</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/foursquare-location-matching"><![CDATA[<h3>Description</h3>Match point of interest data across datasets<h3>Deadline: 2022-07-08T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/kore-2022</id>
         <title><![CDATA[Kore 2022]]></title>
         
@@ -538,34 +566,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/61b81042902a13001708eb17</id>
-        <title><![CDATA[2021全国人工智能大赛——AI+视觉特征编码]]></title>
-        
-        <updated>2021-12-19T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61b81042902a13001708eb17"/>
-        <summary>2021全国人工智能大赛——AI+视觉特征编码</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61b81042902a13001708eb17"><![CDATA[<h3>Description</h3>2021全国人工智能大赛——AI+视觉特征编码<h3>Deadline: 2022-04-15T23:59:00+08:00</h3><h3>Reward: ￥1,980,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/61b810c9902a13001708eb21</id>
-        <title><![CDATA[2021全国人工智能大赛——AI+无线通信]]></title>
-        
-        <updated>2021-12-19T12:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/61b810c9902a13001708eb21"/>
-        <summary>2021全国人工智能大赛——AI+无线通信</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/61b810c9902a13001708eb21"><![CDATA[<h3>Description</h3>2021全国人工智能大赛——AI+无线通信<h3>Deadline: 2022-04-15T20:00:00+08:00</h3><h3>Reward: ￥1,980,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -658,7 +658,7 @@
         <id>https://signate.jp/competitions/624</id>
         <title><![CDATA[ソニーグループ合同 データ分析コンペティション（for Recruiting）]]></title>
         
-        <updated>2022-04-14T16:06:47+08:00</updated>
+        <updated>2022-04-15T16:00:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/624"/>
         <summary>大気中の汚染物質濃度の予測に挑戦しよう！</summary>
@@ -672,7 +672,7 @@
         <id>https://signate.jp/competitions/581</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
         
-        <updated>2022-04-14T16:06:47+08:00</updated>
+        <updated>2022-04-15T16:00:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/581"/>
         <summary>くずし字 行内文字認識アルゴリズム作成</summary>
@@ -686,7 +686,7 @@
         <id>https://signate.jp/competitions/580</id>
         <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
         
-        <updated>2022-04-14T16:06:47+08:00</updated>
+        <updated>2022-04-15T16:00:58+08:00</updated>
         
         <link href="https://signate.jp/competitions/580"/>
         <summary>くずし字 行領域認識アルゴリズム作成</summary>
@@ -742,13 +742,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531954/introduction</id>
-        <title><![CDATA[CVPR2022 Celeb-MultiDF：Deepfake Detection Challenge(赛季 1)]]></title>
+        <title><![CDATA[CVPR2022 Biometrics Workshop - Image Forgery Detection Challenge(赛季 1)]]></title>
         
         <updated>2022-04-01T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531954/introduction"/>
-        <summary>Deepfake refers to the set of deep learning-based facial manipulation techniques, for example, swapping one person's face to another person. In addition to face swapping, deepfake techniques also include face reenactment, face editing, face synthesis etc.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531954/introduction"><![CDATA[<h3>Description</h3>Deepfake refers to the set of deep learning-based facial manipulation techniques, for example, swapping one person's face to another person. In addition to face swapping, deepfake techniques also include face reenactment, face editing, face synthesis etc.<h3>Deadline: 2022-05-27T11:55:00+08:00</h3><h3>Reward: $20000</h3>]]></content>
+        <summary>Image forgery refers to the set of deep learning-based image manipulation techniques, for example, image editing, image synthesis, image generation, image photoshop, etc.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531954/introduction"><![CDATA[<h3>Description</h3>Image forgery refers to the set of deep learning-based image manipulation techniques, for example, image editing, image synthesis, image generation, image photoshop, etc.<h3>Deadline: 2022-05-27T11:55:00+08:00</h3><h3>Reward: $20000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -810,23 +810,23 @@
         </author>
     </entry>
     
+    
+    
+    
+    
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531947/introduction</id>
-        <title><![CDATA[第三届阿里云磐久智维算法大赛(赛季 2)]]></title>
+        <id>https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge</id>
+        <title><![CDATA[Makerere Fall Armyworm Crop Challenge]]></title>
         
-        <updated>2022-04-08T12:00:00+08:00</updated>
+        <updated>2022-04-14T14:00:00+08:00</updated>
         
-        <link href="https://tianchi.aliyun.com/competition/entrance/531947/introduction"/>
-        <summary>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531947/introduction"><![CDATA[<h3>Description</h3>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。<h3>Deadline: 2022-04-15T12:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <link href="https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge"/>
+        <summary>Can you determine if maize crops have been affected by the fall armyworm pest?</summary>
+        <content type="text/html" src="https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge"><![CDATA[<h3>Description</h3>Can you determine if maize crops have been affected by the fall armyworm pest?<h3>Deadline: 2022-07-24T07:59:00+08:00</h3><h3>Reward: $1 000 USD</h3>]]></content>
         <author>
-            <name><![CDATA[天池]]></name>
+            <name><![CDATA[ZINDI]]></name>
         </author>
     </entry>
-    
-    
-    
-    
     
     <entry>
         <id>https://zindi.africa/competitions/loan-default-prediction-challenge</id>
