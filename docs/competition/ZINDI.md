@@ -10,14 +10,6 @@ Deadline: 2022-07-24T07:59:00+0800
 Reward: $1 000 USD  
 
 
-## Loan Default Prediction Challenge
-
-Link: https://zindi.africa/competitions/loan-default-prediction-challenge  
-Description: Try out for a Tanzanian internship  
-Deadline: 2022-04-17T07:59:00+0800  
-Reward: Internships  
-
-
 ## Google NLP Hack Series: Intro to ASR Africa Challenge
 
 Link: https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge  
