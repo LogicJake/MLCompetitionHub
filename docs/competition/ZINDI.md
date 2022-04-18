@@ -10,14 +10,6 @@ Deadline: 2022-07-24T07:59:00+0800
 Reward: $1 000 USD  
 
 
-## Google NLP Hack Series: Intro to ASR Africa Challenge
-
-Link: https://zindi.africa/competitions/google-asr-hack-series-africa-asr-data-challenge  
-Description: Calling on the Zindi community to help create automatic speech recognition datasets for African languages  
-Deadline: 2022-04-18T07:59:00+0800  
-Reward: $3 000 USD  
-
-
 ## Hulkshare Recommendation Algorithm Challenge
 
 Link: https://zindi.africa/competitions/hulkshare-recommendation-algorithm-challenge  
