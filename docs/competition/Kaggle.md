@@ -74,19 +74,11 @@ Deadline: 2022-05-04T07:59:00+0800
 Reward: 50000 USD  
 
 
-## Happywhale - Whale and Dolphin Identification
-
-Link: https://www.kaggle.com/c/happy-whale-and-dolphin  
-Description: Identify whales and dolphins by unique characteristics  
-Deadline: 2022-04-19T07:59:00+0800  
-Reward: 25000 USD  
-
-
 ## Ubiquant Market Prediction
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
 Description: Make predictions against future market data  
-Deadline: 2022-04-19T07:59:00+0800  
+Deadline: 2022-04-21T07:59:00+0800  
 Reward: 100000 USD  
 
 
