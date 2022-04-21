@@ -2,7 +2,7 @@
 
 
 
-## Makerere Fall Armyworm Crop Challenge <sup style="color:red">[new]<sup>  
+## Makerere Fall Armyworm Crop Challenge
 
 Link: https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge  
 Description: Can you determine if maize crops have been affected by the fall armyworm pest?  
