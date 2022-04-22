@@ -827,3 +827,5 @@ https://signate.jp/competitions/624
 https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation
 https://www.kaggle.com/c/foursquare-location-matching
 https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/249
+https://www.nishika.com/competitions/28

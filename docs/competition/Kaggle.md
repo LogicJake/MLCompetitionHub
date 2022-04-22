@@ -2,7 +2,7 @@
 
 
 
-## UW-Madison GI Tract Image Segmentation  <sup style="color:red">[new]<sup>  
+## UW-Madison GI Tract Image Segmentation 
 
 Link: https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation  
 Description: Track healthy organs in medical scans to improve cancer treatment  
@@ -10,7 +10,7 @@ Deadline: 2022-07-15T07:59:00+0800
 Reward: 25000 USD  
 
 
-## Foursquare - Location Matching <sup style="color:red">[new]<sup>  
+## Foursquare - Location Matching
 
 Link: https://www.kaggle.com/c/foursquare-location-matching  
 Description: Match point of interest data across datasets  
@@ -72,6 +72,14 @@ Link: https://www.kaggle.com/c/nbme-score-clinical-patient-notes
 Description: Identify Key Phrases in Patient Notes from Medical Licensing Exams  
 Deadline: 2022-05-04T07:59:00+0800  
 Reward: 50000 USD  
+
+
+## Ubiquant Market Prediction
+
+Link: https://www.kaggle.com/c/ubiquant-market-prediction  
+Description: Make predictions against future market data  
+Deadline: 2022-07-19T07:59:00+0800  
+Reward: 100000 USD  
 
 
 ## G-Research Crypto Forecasting 

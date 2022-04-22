@@ -10,6 +10,14 @@ Deadline: 2022-06-06T08:00:00+0800
 Reward: 总计1,000,000  
 
 
+## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛) <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/249  
+Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
+Deadline: 2022-11-30T08:00:00+0800  
+Reward: ¥160,000  
+
+
 ## 百度网盘AI大赛-图像处理挑战赛：文档检测优化赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/207  
@@ -71,14 +79,6 @@ Reward: 教育部榜单赛事
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/149  
 Description: This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.  
-Deadline: 2022-05-24T08:00:00+0800  
-Reward: $5,000  
-
-
-## 2022 CVPR track2：Performance Estimation
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/150  
-Description: Predict the performance of any architectures accurately without training.  
 Deadline: 2022-05-24T08:00:00+0800  
 Reward: $5,000  
 

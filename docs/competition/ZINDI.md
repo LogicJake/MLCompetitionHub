@@ -17,11 +17,3 @@ Description: Can you predict if a song on a streaming platform is liked by looki
 Deadline: 2022-05-02T07:59:00+0800  
 Reward: $7 500  
 
-
-## Turtle Recall: Conservation Challenge
-
-Link: https://zindi.africa/competitions/turtle-recall-conservation-challenge  
-Description: Can you build a facial recognition model... for turtles?  
-Deadline: 2022-04-22T07:59:00+0800  
-Reward: $10 000 USD  
-
