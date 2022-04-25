@@ -10,7 +10,7 @@ Deadline: 2022-06-06T08:00:00+0800
 Reward: 总计1,000,000  
 
 
-## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛) <sup style="color:red">[new]<sup>  
+## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛)
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/249  
 Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
