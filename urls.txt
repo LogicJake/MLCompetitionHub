@@ -829,3 +829,6 @@ https://www.kaggle.com/c/foursquare-location-matching
 https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/249
 https://www.nishika.com/competitions/28
+https://aistudio.baidu.com/aistudio/competition/detail/218
+https://aistudio.baidu.com/aistudio/competition/detail/222
+https://aistudio.baidu.com/aistudio/competition/detail/228
