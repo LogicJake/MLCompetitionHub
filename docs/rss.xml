@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-04-26T16:06:23+08:00</updated>
+    <updated>2022-04-27T16:06:19+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/240</id>
+        <title><![CDATA[第十一届 “中国软件杯”大学生软件设计大赛芯片质检赛道]]></title>
+        
+        <updated>2022-04-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/240"/>
+        <summary>工信部主办重量级国赛-百度飞桨赛题二：基于百度飞桨EasyDL平台的芯片质检系统</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/240"><![CDATA[<h3>Description</h3>工信部主办重量级国赛-百度飞桨赛题二：基于百度飞桨EasyDL平台的芯片质检系统<h3>Deadline: 2022-06-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/205</id>
@@ -136,20 +150,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/228</id>
-        <title><![CDATA[启航计划2022年5G消息开发者马拉松]]></title>
-        
-        <updated>2022-04-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/228"/>
-        <summary>“启航计划2022年5G消息开发者马拉松”是硬核桃5G消息开发者社区面向广大开发者的大型5G应用创作比赛，由中国信息通信研究院、中国通信企业协会、5G消息工作组、GSMA  5G IN指导，硬核桃5G消息开发者社区主办。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/228"><![CDATA[<h3>Description</h3>“启航计划2022年5G消息开发者马拉松”是硬核桃5G消息开发者社区面向广大开发者的大型5G应用创作比赛，由中国信息通信研究院、中国通信企业协会、5G消息工作组、GSMA  5G IN指导，硬核桃5G消息开发者社区主办。<h3>Deadline: 2022-06-10T08:00:00+08:00</h3><h3>Reward: ￥60,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -251,48 +251,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/mutual/</id>
-        <title><![CDATA[MuTual Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/mutual/"/>
-        <summary>MuTual Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race_c/</id>
-        <title><![CDATA[RACE-C Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race_c/"/>
-        <summary>RACE-C Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/dream/</id>
         <title><![CDATA[Dream Dataset]]></title>
         
@@ -343,6 +301,48 @@
         <link href="https://www.biendata.xyz/competition/sciq/"/>
         <summary>SciQ Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -653,48 +653,18 @@
     
     
     <entry>
-        <id>https://signate.jp/competitions/624</id>
-        <title><![CDATA[ソニーグループ合同 データ分析コンペティション（for Recruiting）]]></title>
+        <id>https://tianchi.aliyun.com/competition/entrance/531962/introduction</id>
+        <title><![CDATA[2022江苏气象AI算法挑战赛-AI助力强对流天气预报(赛季 1)]]></title>
         
-        <updated>2022-04-26T16:06:23+08:00</updated>
+        <updated>2022-04-25T12:00:00+08:00</updated>
         
-        <link href="https://signate.jp/competitions/624"/>
-        <summary>大気中の汚染物質濃度の予測に挑戦しよう！</summary>
-        <content type="text/html" src="https://signate.jp/competitions/624"><![CDATA[<h3>Description</h3>大気中の汚染物質濃度の予測に挑戦しよう！<h3>Deadline: 2022-06-02T23:59:59+08:00</h3><h3>Reward: SONY製品（20名分）</h3>]]></content>
+        <link href="https://tianchi.aliyun.com/competition/entrance/531962/introduction"/>
+        <summary>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531962/introduction"><![CDATA[<h3>Description</h3>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.<h3>Deadline: 2022-06-01T12:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
-            <name><![CDATA[SIGNATE]]></name>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/581</id>
-        <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ②]]></title>
-        
-        <updated>2022-04-26T16:06:23+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/581"/>
-        <summary>くずし字 行内文字認識アルゴリズム作成</summary>
-        <content type="text/html" src="https://signate.jp/competitions/581"><![CDATA[<h3>Description</h3>くずし字 行内文字認識アルゴリズム作成<h3>Deadline: 2022-05-23T23:59:59+08:00</h3><h3>Reward: 総額¥1,500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://signate.jp/competitions/580</id>
-        <title><![CDATA[凸版印刷株式会社 くずし字認識チャレンジ①]]></title>
-        
-        <updated>2022-04-26T16:06:23+08:00</updated>
-        
-        <link href="https://signate.jp/competitions/580"/>
-        <summary>くずし字 行領域認識アルゴリズム作成</summary>
-        <content type="text/html" src="https://signate.jp/competitions/580"><![CDATA[<h3>Description</h3>くずし字 行領域認識アルゴリズム作成<h3>Deadline: 2022-05-23T23:59:59+08:00</h3><h3>Reward: 総額¥1,500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[SIGNATE]]></name>
-        </author>
-    </entry>
-    
-    
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/531957/introduction</id>
@@ -817,20 +787,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531947/introduction"/>
         <summary>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531947/introduction"><![CDATA[<h3>Description</h3>第一届和第二届智能运维算法大赛，我们针对异常预测开展了积极的探索和卓有成效的实践。本届大赛我们延续对异常/故障这一领域的深入挖掘，以根因诊断为赛题，和各界同仁一起探讨根因诊断的新思路，共同追逐这一人工智能应用的明珠。<h3>Deadline: 2022-05-17T12:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329</id>
-        <title><![CDATA[“阿里灵杰”问天引擎电商搜索算法赛(赛季 2)]]></title>
-        
-        <updated>2022-04-18T12:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"/>
-        <summary>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/s/e13a3f647a47209f3945383972d0c329"><![CDATA[<h3>Description</h3>受疫情催化影响，近一年内全球电商及在线零售行业进入高速发展期。作为线上交易场景的重要购买入口，搜索行为背后是强烈的购买意愿，电商搜索质量的高低将直接决定最终的成交结果，因此在AI时代，如何通过构建智能搜索能力提升线上GMV转化成为了众多电商开发者的重要研究课题。本次比赛由阿里云天池平台和问天引擎联合举办，诚邀社会各界开发者参与竞赛，共建AI未来。<h3>Deadline: 2022-05-18T12:00:00+08:00</h3><h3>Reward: ￥65000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

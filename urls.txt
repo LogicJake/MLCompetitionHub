@@ -832,3 +832,5 @@ https://www.nishika.com/competitions/28
 https://aistudio.baidu.com/aistudio/competition/detail/218
 https://aistudio.baidu.com/aistudio/competition/detail/222
 https://aistudio.baidu.com/aistudio/competition/detail/228
+https://aistudio.baidu.com/aistudio/competition/detail/240
+https://tianchi.aliyun.com/competition/entrance/531962/introduction

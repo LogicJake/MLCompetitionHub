@@ -7,7 +7,6 @@
   * [Kaggle](competition/Kaggle.md)
   * [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
   * [Nishika](competition/Nishika.md)
-  * [SIGNATE](competition/SIGNATE.md)
   * [天池](competition/天池.md)
   * [AI研习社](competition/AI研习社.md)
   * [ZINDI](competition/ZINDI.md)
