@@ -2,7 +2,7 @@
 
 
 
-## 中古マンション価格予測 2022春の部 <sup style="color:red">[new]<sup>  
+## 中古マンション価格予測 2022春の部
 
 Link: https://www.nishika.com/competitions/28  
 Description: 中古マンション価格予測 2022春の部  
