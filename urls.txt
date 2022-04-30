@@ -839,3 +839,6 @@ https://tianchi.aliyun.com/competition/entrance/531961/introduction
 https://tianchi.aliyun.com/competition/entrance/531958/introduction
 https://www.biendata.xyz/competition/KYDMTJSTP/
 https://www.biendata.xyz/competition/CACEKG/
+https://www.biendata.xyz/competition/fin_nl2sql/
+https://www.biendata.xyz/competition/ccks2022_eventext/
+https://www.biendata.xyz/competition/CMQA/
