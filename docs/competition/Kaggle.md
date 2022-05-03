@@ -2,6 +2,14 @@
 
 
 
+## Google Smartphone Decimeter Challenge 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/smartphone-decimeter-2022  
+Description: Improve high precision GNSS positioning and navigation accuracy on smartphones  
+Deadline: 2022-07-30T07:59:00+0800  
+Reward: 10000 USD  
+
+
 ## UW-Madison GI Tract Image Segmentation 
 
 Link: https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation  
