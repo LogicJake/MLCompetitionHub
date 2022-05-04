@@ -74,26 +74,10 @@ Deadline: 2022-05-10T07:59:00+0800
 Reward: 50000 USD  
 
 
-## NBME - Score Clinical Patient Notes
-
-Link: https://www.kaggle.com/c/nbme-score-clinical-patient-notes  
-Description: Identify Key Phrases in Patient Notes from Medical Licensing Exams  
-Deadline: 2022-05-04T07:59:00+0800  
-Reward: 50000 USD  
-
-
 ## Ubiquant Market Prediction
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
 Description: Make predictions against future market data  
 Deadline: 2022-07-19T07:59:00+0800  
 Reward: 100000 USD  
-
-
-## G-Research Crypto Forecasting 
-
-Link: https://www.kaggle.com/c/g-research-crypto-forecasting  
-Description: Use your ML expertise to predict real crypto market data  
-Deadline: 2022-05-04T07:59:00+0800  
-Reward: 125000 USD  
 

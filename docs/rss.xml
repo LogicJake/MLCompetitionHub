@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-05-03T16:01:03+08:00</updated>
+    <updated>2022-05-04T16:01:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -181,20 +181,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/KYDMTJSTP/</id>
-        <title><![CDATA[CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data]]></title>
-        
-        <updated>2022-04-26T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/KYDMTJSTP/"/>
-        <summary>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/KYDMTJSTP/"><![CDATA[<h3>Description</h3>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/CACEKG/</id>
         <title><![CDATA[CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph]]></title>
         
@@ -203,6 +189,20 @@
         <link href="https://www.biendata.xyz/competition/CACEKG/"/>
         <summary>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/CACEKG/"><![CDATA[<h3>Description</h3>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/KYDMTJSTP/</id>
+        <title><![CDATA[CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data]]></title>
+        
+        <updated>2022-04-26T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/KYDMTJSTP/"/>
+        <summary>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/KYDMTJSTP/"><![CDATA[<h3>Description</h3>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -563,20 +563,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/nbme-score-clinical-patient-notes</id>
-        <title><![CDATA[NBME - Score Clinical Patient Notes]]></title>
-        
-        <updated>2022-02-02T03:48:52+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/nbme-score-clinical-patient-notes"/>
-        <summary>Identify Key Phrases in Patient Notes from Medical Licensing Exams</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/nbme-score-clinical-patient-notes"><![CDATA[<h3>Description</h3>Identify Key Phrases in Patient Notes from Medical Licensing Exams<h3>Deadline: 2022-05-04T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kaggle.com/c/ubiquant-market-prediction</id>
         <title><![CDATA[Ubiquant Market Prediction]]></title>
         
@@ -585,20 +571,6 @@
         <link href="https://www.kaggle.com/c/ubiquant-market-prediction"/>
         <summary>Make predictions against future market data</summary>
         <content type="text/html" src="https://www.kaggle.com/c/ubiquant-market-prediction"><![CDATA[<h3>Description</h3>Make predictions against future market data<h3>Deadline: 2022-07-19T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/g-research-crypto-forecasting</id>
-        <title><![CDATA[G-Research Crypto Forecasting ]]></title>
-        
-        <updated>2021-11-03T00:00:27+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/g-research-crypto-forecasting"/>
-        <summary>Use your ML expertise to predict real crypto market data</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/g-research-crypto-forecasting"><![CDATA[<h3>Description</h3>Use your ML expertise to predict real crypto market data<h3>Deadline: 2022-05-04T07:59:00+08:00</h3><h3>Reward: 125000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -889,6 +861,8 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    
     
     
     
