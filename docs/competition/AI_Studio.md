@@ -2,7 +2,7 @@
 
 
 
-## 第十一届 “中国软件杯”大学生软件设计大赛芯片质检赛道 <sup style="color:red">[new]<sup>  
+## 第十一届 “中国软件杯”大学生软件设计大赛芯片质检赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/240  
 Description: 工信部主办重量级国赛-百度飞桨赛题二：基于百度飞桨EasyDL平台的芯片质检系统（限高职、技师学院）  
