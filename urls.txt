@@ -843,3 +843,4 @@ https://www.biendata.xyz/competition/fin_nl2sql/
 https://www.biendata.xyz/competition/ccks2022_eventext/
 https://www.biendata.xyz/competition/CMQA/
 https://www.kaggle.com/c/smartphone-decimeter-2022
+https://www.biendata.xyz/competition/ccks2020_ckbqa/

@@ -2,7 +2,15 @@
 
 
 
-## CCKS2022: NL2SQL for Financial-based TableQA <sup style="color:red">[new]<sup>  
+## CCKS2022: Open domain knowledge-graph-based question answering <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks2020_ckbqa/  
+Description: CCKS2022: Open domain knowledge-graph-based question answering  
+Deadline: 2022-08-05T08:00:00+0800  
+Reward: ￥20,000  
+
+
+## CCKS2022: NL2SQL for Financial-based TableQA
 
 Link: https://www.biendata.xyz/competition/fin_nl2sql/  
 Description: CCKS2022: NL2SQL for Financial-based TableQA  
