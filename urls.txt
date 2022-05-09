@@ -844,3 +844,5 @@ https://www.biendata.xyz/competition/ccks2022_eventext/
 https://www.biendata.xyz/competition/CMQA/
 https://www.kaggle.com/c/smartphone-decimeter-2022
 https://www.biendata.xyz/competition/ccks2020_ckbqa/
+https://aistudio.baidu.com/aistudio/competition/detail/279
+https://www.nishika.com/competitions/30
