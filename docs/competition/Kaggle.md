@@ -2,6 +2,14 @@
 
 
 
+## Google AI4Code – Understand Code in Python Notebooks <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/AI4Code  
+Description: Predict the relationship between code and comments  
+Deadline: 2022-08-12T07:59:00+0800  
+Reward: 150000 USD  
+
+
 ## Google Smartphone Decimeter Challenge 2022
 
 Link: https://www.kaggle.com/c/smartphone-decimeter-2022  

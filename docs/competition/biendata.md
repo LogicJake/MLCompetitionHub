@@ -2,7 +2,7 @@
 
 
 
-## CCKS2022: Open domain knowledge-graph-based question answering <sup style="color:red">[new]<sup>  
+## CCKS2022: Open domain knowledge-graph-based question answering
 
 Link: https://www.biendata.xyz/competition/ccks2020_ckbqa/  
 Description: CCKS2022: Open domain knowledge-graph-based question answering  
