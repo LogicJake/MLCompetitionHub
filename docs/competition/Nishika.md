@@ -2,7 +2,7 @@
 
 
 
-## コンペアイデアコンペ　〜あなたのアイデアをコンペ化しよう〜　第0回 <sup style="color:red">[new]<sup>  
+## コンペアイデアコンペ　〜あなたのアイデアをコンペ化しよう〜　第0回
 
 Link: https://www.nishika.com/competitions/30  
 Description: コンペアイデアコンペ　〜あなたのアイデアをコンペ化しよう〜　第0回  

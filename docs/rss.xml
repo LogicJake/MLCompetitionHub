@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-05-15T16:00:52+08:00</updated>
+    <updated>2022-05-16T16:01:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/279"/>
         <summary>工信部主办重量级国赛-百度飞桨赛题三：基于Unity与百度希壤的元宇宙虚拟校园设计与建造（A组）</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/279"><![CDATA[<h3>Description</h3>工信部主办重量级国赛-百度飞桨赛题三：基于Unity与百度希壤的元宇宙虚拟校园设计与建造（A组）<h3>Deadline: 2022-07-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/299</id>
+        <title><![CDATA[2022中意青年未来时尚设计大赛]]></title>
+        
+        <updated>2022-05-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/299"/>
+        <summary>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/299"><![CDATA[<h3>Description</h3>面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥660,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/209"/>
         <summary>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的水印智能消除。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/209"><![CDATA[<h3>Description</h3>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的水印智能消除。<h3>Deadline: 2022-05-31T08:00:00+08:00</h3><h3>Reward: ￥4,0000+特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/218</id>
-        <title><![CDATA[AIWIN 世界人工智能创新大赛：中文保险小样本多任务竞赛]]></title>
-        
-        <updated>2022-04-18T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/218"/>
-        <summary>AIWIN2022春季赛季技术挑战赛之一，由中国太平洋保险命题，提供来自一线真实业务的多任务小样本学习自然语言理解数据集，设立奖金池及提供太保实习生绿色通道奖励。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/218"><![CDATA[<h3>Description</h3>AIWIN2022春季赛季技术挑战赛之一，由中国太平洋保险命题，提供来自一线真实业务的多任务小样本学习自然语言理解数据集，设立奖金池及提供太保实习生绿色通道奖励。<h3>Deadline: 2022-05-27T08:00:00+08:00</h3><h3>Reward: ￥120,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -592,34 +592,6 @@
     
     
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca</id>
-        <title><![CDATA[2022全球人工智能技术创新大赛—算法挑战赛——电商关键属性的图文匹配]]></title>
-        
-        <updated>2022-02-25T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca"/>
-        <summary>2022全球人工智能技术创新大赛—算法挑战赛——电商关键属性的图文匹配</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/620b34c41f3cf500170bd6ca"><![CDATA[<h3>Description</h3>2022全球人工智能技术创新大赛—算法挑战赛——电商关键属性的图文匹配<h3>Deadline: 2022-06-30T23:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/620b34ed28270b0017b823ad</id>
-        <title><![CDATA[2022全球人工智能技术创新大赛—算法挑战赛——商品标题实体识别]]></title>
-        
-        <updated>2022-02-25T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/620b34ed28270b0017b823ad"/>
-        <summary>2022全球人工智能技术创新大赛—算法挑战赛——商品标题实体识别</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/620b34ed28270b0017b823ad"><![CDATA[<h3>Description</h3>2022全球人工智能技术创新大赛—算法挑战赛——商品标题实体识别<h3>Deadline: 2022-06-30T23:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -730,7 +702,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531962/introduction"/>
         <summary>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531962/introduction"><![CDATA[<h3>Description</h3>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.<h3>Deadline: 2022-06-01T12:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531962/introduction"><![CDATA[<h3>Description</h3>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.<h3>Deadline: 2022-06-02T20:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
