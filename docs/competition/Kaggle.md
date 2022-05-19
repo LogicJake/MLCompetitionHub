@@ -2,7 +2,7 @@
 
 
 
-## Google AI4Code – Understand Code in Python Notebooks <sup style="color:red">[new]<sup>  
+## Google AI4Code – Understand Code in Python Notebooks
 
 Link: https://www.kaggle.com/c/AI4Code  
 Description: Predict the relationship between code and comments  
