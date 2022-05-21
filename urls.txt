@@ -849,3 +849,4 @@ https://www.nishika.com/competitions/30
 https://www.kaggle.com/c/AI4Code
 https://aistudio.baidu.com/aistudio/competition/detail/299
 https://aistudio.baidu.com/aistudio/competition/detail/277
+https://aistudio.baidu.com/aistudio/competition/detail/181

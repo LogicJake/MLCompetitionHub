@@ -2,6 +2,14 @@
 
 
 
+## CVPR 2022 - SoccerNet-v3 Tracking challenge
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/181  
+Description: The SoccerNet challenges are back! We are proud to announce ouw new challenge at CVPR 2022!  
+Deadline: 2022-05-31T08:00:00+0800  
+Reward: $1,000  
+
+
 ## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度） <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/249
 Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
 Deadline: 2022-11-30T08:00:00+0800  
 Reward: ¥160,000  
-
-
-## 百度网盘AI大赛-图像处理挑战赛：文档检测优化赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/207  
-Description: 由百度网盘开放平台发起，通过模型算法实现文档边缘的识别监测。  
-Deadline: 2023-05-31T08:00:00+0800  
-Reward: ￥4,0000+特别礼包  
 

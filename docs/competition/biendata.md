@@ -62,7 +62,7 @@ Reward: ¥15,000
 
 Link: https://www.biendata.xyz/competition/sohu_2022/  
 Description: 2022 SOHU's Sentiment Analysis  X  Recommendation Algorithm Competition  
-Deadline: 2022-05-28T08:00:00+0800  
+Deadline: 2022-05-31T08:00:00+0800  
 Reward: ￥80,000  
 
 
