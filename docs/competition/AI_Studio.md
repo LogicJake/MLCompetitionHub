@@ -18,7 +18,7 @@ Deadline: 2022-10-31T08:00:00+0800
 Reward: ￥225,000+资源赋能  
 
 
-## 2022中意青年未来时尚设计大赛 <sup style="color:red">[new]<sup>  
+## 2022中意青年未来时尚设计大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/299  
 Description: 面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。  
