@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-05-24T16:01:04+08:00</updated>
+    <updated>2022-05-25T16:01:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -103,34 +103,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/139"/>
         <summary>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/139"><![CDATA[<h3>Description</h3>2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。<h3>Deadline: 2022-05-25T08:00:00+08:00</h3><h3>Reward: ￥90,000+其他奖励</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/149</id>
-        <title><![CDATA[2022 CVPR track1：Supernet Track]]></title>
-        
-        <updated>2022-03-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/149"/>
-        <summary>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/149"><![CDATA[<h3>Description</h3>This track tries to narrow the performance gap between candidates with the parameters extracted from the shared parameters and the same architectures with the parameter trained independently.<h3>Deadline: 2022-05-24T08:00:00+08:00</h3><h3>Reward: $5,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/150</id>
-        <title><![CDATA[2022 CVPR track2：Performance Estimation]]></title>
-        
-        <updated>2022-03-22T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/150"/>
-        <summary>Predict the performance of any architectures accurately without training.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/150"><![CDATA[<h3>Description</h3>Predict the performance of any architectures accurately without training.<h3>Deadline: 2022-05-24T08:00:00+08:00</h3><h3>Reward: $5,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -451,6 +423,24 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/feedback-prize-effectiveness</id>
+        <title><![CDATA[Feedback Prize - Predicting Effective Arguments]]></title>
+        
+        <updated>2022-05-25T01:39:01+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/feedback-prize-effectiveness"/>
+        <summary>Rate the effectiveness of argumentative writing elements from students grade 6-12
+
+</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-effectiveness"><![CDATA[<h3>Description</h3>Rate the effectiveness of argumentative writing elements from students grade 6-12
+
+<h3>Deadline: 2022-08-24T07:59:00+08:00</h3><h3>Reward: 55000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/AI4Code</id>
         <title><![CDATA[Google AI4Code – Understand Code in Python Notebooks]]></title>
         
@@ -557,20 +547,6 @@
         <link href="https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching"/>
         <summary>Help Identify Similar Phrases in U.S. Patents</summary>
         <content type="text/html" src="https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching"><![CDATA[<h3>Description</h3>Help Identify Similar Phrases in U.S. Patents<h3>Deadline: 2022-06-21T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/birdclef-2022</id>
-        <title><![CDATA[BirdCLEF 2022]]></title>
-        
-        <updated>2022-02-16T03:01:01+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/birdclef-2022"/>
-        <summary>Identify bird calls in soundscapes</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/birdclef-2022"><![CDATA[<h3>Description</h3>Identify bird calls in soundscapes<h3>Deadline: 2022-05-25T07:59:00+08:00</h3><h3>Reward: 10000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

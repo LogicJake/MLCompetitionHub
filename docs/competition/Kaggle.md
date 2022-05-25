@@ -2,6 +2,16 @@
 
 
 
+## Feedback Prize - Predicting Effective Arguments <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/feedback-prize-effectiveness  
+Description: Rate the effectiveness of argumentative writing elements from students grade 6-12
+
+  
+Deadline: 2022-08-24T07:59:00+0800  
+Reward: 55000 USD  
+
+
 ## Google AI4Code – Understand Code in Python Notebooks
 
 Link: https://www.kaggle.com/c/AI4Code  
@@ -64,14 +74,6 @@ Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching
 Description: Help Identify Similar Phrases in U.S. Patents  
 Deadline: 2022-06-21T07:59:00+0800  
 Reward: 25000 USD  
-
-
-## BirdCLEF 2022
-
-Link: https://www.kaggle.com/c/birdclef-2022  
-Description: Identify bird calls in soundscapes  
-Deadline: 2022-05-25T07:59:00+0800  
-Reward: 10000 USD  
 
 
 ## Ubiquant Market Prediction
