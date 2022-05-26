@@ -2,6 +2,14 @@
 
 
 
+## American Express - Default Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/amex-default-prediction  
+Description: Predict if a customer will default in the future  
+Deadline: 2022-08-25T07:59:00+0800  
+Reward: 100000 USD  
+
+
 ## Feedback Prize - Predicting Effective Arguments <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/feedback-prize-effectiveness  

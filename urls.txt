@@ -851,3 +851,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/299
 https://aistudio.baidu.com/aistudio/competition/detail/277
 https://aistudio.baidu.com/aistudio/competition/detail/181
 https://www.kaggle.com/c/feedback-prize-effectiveness
+https://www.kaggle.com/c/amex-default-prediction

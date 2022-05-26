@@ -50,14 +50,6 @@ Deadline: 2022-06-06T08:00:00+0800
 Reward: 总计1,000,000  
 
 
-## 香港置地2022年置慧杯：商业综合体能耗预测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/139  
-Description: 2022年置慧杯由香港置地主办，并由百度飞桨平台提供独家赛事技术支持，本次大赛主题是预测大型商业综合体的能耗数据。  
-Deadline: 2022-05-25T08:00:00+0800  
-Reward: ￥90,000+其他奖励  
-
-
 ## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛)
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/249  
