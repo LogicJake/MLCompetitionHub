@@ -10,7 +10,7 @@ Deadline: 2022-05-31T08:00:00+0800
 Reward: $1,000  
 
 
-## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度） <sup style="color:red">[new]<sup>  
+## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
 Description: 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）由工业和信息化部信息中心、百度公司主办，以“科技强链 智创未来”为主题，紧密结合“围绕产业链，部署创新链，配置资金链”的大赛主旨，面向智慧工业、生物医药两个应用方向设置命题。  
@@ -42,18 +42,18 @@ Deadline: 2022-07-01T08:00:00+0800
 Reward: 教育部榜单赛事  
 
 
-## 飞桨论文复现挑战赛（第六期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/205  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2022-06-06T08:00:00+0800  
-Reward: 总计1,000,000  
-
-
 ## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛)
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/249  
 Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
 Deadline: 2022-11-30T08:00:00+0800  
 Reward: ¥160,000  
+
+
+## 飞桨论文复现挑战赛（第六期）
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/205  
+Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
+Deadline: 2022-06-06T08:00:00+0800  
+Reward: 总计1,000,000  
 

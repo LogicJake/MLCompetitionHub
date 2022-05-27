@@ -2,6 +2,14 @@
 
 
 
+## AI4D-LAB Tanzania Tourism Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge  
+Description: Can you use tourism survey data and ML to classify the range of expenditures a tourist spends in Tanzania?  
+Deadline: 2022-07-01T23:00:00+0800  
+Reward: $1 000 USD  
+
+
 ## Makerere Fall Armyworm Crop Challenge
 
 Link: https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge  
