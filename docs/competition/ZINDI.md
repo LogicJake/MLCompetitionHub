@@ -2,7 +2,7 @@
 
 
 
-## AI4D-LAB Tanzania Tourism Classification Challenge <sup style="color:red">[new]<sup>  
+## AI4D Africa’s Anglophone Research Lab Tanzania Tourism Classification Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge  
 Description: Can you use tourism survey data and ML to classify the range of expenditures a tourist spends in Tanzania?  
