@@ -2,14 +2,6 @@
 
 
 
-## CVPR 2022 - SoccerNet-v3 Tracking challenge
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/181  
-Description: The SoccerNet challenges are back! We are proud to announce ouw new challenge at CVPR 2022!  
-Deadline: 2022-05-31T08:00:00+0800  
-Reward: $1,000  
-
-
 ## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
