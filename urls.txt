@@ -853,3 +853,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/181
 https://www.kaggle.com/c/feedback-prize-effectiveness
 https://www.kaggle.com/c/amex-default-prediction
 https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-challenge
+https://tianchi.aliyun.com/competition/entrance/531972/introduction
