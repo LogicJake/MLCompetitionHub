@@ -2,6 +2,23 @@
 
 
 
+## 清华大学国际学生可持续发展创新创意大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/318  
+Description: Tsinghua University Sustainable Development 
+Innovation and Creativity Competition for International Students.  
+Deadline: 2022-07-15T08:00:00+0800  
+Reward: ￥100000元  
+
+
+## MICCAI2022 Challenge: GOALS <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
+Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
+Deadline: 2022-09-18T08:00:00+0800  
+Reward: $4000  
+
+
 ## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
@@ -42,10 +59,26 @@ Deadline: 2022-11-30T08:00:00+0800
 Reward: ¥160,000  
 
 
+## Baidu KDD CUP 2022
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
+Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
+Deadline: 2022-07-15T08:00:00+0800  
+Reward: $35000  
+
+
 ## 飞桨论文复现挑战赛（第六期）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/205  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
 Deadline: 2022-06-06T08:00:00+0800  
 Reward: 总计1,000,000  
+
+
+## 第十届未来设计师·全国高校数字艺术设计大赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
+Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
+Deadline: 2022-06-20T08:00:00+0800  
+Reward: ¥320,000  
 

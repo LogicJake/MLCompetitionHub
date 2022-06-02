@@ -2,7 +2,7 @@
 
 
 
-## American Express - Default Prediction <sup style="color:red">[new]<sup>  
+## American Express - Default Prediction
 
 Link: https://www.kaggle.com/c/amex-default-prediction  
 Description: Predict if a customer will default in the future  

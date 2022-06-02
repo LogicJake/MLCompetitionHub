@@ -1,11 +1,18 @@
-> 更新时间: 2022-06-01T16:01:07+0800 
+> 更新时间: 2022-06-02T16:02:51+0800 
 
 # 新上线比赛
 
 
-## AETA地震预测AI算法大赛(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531972/introduction  
-Description: “AETA 地震预测 AI 算法大赛”，旨在通过创新算法挖掘前兆观测数据与地震三要素的相关性，发现与临震相关的异常信号和特征，并基于历史观测数据和地震目录，构建地震预测模型，期望推动地震预测预报科学问题的求解。  
-Deadline: 2023-12-31T00:00:00+0800  
-Reward: ￥100000  
+## 清华大学国际学生可持续发展创新创意大赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/318  
+Description: Tsinghua University Sustainable Development 
+Innovation and Creativity Competition for International Students.  
+Deadline: 2022-07-15T08:00:00+0800  
+Reward: ￥100000元  
+
+## MICCAI2022 Challenge: GOALS
+Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
+Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
+Deadline: 2022-09-18T08:00:00+0800  
+Reward: $4000  
 
