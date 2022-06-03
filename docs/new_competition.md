@@ -1,18 +1,11 @@
-> 更新时间: 2022-06-02T16:02:51+0800 
+> 更新时间: 2022-06-03T16:00:52+0800 
 
 # 新上线比赛
 
 
-## 清华大学国际学生可持续发展创新创意大赛
-Link: https://aistudio.baidu.com/aistudio/competition/detail/318  
-Description: Tsinghua University Sustainable Development 
-Innovation and Creativity Competition for International Students.  
-Deadline: 2022-07-15T08:00:00+0800  
-Reward: ￥100000元  
-
-## MICCAI2022 Challenge: GOALS
-Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
-Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
-Deadline: 2022-09-18T08:00:00+0800  
-Reward: $4000  
+## 高鲁棒性要求下的领域事件检测任务
+Link: https://www.datafountain.cn/competitions/561  
+Description: 高鲁棒性要求下的领域事件检测任务  
+Deadline: 2022-08-25T23:59:59+0800  
+Reward: 获奖证书及项目支持  
 

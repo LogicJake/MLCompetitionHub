@@ -68,14 +68,6 @@ Deadline: 2022-07-06T07:59:00+0800
 Reward: 63000 USD  
 
 
-## Image Matching Challenge 2022
-
-Link: https://www.kaggle.com/c/image-matching-challenge-2022  
-Description: Register two images from different viewpoints  
-Deadline: 2022-06-03T07:59:00+0800  
-Reward: 10000 USD  
-
-
 ## U.S. Patent Phrase to Phrase Matching 
 
 Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching  

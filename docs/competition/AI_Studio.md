@@ -2,15 +2,6 @@
 
 
 
-## 清华大学国际学生可持续发展创新创意大赛 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/318  
-Description: Tsinghua University Sustainable Development 
-Innovation and Creativity Competition for International Students.  
-Deadline: 2022-07-15T08:00:00+0800  
-Reward: ￥100000元  
-
-
 ## MICCAI2022 Challenge: GOALS <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
@@ -81,4 +72,12 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/133
 Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
 Deadline: 2022-06-20T08:00:00+0800  
 Reward: ¥320,000  
+
+
+## 2022国际自主智能机器人大赛-线上初赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
+Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
+Deadline: 2022-07-31T08:00:00+0800  
+Reward: $30,000  
 

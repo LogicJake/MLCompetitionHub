@@ -3,28 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-06-02T16:02:51+08:00</updated>
+    <updated>2022-06-03T16:00:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/318</id>
-        <title><![CDATA[清华大学国际学生可持续发展创新创意大赛]]></title>
-        
-        <updated>2022-06-01T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/318"/>
-        <summary>Tsinghua University Sustainable Development 
-Innovation and Creativity Competition for International Students.</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/318"><![CDATA[<h3>Description</h3>Tsinghua University Sustainable Development 
-Innovation and Creativity Competition for International Students.<h3>Deadline: 2022-07-15T08:00:00+08:00</h3><h3>Reward: ￥100000元</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/230</id>
@@ -147,6 +131,20 @@ Innovation and Creativity Competition for International Students.<h3>Deadline: 2
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/133"/>
         <summary>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/133"><![CDATA[<h3>Description</h3>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。<h3>Deadline: 2022-06-20T08:00:00+08:00</h3><h3>Reward: ¥320,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/147</id>
+        <title><![CDATA[2022国际自主智能机器人大赛-线上初赛]]></title>
+        
+        <updated>2022-03-14T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/147"/>
+        <summary>为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/147"><![CDATA[<h3>Description</h3>为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: $30,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -436,6 +434,20 @@ Innovation and Creativity Competition for International Students.<h3>Deadline: 2
     
     
     
+    <entry>
+        <id>https://www.datafountain.cn/competitions/561</id>
+        <title><![CDATA[高鲁棒性要求下的领域事件检测任务]]></title>
+        
+        <updated>2022-06-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/561"/>
+        <summary>高鲁棒性要求下的领域事件检测任务</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/561"><![CDATA[<h3>Description</h3>高鲁棒性要求下的领域事件检测任务<h3>Deadline: 2022-08-25T23:59:59+08:00</h3><h3>Reward: 获奖证书及项目支持</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
@@ -549,20 +561,6 @@ Innovation and Creativity Competition for International Students.<h3>Deadline: 2
         <link href="https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction"/>
         <summary>Explore the Tokyo market with your data science skills</summary>
         <content type="text/html" src="https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction"><![CDATA[<h3>Description</h3>Explore the Tokyo market with your data science skills<h3>Deadline: 2022-07-06T07:59:00+08:00</h3><h3>Reward: 63000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/image-matching-challenge-2022</id>
-        <title><![CDATA[Image Matching Challenge 2022]]></title>
-        
-        <updated>2022-04-05T00:59:28+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/image-matching-challenge-2022"/>
-        <summary>Register two images from different viewpoints</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/image-matching-challenge-2022"><![CDATA[<h3>Description</h3>Register two images from different viewpoints<h3>Deadline: 2022-06-03T07:59:00+08:00</h3><h3>Reward: 10000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -695,6 +693,120 @@ Innovation and Creativity Competition for International Students.<h3>Deadline: 2
         <content type="text/html" src="https://www.nishika.com/competitions/3"><![CDATA[<h3>Description</h3>【トレーニングコンペ】AIは芥川龍之介を見分けられるのか？<h3>Deadline: 2025-12-31T22:59:00+08:00</h3><h3>Reward: なし</h3>]]></content>
         <author>
             <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531972/introduction</id>
+        <title><![CDATA[AETA地震预测AI算法大赛(赛季 1)]]></title>
+        
+        <updated>2022-05-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531972/introduction"/>
+        <summary>“AETA 地震预测 AI 算法大赛”，旨在通过创新算法挖掘前兆观测数据与地震三要素的相关性，发现与临震相关的异常信号和特征，并基于历史观测数据和地震目录，构建地震预测模型，期望推动地震预测预报科学问题的求解。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531972/introduction"><![CDATA[<h3>Description</h3>“AETA 地震预测 AI 算法大赛”，旨在通过创新算法挖掘前兆观测数据与地震三要素的相关性，发现与临震相关的异常信号和特征，并基于历史观测数据和地震目录，构建地震预测模型，期望推动地震预测预报科学问题的求解。<h3>Deadline: 2022-12-31T12:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531962/introduction</id>
+        <title><![CDATA[2022江苏气象AI算法挑战赛-AI助力强对流天气预报(赛季 1)]]></title>
+        
+        <updated>2022-05-07T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531962/introduction"/>
+        <summary>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531962/introduction"><![CDATA[<h3>Description</h3>以“AI助力强对流预报”为主题，聚焦短临强对流预报技术研发及应用，探索利用人工智能技术突破短临预报关键性技术瓶颈，推进人工智能技术在气象领域的学术合作、人才培养、技术交流以及多学科交叉融合应用.<h3>Deadline: 2022-06-04T12:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531961/introduction</id>
+        <title><![CDATA[ECCV 2022 WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅱ(赛季 1)]]></title>
+        
+        <updated>2022-04-27T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531961/introduction"/>
+        <summary>The purpose of this competition is to provide a challenging benchmark to evaluate 3D human avatar reconstruction methods and facilitate researchers and developers to explore novel reconstruction approaches based on multi-view and multi-pose datasets.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531961/introduction"><![CDATA[<h3>Description</h3>The purpose of this competition is to provide a challenging benchmark to evaluate 3D human avatar reconstruction methods and facilitate researchers and developers to explore novel reconstruction approaches based on multi-view and multi-pose datasets.<h3>Deadline: 2022-07-10T12:00:00+08:00</h3><h3>Reward: $7000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531958/introduction</id>
+        <title><![CDATA[ECCV 2022 WCPA Challenge: From Face, Body and Fashion to 3D Virtual Avatars Ⅰ(赛季 1)]]></title>
+        
+        <updated>2022-04-27T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531958/introduction"/>
+        <summary>The purpose of this challenge is to provide an outstanding benchmark to evaluate 3D human avatar reconstruction methods and facilitate researchers to explore novel reconstruction approaches based on multi- view and multi-pose datasets.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531958/introduction"><![CDATA[<h3>Description</h3>The purpose of this challenge is to provide an outstanding benchmark to evaluate 3D human avatar reconstruction methods and facilitate researchers to explore novel reconstruction approaches based on multi- view and multi-pose datasets.<h3>Deadline: 2022-07-10T12:00:00+08:00</h3><h3>Reward: $7000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531957/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务三：多模态商品知识图谱链接预测(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531957/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531957/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-30T12:00:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531956/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务二：基于知识图谱的商品同款挖掘(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531956/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531956/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-30T12:00:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531955/introduction</id>
+        <title><![CDATA[CCKS2022 面向数字商务的知识图谱评测任务一：商品常识知识显著性推理(赛季 1)]]></title>
+        
+        <updated>2022-04-11T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531955/introduction"/>
+        <summary>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531955/introduction"><![CDATA[<h3>Description</h3>阿里巴巴商品数据规模庞大，商品知识图谱为海量异构的商品数据的组织、管理和利用提供了有效的方式。商品数据模态丰富，动态性高，数据存在噪声，这些都对商品的认知和理解带来了巨大挑战。2022年1月 ，阿里巴巴联合浙江大学等单位发布首个数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织本次评测任务。<h3>Deadline: 2022-07-30T12:00:00+08:00</h3><h3>Reward: ￥93000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531951/introduction</id>
+        <title><![CDATA[CVPR 2022 AliProducts Challenge:  Large-scale Cross-Modal Product Retrieval(赛季 1)]]></title>
+        
+        <updated>2022-03-22T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531951/introduction"/>
+        <summary>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531951/introduction"><![CDATA[<h3>Description</h3>The challenge is based on a dataset released by Alibaba, which contains near 3 million images and covers 50 thousands SKU level commodity categories. It is the first time that an industry scale and granularity dataset becomes available for the computer vision research community to understand and help tackle the challenge in real-world commodity image recognition.<h3>Deadline: 2022-06-10T10:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     

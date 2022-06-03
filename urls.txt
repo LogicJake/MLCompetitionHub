@@ -856,3 +856,4 @@ https://zindi.africa/competitions/ai4d-lab-tanzania-tourism-classification-chall
 https://tianchi.aliyun.com/competition/entrance/531972/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/318
 https://aistudio.baidu.com/aistudio/competition/detail/230
+https://www.datafountain.cn/competitions/561
