@@ -857,3 +857,7 @@ https://tianchi.aliyun.com/competition/entrance/531972/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/318
 https://aistudio.baidu.com/aistudio/competition/detail/230
 https://www.datafountain.cn/competitions/561
+https://www.kesci.com/home/competition/6295a5312b840ccfda42f954
+https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d
+https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge
+https://zindi.africa/competitions/fossil-stock-forecasting-challenge

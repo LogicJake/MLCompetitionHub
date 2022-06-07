@@ -1,5 +1,29 @@
-> 更新时间: 2022-06-06T16:02:43+0800 
+> 更新时间: 2022-06-07T16:06:27+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## 第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）
+Link: https://www.kesci.com/home/competition/6295a5312b840ccfda42f954  
+Description: 第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）  
+Deadline: 2022-08-31T00:00:00+0800  
+Reward: 获奖证书  
+
+## 第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）
+Link: https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d  
+Description: 第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）  
+Deadline: 2022-08-31T00:00:00+0800  
+Reward: 获奖证书  
+
+## Laduma Analytics Football League Winners Prediction Challenge
+Link: https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge  
+Description: Can you predict the outcome of a football match based on historical data?  
+Deadline: 2022-09-05T07:59:00+0800  
+Reward: $2 000 USD  
+
+## Fossil Demand Forecasting Challenge
+Link: https://zindi.africa/competitions/fossil-stock-forecasting-challenge  
+Description: Can you forecast the watch units required by Fossil, four months into the future?  
+Deadline: 2022-08-29T07:59:00+0800  
+Reward: $5 000 USD  
+
