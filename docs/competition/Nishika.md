@@ -2,6 +2,14 @@
 
 
 
+## 生鮮野菜の価格予測 <sup style="color:red">[new]<sup>  
+
+Link: https://www.nishika.com/competitions/32  
+Description: 生鮮野菜の価格予測  
+Deadline: 2022-08-08T13:59:00+0800  
+Reward: 12万円+有機野菜ギフトカード  
+
+
 ## コンペアイデアコンペ　〜あなたのアイデアをコンペ化しよう〜　第0回
 
 Link: https://www.nishika.com/competitions/30  

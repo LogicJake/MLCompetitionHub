@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-06-07T16:06:27+08:00</updated>
+    <updated>2022-06-08T16:00:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -436,13 +436,13 @@
     
     <entry>
         <id>https://www.datafountain.cn/competitions/508</id>
-        <title><![CDATA[面向黑灰产治理的恶意短信变体字还原]]></title>
+        <title><![CDATA[【首届】面向黑灰产治理的恶意短信变体字还原]]></title>
         
         <updated>2022-06-06T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/508"/>
-        <summary>面向黑灰产治理的恶意短信变体字还原</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/508"><![CDATA[<h3>Description</h3>面向黑灰产治理的恶意短信变体字还原<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <summary>【首届】面向黑灰产治理的恶意短信变体字还原</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/508"><![CDATA[<h3>Description</h3>【首届】面向黑灰产治理的恶意短信变体字还原<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: CCF会员名额&平台电子</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -450,13 +450,13 @@
     
     <entry>
         <id>https://www.datafountain.cn/competitions/507</id>
-        <title><![CDATA[基于人工智能的恶意软件家族分类]]></title>
+        <title><![CDATA[【首届】基于人工智能的恶意软件家族分类]]></title>
         
         <updated>2022-06-06T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/507"/>
-        <summary>基于人工智能的恶意软件家族分类</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/507"><![CDATA[<h3>Description</h3>基于人工智能的恶意软件家族分类<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <summary>【首届】基于人工智能的恶意软件家族分类</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/507"><![CDATA[<h3>Description</h3>【首届】基于人工智能的恶意软件家族分类<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: CCF会员名额&平台电子</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -464,13 +464,13 @@
     
     <entry>
         <id>https://www.datafountain.cn/competitions/506</id>
-        <title><![CDATA[工业安全生产环境违规使用手机的识别]]></title>
+        <title><![CDATA[【首届】工业安全生产环境违规使用手机的识别]]></title>
         
         <updated>2022-06-06T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/506"/>
-        <summary>工业安全生产环境违规使用手机的识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/506"><![CDATA[<h3>Description</h3>工业安全生产环境违规使用手机的识别<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <summary>【首届】工业安全生产环境违规使用手机的识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/506"><![CDATA[<h3>Description</h3>【首届】工业安全生产环境违规使用手机的识别<h3>Deadline: 2022-07-17T23:59:59+08:00</h3><h3>Reward: CCF会员名额&平台电子</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -653,6 +653,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.nishika.com/competitions/32</id>
+        <title><![CDATA[生鮮野菜の価格予測]]></title>
+        
+        <updated>2022-06-08T14:00:00+08:00</updated>
+        
+        <link href="https://www.nishika.com/competitions/32"/>
+        <summary>生鮮野菜の価格予測</summary>
+        <content type="text/html" src="https://www.nishika.com/competitions/32"><![CDATA[<h3>Description</h3>生鮮野菜の価格予測<h3>Deadline: 2022-08-08T13:59:00+08:00</h3><h3>Reward: 12万円+有機野菜ギフトカード</h3>]]></content>
+        <author>
+            <name><![CDATA[Nishika]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.nishika.com/competitions/30</id>

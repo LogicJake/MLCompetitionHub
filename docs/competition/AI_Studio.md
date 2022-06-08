@@ -2,7 +2,7 @@
 
 
 
-## MICCAI2022 Challenge: GOALS <sup style="color:red">[new]<sup>  
+## MICCAI2022 Challenge: GOALS
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
 Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
