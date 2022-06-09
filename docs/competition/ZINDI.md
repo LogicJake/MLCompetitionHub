@@ -2,6 +2,14 @@
 
 
 
+## DataFest Africa Noise Pollution Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/datafest-africa-2022  
+Description: Can you predict noise levels in Kampala?  
+Deadline: 2022-07-26T19:59:00+0800  
+Reward: $1 000 USD  
+
+
 ## Laduma Analytics Football League Winners Prediction Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge  

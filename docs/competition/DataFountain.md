@@ -7,7 +7,7 @@
 Link: https://www.datafountain.cn/competitions/561  
 Description: 高鲁棒性要求下的领域事件检测任务  
 Deadline: 2022-08-25T23:59:59+0800  
-Reward: 获奖证书及项目支持  
+Reward: 24万研究经费支持  
 
 
 ## 【首届】面向黑灰产治理的恶意短信变体字还原 <sup style="color:red">[new]<sup>  
