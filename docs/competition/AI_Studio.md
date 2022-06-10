@@ -10,6 +10,14 @@ Deadline: 2022-09-18T08:00:00+0800
 Reward: $4000  
 
 
+## 2022国际自主智能机器人大赛-焊接机器人焊接图片识别
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/238  
+Description: 本赛题由百度与焊接机器人公司博清科技联合举办，面向工业的应用，以解决实际问题为出发点，致力于为自主智能机器人开发更智能的焊接机器人算法，推动智能焊接机器人向国际领先技术迈进。  
+Deadline: 2022-08-31T08:00:00+0800  
+Reward: $1,000  
+
+
 ## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/133
 Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
 Deadline: 2022-06-20T08:00:00+0800  
 Reward: ¥320,000  
-
-
-## 2022国际自主智能机器人大赛-线上初赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
-Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: $30,000  
 

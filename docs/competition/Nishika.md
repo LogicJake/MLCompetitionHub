@@ -34,14 +34,6 @@ Deadline: 2022-06-03T13:59:00+0800
 Reward: 15万円  
 
 
-## ソフトウェアの異常検知
-
-Link: https://www.nishika.com/competitions/26  
-Description: ソフトウェアの異常検知  
-Deadline: 2022-04-26T13:59:00+0800  
-Reward: 25万円  
-
-
 ## 【トレーニングコンペ】中古マンション価格予測
 
 Link: https://www.nishika.com/competitions/13  

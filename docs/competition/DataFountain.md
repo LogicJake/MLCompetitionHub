@@ -2,6 +2,14 @@
 
 
 
+## 新闻文本数据的语义检索与智能问答
+
+Link: https://www.datafountain.cn/competitions/567  
+Description: 新闻文本数据的语义检索与智能问答  
+Deadline: 2022-08-25T23:59:59+0800  
+Reward: 24万研究经费支持  
+
+
 ## 高鲁棒性要求下的领域事件检测任务
 
 Link: https://www.datafountain.cn/competitions/561  
