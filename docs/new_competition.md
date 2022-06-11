@@ -1,17 +1,23 @@
-> 更新时间: 2022-06-10T16:01:11+0800 
+> 更新时间: 2022-06-11T16:01:03+0800 
 
 # 新上线比赛
 
 
-## 2022国际自主智能机器人大赛-焊接机器人焊接图片识别
-Link: https://aistudio.baidu.com/aistudio/competition/detail/238  
-Description: 本赛题由百度与焊接机器人公司博清科技联合举办，面向工业的应用，以解决实际问题为出发点，致力于为自主智能机器人开发更智能的焊接机器人算法，推动智能焊接机器人向国际领先技术迈进。  
-Deadline: 2022-08-31T08:00:00+0800  
-Reward: $1,000  
+## 2022“创承非遗”文化大数据人工智能创新大赛——弱监督下的云纹纹样聚类自动识别
+Link: https://www.kesci.com/home/competition/629718312b840ccfda56b0ec  
+Description: 2022“创承非遗”文化大数据人工智能创新大赛——弱监督下的云纹纹样聚类自动识别  
+Deadline: 2022-09-14T12:00:00+0800  
+Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转化  
 
-## 新闻文本数据的语义检索与智能问答
-Link: https://www.datafountain.cn/competitions/567  
-Description: 新闻文本数据的语义检索与智能问答  
-Deadline: 2022-08-25T23:59:59+0800  
-Reward: 24万研究经费支持  
+## 2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建
+Link: https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e  
+Description: 2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建  
+Deadline: 2022-09-14T12:00:00+0800  
+Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转化  
+
+## 第二届全国信息融合挑战赛——“杰瑞杯”海面目标检测与跟踪竞赛
+Link: https://www.kesci.com/home/competition/627625ecd1cc5300181b2d93  
+Description: 第二届全国信息融合挑战赛——“杰瑞杯”海面目标检测与跟踪竞赛  
+Deadline: 2022-09-11T23:59:00+0800  
+Reward: ￥76,000  
 
