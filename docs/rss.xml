@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-06-11T16:01:03+08:00</updated>
+    <updated>2022-06-12T16:01:09+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/151</id>
+        <title><![CDATA[【第二阶段预选赛】第十一届 “中国软件杯”大学生软件设计大赛遥感解译赛道]]></title>
+        
+        <updated>2022-03-18T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/151"/>
+        <summary>工信部主办重量级国赛-百度飞桨赛题一：基于深度学习的遥感图像智能解译平台</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/151"><![CDATA[<h3>Description</h3>工信部主办重量级国赛-百度飞桨赛题一：基于深度学习的遥感图像智能解译平台<h3>Deadline: 2022-09-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/230</id>
@@ -117,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/152"/>
         <summary>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/152"><![CDATA[<h3>Description</h3>Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.<h3>Deadline: 2022-07-15T08:00:00+08:00</h3><h3>Reward: $35000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/133</id>
-        <title><![CDATA[第十届未来设计师·全国高校数字艺术设计大赛]]></title>
-        
-        <updated>2022-03-15T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/133"/>
-        <summary>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/133"><![CDATA[<h3>Description</h3>未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。<h3>Deadline: 2022-06-20T08:00:00+08:00</h3><h3>Reward: ¥320,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>

@@ -2,6 +2,14 @@
 
 
 
+## 【第二阶段预选赛】第十一届 “中国软件杯”大学生软件设计大赛遥感解译赛道
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
+Description: 工信部主办重量级国赛-百度飞桨赛题一：基于深度学习的遥感图像智能解译平台  
+Deadline: 2022-09-01T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## MICCAI2022 Challenge: GOALS
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
@@ -64,12 +72,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/152
 Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
 Deadline: 2022-07-15T08:00:00+0800  
 Reward: $35000  
-
-
-## 第十届未来设计师·全国高校数字艺术设计大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/133  
-Description: 未来设计师·全国高校数字艺术设计大赛始于2012年，每年一届，已入选中国高等教育学会发布的《全国普通高校学科竞赛排行榜》和《全国普通高校教师教学竞赛项目》，是高校教育教学改革和创新人才培养的重要竞赛项目之一。  
-Deadline: 2022-06-20T08:00:00+0800  
-Reward: ¥320,000  
 
