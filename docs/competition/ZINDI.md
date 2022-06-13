@@ -10,7 +10,7 @@ Deadline: 2022-07-26T19:59:00+0800
 Reward: $1 000 USD  
 
 
-## Laduma Analytics Football League Winners Prediction Challenge <sup style="color:red">[new]<sup>  
+## Laduma Analytics Football League Winners Prediction Challenge
 
 Link: https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge  
 Description: Can you predict the outcome of a football match based on historical data?  
