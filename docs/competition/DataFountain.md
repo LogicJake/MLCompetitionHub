@@ -2,6 +2,14 @@
 
 
 
+## 基于雷达数据的航迹实时关联与轨迹融合任务
+
+Link: https://www.datafountain.cn/competitions/568  
+Description: 基于雷达数据的航迹实时关联与轨迹融合任务  
+Deadline: 2022-08-25T23:59:59+0800  
+Reward: 24万研究经费支持  
+
+
 ## 新闻文本数据的语义检索与智能问答
 
 Link: https://www.datafountain.cn/competitions/567  
