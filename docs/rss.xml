@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-06-15T16:00:55+08:00</updated>
+    <updated>2022-06-16T16:01:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -137,6 +137,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/ccks-nec-2022/</id>
+        <title><![CDATA[CCKS - NEC - Causal  Inference in Financial Fields]]></title>
+        
+        <updated>2022-06-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/ccks-nec-2022/"/>
+        <summary>CCKS - NEC - Causal  Inference in Financial Fields</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/ccks-nec-2022/"><![CDATA[<h3>Description</h3>CCKS - NEC - Causal  Inference in Financial Fields<h3>Deadline: 2022-08-08T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/ccks2020_ckbqa/</id>

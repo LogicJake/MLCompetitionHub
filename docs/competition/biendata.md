@@ -2,6 +2,14 @@
 
 
 
+## CCKS - NEC - Causal  Inference in Financial Fields <sup style="color:red">[new]<sup>  
+
+Link: https://www.biendata.xyz/competition/ccks-nec-2022/  
+Description: CCKS - NEC - Causal  Inference in Financial Fields  
+Deadline: 2022-08-08T08:00:00+0800  
+Reward: ￥20,000  
+
+
 ## CCKS2022: Open domain knowledge-graph-based question answering
 
 Link: https://www.biendata.xyz/competition/ccks2020_ckbqa/  
