@@ -2,6 +2,22 @@
 
 
 
+## 百度网盘AI大赛——图像处理挑战赛： 通用场景手写文字擦除 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/347  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。  
+Deadline: 2022-09-15T08:00:00+0800  
+Reward: ¥40,000+特别礼包  
+
+
+## 百度网盘AI大赛——图像处理挑战赛： 模糊文档图像恢复 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/349  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的模糊文档恢复。  
+Deadline: 2022-09-15T08:00:00+0800  
+Reward: ¥40,000+特别礼包  
+
+
 ## 【第二阶段预选赛】第十一届 “中国软件杯”大学生软件设计大赛遥感解译赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
@@ -64,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/249
 Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
 Deadline: 2022-11-30T08:00:00+0800  
 Reward: ¥160,000  
-
-
-## Baidu KDD CUP 2022
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/152  
-Description: Spatial Dynamic Wind Power Forecasting. This task has practical importance for the utilization of wind energy. Participants are expected to accurately estimate the wind power supply of a wind farm.  
-Deadline: 2022-07-15T08:00:00+0800  
-Reward: $35000  
 
