@@ -2,6 +2,14 @@
 
 
 
+## 2022脑机接口算法挑战赛：脑纹识别 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
+Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
+Deadline: 2022-08-25T08:00:00+0800  
+Reward: ¥100,000  
+
+
 ## 百度网盘AI大赛——图像处理挑战赛： 通用场景手写文字擦除 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/347  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/240
 Description: 工信部主办重量级国赛-百度飞桨赛题二：基于百度飞桨EasyDL平台的芯片质检系统（限高职、技师学院）  
 Deadline: 2022-07-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
-
-
-## 中国软件开源创新大赛：开源任务挑战赛(顶会论文复现赛)
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/249  
-Description: 第五届“中国软件开源创新大赛”由中国计算机学会（CCF）主办，由国家自然科学基金委员会信息科学部和中国开源软件推进联盟指导。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: ¥160,000  
 

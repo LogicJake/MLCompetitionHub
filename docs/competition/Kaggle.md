@@ -68,14 +68,6 @@ Deadline: 2022-07-06T07:59:00+0800
 Reward: 63000 USD  
 
 
-## U.S. Patent Phrase to Phrase Matching 
-
-Link: https://www.kaggle.com/c/us-patent-phrase-to-phrase-matching  
-Description: Help Identify Similar Phrases in U.S. Patents  
-Deadline: 2022-06-21T07:59:00+0800  
-Reward: 25000 USD  
-
-
 ## Ubiquant Market Prediction
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
