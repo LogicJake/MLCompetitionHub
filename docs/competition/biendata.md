@@ -2,10 +2,10 @@
 
 
 
-## CCKS - NEC - Causal  Inference in Financial Fields <sup style="color:red">[new]<sup>  
+## CCKS - NEC - Causal Event Argument Extraction in Financial Field
 
 Link: https://www.biendata.xyz/competition/ccks-nec-2022/  
-Description: CCKS - NEC - Causal  Inference in Financial Fields  
+Description: CCKS - NEC - Causal Event Argument Extraction in Financial Field  
 Deadline: 2022-08-08T08:00:00+0800  
 Reward: ￥20,000  
 

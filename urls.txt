@@ -876,3 +876,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/315
 https://tianchi.aliyun.com/competition/entrance/531982/introduction
 https://tianchi.aliyun.com/competition/entrance/531981/introduction
 https://tianchi.aliyun.com/competition/entrance/531978/introduction
+https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge

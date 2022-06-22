@@ -10,6 +10,14 @@ Deadline: 2022-07-26T19:59:00+0800
 Reward: $1 000 USD  
 
 
+## Alvin Smart Money Management Classification Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge  
+Description: Can you classify purchases recorded on Alvin into different categories?  
+Deadline: 2022-07-25T07:59:00+0800  
+Reward: $3 000 USD  
+
+
 ## Laduma Analytics Football League Winners Prediction Challenge
 
 Link: https://zindi.africa/competitions/laduma-analytics-football-league-winners-prediction-challenge  

@@ -2,7 +2,7 @@
 
 
 
-## 2022脑机接口算法挑战赛：脑纹识别 <sup style="color:red">[new]<sup>  
+## 2022脑机接口算法挑战赛：脑纹识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
 Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
@@ -42,6 +42,14 @@ Deadline: 2022-09-18T08:00:00+0800
 Reward: $4000  
 
 
+## 2022国际自主智能机器人大赛-线上初赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
+Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
+Deadline: 2022-07-31T08:00:00+0800  
+Reward: $30,000  
+
+
 ## 2022国际自主智能机器人大赛-焊接机器人焊接图片识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/238  
@@ -70,14 +78,6 @@ Reward: ￥660,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/279  
 Description: 工信部主办重量级国赛-百度飞桨赛题三：基于Unity与百度希壤的元宇宙虚拟校园设计与建造（A组）  
-Deadline: 2022-07-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十一届 “中国软件杯”大学生软件设计大赛芯片质检赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/240  
-Description: 工信部主办重量级国赛-百度飞桨赛题二：基于百度飞桨EasyDL平台的芯片质检系统（限高职、技师学院）  
 Deadline: 2022-07-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
