@@ -1,11 +1,11 @@
-> 更新时间: 2022-06-22T16:00:49+0800 
+> 更新时间: 2022-06-23T16:03:01+0800 
 
 # 新上线比赛
 
 
-## Alvin Smart Money Management Classification Challenge
-Link: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge  
-Description: Can you classify purchases recorded on Alvin into different categories?  
-Deadline: 2022-07-25T07:59:00+0800  
-Reward: $3 000 USD  
+## HuBMAP + HPA - Hacking the Human Body
+Link: https://www.kaggle.com/c/hubmap-organ-segmentation  
+Description: Segment multi-organ functional tissue units  
+Deadline: 2022-09-22T07:59:00+0800  
+Reward: 60000 USD  
 

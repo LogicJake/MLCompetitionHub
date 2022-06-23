@@ -877,3 +877,4 @@ https://tianchi.aliyun.com/competition/entrance/531982/introduction
 https://tianchi.aliyun.com/competition/entrance/531981/introduction
 https://tianchi.aliyun.com/competition/entrance/531978/introduction
 https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge
+https://www.kaggle.com/c/hubmap-organ-segmentation

@@ -2,6 +2,14 @@
 
 
 
+## HuBMAP + HPA - Hacking the Human Body <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/hubmap-organ-segmentation  
+Description: Segment multi-organ functional tissue units  
+Deadline: 2022-09-22T07:59:00+0800  
+Reward: 60000 USD  
+
+
 ## American Express - Default Prediction
 
 Link: https://www.kaggle.com/c/amex-default-prediction  
