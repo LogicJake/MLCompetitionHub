@@ -10,6 +10,14 @@ Deadline: 2022-07-26T19:59:00+0800
 Reward: $1 000 USD  
 
 
+## Zindi Weekendz: Layer.ai Air Quality Prediction Challenge <sup style="color:red">[new]<sup>  
+
+Link: https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge  
+Description: Can you use Sentinel 5P data to predict air quality in Kampala for AirQo?  
+Deadline: 2022-07-04T07:59:00+0800  
+Reward: $300 USD  
+
+
 ## Alvin Smart Money Management Classification Challenge <sup style="color:red">[new]<sup>  
 
 Link: https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge  
