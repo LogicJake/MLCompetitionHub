@@ -2,6 +2,22 @@
 
 
 
+## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
+Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
+Deadline: 2022-08-31T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
+## 第十一届“中国软件杯”大学生软件设计大赛产业创新赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/361  
+Description: 鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。  
+Deadline: 2022-07-08T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 2022脑机接口算法挑战赛：脑纹识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
@@ -64,20 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/277
 Description: 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）由工业和信息化部信息中心、百度公司主办，以“科技强链 智创未来”为主题，紧密结合“围绕产业链，部署创新链，配置资金链”的大赛主旨，面向智慧工业、生物医药两个应用方向设置命题。  
 Deadline: 2022-10-31T08:00:00+0800  
 Reward: ￥225,000+资源赋能  
-
-
-## 2022中意青年未来时尚设计大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/299  
-Description: 面向时尚领域，通过使用飞桨的框架和产品进行艺术与科技相结合的算法设计、视觉设计、产品设计或技术创新。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: ￥660,000  
-
-
-## 第十一届 “中国软件杯”大学生软件设计大赛元宇宙赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/279  
-Description: 工信部主办重量级国赛-百度飞桨赛题三：基于Unity与百度希壤的元宇宙虚拟校园设计与建造（A组）  
-Deadline: 2022-07-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
 

@@ -879,3 +879,4 @@ https://tianchi.aliyun.com/competition/entrance/531978/introduction
 https://zindi.africa/competitions/alvin-smart-money-management-classification-challenge
 https://www.kaggle.com/c/hubmap-organ-segmentation
 https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge
+https://aistudio.baidu.com/aistudio/competition/detail/361
