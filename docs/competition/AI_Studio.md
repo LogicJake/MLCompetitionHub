@@ -2,12 +2,20 @@
 
 
 
-## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
+## CCL2022视频看点抽取
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
-Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
-Deadline: 2022-08-31T08:00:00+0800  
-Reward: 教育部榜单赛事  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/304  
+Description: 本任务会给出视频、视频标题、视频字幕，要求参赛选手基于提供的信息提取出视频的所有看点，并给出所有看点的起始时间和看点摘要。  
+Deadline: 2022-09-30T08:00:00+0800  
+Reward: ￥20,000  
+
+
+## CCKS2022基于知识图谱的优质文章识别
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/255  
+Description: 本任务要求参赛者利用文章的知识图谱进行建模，实现优质文章分类。  
+Deadline: 2022-07-31T08:00:00+0800  
+Reward: ￥20,000  
 
 
 ## 第十一届“中国软件杯”大学生软件设计大赛产业创新赛 <sup style="color:red">[new]<sup>  
@@ -15,6 +23,14 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/361  
 Description: 鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。  
 Deadline: 2022-07-08T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
+## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
+Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
+Deadline: 2022-08-31T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
 
@@ -26,12 +42,20 @@ Deadline: 2022-08-25T08:00:00+0800
 Reward: ¥100,000  
 
 
+## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/327  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。  
+Deadline: 2022-09-15T08:00:00+0800  
+Reward: ¥50,000+特别礼包  
+
+
 ## 百度网盘AI大赛——图像处理挑战赛： 通用场景手写文字擦除
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/347  
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。  
 Deadline: 2022-09-15T08:00:00+0800  
-Reward: ¥40,000+特别礼包  
+Reward: ¥50,000+特别礼包  
 
 
 ## 百度网盘AI大赛——图像处理挑战赛： 模糊文档图像恢复
@@ -39,7 +63,7 @@ Reward: ¥40,000+特别礼包
 Link: https://aistudio.baidu.com/aistudio/competition/detail/349  
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的模糊文档恢复。  
 Deadline: 2022-09-15T08:00:00+0800  
-Reward: ¥40,000+特别礼包  
+Reward: ¥50,000+特别礼包  
 
 
 ## 【第二阶段预选赛】第十一届 “中国软件杯”大学生软件设计大赛遥感解译赛道
@@ -56,28 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/230
 Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
 Deadline: 2022-09-18T08:00:00+0800  
 Reward: $4000  
-
-
-## 2022国际自主智能机器人大赛-线上初赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/147  
-Description: 为推动自主智能机器人在中国科研、教育领域普及应用，促进芯片技术与机器人技术融合发展，培养中国人工智能机器人领域人才，2022国际自主智能机器人大赛以“自立自强 赋能未来”为主题，拟于2022年8月在北京举行。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: $30,000  
-
-
-## 2022国际自主智能机器人大赛-焊接机器人焊接图片识别
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/238  
-Description: 本赛题由百度与焊接机器人公司博清科技联合举办，面向工业的应用，以解决实际问题为出发点，致力于为自主智能机器人开发更智能的焊接机器人算法，推动智能焊接机器人向国际领先技术迈进。  
-Deadline: 2022-08-31T08:00:00+0800  
-Reward: $1,000  
-
-
-## 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/277  
-Description: 第七届“创客中国”人工智能创新应用产业链赛道赛（百度）由工业和信息化部信息中心、百度公司主办，以“科技强链 智创未来”为主题，紧密结合“围绕产业链，部署创新链，配置资金链”的大赛主旨，面向智慧工业、生物医药两个应用方向设置命题。  
-Deadline: 2022-10-31T08:00:00+0800  
-Reward: ￥225,000+资源赋能  
 

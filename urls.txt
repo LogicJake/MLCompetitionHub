@@ -880,3 +880,6 @@ https://zindi.africa/competitions/alvin-smart-money-management-classification-ch
 https://www.kaggle.com/c/hubmap-organ-segmentation
 https://zindi.africa/competitions/zindi-weekendz-layerai-air-quality-prediction-challenge
 https://aistudio.baidu.com/aistudio/competition/detail/361
+https://aistudio.baidu.com/aistudio/competition/detail/304
+https://aistudio.baidu.com/aistudio/competition/detail/255
+https://aistudio.baidu.com/aistudio/competition/detail/327
