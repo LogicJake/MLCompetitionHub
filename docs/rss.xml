@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-06-28T16:02:38+08:00</updated>
+    <updated>2022-06-29T16:01:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -747,6 +747,92 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d"><![CDATA[<h3>Description</h3>第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）<h3>Deadline: 2022-08-31T00:00:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531982/introduction</id>
+        <title><![CDATA[ECS CloudBuild开发者大赛赛道3：高性能分布式内存缓存方案(赛季 1)]]></title>
+        
+        <updated>2022-06-20T17:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531982/introduction"/>
+        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531982/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T22:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531981/introduction</id>
+        <title><![CDATA[ECS CloudBuild开发者大赛赛道2：基于加密计算的创新应用设计与实践(赛季 1)]]></title>
+        
+        <updated>2022-06-20T17:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531981/introduction"/>
+        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531981/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T18:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531980/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道2：分布式NewSQL性能挑战(赛季 1)]]></title>
+        
+        <updated>2022-06-06T12:34:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531980/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531980/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-08-15T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531979/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道1：云原生共享内存数据库性能优化(赛季 1)]]></title>
+        
+        <updated>2022-06-23T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531979/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531979/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-08-15T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531978/introduction</id>
+        <title><![CDATA[ECS CloudBuild开发者大赛赛道1：高性能云上大数据加速方案(赛季 1)]]></title>
+        
+        <updated>2022-06-20T17:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531978/introduction"/>
+        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531978/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T22:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531976/introduction</id>
+        <title><![CDATA[ICDM 2022 : 大规模电商图上的风险商品检测(赛季 1)]]></title>
+        
+        <updated>2022-06-24T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531976/introduction"/>
+        <summary>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531976/introduction"><![CDATA[<h3>Description</h3>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。<h3>Deadline: 2022-08-15T15:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
