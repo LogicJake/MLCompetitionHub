@@ -2,7 +2,7 @@
 
 
 
-## HuBMAP + HPA - Hacking the Human Body <sup style="color:red">[new]<sup>  
+## HuBMAP + HPA - Hacking the Human Body
 
 Link: https://www.kaggle.com/c/hubmap-organ-segmentation  
 Description: Segment multi-organ functional tissue units  

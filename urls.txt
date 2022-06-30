@@ -886,3 +886,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/327
 https://tianchi.aliyun.com/competition/entrance/531980/introduction
 https://tianchi.aliyun.com/competition/entrance/531979/introduction
 https://tianchi.aliyun.com/competition/entrance/531976/introduction
+https://tianchi.aliyun.com/competition/entrance/531996/introduction
+https://tianchi.aliyun.com/competition/entrance/531995/introduction
