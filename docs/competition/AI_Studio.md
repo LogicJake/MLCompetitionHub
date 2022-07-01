@@ -2,6 +2,14 @@
 
 
 
+## 2022脑机接口算法挑战赛：脑纹识别
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
+Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
+Deadline: 2022-08-25T08:00:00+0800  
+Reward: ¥100,000  
+
+
 ## CCL2022视频看点抽取
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/304  
@@ -32,14 +40,6 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/132
 Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
 Deadline: 2022-08-31T08:00:00+0800  
 Reward: 教育部榜单赛事  
-
-
-## 2022脑机接口算法挑战赛：脑纹识别
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
-Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
-Deadline: 2022-08-25T08:00:00+0800  
-Reward: ¥100,000  
 
 
 ## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别 <sup style="color:red">[new]<sup>  
@@ -79,5 +79,5 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
 Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
 Deadline: 2022-09-18T08:00:00+0800  
-Reward: $4000  
+Reward: $4,000  
 
