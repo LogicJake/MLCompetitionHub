@@ -1,23 +1,5 @@
-> 更新时间: 2022-07-01T16:01:08+0800 
+> 更新时间: 2022-07-02T16:01:01+0800 
 
 # 新上线比赛
 
-
-## 2022云原生编程挑战赛3：实现一个 Serverless 架构的 Web IDE 服务(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531985/introduction  
-Description: 我们将提供一个 Web IDE 服务的参考实现，您在此基础上进行扩展，发挥您的创意，创造一个独特的 Web IDE 服务！  
-Deadline: 2022-09-09T18:00:00+0800  
-Reward: ￥170000  
-
-## 2022云原生编程挑战赛2：针对边缘计算场景的ACK@Edge高效的边缘自治方案(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531984/introduction  
-Description: 本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。  
-Deadline: 2022-09-06T18:00:00+0800  
-Reward: ￥170000  
-
-## 2022云原生编程挑战赛1：服务网格数据面应用服务访问QPS和延时的优化(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/531983/introduction  
-Description: 本赛题希望构建一种服务网格性能与资源占用动态优化系统，实现在尽量减少Sidecar代理资源消耗的情况下、也尽可能降低集群中服务的请求时延。  
-Deadline: 2022-09-09T12:00:00+0800  
-Reward: ￥170000  
-
+> 暂无新上线比赛！
