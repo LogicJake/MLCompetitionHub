@@ -42,7 +42,7 @@ Deadline: 2022-08-31T08:00:00+0800
 Reward: 教育部榜单赛事  
 
 
-## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别 <sup style="color:red">[new]<sup>  
+## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/327  
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。  
