@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-07-04T16:01:22+08:00</updated>
+    <updated>2022-07-05T16:01:10+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -872,7 +872,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/531984/introduction"/>
         <summary>本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531984/introduction"><![CDATA[<h3>Description</h3>本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。<h3>Deadline: 2022-09-06T18:00:00+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531984/introduction"><![CDATA[<h3>Description</h3>本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。<h3>Deadline: 2022-09-09T18:00:00+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
