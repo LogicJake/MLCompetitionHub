@@ -72,7 +72,7 @@ Reward: 15000 USD
 
 Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  
 Description: Explore the Tokyo market with your data science skills  
-Deadline: 2022-07-06T07:59:00+0800  
+Deadline: 2022-10-08T07:59:00+0800  
 Reward: 63000 USD  
 
 

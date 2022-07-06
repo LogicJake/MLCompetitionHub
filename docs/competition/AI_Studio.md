@@ -2,6 +2,22 @@
 
 
 
+## PaddlePaddle Hackathon 飞桨黑客马拉松第三期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
+Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
+Deadline: 2022-09-30T08:00:00+0800  
+Reward: ￥500,000  
+
+
+## 航旅纵横-领域知识问答测评
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/313  
+Description: 针对民航出行领域中信息动态更新频繁、用户出行问答需求旺盛及大量文本数据使用价值较低等问题，探索基于阅读理解技术实现从民航相关网页的文本数据中精准抽取出的问题和答案对。  
+Deadline: 2022-09-30T08:00:00+0800  
+Reward: ¥60,000  
+
+
 ## 2022脑机接口算法挑战赛：脑纹识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
@@ -64,20 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/349
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的模糊文档恢复。  
 Deadline: 2022-09-15T08:00:00+0800  
 Reward: ¥50,000+特别礼包  
-
-
-## 【第二阶段预选赛】第十一届 “中国软件杯”大学生软件设计大赛遥感解译赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/151  
-Description: 工信部主办重量级国赛-百度飞桨赛题一：基于深度学习的遥感图像智能解译平台  
-Deadline: 2022-09-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## MICCAI2022 Challenge: GOALS
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/230  
-Description: MICCAI2022 Challenge: Glaucoma Oct Analysis and Layer Segmentation (GOALS)  
-Deadline: 2022-09-18T08:00:00+0800  
-Reward: $4,000  
 
