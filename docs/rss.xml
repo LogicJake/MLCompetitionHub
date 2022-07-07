@@ -3,26 +3,12 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-07-06T16:11:04+08:00</updated>
+    <updated>2022-07-07T16:02:34+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/356</id>
-        <title><![CDATA[PaddlePaddle Hackathon 飞桨黑客马拉松第三期]]></title>
-        
-        <updated>2022-07-04T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/356"/>
-        <summary>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/356"><![CDATA[<h3>Description</h3>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/313</id>
@@ -47,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/315"/>
         <summary>EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/315"><![CDATA[<h3>Description</h3>EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.<h3>Deadline: 2022-08-25T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/356</id>
+        <title><![CDATA[PaddlePaddle Hackathon 飞桨黑客马拉松第三期]]></title>
+        
+        <updated>2022-07-04T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/356"/>
+        <summary>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/356"><![CDATA[<h3>Description</h3>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -88,7 +88,7 @@
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/361"/>
         <summary>鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/361"><![CDATA[<h3>Description</h3>鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。<h3>Deadline: 2022-07-08T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/361"><![CDATA[<h3>Description</h3>鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。<h3>Deadline: 2022-07-15T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -535,6 +535,20 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/mayo-clinic-strip-ai</id>
+        <title><![CDATA[Mayo Clinic - STRIP AI]]></title>
+        
+        <updated>2022-07-07T04:34:00+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/mayo-clinic-strip-ai"/>
+        <summary>Image Classification of Stroke Blood Clot Origin</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/mayo-clinic-strip-ai"><![CDATA[<h3>Description</h3>Image Classification of Stroke Blood Clot Origin<h3>Deadline: 2022-10-06T07:59:00+08:00</h3><h3>Reward: 10000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/hubmap-organ-segmentation</id>
         <title><![CDATA[HuBMAP + HPA - Hacking the Human Body]]></title>
         
@@ -747,148 +761,6 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/6295a5312b840ccfda42f954"><![CDATA[<h3>Description</h3>第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）<h3>Deadline: 2022-08-31T00:00:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531982/introduction</id>
-        <title><![CDATA[ECS CloudBuild开发者大赛赛道3：高性能分布式内存缓存方案(赛季 1)]]></title>
-        
-        <updated>2022-06-20T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531982/introduction"/>
-        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531982/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T22:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531981/introduction</id>
-        <title><![CDATA[ECS CloudBuild开发者大赛赛道2：基于加密计算的创新应用设计与实践(赛季 1)]]></title>
-        
-        <updated>2022-06-20T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531981/introduction"/>
-        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531981/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T18:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531980/introduction</id>
-        <title><![CDATA[第四届全球数据库大赛赛道2：分布式NewSQL性能挑战(赛季 1)]]></title>
-        
-        <updated>2022-06-06T12:34:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531980/introduction"/>
-        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531980/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-08-15T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531979/introduction</id>
-        <title><![CDATA[第四届全球数据库大赛赛道1：云原生共享内存数据库性能优化(赛季 1)]]></title>
-        
-        <updated>2022-06-23T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531979/introduction"/>
-        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531979/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-08-15T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531978/introduction</id>
-        <title><![CDATA[ECS CloudBuild开发者大赛赛道1：高性能云上大数据加速方案(赛季 1)]]></title>
-        
-        <updated>2022-06-20T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531978/introduction"/>
-        <summary>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531978/introduction"><![CDATA[<h3>Description</h3>第二届阿里云ECS CloudBuild开发者大赛，是由阿里云与英特尔主办，阿里云天池平台、弹性计算、神龙计算平台与云安全共同承办的顶级赛事。<h3>Deadline: 2022-08-14T22:00:00+08:00</h3><h3>Reward: ￥510000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531976/introduction</id>
-        <title><![CDATA[ICDM 2022 : 大规模电商图上的风险商品检测(赛季 1)]]></title>
-        
-        <updated>2022-06-24T12:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531976/introduction"/>
-        <summary>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531976/introduction"><![CDATA[<h3>Description</h3>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。<h3>Deadline: 2022-08-15T15:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531972/introduction</id>
-        <title><![CDATA[AETA地震预测AI算法大赛(赛季 1)]]></title>
-        
-        <updated>2022-05-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531972/introduction"/>
-        <summary>“AETA 地震预测 AI 算法大赛”，旨在通过创新算法挖掘前兆观测数据与地震三要素的相关性，发现与临震相关的异常信号和特征，并基于历史观测数据和地震目录，构建地震预测模型，期望推动地震预测预报科学问题的求解。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531972/introduction"><![CDATA[<h3>Description</h3>“AETA 地震预测 AI 算法大赛”，旨在通过创新算法挖掘前兆观测数据与地震三要素的相关性，发现与临震相关的异常信号和特征，并基于历史观测数据和地震目录，构建地震预测模型，期望推动地震预测预报科学问题的求解。<h3>Deadline: 2022-12-31T12:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531985/introduction</id>
-        <title><![CDATA[2022云原生编程挑战赛3：实现一个 Serverless 架构的 Web IDE 服务(赛季 1)]]></title>
-        
-        <updated>2022-06-29T12:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531985/introduction"/>
-        <summary>我们将提供一个 Web IDE 服务的参考实现，您在此基础上进行扩展，发挥您的创意，创造一个独特的 Web IDE 服务！</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531985/introduction"><![CDATA[<h3>Description</h3>我们将提供一个 Web IDE 服务的参考实现，您在此基础上进行扩展，发挥您的创意，创造一个独特的 Web IDE 服务！<h3>Deadline: 2022-09-09T18:00:00+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531984/introduction</id>
-        <title><![CDATA[2022云原生编程挑战赛2：针对边缘计算场景的ACK@Edge高效的边缘自治方案(赛季 1)]]></title>
-        
-        <updated>2022-06-29T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531984/introduction"/>
-        <summary>本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531984/introduction"><![CDATA[<h3>Description</h3>本赛题希望实现一个边缘侧的edge-proxy组件，负责转发边缘侧组件例如kubelet,kube-proxy 的请求，同时能够将云上apiserver 返回的数据缓存到本地。<h3>Deadline: 2022-09-09T18:00:00+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531983/introduction</id>
-        <title><![CDATA[2022云原生编程挑战赛1：服务网格数据面应用服务访问QPS和延时的优化(赛季 1)]]></title>
-        
-        <updated>2022-06-29T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531983/introduction"/>
-        <summary>本赛题希望构建一种服务网格性能与资源占用动态优化系统，实现在尽量减少Sidecar代理资源消耗的情况下、也尽可能降低集群中服务的请求时延。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531983/introduction"><![CDATA[<h3>Description</h3>本赛题希望构建一种服务网格性能与资源占用动态优化系统，实现在尽量减少Sidecar代理资源消耗的情况下、也尽可能降低集群中服务的请求时延。<h3>Deadline: 2022-09-09T12:00:00+08:00</h3><h3>Reward: ￥170000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     

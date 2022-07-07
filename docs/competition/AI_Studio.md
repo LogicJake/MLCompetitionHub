@@ -2,14 +2,6 @@
 
 
 
-## PaddlePaddle Hackathon 飞桨黑客马拉松第三期 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
-Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ￥500,000  
-
-
 ## 航旅纵横-领域知识问答测评
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/313  
@@ -24,6 +16,14 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/315
 Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
 Deadline: 2022-08-25T08:00:00+0800  
 Reward: ¥100,000  
+
+
+## PaddlePaddle Hackathon 飞桨黑客马拉松第三期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
+Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
+Deadline: 2022-09-30T08:00:00+0800  
+Reward: ￥500,000  
 
 
 ## CCL2022视频看点抽取
@@ -46,7 +46,7 @@ Reward: ￥20,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/361  
 Description: 鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。  
-Deadline: 2022-07-08T08:00:00+0800  
+Deadline: 2022-07-15T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
 

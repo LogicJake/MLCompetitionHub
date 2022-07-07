@@ -2,6 +2,14 @@
 
 
 
+## Mayo Clinic - STRIP AI <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/mayo-clinic-strip-ai  
+Description: Image Classification of Stroke Blood Clot Origin  
+Deadline: 2022-10-06T07:59:00+0800  
+Reward: 10000 USD  
+
+
 ## HuBMAP + HPA - Hacking the Human Body
 
 Link: https://www.kaggle.com/c/hubmap-organ-segmentation  
