@@ -18,7 +18,7 @@ Deadline: 2022-08-25T08:00:00+0800
 Reward: ¥100,000  
 
 
-## PaddlePaddle Hackathon 飞桨黑客马拉松第三期 <sup style="color:red">[new]<sup>  
+## PaddlePaddle Hackathon 飞桨黑客马拉松第三期
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
 Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
