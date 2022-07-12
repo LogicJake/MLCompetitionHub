@@ -2,6 +2,14 @@
 
 
 
+## Google Universal Image Embedding <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/google-universal-image-embedding  
+Description: Create image representations that work across many visual domains  
+Deadline: 2022-10-11T07:59:00+0800  
+Reward: 50000 USD  
+
+
 ## Mayo Clinic - STRIP AI <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/mayo-clinic-strip-ai  
