@@ -72,7 +72,7 @@ Reward: 25000 USD
 
 Link: https://www.kaggle.com/c/kore-2022  
 Description: Use a fleet of spaceships to mine minerals before your opponents  
-Deadline: 2022-07-13T07:59:00+0800  
+Deadline: 2022-07-27T07:59:00+0800  
 Reward: 15000 USD  
 
 
