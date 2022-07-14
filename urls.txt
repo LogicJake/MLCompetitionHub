@@ -895,3 +895,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/356
 https://aistudio.baidu.com/aistudio/competition/detail/313
 https://www.kaggle.com/c/mayo-clinic-strip-ai
 https://www.kaggle.com/c/google-universal-image-embedding
+https://aistudio.baidu.com/aistudio/competition/detail/404

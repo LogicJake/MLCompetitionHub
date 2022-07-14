@@ -2,6 +2,14 @@
 
 
 
+## 文本智能校对大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/404  
+Description: 文本智能校对是自然语言处理的重要应用领域之一。该任务主要是针对文本中出现的错误进行检测和纠正，属于综合性的自然语言处理研究方向。  
+Deadline: 2022-08-31T08:00:00+0800  
+Reward: ¥140,000  
+
+
 ## 航旅纵横-领域知识问答测评
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/313  
@@ -70,14 +78,6 @@ Reward: ¥50,000+特别礼包
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/347  
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。  
-Deadline: 2022-09-15T08:00:00+0800  
-Reward: ¥50,000+特别礼包  
-
-
-## 百度网盘AI大赛——图像处理挑战赛： 模糊文档图像恢复
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/349  
-Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的模糊文档恢复。  
 Deadline: 2022-09-15T08:00:00+0800  
 Reward: ¥50,000+特别礼包  
 

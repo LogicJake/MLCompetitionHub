@@ -10,7 +10,7 @@ Deadline: 2022-10-11T07:59:00+0800
 Reward: 50000 USD  
 
 
-## Mayo Clinic - STRIP AI <sup style="color:red">[new]<sup>  
+## Mayo Clinic - STRIP AI
 
 Link: https://www.kaggle.com/c/mayo-clinic-strip-ai  
 Description: Image Classification of Stroke Blood Clot Origin  
