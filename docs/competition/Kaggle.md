@@ -60,14 +60,6 @@ Deadline: 2022-07-30T07:59:00+0800
 Reward: 10000 USD  
 
 
-## UW-Madison GI Tract Image Segmentation 
-
-Link: https://www.kaggle.com/c/uw-madison-gi-tract-image-segmentation  
-Description: Track healthy organs in medical scans to improve cancer treatment  
-Deadline: 2022-07-15T07:59:00+0800  
-Reward: 25000 USD  
-
-
 ## Kore 2022
 
 Link: https://www.kaggle.com/c/kore-2022  
