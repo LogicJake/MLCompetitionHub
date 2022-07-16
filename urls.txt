@@ -896,3 +896,6 @@ https://aistudio.baidu.com/aistudio/competition/detail/313
 https://www.kaggle.com/c/mayo-clinic-strip-ai
 https://www.kaggle.com/c/google-universal-image-embedding
 https://aistudio.baidu.com/aistudio/competition/detail/404
+https://www.datafountain.cn/competitions/573
+https://www.datafountain.cn/competitions/572
+https://tianchi.aliyun.com/competition/entrance/532008/introduction

@@ -2,6 +2,22 @@
 
 
 
+## 基于金融财报中的混合表格与文本数据的问答 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/573  
+Description: 基于金融财报中的混合表格与文本数据的问答  
+Deadline: 2022-09-18T23:59:59+0800  
+Reward: ￥40000  
+
+
+## 通用事件属性抽取 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/572  
+Description: 通用事件属性抽取  
+Deadline: 2022-09-18T23:59:59+0800  
+Reward: ￥40000  
+
+
 ## 基于雷达数据的航迹实时关联与轨迹融合任务
 
 Link: https://www.datafountain.cn/competitions/568  

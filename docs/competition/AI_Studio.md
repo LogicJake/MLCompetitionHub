@@ -50,14 +50,6 @@ Deadline: 2022-07-31T08:00:00+0800
 Reward: ￥20,000  
 
 
-## 第十一届“中国软件杯”大学生软件设计大赛产业创新赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/361  
-Description: 鼓励企业和高校联合组队，团队成员若有来自企业的员工，且该企业可作为项目的承接方和落地方，则可酌情加分。  
-Deadline: 2022-07-15T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
 ## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
