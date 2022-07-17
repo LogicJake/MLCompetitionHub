@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-07-16T16:01:18+08:00</updated>
+    <updated>2022-07-17T16:01:15+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -195,20 +195,6 @@
     </entry>
     
     <entry>
-        <id>https://www.biendata.xyz/competition/CACEKG/</id>
-        <title><![CDATA[CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph]]></title>
-        
-        <updated>2022-04-26T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/CACEKG/"/>
-        <summary>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/CACEKG/"><![CDATA[<h3>Description</h3>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.biendata.xyz/competition/KYDMTJSTP/</id>
         <title><![CDATA[CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data]]></title>
         
@@ -217,6 +203,20 @@
         <link href="https://www.biendata.xyz/competition/KYDMTJSTP/"/>
         <summary>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/KYDMTJSTP/"><![CDATA[<h3>Description</h3>CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥20,000</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/CACEKG/</id>
+        <title><![CDATA[CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph]]></title>
+        
+        <updated>2022-04-26T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/CACEKG/"/>
+        <summary>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/CACEKG/"><![CDATA[<h3>Description</h3>CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph<h3>Deadline: 2022-07-31T08:00:00+08:00</h3><h3>Reward: ￥15,000</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
