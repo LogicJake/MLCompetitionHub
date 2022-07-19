@@ -899,3 +899,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/404
 https://www.datafountain.cn/competitions/573
 https://www.datafountain.cn/competitions/572
 https://tianchi.aliyun.com/competition/entrance/532008/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/381

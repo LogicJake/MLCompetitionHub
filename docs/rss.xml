@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-07-18T15:58:58+08:00</updated>
+    <updated>2022-07-19T15:58:48+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -67,6 +67,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/381</id>
+        <title><![CDATA[2022年第18届百度之星程序设计大赛]]></title>
+        
+        <updated>2022-07-01T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/381"/>
+        <summary>一年一度的Astar百度之星程序设计大赛由百度举办，旨在展示学生创新能力和编写程序、分析、解决问题能力，从2005年至今已成功举办至第18届，被视为国内程序员的“黄埔军校”和“造星工场”。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/381"><![CDATA[<h3>Description</h3>一年一度的Astar百度之星程序设计大赛由百度举办，旨在展示学生创新能力和编写程序、分析、解决问题能力，从2005年至今已成功举办至第18届，被视为国内程序员的“黄埔军校”和“造星工场”。<h3>Deadline: 2022-11-30T08:00:00+08:00</h3><h3>Reward: ￥240,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/304</id>
         <title><![CDATA[CCL2022视频看点抽取]]></title>
         
@@ -117,20 +131,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/327"/>
         <summary>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/327"><![CDATA[<h3>Description</h3>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。<h3>Deadline: 2022-09-15T08:00:00+08:00</h3><h3>Reward: ¥50,000+特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/347</id>
-        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛： 通用场景手写文字擦除]]></title>
-        
-        <updated>2022-06-20T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/347"/>
-        <summary>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/347"><![CDATA[<h3>Description</h3>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。<h3>Deadline: 2022-09-15T08:00:00+08:00</h3><h3>Reward: ¥50,000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -686,7 +686,7 @@
         
         <link href="https://www.kaggle.com/c/ubiquant-market-prediction"/>
         <summary>Make predictions against future market data</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/ubiquant-market-prediction"><![CDATA[<h3>Description</h3>Make predictions against future market data<h3>Deadline: 2022-07-19T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/ubiquant-market-prediction"><![CDATA[<h3>Description</h3>Make predictions against future market data<h3>Deadline: 2022-07-21T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

@@ -2,7 +2,7 @@
 
 
 
-## Google Universal Image Embedding <sup style="color:red">[new]<sup>  
+## Google Universal Image Embedding
 
 Link: https://www.kaggle.com/c/google-universal-image-embedding  
 Description: Create image representations that work across many visual domains  
@@ -80,6 +80,6 @@ Reward: 63000 USD
 
 Link: https://www.kaggle.com/c/ubiquant-market-prediction  
 Description: Make predictions against future market data  
-Deadline: 2022-07-19T07:59:00+0800  
+Deadline: 2022-07-21T07:59:00+0800  
 Reward: 100000 USD  
 

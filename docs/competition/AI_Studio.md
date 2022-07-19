@@ -34,6 +34,14 @@ Deadline: 2022-09-30T08:00:00+0800
 Reward: ￥500,000  
 
 
+## 2022年第18届百度之星程序设计大赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/381  
+Description: 一年一度的Astar百度之星程序设计大赛由百度举办，旨在展示学生创新能力和编写程序、分析、解决问题能力，从2005年至今已成功举办至第18届，被视为国内程序员的“黄埔军校”和“造星工场”。  
+Deadline: 2022-11-30T08:00:00+0800  
+Reward: ￥240,000  
+
+
 ## CCL2022视频看点抽取
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/304  
@@ -62,14 +70,6 @@ Reward: 教育部榜单赛事
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/327  
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。  
-Deadline: 2022-09-15T08:00:00+0800  
-Reward: ¥50,000+特别礼包  
-
-
-## 百度网盘AI大赛——图像处理挑战赛： 通用场景手写文字擦除
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/347  
-Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的通用场景文字擦除。  
 Deadline: 2022-09-15T08:00:00+0800  
 Reward: ¥50,000+特别礼包  
 
