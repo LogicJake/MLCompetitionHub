@@ -75,11 +75,3 @@ Description: Explore the Tokyo market with your data science skills
 Deadline: 2022-10-08T07:59:00+0800  
 Reward: 63000 USD  
 
-
-## Ubiquant Market Prediction
-
-Link: https://www.kaggle.com/c/ubiquant-market-prediction  
-Description: Make predictions against future market data  
-Deadline: 2022-07-21T07:59:00+0800  
-Reward: 100000 USD  
-
