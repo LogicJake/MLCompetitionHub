@@ -901,3 +901,6 @@ https://www.datafountain.cn/competitions/572
 https://tianchi.aliyun.com/competition/entrance/532008/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/381
 https://tianchi.aliyun.com/competition/entrance/532005/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/406
+https://tianchi.aliyun.com/competition/entrance/532006/introduction
+https://tianchi.aliyun.com/competition/entrance/532003/introduction
