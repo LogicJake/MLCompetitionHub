@@ -7,7 +7,6 @@
   * [Kaggle](competition/Kaggle.md)
   * [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
   * [天池](competition/天池.md)
-  * [AI研习社](competition/AI研习社.md)
 * **Links**
 * [![Github](https://icongram.jgog.in/devicon/github-original.svg?color=808080&size=16)Github](https://github.com/LogicJake/MLCompetitionHub)
 * [![RSS](https://icongram.jgog.in/simple/rss.svg?colored&size=16)RSS](https://www.logicjake.xyz/MLCompetitionHub/rss.xml)
