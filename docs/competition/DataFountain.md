@@ -2,6 +2,22 @@
 
 
 
+## AI-based High-Precision Positioning <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/575  
+Description: AI-based High-Precision Positioning  
+Deadline: 2022-10-31T23:59:59+0800  
+Reward: ￥500000  
+
+
+## AI-based Joint Channel Estimation and Channel State Information Feedback <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/574  
+Description: AI-based Joint Channel Estimation and Channel State Information Feedback  
+Deadline: 2022-10-31T23:59:59+0800  
+Reward: ￥500000  
+
+
 ## 基于金融财报中的混合表格与文本数据的问答
 
 Link: https://www.datafountain.cn/competitions/573  
