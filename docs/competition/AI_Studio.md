@@ -31,7 +31,7 @@ Reward: ¥60,000
 Link: https://aistudio.baidu.com/aistudio/competition/detail/406  
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
 Deadline: 2022-09-30T08:00:00+0800  
-Reward: 总计1,000,000  
+Reward: 1,000,000  
 
 
 ## PaddlePaddle Hackathon 飞桨黑客马拉松第三期
