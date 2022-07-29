@@ -2,6 +2,14 @@
 
 
 
+## RSNA 2022 Cervical Spine Fracture Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/rsna-2022-cervical-spine-fracture-detection  
+Description: Identify cervical fractures from scans  
+Deadline: 2022-10-28T07:59:00+0800  
+Reward: 30000 USD  
+
+
 ## Google Universal Image Embedding
 
 Link: https://www.kaggle.com/c/google-universal-image-embedding  
