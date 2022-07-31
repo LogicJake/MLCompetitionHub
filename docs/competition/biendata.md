@@ -34,6 +34,14 @@ Deadline: 2022-08-01T08:00:00+0800
 Reward: ￥30,000  
 
 
+## CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph
+
+Link: https://www.biendata.xyz/competition/CACEKG/  
+Description: CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph  
+Deadline: 2022-07-31T08:00:00+0800  
+Reward: ￥15,000  
+
+
 ## CCKS2022: Event Argument Extraction from Open Source Multimodal Military Equipment Data
 
 Link: https://www.biendata.xyz/competition/KYDMTJSTP/  
@@ -42,10 +50,10 @@ Deadline: 2022-07-31T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph
+## CCKS2022: A Dataset of Conditional Question Answering with Multiple-Span Answers
 
-Link: https://www.biendata.xyz/competition/CACEKG/  
-Description: CCKS2022: Construction and Application of Chemical Elemental Knowledge Graph  
+Link: https://www.biendata.xyz/competition/CMQA/  
+Description: CCKS2022: A Dataset of Conditional Question Answering with Multiple-Span Answers  
 Deadline: 2022-07-31T08:00:00+0800  
 Reward: ￥15,000  
 
@@ -56,14 +64,6 @@ Link: https://www.biendata.xyz/competition/ccks2022dqa/
 Description: CCKS 2022：Diagram Question Answering  
 Deadline: 2022-08-11T08:00:00+0800  
 Reward: ¥15,000  
-
-
-## CCKS2022: A Dataset of Conditional Question Answering with Multiple-Span Answers
-
-Link: https://www.biendata.xyz/competition/CMQA/  
-Description: CCKS2022: A Dataset of Conditional Question Answering with Multiple-Span Answers  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: ￥15,000  
 
 
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
