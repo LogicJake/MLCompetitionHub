@@ -26,7 +26,7 @@ Deadline: 2022-09-10T17:00:00+0800
 Reward: ￥10000  
 
 
-## 反洗钱规则计算 <sup style="color:red">[new]<sup>  
+## 反洗钱规则计算
 
 Link: https://www.datafountain.cn/competitions/576  
 Description: 反洗钱规则计算  
@@ -34,7 +34,7 @@ Deadline: 2022-09-20T23:59:59+0800
 Reward: ￥27000  
 
 
-## AI-based High-Precision Positioning <sup style="color:red">[new]<sup>  
+## AI-based High-Precision Positioning
 
 Link: https://www.datafountain.cn/competitions/575  
 Description: AI-based High-Precision Positioning  
@@ -42,7 +42,7 @@ Deadline: 2022-10-31T23:59:59+0800
 Reward: ￥500000  
 
 
-## AI-based Joint Channel Estimation and Channel State Information Feedback <sup style="color:red">[new]<sup>  
+## AI-based Joint Channel Estimation and Channel State Information Feedback
 
 Link: https://www.datafountain.cn/competitions/574  
 Description: AI-based Joint Channel Estimation and Channel State Information Feedback  

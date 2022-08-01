@@ -58,14 +58,6 @@ Deadline: 2022-09-30T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS2022基于知识图谱的优质文章识别
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/255  
-Description: 本任务要求参赛者利用文章的知识图谱进行建模，实现优质文章分类。  
-Deadline: 2022-07-31T08:00:00+0800  
-Reward: ￥20,000  
-
-
 ## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
