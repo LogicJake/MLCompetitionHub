@@ -7,7 +7,7 @@
 Link: https://www.datafountain.cn/competitions/579  
 Description: 中文语义病句识别挑战赛  
 Deadline: 2022-09-10T17:00:00+0800  
-Reward: ￥10000  
+Reward: ￥80000  
 
 
 ## 数学手写公式识别挑战赛 <sup style="color:red">[new]<sup>  
@@ -15,7 +15,7 @@ Reward: ￥10000
 Link: https://www.datafountain.cn/competitions/578  
 Description: 数学手写公式识别挑战赛  
 Deadline: 2022-09-10T17:00:00+0800  
-Reward: ￥60000  
+Reward: ￥80000  
 
 
 ## 应用类型识别挑战赛 <sup style="color:red">[new]<sup>  
@@ -23,7 +23,7 @@ Reward: ￥60000
 Link: https://www.datafountain.cn/competitions/577  
 Description: 应用类型识别挑战赛  
 Deadline: 2022-09-10T17:00:00+0800  
-Reward: ￥10000  
+Reward: ￥80000  
 
 
 ## 反洗钱规则计算

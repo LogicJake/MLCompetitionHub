@@ -18,14 +18,6 @@ Deadline: 2022-08-05T08:00:00+0800
 Reward: ￥20,000  
 
 
-## CCKS2022: Few-Shot Financial Event Extraction
-
-Link: https://www.biendata.xyz/competition/ccks2022_eventext/  
-Description: CCKS2022: Few-Shot Financial Event Extraction  
-Deadline: 2022-08-01T08:00:00+0800  
-Reward: ￥30,000  
-
-
 ## CCKS 2022：Diagram Question Answering
 
 Link: https://www.biendata.xyz/competition/ccks2022dqa/  
