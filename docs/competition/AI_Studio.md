@@ -2,6 +2,38 @@
 
 
 
+## 2022信创“大比武”——新型电力系统人工智能应用大赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/409  
+Description: “新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。  
+Deadline: 2022-09-06T08:00:00+0800  
+Reward: ¥725,000  
+
+
+## 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/421  
+Description: 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。  
+Deadline: 2022-09-06T08:00:00+0800  
+Reward: ¥375,000  
+
+
+## 新型电力系统人工智能应用大赛赛题一：基于强化学习技术的源网荷储实时协同调度
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/423  
+Description: 本赛题旨在探索人工智能和传统潮流计算融合应用，利用强化学习技术实现源网荷储协同控制决策和电网运行方式自动调整。  
+Deadline: 2022-09-06T08:00:00+0800  
+Reward: ¥350,000  
+
+
+## 新型电力系统人工智能应用大赛赛题二：基于迁移学习的电力生产知识图谱多模式信息抽取 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/425  
+Description: 本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及几类“事件”的模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。  
+Deadline: 2022-09-06T08:00:00+0800  
+Reward: ¥350,000  
+
+
 ## PaddlePaddle Hackathon 飞桨黑客马拉松第三期
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
@@ -48,20 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/381
 Description: 一年一度的Astar百度之星程序设计大赛由百度举办，旨在展示学生创新能力和编写程序、分析、解决问题能力，从2005年至今已成功举办至第18届，被视为国内程序员的“黄埔军校”和“造星工场”。  
 Deadline: 2022-11-30T08:00:00+0800  
 Reward: ￥240,000  
-
-
-## CCL2022视频看点抽取
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/304  
-Description: 本任务会给出视频、视频标题、视频字幕，要求参赛选手基于提供的信息提取出视频的所有看点，并给出所有看点的起始时间和看点摘要。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ￥20,000  
-
-
-## 第十七届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/132  
-Description: 第十七届全国大学生智能车竞赛创意组百度智慧交通线上资格赛，报名学校将免费获赠百度EdgeBoard开发板（型号FZ3A)1个及4个25GA闭环电机  
-Deadline: 2022-08-31T08:00:00+0800  
-Reward: 教育部榜单赛事  
 

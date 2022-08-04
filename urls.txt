@@ -914,3 +914,8 @@ https://www.kaggle.com/c/rsna-2022-cervical-spine-fracture-detection
 https://www.kaggle.com/c/dfl-bundesliga-data-shootout
 https://tianchi.aliyun.com/competition/entrance/532010/introduction
 https://tianchi.aliyun.com/competition/entrance/532009/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/409
+https://aistudio.baidu.com/aistudio/competition/detail/421
+https://aistudio.baidu.com/aistudio/competition/detail/423
+https://aistudio.baidu.com/aistudio/competition/detail/425
+https://tianchi.aliyun.com/competition/entrance/532019/introduction

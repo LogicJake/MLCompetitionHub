@@ -22,7 +22,7 @@ Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转
 
 Link: https://www.kesci.com/home/competition/627625ecd1cc5300181b2d93  
 Description: 第二届全国信息融合挑战赛——“杰瑞杯”海面目标检测与跟踪竞赛  
-Deadline: 2022-09-11T23:59:00+0800  
+Deadline: 2022-09-30T00:00:00+0800  
 Reward: ￥76,000  
 
 
