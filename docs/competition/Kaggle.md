@@ -10,7 +10,7 @@ Deadline: 2022-10-14T07:59:00+0800
 Reward: 25000 USD  
 
 
-## RSNA 2022 Cervical Spine Fracture Detection <sup style="color:red">[new]<sup>  
+## RSNA 2022 Cervical Spine Fracture Detection
 
 Link: https://www.kaggle.com/c/rsna-2022-cervical-spine-fracture-detection  
 Description: Identify cervical fractures from scans  
