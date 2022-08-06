@@ -2,7 +2,7 @@
 
 
 
-## DFL - Bundesliga Data Shootout <sup style="color:red">[new]<sup>  
+## DFL - Bundesliga Data Shootout
 
 Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
 Description: Identify plays based upon video footage   

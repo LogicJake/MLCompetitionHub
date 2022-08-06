@@ -919,3 +919,7 @@ https://aistudio.baidu.com/aistudio/competition/detail/421
 https://aistudio.baidu.com/aistudio/competition/detail/423
 https://aistudio.baidu.com/aistudio/competition/detail/425
 https://tianchi.aliyun.com/competition/entrance/532019/introduction
+https://tianchi.aliyun.com/competition/entrance/532014/introduction
+https://tianchi.aliyun.com/competition/entrance/532013/introduction
+https://tianchi.aliyun.com/competition/entrance/532012/introduction
+https://tianchi.aliyun.com/competition/entrance/532011/introduction
