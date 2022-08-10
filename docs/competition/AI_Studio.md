@@ -2,6 +2,14 @@
 
 
 
+## 2022 IKCEST第四届“一带一路”国际大数据竞赛：“一带一路”重点语种-法俄泰阿与中文互译 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/477  
+Description: 重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索  
+Deadline: 2022-11-15T08:00:00+0800  
+Reward: ￥200000  
+
+
 ## 2022信创“大比武”——新型电力系统人工智能应用大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/409  
@@ -26,7 +34,7 @@ Deadline: 2022-09-06T08:00:00+0800
 Reward: ¥350,000  
 
 
-## 新型电力系统人工智能应用大赛赛题二：电力生产知识图谱多模式信息抽取 <sup style="color:red">[new]<sup>  
+## 新型电力系统人工智能应用大赛赛题二：电力生产知识图谱多模式信息抽取
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/425  
 Description: 本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及其语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及的多种“事件”模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。  
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/313
 Description: 针对民航出行领域中信息动态更新频繁、用户出行问答需求旺盛及大量文本数据使用价值较低等问题，探索基于阅读理解技术实现从民航相关网页的文本数据中精准抽取出的问题和答案对。  
 Deadline: 2022-09-30T08:00:00+0800  
 Reward: ¥60,000  
-
-
-## 2022年第18届百度之星程序设计大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/381  
-Description: 一年一度的Astar百度之星程序设计大赛由百度举办，旨在展示学生创新能力和编写程序、分析、解决问题能力，从2005年至今已成功举办至第18届，被视为国内程序员的“黄埔军校”和“造星工场”。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: ￥240,000  
 
