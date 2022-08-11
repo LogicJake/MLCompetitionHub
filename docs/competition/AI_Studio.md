@@ -10,6 +10,30 @@ Deadline: 2022-11-15T08:00:00+0800
 Reward: ￥200000  
 
 
+## “兴智杯”全国人工智能创新应用大赛：深度学习模型可解释性赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/472  
+Description: 深度学习技术大幅提升了计算机视觉、自然语言处理、智能语音等应用任务的感知能力，技术成果已成功应用于多个行业场景。然而，基础核心算法在行业落地中的准确度、鲁棒性、可靠性难以进一步突破，有关应用面临信任危机。因此，加强算法可解释性分析是加快人工智能规模化应用的重要推进路径。本赛事围绕自然语言处理领域的中文相似度计算模型可解释性问题设置赛题。  
+Deadline: 2022-10-31T08:00:00+0800  
+Reward: ¥100,000  
+
+
+## “兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/473  
+Description: 近年来，AI+工业瑕疵检测已成为工业智能领域的重要应用场景，能够进一步提升工业检测效率和精度、降低人力成本。本赛题选取齿轮配件异常检测作为AI+工业瑕疵检测比赛场景，鼓励选手通过机器视觉技术提升齿轮异常检测速度和准确率。  
+Deadline: 2022-10-31T08:00:00+0800  
+Reward: ¥100,000  
+
+
+## 兴智杯 全国人工智能创新应用大赛：百度飞桨论文复现赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/439  
+Description: 为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。  
+Deadline: 2022-09-26T08:00:00+0800  
+Reward: ￥130,000  
+
+
 ## 2022信创“大比武”——新型电力系统人工智能应用大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/409  
@@ -56,28 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/406
 Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
 Deadline: 2022-09-30T08:00:00+0800  
 Reward: ￥1,000,000  
-
-
-## 2022脑机接口算法挑战赛：脑纹识别
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/315  
-Description: EEG-based Biometric Competition. This competition is based on the M3CV database (by Shenzhen University) and is focused on machine learning for EEG-based personal identification and verification.  
-Deadline: 2022-08-25T08:00:00+0800  
-Reward: ¥100,000  
-
-
-## 文本智能校对大赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/404  
-Description: 文本智能校对是自然语言处理的重要应用领域之一。该任务主要是针对文本中出现的错误进行检测和纠正，属于综合性的自然语言处理研究方向。  
-Deadline: 2022-08-31T08:00:00+0800  
-Reward: ¥140,000  
-
-
-## 航旅纵横-领域知识问答测评
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/313  
-Description: 针对民航出行领域中信息动态更新频繁、用户出行问答需求旺盛及大量文本数据使用价值较低等问题，探索基于阅读理解技术实现从民航相关网页的文本数据中精准抽取出的问题和答案对。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ¥60,000  
 
