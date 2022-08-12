@@ -927,3 +927,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/477
 https://aistudio.baidu.com/aistudio/competition/detail/472
 https://aistudio.baidu.com/aistudio/competition/detail/473
 https://aistudio.baidu.com/aistudio/competition/detail/439
+https://www.kaggle.com/c/ai-village-ctf
+https://www.kaggle.com/c/big-data-derby-2022

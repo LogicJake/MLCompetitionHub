@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-11T16:01:08+08:00</updated>
+    <updated>2022-08-12T16:01:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -151,20 +151,6 @@
     </entry>
     
     
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/ccks2022dqa/</id>
-        <title><![CDATA[CCKS 2022：Diagram Question Answering]]></title>
-        
-        <updated>2022-04-11T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/ccks2022dqa/"/>
-        <summary>CCKS 2022：Diagram Question Answering</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/ccks2022dqa/"><![CDATA[<h3>Description</h3>CCKS 2022：Diagram Question Answering<h3>Deadline: 2022-08-11T08:00:00+08:00</h3><h3>Reward: ¥15,000</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
     
     <entry>
         <id>https://www.biendata.xyz/competition/hgb-3/</id>
@@ -549,6 +535,34 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/ai-village-ctf</id>
+        <title><![CDATA[AI Village Capture the Flag @ DEFCON]]></title>
+        
+        <updated>2022-08-12T05:33:45+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/ai-village-ctf"/>
+        <summary>Hack AI! Collect flags by evading, poisoning, stealing, and fooling AI/ML</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/ai-village-ctf"><![CDATA[<h3>Description</h3>Hack AI! Collect flags by evading, poisoning, stealing, and fooling AI/ML<h3>Deadline: 2022-09-12T08:00:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/big-data-derby-2022</id>
+        <title><![CDATA[Big Data Derby 2022]]></title>
+        
+        <updated>2022-08-12T04:57:02+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/big-data-derby-2022"/>
+        <summary>Analyze horse racing data to improve the health of the horse and strategy of competition</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/big-data-derby-2022"><![CDATA[<h3>Description</h3>Analyze horse racing data to improve the health of the horse and strategy of competition<h3>Deadline: 2022-11-11T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/dfl-bundesliga-data-shootout</id>
         <title><![CDATA[DFL - Bundesliga Data Shootout]]></title>
         
@@ -645,20 +659,6 @@
         <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-effectiveness"><![CDATA[<h3>Description</h3>Rate the effectiveness of argumentative writing elements from students grade 6-12
 
 <h3>Deadline: 2022-08-24T07:59:00+08:00</h3><h3>Reward: 55000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/AI4Code</id>
-        <title><![CDATA[Google AI4Code – Understand Code in Python Notebooks]]></title>
-        
-        <updated>2022-05-12T02:46:43+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/AI4Code"/>
-        <summary>Predict the relationship between code and comments</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/AI4Code"><![CDATA[<h3>Description</h3>Predict the relationship between code and comments<h3>Deadline: 2022-08-12T07:59:00+08:00</h3><h3>Reward: 150000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

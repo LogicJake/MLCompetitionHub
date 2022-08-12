@@ -2,14 +2,6 @@
 
 
 
-## CCKS 2022：Diagram Question Answering
-
-Link: https://www.biendata.xyz/competition/ccks2022dqa/  
-Description: CCKS 2022：Diagram Question Answering  
-Deadline: 2022-08-11T08:00:00+0800  
-Reward: ¥15,000  
-
-
 ## Heterogeneous Graph Benchmark - Knowledge-aware Recommendation
 
 Link: https://www.biendata.xyz/competition/hgb-3/  

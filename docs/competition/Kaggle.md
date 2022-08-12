@@ -2,6 +2,22 @@
 
 
 
+## AI Village Capture the Flag @ DEFCON <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/ai-village-ctf  
+Description: Hack AI! Collect flags by evading, poisoning, stealing, and fooling AI/ML  
+Deadline: 2022-09-12T08:00:00+0800  
+Reward: 25000 USD  
+
+
+## Big Data Derby 2022 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/big-data-derby-2022  
+Description: Analyze horse racing data to improve the health of the horse and strategy of competition  
+Deadline: 2022-11-11T07:59:00+0800  
+Reward: 50000 USD  
+
+
 ## DFL - Bundesliga Data Shootout
 
 Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
@@ -58,14 +74,6 @@ Description: Rate the effectiveness of argumentative writing elements from stude
   
 Deadline: 2022-08-24T07:59:00+0800  
 Reward: 55000 USD  
-
-
-## Google AI4Code – Understand Code in Python Notebooks
-
-Link: https://www.kaggle.com/c/AI4Code  
-Description: Predict the relationship between code and comments  
-Deadline: 2022-08-12T07:59:00+0800  
-Reward: 150000 USD  
 
 
 ## JPX Tokyo Stock Exchange Prediction
