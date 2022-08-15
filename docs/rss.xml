@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-14T16:00:51+08:00</updated>
+    <updated>2022-08-15T16:01:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -774,7 +774,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532005/introduction"/>
         <summary>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-09-05T10:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-09-06T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -872,7 +872,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532008/introduction"/>
         <summary>联邦学习（Federated Learning）是一种新的机器学习范式，允许多个参与者在不直接分享各自数据的前提下共同训练机器学习模型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532008/introduction"><![CDATA[<h3>Description</h3>联邦学习（Federated Learning）是一种新的机器学习范式，允许多个参与者在不直接分享各自数据的前提下共同训练机器学习模型。<h3>Deadline: 2022-09-12T07:00:00+08:00</h3><h3>Reward: $13000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532008/introduction"><![CDATA[<h3>Description</h3>联邦学习（Federated Learning）是一种新的机器学习范式，允许多个参与者在不直接分享各自数据的前提下共同训练机器学习模型。<h3>Deadline: 2022-09-21T09:30:00+08:00</h3><h3>Reward: $13000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
