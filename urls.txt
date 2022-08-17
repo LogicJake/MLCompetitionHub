@@ -929,3 +929,8 @@ https://aistudio.baidu.com/aistudio/competition/detail/473
 https://aistudio.baidu.com/aistudio/competition/detail/439
 https://www.kaggle.com/c/ai-village-ctf
 https://www.kaggle.com/c/big-data-derby-2022
+https://aistudio.baidu.com/aistudio/competition/detail/471
+https://www.kaggle.com/c/open-problems-multimodal
+https://tianchi.aliyun.com/competition/entrance/532022/introduction
+https://tianchi.aliyun.com/competition/entrance/532021/introduction
+https://tianchi.aliyun.com/competition/entrance/532020/introduction

@@ -2,6 +2,14 @@
 
 
 
+## Open Problems - Multimodal Single-Cell Integration <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/open-problems-multimodal  
+Description: Predict how DNA, RNA & protein measurements co-vary in single cells  
+Deadline: 2022-11-16T07:59:00+0800  
+Reward: 25000 USD  
+
+
 ## AI Village Capture the Flag @ DEFCON <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/ai-village-ctf  
