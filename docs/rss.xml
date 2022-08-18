@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-17T16:01:03+08:00</updated>
+    <updated>2022-08-18T16:01:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -67,6 +67,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/477</id>
+        <title><![CDATA[2022 IKCEST第四届“一带一路”国际大数据竞赛：“一带一路”重点语种-法俄泰阿与中文互译]]></title>
+        
+        <updated>2022-08-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/477"/>
+        <summary>重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/477"><![CDATA[<h3>Description</h3>重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索<h3>Deadline: 2022-11-15T08:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/409</id>
         <title><![CDATA[2022信创“大比武”——新型电力系统人工智能应用大赛]]></title>
         
@@ -123,28 +137,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/356</id>
-        <title><![CDATA[PaddlePaddle Hackathon 飞桨黑客马拉松第三期]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/327</id>
+        <title><![CDATA[百度网盘AI大赛——图像处理挑战赛：文档图像方向识别]]></title>
         
-        <updated>2022-07-04T08:00:00+08:00</updated>
+        <updated>2022-06-27T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/356"/>
-        <summary>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/356"><![CDATA[<h3>Description</h3>2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/406</id>
-        <title><![CDATA[飞桨论文复现挑战赛（第七期）]]></title>
-        
-        <updated>2022-07-21T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/406"/>
-        <summary>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/406"><![CDATA[<h3>Description</h3>要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ￥1,000,000</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/327"/>
+        <summary>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/327"><![CDATA[<h3>Description</h3>由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。<h3>Deadline: 2022-09-15T08:00:00+08:00</h3><h3>Reward: ¥50,000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -838,7 +838,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛3:支撑分布式储能系统优化部署的新能源产量预测(赛季 1)]]></title>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 1)]]></title>
         
         <updated>2022-08-15T10:00:00+08:00</updated>
         
@@ -852,7 +852,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛2:不完整电压数据的电力系统稳定性评估(赛季 1)]]></title>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 1)]]></title>
         
         <updated>2022-08-15T10:00:00+08:00</updated>
         
@@ -866,7 +866,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532020/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛1:高频电力负荷数据超分辨率感知方案(赛季 1)]]></title>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道1:高频电力负荷数据超分辨率感知方案(赛季 1)]]></title>
         
         <updated>2022-08-15T10:00:00+08:00</updated>
         

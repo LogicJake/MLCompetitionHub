@@ -34,6 +34,14 @@ Deadline: 2022-09-26T08:00:00+0800
 Reward: ￥130,000  
 
 
+## 2022 IKCEST第四届“一带一路”国际大数据竞赛：“一带一路”重点语种-法俄泰阿与中文互译
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/477  
+Description: 重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索  
+Deadline: 2022-11-15T08:00:00+0800  
+Reward: ￥200000  
+
+
 ## 2022信创“大比武”——新型电力系统人工智能应用大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/409  
@@ -66,18 +74,10 @@ Deadline: 2022-09-06T08:00:00+0800
 Reward: ¥350,000  
 
 
-## PaddlePaddle Hackathon 飞桨黑客马拉松第三期
+## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/356  
-Description: 2022 PaddlePaddle Hackathon 飞桨黑客马拉松第三期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ￥500,000  
-
-
-## 飞桨论文复现挑战赛（第七期）
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/406  
-Description: 要求选手在指定时间内使用飞桨完成论文复现，考察复现模型的精度。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ￥1,000,000  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/327  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。  
+Deadline: 2022-09-15T08:00:00+0800  
+Reward: ¥50,000+特别礼包  
 
