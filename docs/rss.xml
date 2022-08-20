@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-19T16:00:54+08:00</updated>
+    <updated>2022-08-20T16:02:44+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -335,6 +335,62 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/596</id>
+        <title><![CDATA[Web攻击检测与分类识别]]></title>
+        
+        <updated>2022-08-16T10:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/596"/>
+        <summary>Web攻击检测与分类识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/596"><![CDATA[<h3>Description</h3>Web攻击检测与分类识别<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥60000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/595</id>
+        <title><![CDATA[大数据平台安全事件检测与分类识别]]></title>
+        
+        <updated>2022-08-16T10:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/595"/>
+        <summary>大数据平台安全事件检测与分类识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/595"><![CDATA[<h3>Description</h3>大数据平台安全事件检测与分类识别<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/594</id>
+        <title><![CDATA[基于人工智能的漏洞数据分类]]></title>
+        
+        <updated>2022-08-16T10:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/594"/>
+        <summary>基于人工智能的漏洞数据分类</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/594"><![CDATA[<h3>Description</h3>基于人工智能的漏洞数据分类<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/593</id>
+        <title><![CDATA[Linux跨平台二进制函数识别]]></title>
+        
+        <updated>2022-08-16T10:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/593"/>
+        <summary>Linux跨平台二进制函数识别</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/593"><![CDATA[<h3>Description</h3>Linux跨平台二进制函数识别<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/579</id>
@@ -775,148 +831,6 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/6295a5312b840ccfda42f954"><![CDATA[<h3>Description</h3>第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）<h3>Deadline: 2022-08-31T00:00:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532005/introduction</id>
-        <title><![CDATA[英特尔“创新大师杯”全球AI极客挑战赛——DeepRec CTR模型性能优化(赛季 1)]]></title>
-        
-        <updated>2022-07-18T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532005/introduction"/>
-        <summary>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-09-06T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532003/introduction</id>
-        <title><![CDATA[Beyond Stream Processing —— 2022第四届实时计算Flink挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-07-22T09:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532003/introduction"/>
-        <summary>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532003/introduction"><![CDATA[<h3>Description</h3>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。<h3>Deadline: 2022-11-05T23:55:00+08:00</h3><h3>Reward: ￥490000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531996/introduction</id>
-        <title><![CDATA[2022年全球“未来汽车”智能场景创新挑战赛——智能算法赛(赛季 1)]]></title>
-        
-        <updated>2022-06-23T14:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531996/introduction"/>
-        <summary>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531996/introduction"><![CDATA[<h3>Description</h3>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。<h3>Deadline: 2022-09-12T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/531995/introduction</id>
-        <title><![CDATA[2022年全球“未来汽车”智能场景创新挑战赛——创新应用赛(赛季 1)]]></title>
-        
-        <updated>2022-06-23T15:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/531995/introduction"/>
-        <summary>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531995/introduction"><![CDATA[<h3>Description</h3>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。<h3>Deadline: 2022-09-12T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 1)]]></title>
-        
-        <updated>2022-08-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-09-30T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 1)]]></title>
-        
-        <updated>2022-08-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-09-30T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532020/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道1:高频电力负荷数据超分辨率感知方案(赛季 1)]]></title>
-        
-        <updated>2022-08-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532020/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532020/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-09-30T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532019/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松九章云极赛道-因果学习和决策优化挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-08-02T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532019/introduction"/>
-        <summary>WAIC 黑客松是世界人工智能大会唯一一场黑客松赛事，赛事已成功举办三届，吸引了国内外数千支队伍和个人参赛。2022年 WAIC 黑客松以「了不起的 AI 开发者」为主题，设立多条赛道。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532019/introduction"><![CDATA[<h3>Description</h3>WAIC 黑客松是世界人工智能大会唯一一场黑客松赛事，赛事已成功举办三届，吸引了国内外数千支队伍和个人参赛。2022年 WAIC 黑客松以「了不起的 AI 开发者」为主题，设立多条赛道。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532010/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-07-20T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532010/introduction"/>
-        <summary>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532010/introduction"><![CDATA[<h3>Description</h3>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532009/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松蚂蚁财富赛道：AntSQL大规模金融语义解析中文Text-to-SQL挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-07-29T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532009/introduction"/>
-        <summary>AntSQL大规模金融语义解析中文Text-to-SQL挑战赛由蚂蚁财富命题，该赛道支小宝中文NL2SQL数据集采用金融领域的表格作为数据源，涵盖了基金的产品和属性，提供在此基础上的标注的Query-SQL对，希望选手们能在此基础上训练深度学习模型，将自然语言准确的转换为可查询的SQL语句。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532009/introduction"><![CDATA[<h3>Description</h3>AntSQL大规模金融语义解析中文Text-to-SQL挑战赛由蚂蚁财富命题，该赛道支小宝中文NL2SQL数据集采用金融领域的表格作为数据源，涵盖了基金的产品和属性，提供在此基础上的标注的Query-SQL对，希望选手们能在此基础上训练深度学习模型，将自然语言准确的转换为可查询的SQL语句。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     

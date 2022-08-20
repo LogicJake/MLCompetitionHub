@@ -934,3 +934,7 @@ https://www.kaggle.com/c/open-problems-multimodal
 https://tianchi.aliyun.com/competition/entrance/532022/introduction
 https://tianchi.aliyun.com/competition/entrance/532021/introduction
 https://tianchi.aliyun.com/competition/entrance/532020/introduction
+https://www.datafountain.cn/competitions/596
+https://www.datafountain.cn/competitions/595
+https://www.datafountain.cn/competitions/594
+https://www.datafountain.cn/competitions/593
