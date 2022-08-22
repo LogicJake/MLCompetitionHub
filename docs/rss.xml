@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-21T16:00:55+08:00</updated>
+    <updated>2022-08-22T16:01:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -795,6 +795,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531976/introduction</id>
+        <title><![CDATA[ICDM 2022 : 大规模电商图上的风险商品检测(赛季 2)]]></title>
+        
+        <updated>2022-08-22T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531976/introduction"/>
+        <summary>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531976/introduction"><![CDATA[<h3>Description</h3>举办大规模电商图上的风险商品检测挑战赛，挑战者需要利用真实场景中大规模的、异构的、存在噪声和缺失的图数据，以及极不均衡的样本，进行风险商品检测。<h3>Deadline: 2022-08-29T15:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532005/introduction</id>
         <title><![CDATA[英特尔“创新大师杯”全球AI极客挑战赛——DeepRec CTR模型性能优化(赛季 1)]]></title>
         
@@ -915,20 +929,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532010/introduction"/>
         <summary>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532010/introduction"><![CDATA[<h3>Description</h3>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532009/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松蚂蚁财富赛道：AntSQL大规模金融语义解析中文Text-to-SQL挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-07-29T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532009/introduction"/>
-        <summary>AntSQL大规模金融语义解析中文Text-to-SQL挑战赛由蚂蚁财富命题，该赛道支小宝中文NL2SQL数据集采用金融领域的表格作为数据源，涵盖了基金的产品和属性，提供在此基础上的标注的Query-SQL对，希望选手们能在此基础上训练深度学习模型，将自然语言准确的转换为可查询的SQL语句。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532009/introduction"><![CDATA[<h3>Description</h3>AntSQL大规模金融语义解析中文Text-to-SQL挑战赛由蚂蚁财富命题，该赛道支小宝中文NL2SQL数据集采用金融领域的表格作为数据源，涵盖了基金的产品和属性，提供在此基础上的标注的Query-SQL对，希望选手们能在此基础上训练深度学习模型，将自然语言准确的转换为可查询的SQL语句。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
