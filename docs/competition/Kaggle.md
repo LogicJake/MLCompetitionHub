@@ -2,7 +2,7 @@
 
 
 
-## Open Problems - Multimodal Single-Cell Integration <sup style="color:red">[new]<sup>  
+## Open Problems - Multimodal Single-Cell Integration
 
 Link: https://www.kaggle.com/c/open-problems-multimodal  
 Description: Predict how DNA, RNA & protein measurements co-vary in single cells  

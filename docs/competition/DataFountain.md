@@ -2,7 +2,7 @@
 
 
 
-## Web攻击检测与分类识别 <sup style="color:red">[new]<sup>  
+## Web攻击检测与分类识别
 
 Link: https://www.datafountain.cn/competitions/596  
 Description: Web攻击检测与分类识别  
@@ -10,7 +10,7 @@ Deadline: 2022-11-30T23:59:59+0800
 Reward: ￥60000  
 
 
-## 大数据平台安全事件检测与分类识别 <sup style="color:red">[new]<sup>  
+## 大数据平台安全事件检测与分类识别
 
 Link: https://www.datafountain.cn/competitions/595  
 Description: 大数据平台安全事件检测与分类识别  
@@ -18,7 +18,7 @@ Deadline: 2022-11-30T23:59:59+0800
 Reward: ￥80000  
 
 
-## 基于人工智能的漏洞数据分类 <sup style="color:red">[new]<sup>  
+## 基于人工智能的漏洞数据分类
 
 Link: https://www.datafountain.cn/competitions/594  
 Description: 基于人工智能的漏洞数据分类  
@@ -26,7 +26,7 @@ Deadline: 2022-11-30T23:59:59+0800
 Reward: ￥80000  
 
 
-## Linux跨平台二进制函数识别 <sup style="color:red">[new]<sup>  
+## Linux跨平台二进制函数识别
 
 Link: https://www.datafountain.cn/competitions/593  
 Description: Linux跨平台二进制函数识别  

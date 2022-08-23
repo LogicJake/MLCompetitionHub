@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-22T16:01:00+08:00</updated>
+    <updated>2022-08-23T16:01:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -11,14 +11,14 @@
     
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/471</id>
-        <title><![CDATA[“兴智杯”全国人工智能创新应用大赛：基于大规模预训练模型的应用创新赛]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/473</id>
+        <title><![CDATA[“兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛]]></title>
         
         <updated>2022-08-08T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/471"/>
-        <summary>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/471"><![CDATA[<h3>Description</h3>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。<h3>Deadline: 2022-10-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/473"/>
+        <summary>近年来，AI+工业瑕疵检测已成为工业智能领域的重要应用场景，能够进一步提升工业检测效率和精度、降低人力成本。本赛题选取齿轮配件异常检测作为AI+工业瑕疵检测比赛场景，鼓励选手通过机器视觉技术提升齿轮异常检测速度和准确率。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/473"><![CDATA[<h3>Description</h3>近年来，AI+工业瑕疵检测已成为工业智能领域的重要应用场景，能够进一步提升工业检测效率和精度、降低人力成本。本赛题选取齿轮配件异常检测作为AI+工业瑕疵检测比赛场景，鼓励选手通过机器视觉技术提升齿轮异常检测速度和准确率。<h3>Deadline: 2022-10-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -39,14 +39,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/473</id>
-        <title><![CDATA[“兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/471</id>
+        <title><![CDATA[“兴智杯”全国人工智能创新应用大赛：基于大规模预训练模型的应用创新赛]]></title>
         
         <updated>2022-08-08T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/473"/>
-        <summary>近年来，AI+工业瑕疵检测已成为工业智能领域的重要应用场景，能够进一步提升工业检测效率和精度、降低人力成本。本赛题选取齿轮配件异常检测作为AI+工业瑕疵检测比赛场景，鼓励选手通过机器视觉技术提升齿轮异常检测速度和准确率。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/473"><![CDATA[<h3>Description</h3>近年来，AI+工业瑕疵检测已成为工业智能领域的重要应用场景，能够进一步提升工业检测效率和精度、降低人力成本。本赛题选取齿轮配件异常检测作为AI+工业瑕疵检测比赛场景，鼓励选手通过机器视觉技术提升齿轮异常检测速度和准确率。<h3>Deadline: 2022-10-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/471"/>
+        <summary>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/471"><![CDATA[<h3>Description</h3>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。<h3>Deadline: 2022-10-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -865,6 +865,34 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531980/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道2：分布式NewSQL性能挑战(赛季 2)]]></title>
+        
+        <updated>2022-08-23T09:30:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531980/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531980/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-10-14T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531979/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道1：云原生共享内存数据库性能优化(赛季 2)]]></title>
+        
+        <updated>2022-08-23T09:30:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531979/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531979/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-10-14T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
         <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 1)]]></title>
         
@@ -901,34 +929,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532020/introduction"/>
         <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532020/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-09-30T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532019/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松九章云极赛道-因果学习和决策优化挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-08-02T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532019/introduction"/>
-        <summary>WAIC 黑客松是世界人工智能大会唯一一场黑客松赛事，赛事已成功举办三届，吸引了国内外数千支队伍和个人参赛。2022年 WAIC 黑客松以「了不起的 AI 开发者」为主题，设立多条赛道。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532019/introduction"><![CDATA[<h3>Description</h3>WAIC 黑客松是世界人工智能大会唯一一场黑客松赛事，赛事已成功举办三届，吸引了国内外数千支队伍和个人参赛。2022年 WAIC 黑客松以「了不起的 AI 开发者」为主题，设立多条赛道。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532010/introduction</id>
-        <title><![CDATA[2022 WAIC 黑客松蚂蚁财富赛道：行情波动下的金融问答挑战赛(赛季 1)]]></title>
-        
-        <updated>2022-07-20T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532010/introduction"/>
-        <summary>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532010/introduction"><![CDATA[<h3>Description</h3>该赛道在财富社区的问答数据基础上，针对每个用户的问题，希望选手们能够利用深度学习、自然语言处理等技术，构建金融问答系统，利用用户输入的问题本身和相关的问答、文章等输入信息，生成出流畅、准确、合理的针对该问题的回答。<h3>Deadline: 2022-08-25T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
