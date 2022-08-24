@@ -938,3 +938,4 @@ https://www.datafountain.cn/competitions/596
 https://www.datafountain.cn/competitions/595
 https://www.datafountain.cn/competitions/594
 https://www.datafountain.cn/competitions/593
+https://aistudio.baidu.com/aistudio/competition/detail/479

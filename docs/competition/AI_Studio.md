@@ -74,10 +74,10 @@ Deadline: 2022-09-06T08:00:00+0800
 Reward: ¥350,000  
 
 
-## 百度网盘AI大赛——图像处理挑战赛：文档图像方向识别
+## 百度网盘AI大赛——图像处理挑战赛:文档图片去遮挡 <sup style="color:red">[new]<sup>  
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/327  
-Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们实现图像的文档图像方向识别。  
-Deadline: 2022-09-15T08:00:00+0800  
-Reward: ¥50,000+特别礼包  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/479  
+Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们去除文档图像中的遮挡元素。  
+Deadline: 2022-10-21T08:00:00+0800  
+Reward: ¥10,000+特别礼包  
 

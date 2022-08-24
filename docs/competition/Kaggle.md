@@ -74,16 +74,6 @@ Deadline: 2022-08-25T07:59:00+0800
 Reward: 100000 USD  
 
 
-## Feedback Prize - Predicting Effective Arguments
-
-Link: https://www.kaggle.com/c/feedback-prize-effectiveness  
-Description: Rate the effectiveness of argumentative writing elements from students grade 6-12
-
-  
-Deadline: 2022-08-24T07:59:00+0800  
-Reward: 55000 USD  
-
-
 ## Google AI4Code – Understand Code in Python Notebooks
 
 Link: https://www.kaggle.com/c/AI4Code  
