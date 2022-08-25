@@ -66,14 +66,6 @@ Deadline: 2022-09-23T07:59:00+0800
 Reward: 60000 USD  
 
 
-## American Express - Default Prediction
-
-Link: https://www.kaggle.com/c/amex-default-prediction  
-Description: Predict if a customer will default in the future  
-Deadline: 2022-08-25T07:59:00+0800  
-Reward: 100000 USD  
-
-
 ## Google AI4Code – Understand Code in Python Notebooks
 
 Link: https://www.kaggle.com/c/AI4Code  
