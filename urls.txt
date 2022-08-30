@@ -950,3 +950,5 @@ https://www.datafountain.cn/competitions/583
 https://www.datafountain.cn/competitions/582
 https://www.datafountain.cn/competitions/581
 https://www.datafountain.cn/competitions/580
+https://aistudio.baidu.com/aistudio/competition/detail/455
+https://aistudio.baidu.com/aistudio/competition/detail/394

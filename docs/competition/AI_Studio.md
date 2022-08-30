@@ -2,6 +2,22 @@
 
 
 
+## 2022 CCF BDCI 基于文心CV大模型的智慧城市视觉多任务识别 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/455  
+Description: 中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。  
+Deadline: 2022-12-31T08:00:00+0800  
+Reward: ￥50,000  
+
+
+## 2022 CCF BDCI 基于文心NLP大模型的阅读理解可解释评测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/394  
+Description: 中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。  
+Deadline: 2022-12-31T08:00:00+0800  
+Reward: ￥50,000  
+
+
 ## “兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/473  
@@ -64,20 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/425
 Description: 本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及其语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及的多种“事件”模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。  
 Deadline: 2022-09-06T08:00:00+0800  
 Reward: ¥350,000  
-
-
-## 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/421  
-Description: 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。  
-Deadline: 2022-09-06T08:00:00+0800  
-Reward: ¥375,000  
-
-
-## 百度网盘AI大赛——图像处理挑战赛:文档图片去遮挡 <sup style="color:red">[new]<sup>  
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/479  
-Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，通过模型算法帮助人们去除文档图像中的遮挡元素。  
-Deadline: 2022-10-21T08:00:00+0800  
-Reward: ¥10,000+特别礼包  
 
