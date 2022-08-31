@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-08-30T16:01:08+08:00</updated>
+    <updated>2022-08-31T16:02:40+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/394"/>
         <summary>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/394"><![CDATA[<h3>Description</h3>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。<h3>Deadline: 2022-12-31T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/397</id>
+        <title><![CDATA[2022 CCF BDCI 模心智创-文心大模型智能创意赛]]></title>
+        
+        <updated>2022-08-29T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/397"/>
+        <summary>大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/397"><![CDATA[<h3>Description</h3>大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。<h3>Deadline: 2022-12-23T08:00:00+08:00</h3><h3>Reward: 万元奖品+CCF证书</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/423"/>
         <summary>本赛题旨在探索人工智能和传统潮流计算融合应用，利用强化学习技术实现源网荷储协同控制决策和电网运行方式自动调整。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/423"><![CDATA[<h3>Description</h3>本赛题旨在探索人工智能和传统潮流计算融合应用，利用强化学习技术实现源网荷储协同控制决策和电网运行方式自动调整。<h3>Deadline: 2022-09-06T08:00:00+08:00</h3><h3>Reward: ¥350,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/425</id>
-        <title><![CDATA[新型电力系统人工智能应用大赛赛题二：电力生产知识图谱多模式信息抽取]]></title>
-        
-        <updated>2022-08-03T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/425"/>
-        <summary>本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及其语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及的多种“事件”模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/425"><![CDATA[<h3>Description</h3>本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及其语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及的多种“事件”模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。<h3>Deadline: 2022-09-06T08:00:00+08:00</h3><h3>Reward: ¥350,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -436,13 +436,13 @@
     
     <entry>
         <id>https://www.datafountain.cn/competitions/587</id>
-        <title><![CDATA[SQL语句内存使用量预测系统]]></title>
+        <title><![CDATA[基于openLooKeng SQL语句内存使用量预测系统]]></title>
         
         <updated>2022-08-15T00:00:00+08:00</updated>
         
         <link href="https://www.datafountain.cn/competitions/587"/>
-        <summary>SQL语句内存使用量预测系统</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/587"><![CDATA[<h3>Description</h3>SQL语句内存使用量预测系统<h3>Deadline: 2022-12-31T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
+        <summary>基于openLooKeng SQL语句内存使用量预测系统</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/587"><![CDATA[<h3>Description</h3>基于openLooKeng SQL语句内存使用量预测系统<h3>Deadline: 2022-12-31T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
@@ -703,6 +703,20 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/feedback-prize-english-language-learning</id>
+        <title><![CDATA[Feedback Prize - English Language Learning]]></title>
+        
+        <updated>2022-08-31T01:23:07+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/feedback-prize-english-language-learning"/>
+        <summary>Evaluating language knowledge of ELL students from grades 8-12</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/feedback-prize-english-language-learning"><![CDATA[<h3>Description</h3>Evaluating language knowledge of ELL students from grades 8-12<h3>Deadline: 2022-11-30T07:59:00+08:00</h3><h3>Reward: 55000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/open-problems-multimodal</id>
         <title><![CDATA[Open Problems - Multimodal Single-Cell Integration]]></title>
         
@@ -881,34 +895,6 @@
         <link href="https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e"/>
         <summary>2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建</summary>
         <content type="text/html" src="https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e"><![CDATA[<h3>Description</h3>2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建<h3>Deadline: 2022-09-14T12:00:00+08:00</h3><h3>Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转化</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d</id>
-        <title><![CDATA[第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）]]></title>
-        
-        <updated>2022-06-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d"/>
-        <summary>第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6295a8ac2b840ccfda43085d"><![CDATA[<h3>Description</h3>第十一届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十一届全国海洋航行器设计与制作大赛）<h3>Deadline: 2022-08-31T00:00:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6295a5312b840ccfda42f954</id>
-        <title><![CDATA[第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）]]></title>
-        
-        <updated>2022-06-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6295a5312b840ccfda42f954"/>
-        <summary>第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6295a5312b840ccfda42f954"><![CDATA[<h3>Description</h3>第十一届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十一届全国海洋航行器设计与制作大赛）<h3>Deadline: 2022-08-31T00:00:00+08:00</h3><h3>Reward: 获奖证书</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>

@@ -58,10 +58,10 @@ Deadline: 2022-12-31T23:59:59+0800
 Reward: ￥50000  
 
 
-## SQL语句内存使用量预测系统
+## 基于openLooKeng SQL语句内存使用量预测系统
 
 Link: https://www.datafountain.cn/competitions/587  
-Description: SQL语句内存使用量预测系统  
+Description: 基于openLooKeng SQL语句内存使用量预测系统  
 Deadline: 2022-12-31T23:59:59+0800  
 Reward: ￥50000  
 

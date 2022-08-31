@@ -18,6 +18,14 @@ Deadline: 2022-12-31T08:00:00+0800
 Reward: ￥50,000  
 
 
+## 2022 CCF BDCI 模心智创-文心大模型智能创意赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/397  
+Description: 大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。  
+Deadline: 2022-12-23T08:00:00+0800  
+Reward: 万元奖品+CCF证书  
+
+
 ## “兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/473  
@@ -70,14 +78,6 @@ Reward: ¥725,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/423  
 Description: 本赛题旨在探索人工智能和传统潮流计算融合应用，利用强化学习技术实现源网荷储协同控制决策和电网运行方式自动调整。  
-Deadline: 2022-09-06T08:00:00+0800  
-Reward: ¥350,000  
-
-
-## 新型电力系统人工智能应用大赛赛题二：电力生产知识图谱多模式信息抽取
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/425  
-Description: 本赛题探索自然语言处理领域信息抽取技术在电力生产文本上的应用，重点针对由多个实体及其语义角色构成的“事件”类型信息抽取，并考察算法对不同领域文本的迁移能力。主办方提供电力生产涉及的多种“事件”模式定义、原始文本和抽取结果，其中一种模式提供充足原始文本和抽取结果，其他模式仅有少量文本和标注。选手需要基于给定内容训练并提交人工智能模型，测试阶段使用相同模式的新文本计算抽取结果准确性。  
 Deadline: 2022-09-06T08:00:00+0800  
 Reward: ¥350,000  
 

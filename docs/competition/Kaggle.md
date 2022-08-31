@@ -2,6 +2,14 @@
 
 
 
+## Feedback Prize - English Language Learning <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/feedback-prize-english-language-learning  
+Description: Evaluating language knowledge of ELL students from grades 8-12  
+Deadline: 2022-11-30T07:59:00+0800  
+Reward: 55000 USD  
+
+
 ## Open Problems - Multimodal Single-Cell Integration
 
 Link: https://www.kaggle.com/c/open-problems-multimodal  
