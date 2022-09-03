@@ -158,7 +158,7 @@ Reward: ￥80000
 
 Link: https://www.datafountain.cn/competitions/576  
 Description: 反洗钱规则计算  
-Deadline: 2022-09-20T23:59:59+0800  
+Deadline: 2022-10-20T23:59:59+0800  
 Reward: ￥27000  
 
 
