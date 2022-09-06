@@ -74,10 +74,10 @@ Deadline: 2022-09-06T08:00:00+0800
 Reward: ¥725,000  
 
 
-## 新型电力系统人工智能应用大赛赛题一：基于强化学习技术的源网荷储实时协同调度
+## 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/423  
-Description: 本赛题旨在探索人工智能和传统潮流计算融合应用，利用强化学习技术实现源网荷储协同控制决策和电网运行方式自动调整。  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/421  
+Description: 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。  
 Deadline: 2022-09-06T08:00:00+0800  
-Reward: ¥350,000  
+Reward: ¥375,000  
 

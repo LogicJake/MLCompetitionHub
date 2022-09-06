@@ -193,27 +193,3 @@ Description: 通用事件属性抽取
 Deadline: 2022-09-18T23:59:59+0800  
 Reward: ￥40000  
 
-
-## 基于雷达数据的航迹实时关联与轨迹融合任务
-
-Link: https://www.datafountain.cn/competitions/568  
-Description: 基于雷达数据的航迹实时关联与轨迹融合任务  
-Deadline: 2022-09-05T23:59:59+0800  
-Reward: 24万研究经费资助  
-
-
-## 新闻文本数据的语义检索与智能问答
-
-Link: https://www.datafountain.cn/competitions/567  
-Description: 新闻文本数据的语义检索与智能问答  
-Deadline: 2022-09-05T23:59:59+0800  
-Reward: 24万研究经费资助  
-
-
-## 高鲁棒性要求下的领域事件检测任务
-
-Link: https://www.datafountain.cn/competitions/561  
-Description: 高鲁棒性要求下的领域事件检测任务  
-Deadline: 2022-09-05T23:59:59+0800  
-Reward: 24万研究经费资助  
-
