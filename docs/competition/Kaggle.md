@@ -2,7 +2,7 @@
 
 
 
-## Feedback Prize - English Language Learning <sup style="color:red">[new]<sup>  
+## Feedback Prize - English Language Learning
 
 Link: https://www.kaggle.com/c/feedback-prize-english-language-learning  
 Description: Evaluating language knowledge of ELL students from grades 8-12  
