@@ -955,3 +955,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/394
 https://aistudio.baidu.com/aistudio/competition/detail/397
 https://www.kaggle.com/c/feedback-prize-english-language-learning
 https://www.datafountain.cn/competitions/597
+https://www.datafountain.cn/competitions/603
+https://www.datafountain.cn/competitions/602

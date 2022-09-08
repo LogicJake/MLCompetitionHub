@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-09-07T16:12:13+08:00</updated>
+    <updated>2022-09-08T16:01:40+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -335,6 +335,34 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/603</id>
+        <title><![CDATA[居民小区二次供水需求预测]]></title>
+        
+        <updated>2022-09-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/603"/>
+        <summary>居民小区二次供水需求预测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/603"><![CDATA[<h3>Description</h3>居民小区二次供水需求预测<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥51000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/602</id>
+        <title><![CDATA[水质净化厂工艺控制-曝气量预测]]></title>
+        
+        <updated>2022-09-01T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/602"/>
+        <summary>水质净化厂工艺控制-曝气量预测</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/602"><![CDATA[<h3>Description</h3>水质净化厂工艺控制-曝气量预测<h3>Deadline: 2022-11-30T23:59:59+08:00</h3><h3>Reward: ￥51000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/597</id>
@@ -896,7 +924,7 @@
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532003/introduction"/>
         <summary>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532003/introduction"><![CDATA[<h3>Description</h3>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。<h3>Deadline: 2022-11-07T18:00:00+08:00</h3><h3>Reward: ￥490000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532003/introduction"><![CDATA[<h3>Description</h3>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。<h3>Deadline: 2022-11-01T18:00:00+08:00</h3><h3>Reward: ￥490000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

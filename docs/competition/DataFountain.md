@@ -2,7 +2,23 @@
 
 
 
-## “嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法 <sup style="color:red">[new]<sup>  
+## 居民小区二次供水需求预测
+
+Link: https://www.datafountain.cn/competitions/603  
+Description: 居民小区二次供水需求预测  
+Deadline: 2022-11-30T23:59:59+0800  
+Reward: ￥51000  
+
+
+## 水质净化厂工艺控制-曝气量预测
+
+Link: https://www.datafountain.cn/competitions/602  
+Description: 水质净化厂工艺控制-曝气量预测  
+Deadline: 2022-11-30T23:59:59+0800  
+Reward: ￥51000  
+
+
+## “嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法
 
 Link: https://www.datafountain.cn/competitions/597  
 Description: “嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法  
