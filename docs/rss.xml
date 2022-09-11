@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-09-10T16:00:53+08:00</updated>
+    <updated>2022-09-11T16:01:13+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -583,48 +583,6 @@
         <link href="https://www.datafountain.cn/competitions/580"/>
         <summary>系统访问风险识别</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/580"><![CDATA[<h3>Description</h3>系统访问风险识别<h3>Deadline: 2022-12-31T23:59:59+08:00</h3><h3>Reward: ￥50000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/579</id>
-        <title><![CDATA[中文语义病句识别挑战赛]]></title>
-        
-        <updated>2022-07-28T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/579"/>
-        <summary>中文语义病句识别挑战赛</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/579"><![CDATA[<h3>Description</h3>中文语义病句识别挑战赛<h3>Deadline: 2022-09-10T17:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/578</id>
-        <title><![CDATA[数学手写公式识别挑战赛]]></title>
-        
-        <updated>2022-07-28T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/578"/>
-        <summary>数学手写公式识别挑战赛</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/578"><![CDATA[<h3>Description</h3>数学手写公式识别挑战赛<h3>Deadline: 2022-09-10T17:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/577</id>
-        <title><![CDATA[应用类型识别挑战赛]]></title>
-        
-        <updated>2022-07-28T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/577"/>
-        <summary>应用类型识别挑战赛</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/577"><![CDATA[<h3>Description</h3>应用类型识别挑战赛<h3>Deadline: 2022-09-10T17:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
