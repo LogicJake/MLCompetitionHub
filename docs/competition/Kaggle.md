@@ -18,14 +18,6 @@ Deadline: 2022-11-16T07:59:00+0800
 Reward: 25000 USD  
 
 
-## AI Village Capture the Flag @ DEFCON
-
-Link: https://www.kaggle.com/c/ai-village-ctf  
-Description: Hack AI! Collect flags by evading, poisoning, stealing, and fooling AI/ML  
-Deadline: 2022-09-12T08:00:00+0800  
-Reward: 25000 USD  
-
-
 ## Big Data Derby 2022
 
 Link: https://www.kaggle.com/c/big-data-derby-2022  
