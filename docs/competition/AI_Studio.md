@@ -42,6 +42,14 @@ Deadline: 2022-10-31T08:00:00+0800
 Reward: ¥100,000  
 
 
+## 兴智杯 全国人工智能创新应用大赛：百度飞桨论文复现赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/439  
+Description: 为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。  
+Deadline: 2022-09-26T08:00:00+0800  
+Reward: ￥130,000  
+
+
 ## “兴智杯”全国人工智能创新应用大赛：基于大规模预训练模型的应用创新赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/471  
@@ -50,12 +58,12 @@ Deadline: 2022-10-31T08:00:00+0800
 Reward: ¥100,000  
 
 
-## 兴智杯 全国人工智能创新应用大赛：百度飞桨论文复现赛
+## vLoong能源AI挑战赛——异常检测赛 <sup style="color:red">[new]<sup>  
 
-Link: https://aistudio.baidu.com/aistudio/competition/detail/439  
-Description: 为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。  
-Deadline: 2022-09-26T08:00:00+0800  
-Reward: ￥130,000  
+Link: https://aistudio.baidu.com/aistudio/competition/detail/495  
+Description: 本赛题旨在更好地检验电池安全问题，促进智慧能源领域技术发展，比赛募集到的优秀异常检测方案，将应用于车辆预警、故障模式识别等多种场景。  
+Deadline: 2022-10-15T08:00:00+0800  
+Reward: ¥10,000+精美礼品  
 
 
 ## 2022 IKCEST第四届“一带一路”国际大数据竞赛：“一带一路”重点语种-法俄泰阿与中文互译
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/409
 Description: “新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。  
 Deadline: 2022-09-30T08:00:00+0800  
 Reward: ¥725,000  
-
-
-## 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/421  
-Description: 2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。  
-Deadline: 2022-09-30T08:00:00+0800  
-Reward: ¥375,000  
 

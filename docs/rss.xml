@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-09-14T16:02:10+08:00</updated>
+    <updated>2022-09-15T16:00:48+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -81,6 +81,20 @@
     </entry>
     
     <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/439</id>
+        <title><![CDATA[兴智杯 全国人工智能创新应用大赛：百度飞桨论文复现赛]]></title>
+        
+        <updated>2022-08-04T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/439"/>
+        <summary>为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/439"><![CDATA[<h3>Description</h3>为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。<h3>Deadline: 2022-09-26T08:00:00+08:00</h3><h3>Reward: ￥130,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/471</id>
         <title><![CDATA[“兴智杯”全国人工智能创新应用大赛：基于大规模预训练模型的应用创新赛]]></title>
         
@@ -95,14 +109,14 @@
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/439</id>
-        <title><![CDATA[兴智杯 全国人工智能创新应用大赛：百度飞桨论文复现赛]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/495</id>
+        <title><![CDATA[vLoong能源AI挑战赛——异常检测赛]]></title>
         
-        <updated>2022-08-04T08:00:00+08:00</updated>
+        <updated>2022-09-14T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/439"/>
-        <summary>为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/439"><![CDATA[<h3>Description</h3>为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。<h3>Deadline: 2022-09-26T08:00:00+08:00</h3><h3>Reward: ￥130,000</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/495"/>
+        <summary>本赛题旨在更好地检验电池安全问题，促进智慧能源领域技术发展，比赛募集到的优秀异常检测方案，将应用于车辆预警、故障模式识别等多种场景。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/495"><![CDATA[<h3>Description</h3>本赛题旨在更好地检验电池安全问题，促进智慧能源领域技术发展，比赛募集到的优秀异常检测方案，将应用于车辆预警、故障模式识别等多种场景。<h3>Deadline: 2022-10-15T08:00:00+08:00</h3><h3>Reward: ¥10,000+精美礼品</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -131,20 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/409"/>
         <summary>“新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/409"><![CDATA[<h3>Description</h3>“新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ¥725,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/421</id>
-        <title><![CDATA[2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元]]></title>
-        
-        <updated>2022-07-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/421"/>
-        <summary>2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/421"><![CDATA[<h3>Description</h3>2022信创“大比武” -- 新型电力系统人工智能应用大赛：应用竞赛单元面向社会广泛征集电力领域人工智能应用案例，包括但不限于以下方向：生产运行类、企业运营管理类、客户服务类。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ¥375,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -816,34 +816,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kesci.com/home/competition/629718312b840ccfda56b0ec</id>
-        <title><![CDATA[2022“创承非遗”文化大数据人工智能创新大赛——弱监督下的云纹纹样聚类自动识别]]></title>
-        
-        <updated>2022-06-11T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/629718312b840ccfda56b0ec"/>
-        <summary>2022“创承非遗”文化大数据人工智能创新大赛——弱监督下的云纹纹样聚类自动识别</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/629718312b840ccfda56b0ec"><![CDATA[<h3>Description</h3>2022“创承非遗”文化大数据人工智能创新大赛——弱监督下的云纹纹样聚类自动识别<h3>Deadline: 2022-09-14T12:00:00+08:00</h3><h3>Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转化</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e</id>
-        <title><![CDATA[2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建]]></title>
-        
-        <updated>2022-06-11T10:00:00+08:00</updated>
-        
-        <link href="https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e"/>
-        <summary>2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/6297192d2b840ccfda56ba4e"><![CDATA[<h3>Description</h3>2022“创承非遗”文化大数据人工智能创新大赛——非遗知识智能问答与知识表示模型构建<h3>Deadline: 2022-09-14T12:00:00+08:00</h3><h3>Reward: ￥27,000+全年非遗定制大礼包+科研经费支持+方案后续转化</h3>]]></content>
-        <author>
-            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -953,34 +925,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
         <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-10-05T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532020/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道1:高频电力负荷数据超分辨率感知方案(赛季 1)]]></title>
-        
-        <updated>2022-08-15T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532020/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532020/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-10-05T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532008/introduction</id>
-        <title><![CDATA[CIKM 2022 AnalytiCup Competition: 联邦异质任务学习(赛季 1)]]></title>
-        
-        <updated>2022-07-15T17:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532008/introduction"/>
-        <summary>联邦学习（Federated Learning）是一种新的机器学习范式，允许多个参与者在不直接分享各自数据的前提下共同训练机器学习模型。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532008/introduction"><![CDATA[<h3>Description</h3>联邦学习（Federated Learning）是一种新的机器学习范式，允许多个参与者在不直接分享各自数据的前提下共同训练机器学习模型。<h3>Deadline: 2022-09-21T09:30:00+08:00</h3><h3>Reward: $13000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
