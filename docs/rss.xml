@@ -3,12 +3,54 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-09-16T16:00:59+08:00</updated>
+    <updated>2022-09-17T16:01:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/538</id>
+        <title><![CDATA[“飞桨杯”重庆市首届人工智能创新大赛-A赛道：社交网络大数据谣言核查]]></title>
+        
+        <updated>2022-09-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/538"/>
+        <summary>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/538"><![CDATA[<h3>Description</h3>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。<h3>Deadline: 2022-11-30T08:00:00+08:00</h3><h3>Reward: 学会盖章+高级奖品</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/540</id>
+        <title><![CDATA[“飞桨杯”重庆市首届人工智能创新大赛-B赛道：遥感影像智能分析]]></title>
+        
+        <updated>2022-09-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/540"/>
+        <summary>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/540"><![CDATA[<h3>Description</h3>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。<h3>Deadline: 2022-11-30T08:00:00+08:00</h3><h3>Reward: 学会盖章+高级奖品</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/542</id>
+        <title><![CDATA[“飞桨杯”重庆市首届人工智能创新大赛-C赛道：无人驾驶赛]]></title>
+        
+        <updated>2022-09-16T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/542"/>
+        <summary>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/542"><![CDATA[<h3>Description</h3>本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。<h3>Deadline: 2022-11-30T08:00:00+08:00</h3><h3>Reward: 学会盖章+高级奖品</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/455</id>
@@ -103,48 +145,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/471"/>
         <summary>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/471"><![CDATA[<h3>Description</h3>人工智能大规模预训练模型可类比于人工智能领域的算法基础设施，具备直接解决语言理解、语言生成等多类任务问题能力。当前我国AI大模型技术发展处在从研发建设迈向产业化应用的关键过渡阶段。本赛题任务基于大赛指定的大规模预训练模型系统，以基础模型+微调方式，围绕智能问答、文化创意、高价值行业场景等应用方向，遴选一批能够充分发挥大模型优势、解决领域痛点的创新解决方案。<h3>Deadline: 2022-10-31T08:00:00+08:00</h3><h3>Reward: ¥100,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/495</id>
-        <title><![CDATA[vLoong能源AI挑战赛——异常检测赛]]></title>
-        
-        <updated>2022-09-14T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/495"/>
-        <summary>本赛题旨在更好地检验电池安全问题，促进智慧能源领域技术发展，比赛募集到的优秀异常检测方案，将应用于车辆预警、故障模式识别等多种场景。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/495"><![CDATA[<h3>Description</h3>本赛题旨在更好地检验电池安全问题，促进智慧能源领域技术发展，比赛募集到的优秀异常检测方案，将应用于车辆预警、故障模式识别等多种场景。<h3>Deadline: 2022-10-15T08:00:00+08:00</h3><h3>Reward: ¥10,000+精美礼品</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/477</id>
-        <title><![CDATA[2022 IKCEST第四届“一带一路”国际大数据竞赛：“一带一路”重点语种-法俄泰阿与中文互译]]></title>
-        
-        <updated>2022-08-10T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/477"/>
-        <summary>重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/477"><![CDATA[<h3>Description</h3>重点关注法语、俄语、泰语、阿拉伯语和中文之间的翻译，鼓励参赛选手从数据、模型结构和训练方法等多方面进行技术探索<h3>Deadline: 2022-11-15T08:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/409</id>
-        <title><![CDATA[2022信创“大比武”——新型电力系统人工智能应用大赛]]></title>
-        
-        <updated>2022-07-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/409"/>
-        <summary>“新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/409"><![CDATA[<h3>Description</h3>“新型电力系统人工智能应用大赛”是2022信创“大比武”活动的赛道之一，以“信智当下·创见未来”为主题，由中国电力企业联合会主办，中国电力企业联合会科技开发服务中心承办,国家电网有限公司国家电力调度控制中心、中国电力科学研究院有限公司、国网信息通信产业集团有限公司、百度在线网络技术（北京）有限公司提供技术支持。旨在广泛吸纳社会各界力量，探索人工智能在电力系统应用新场景、新范式。<h3>Deadline: 2022-09-30T08:00:00+08:00</h3><h3>Reward: ¥725,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
