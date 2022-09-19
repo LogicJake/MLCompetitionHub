@@ -169,19 +169,3 @@ Description: AI-based Joint Channel Estimation and Channel State Information Fee
 Deadline: 2022-10-31T23:59:59+0800  
 Reward: ￥500000  
 
-
-## 基于金融财报中的混合表格与文本数据的问答
-
-Link: https://www.datafountain.cn/competitions/573  
-Description: 基于金融财报中的混合表格与文本数据的问答  
-Deadline: 2022-09-18T23:59:59+0800  
-Reward: ￥40000  
-
-
-## 通用事件属性抽取
-
-Link: https://www.datafountain.cn/competitions/572  
-Description: 通用事件属性抽取  
-Deadline: 2022-09-18T23:59:59+0800  
-Reward: ￥40000  
-
