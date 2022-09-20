@@ -106,10 +106,10 @@ Deadline: 2022-12-31T23:59:59+0800
 Reward: ￥50000  
 
 
-## 高端装备制造知识图谱自动化构建技术评测任务
+## 工业知识图谱关系抽取-高端装备制造知识图谱自动化构建
 
 Link: https://www.datafountain.cn/competitions/584  
-Description: 高端装备制造知识图谱自动化构建技术评测任务  
+Description: 工业知识图谱关系抽取-高端装备制造知识图谱自动化构建  
 Deadline: 2022-12-31T23:59:59+0800  
 Reward: ￥55000  
 
