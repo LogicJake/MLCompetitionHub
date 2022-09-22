@@ -2,6 +2,14 @@
 
 
 
+## Novozymes Enzyme Stability Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
+Description: Help identify the thermostable mutations in enzymes  
+Deadline: 2023-01-04T07:59:00+0800  
+Reward: 25000 USD  
+
+
 ## Feedback Prize - English Language Learning
 
 Link: https://www.kaggle.com/c/feedback-prize-english-language-learning  
