@@ -66,14 +66,6 @@ Deadline: 2022-10-06T07:59:00+0800
 Reward: 10000 USD  
 
 
-## HuBMAP + HPA - Hacking the Human Body
-
-Link: https://www.kaggle.com/c/hubmap-organ-segmentation  
-Description: Segment multi-organ functional tissue units  
-Deadline: 2022-09-23T07:59:00+0800  
-Reward: 60000 USD  
-
-
 ## Google AI4Code – Understand Code in Python Notebooks
 
 Link: https://www.kaggle.com/c/AI4Code  
