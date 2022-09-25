@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-09-24T16:02:01+08:00</updated>
+    <updated>2022-09-25T16:01:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -785,6 +785,120 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/627625ecd1cc5300181b2d93"><![CDATA[<h3>Description</h3>第二届全国信息融合挑战赛——“杰瑞杯”海面目标检测与跟踪竞赛<h3>Deadline: 2022-09-30T00:00:00+08:00</h3><h3>Reward: ￥76,000</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532005/introduction</id>
+        <title><![CDATA[英特尔“创新大师杯”全球AI极客挑战赛——DeepRec CTR模型性能优化(赛季 1)]]></title>
+        
+        <updated>2022-07-18T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532005/introduction"/>
+        <summary>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-10-08T10:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532003/introduction</id>
+        <title><![CDATA[Beyond Stream Processing —— 2022第四届实时计算Flink挑战赛(赛季 1)]]></title>
+        
+        <updated>2022-07-22T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532003/introduction"/>
+        <summary>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532003/introduction"><![CDATA[<h3>Description</h3>作为全球顶级的开源大数据处理引擎，Apache Flink一方面在实时计算领域保持着技术领先优势，另一方面随着流批一体、流式数仓等理念的提出也在向更多应用场景辐射。<h3>Deadline: 2022-11-01T18:00:00+08:00</h3><h3>Reward: ￥490000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531996/introduction</id>
+        <title><![CDATA[2022年全球“未来汽车”智能场景创新挑战赛——智能算法赛(赛季 2)]]></title>
+        
+        <updated>2022-09-19T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531996/introduction"/>
+        <summary>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531996/introduction"><![CDATA[<h3>Description</h3>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。<h3>Deadline: 2022-10-19T22:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531995/introduction</id>
+        <title><![CDATA[2022年全球“未来汽车”智能场景创新挑战赛——创新应用赛(赛季 1)]]></title>
+        
+        <updated>2022-06-23T15:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531995/introduction"/>
+        <summary>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531995/introduction"><![CDATA[<h3>Description</h3>本次大赛旨在破题产业技术关键问题，翻新智能网联汽车产业创新，借力技术POC、场景创新打造当地独特科技名片，沉淀产业技术脉络，聚拢未来科技精英。<h3>Deadline: 2022-09-30T18:00:00+08:00</h3><h3>Reward: ￥280000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531980/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道2：分布式NewSQL性能挑战(赛季 2)]]></title>
+        
+        <updated>2022-08-23T09:30:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531980/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531980/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-10-14T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/531979/introduction</id>
+        <title><![CDATA[第四届全球数据库大赛赛道1：云原生共享内存数据库性能优化(赛季 2)]]></title>
+        
+        <updated>2022-08-23T09:30:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/531979/introduction"/>
+        <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531979/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-10-14T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 1)]]></title>
+        
+        <updated>2022-08-15T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
+        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-10-20T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 1)]]></title>
+        
+        <updated>2022-08-15T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
+        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-10-20T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
