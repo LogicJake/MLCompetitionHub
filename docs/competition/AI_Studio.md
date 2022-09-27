@@ -70,7 +70,7 @@ Reward: ¥100,000
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/439  
 Description: 为进一步激发创新活力，促进人工智能核心技术突破和产业生态建设，推动人工智能与实体经济深度融合，工业和信息部、科学技术部、深圳市人民政府于2022年8-12月共同主办首届“兴智杯”全国人工智能创新应用大赛。  
-Deadline: 2022-09-26T08:00:00+0800  
+Deadline: 2022-10-19T08:00:00+0800  
 Reward: ￥130,000  
 
 
