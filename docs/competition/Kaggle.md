@@ -2,7 +2,7 @@
 
 
 
-## Novozymes Enzyme Stability Prediction <sup style="color:red">[new]<sup>  
+## Novozymes Enzyme Stability Prediction
 
 Link: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
 Description: Help identify the thermostable mutations in enzymes  

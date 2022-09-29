@@ -2,30 +2,6 @@
 
 
 
-## “飞桨杯”重庆市首届人工智能创新大赛-A赛道：社交网络大数据谣言核查
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/538  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
-
-
-## “飞桨杯”重庆市首届人工智能创新大赛-B赛道：遥感影像智能分析
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/540  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
-
-
-## “飞桨杯”重庆市首届人工智能创新大赛-C赛道：无人驾驶赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/542  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
-
-
 ## 2022 CCF BDCI 基于文心CV大模型的智慧城市视觉多任务识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/455  
@@ -48,6 +24,30 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/397
 Description: 大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。  
 Deadline: 2022-12-23T08:00:00+0800  
 Reward: 万元奖品+CCF证书  
+
+
+## “飞桨杯”重庆市首届人工智能创新大赛-A赛道：社交网络大数据谣言核查
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/538  
+Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
+Deadline: 2022-11-30T08:00:00+0800  
+Reward: 学会盖章+高级奖品  
+
+
+## “飞桨杯”重庆市首届人工智能创新大赛-B赛道：遥感影像智能分析
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/540  
+Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
+Deadline: 2022-11-30T08:00:00+0800  
+Reward: 学会盖章+高级奖品  
+
+
+## “飞桨杯”重庆市首届人工智能创新大赛-C赛道：无人驾驶赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/542  
+Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
+Deadline: 2022-11-30T08:00:00+0800  
+Reward: 学会盖章+高级奖品  
 
 
 ## “兴智杯”全国人工智能创新应用大赛：国产开发框架工程化应用赛
