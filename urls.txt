@@ -962,3 +962,6 @@ https://aistudio.baidu.com/aistudio/competition/detail/538
 https://aistudio.baidu.com/aistudio/competition/detail/540
 https://aistudio.baidu.com/aistudio/competition/detail/542
 https://www.kaggle.com/c/novozymes-enzyme-stability-prediction
+https://tianchi.aliyun.com/competition/entrance/532029/introduction
+https://tianchi.aliyun.com/competition/entrance/532028/introduction
+https://tianchi.aliyun.com/competition/entrance/532036/introduction
