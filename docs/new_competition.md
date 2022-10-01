@@ -1,23 +1,29 @@
-> 更新时间: 2022-09-30T16:17:22+0800 
+> 更新时间: 2022-10-01T16:01:03+0800 
 
 # 新上线比赛
 
 
-## “云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532029/introduction  
-Description: 近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。  
-Deadline: 2022-11-02T08:00:00+0800  
-Reward: ￥150000  
+## 国家电网有限公司2022年人工智能竞赛公开赛-安监赛题
+Link: https://aistudio.baidu.com/aistudio/competition/detail/548  
+Description: 为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。  
+Deadline: 2022-11-29T08:00:00+0800  
+Reward: 总奖金36万元及其他间接激励  
 
-## “云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532028/introduction  
-Description: 近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。  
-Deadline: 2022-11-02T08:00:00+0800  
-Reward: ￥150000  
+## 国家电网有限公司2022年人工智能竞赛公开赛-基建赛题
+Link: https://aistudio.baidu.com/aistudio/competition/detail/614  
+Description: 为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。  
+Deadline: 2022-11-29T08:00:00+0800  
+Reward: 总奖金36万元及其他间接激励  
 
-## IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532036/introduction  
-Description: The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.  
-Deadline: 2022-10-22T12:00:00+0800  
-Reward: $3500  
+## 国家电网有限公司2022年人工智能竞赛公开赛-设备赛题
+Link: https://aistudio.baidu.com/aistudio/competition/detail/616  
+Description: 为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。  
+Deadline: 2022-11-29T08:00:00+0800  
+Reward: 总奖金36万元及其他间接激励  
+
+## 国家电网有限公司2022年人工智能竞赛公开赛-调度赛题
+Link: https://aistudio.baidu.com/aistudio/competition/detail/618  
+Description: 为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。  
+Deadline: 2022-11-29T08:00:00+0800  
+Reward: 总奖金36万元及其他间接激励  
 
