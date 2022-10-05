@@ -969,3 +969,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/548
 https://aistudio.baidu.com/aistudio/competition/detail/614
 https://aistudio.baidu.com/aistudio/competition/detail/616
 https://aistudio.baidu.com/aistudio/competition/detail/618
+https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves
