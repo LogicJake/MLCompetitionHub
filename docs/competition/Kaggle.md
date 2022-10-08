@@ -73,11 +73,3 @@ Description: Predict the relationship between code and comments
 Deadline: 2022-11-11T07:59:00+0800  
 Reward: 150000 USD  
 
-
-## JPX Tokyo Stock Exchange Prediction
-
-Link: https://www.kaggle.com/c/jpx-tokyo-stock-exchange-prediction  
-Description: Explore the Tokyo market with your data science skills  
-Deadline: 2022-10-08T07:59:00+0800  
-Reward: 63000 USD  
-
