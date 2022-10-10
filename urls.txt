@@ -970,3 +970,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/614
 https://aistudio.baidu.com/aistudio/competition/detail/616
 https://aistudio.baidu.com/aistudio/competition/detail/618
 https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves
+https://tianchi.aliyun.com/competition/entrance/532035/introduction

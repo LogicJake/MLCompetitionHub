@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-10-09T16:00:45+08:00</updated>
+    <updated>2022-10-10T16:15:14+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -791,6 +791,34 @@
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
+        <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
+        
+        <updated>2022-10-10T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532035/introduction"/>
+        <summary>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532035/introduction"><![CDATA[<h3>Description</h3>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。<h3>Deadline: 2022-12-15T18:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532005/introduction</id>
+        <title><![CDATA[英特尔“创新大师杯”全球AI极客挑战赛——DeepRec CTR模型性能优化(赛季 2)]]></title>
+        
+        <updated>2022-10-10T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532005/introduction"/>
+        <summary>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-11-14T10:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532003/introduction</id>
         <title><![CDATA[Beyond Stream Processing —— 2022第四届实时计算Flink挑战赛(赛季 1)]]></title>
         
@@ -855,20 +883,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/531979/introduction"/>
         <summary>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/531979/introduction"><![CDATA[<h3>Description</h3>本届大赛采用双赛道机制，聚焦分布式共享内存池、基于索引的多维查询等数据库核心业务场景，参赛者在充分认知英特尔第二代傲腾持久内存（BPS）、Icelake CPU特质特性的情况下，设计最优的数据结构，探索数据库创新场景最佳实践。<h3>Deadline: 2022-10-14T10:00:00+08:00</h3><h3>Reward: ￥200000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532036/introduction</id>
-        <title><![CDATA[IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge(赛季 1)]]></title>
-        
-        <updated>2022-09-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532036/introduction"/>
-        <summary>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532036/introduction"><![CDATA[<h3>Description</h3>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.<h3>Deadline: 2022-10-22T12:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
