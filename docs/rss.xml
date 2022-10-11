@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-10-10T16:15:14+08:00</updated>
+    <updated>2022-10-11T16:17:01+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -633,6 +633,34 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/nfl-big-data-bowl-2023</id>
+        <title><![CDATA[NFL Big Data Bowl 2023]]></title>
+        
+        <updated>2022-10-11T02:09:18+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/nfl-big-data-bowl-2023"/>
+        <summary>Help evaluate linemen on pass plays</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/nfl-big-data-bowl-2023"><![CDATA[<h3>Description</h3>Help evaluate linemen on pass plays<h3>Deadline: 2023-01-10T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/kaggle-survey-2022</id>
+        <title><![CDATA[2022 Kaggle Machine Learning &amp; Data Science Survey]]></title>
+        
+        <updated>2022-10-10T23:32:57+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/kaggle-survey-2022"/>
+        <summary>The most comprehensive dataset available on the state of ML and data science</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2022"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2022-11-28T07:59:00+08:00</h3><h3>Reward: 30000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves</id>
         <title><![CDATA[G2Net Detecting Continuous Gravitational Waves]]></title>
         
@@ -731,20 +759,6 @@
     </entry>
     
     <entry>
-        <id>https://www.kaggle.com/c/google-universal-image-embedding</id>
-        <title><![CDATA[Google Universal Image Embedding]]></title>
-        
-        <updated>2022-07-12T01:09:06+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/google-universal-image-embedding"/>
-        <summary>Create image representations that work across many visual domains</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/google-universal-image-embedding"><![CDATA[<h3>Description</h3>Create image representations that work across many visual domains<h3>Deadline: 2022-10-11T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.kaggle.com/c/AI4Code</id>
         <title><![CDATA[Google AI4Code – Understand Code in Python Notebooks]]></title>
         
@@ -785,6 +799,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
         <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-11-02T08:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532036/introduction</id>
+        <title><![CDATA[IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge(赛季 1)]]></title>
+        
+        <updated>2022-09-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532036/introduction"/>
+        <summary>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532036/introduction"><![CDATA[<h3>Description</h3>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.<h3>Deadline: 2022-10-22T12:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

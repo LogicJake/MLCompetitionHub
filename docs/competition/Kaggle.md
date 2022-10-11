@@ -2,6 +2,22 @@
 
 
 
+## NFL Big Data Bowl 2023 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/nfl-big-data-bowl-2023  
+Description: Help evaluate linemen on pass plays  
+Deadline: 2023-01-10T07:59:00+0800  
+Reward: 100000 USD  
+
+
+## 2022 Kaggle Machine Learning & Data Science Survey <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/kaggle-survey-2022  
+Description: The most comprehensive dataset available on the state of ML and data science  
+Deadline: 2022-11-28T07:59:00+0800  
+Reward: 30000 USD  
+
+
 ## G2Net Detecting Continuous Gravitational Waves <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves  
@@ -56,14 +72,6 @@ Link: https://www.kaggle.com/c/rsna-2022-cervical-spine-fracture-detection
 Description: Identify cervical fractures from scans  
 Deadline: 2022-10-28T07:59:00+0800  
 Reward: 30000 USD  
-
-
-## Google Universal Image Embedding
-
-Link: https://www.kaggle.com/c/google-universal-image-embedding  
-Description: Create image representations that work across many visual domains  
-Deadline: 2022-10-11T07:59:00+0800  
-Reward: 50000 USD  
 
 
 ## Google AI4Code – Understand Code in Python Notebooks

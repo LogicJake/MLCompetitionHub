@@ -971,3 +971,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/616
 https://aistudio.baidu.com/aistudio/competition/detail/618
 https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves
 https://tianchi.aliyun.com/competition/entrance/532035/introduction
+https://www.kaggle.com/c/nfl-big-data-bowl-2023
+https://www.kaggle.com/c/kaggle-survey-2022

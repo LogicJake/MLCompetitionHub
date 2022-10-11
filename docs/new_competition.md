@@ -1,11 +1,17 @@
-> 更新时间: 2022-10-10T16:15:14+0800 
+> 更新时间: 2022-10-11T16:17:01+0800 
 
 # 新上线比赛
 
 
-## AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532035/introduction  
-Description: 恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。  
-Deadline: 2022-12-15T18:00:00+0800  
-Reward: ￥80000  
+## NFL Big Data Bowl 2023
+Link: https://www.kaggle.com/c/nfl-big-data-bowl-2023  
+Description: Help evaluate linemen on pass plays  
+Deadline: 2023-01-10T07:59:00+0800  
+Reward: 100000 USD  
+
+## 2022 Kaggle Machine Learning & Data Science Survey
+Link: https://www.kaggle.com/c/kaggle-survey-2022  
+Description: The most comprehensive dataset available on the state of ML and data science  
+Deadline: 2022-11-28T07:59:00+0800  
+Reward: 30000 USD  
 
