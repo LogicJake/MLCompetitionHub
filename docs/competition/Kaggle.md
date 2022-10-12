@@ -18,7 +18,7 @@ Deadline: 2022-11-28T07:59:00+0800
 Reward: 30000 USD  
 
 
-## G2Net Detecting Continuous Gravitational Waves <sup style="color:red">[new]<sup>  
+## G2Net Detecting Continuous Gravitational Waves
 
 Link: https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves  
 Description: Help us detect long-lasting gravitational-wave signals!  
