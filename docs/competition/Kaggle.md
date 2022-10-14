@@ -62,7 +62,7 @@ Reward: 50000 USD
 
 Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
 Description: Identify plays based upon video footage   
-Deadline: 2022-10-14T07:59:00+0800  
+Deadline: 2022-12-21T07:59:00+0800  
 Reward: 25000 USD  
 
 
