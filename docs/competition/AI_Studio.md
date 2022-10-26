@@ -34,6 +34,22 @@ Deadline: 2022-11-29T08:00:00+0800
 Reward: 总奖金36万元及其他间接激励  
 
 
+## 百度搜索首届技术创新挑战赛：赛道一 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/674  
+Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道，本赛道提供一个典型的搜索场景的Ernie模型，希望参赛者通过各种优化技术，挑战最优的模型推理性能。  
+Deadline: 2022-12-25T08:00:00+0800  
+Reward: 302,000元与盖章证书  
+
+
+## 百度搜索首届技术创新挑战赛：赛道二 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/660  
+Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。  
+Deadline: 2023-12-25T08:00:00+0800  
+Reward: 302,000元与盖章证书  
+
+
 ## 2022 CCF BDCI 基于文心CV大模型的智慧城市视觉多任务识别
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/455  
@@ -61,22 +77,6 @@ Reward: 万元奖品+CCF证书
 ## “飞桨杯”重庆市首届人工智能创新大赛-A赛道：社交网络大数据谣言核查
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/538  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
-
-
-## “飞桨杯”重庆市首届人工智能创新大赛-B赛道：遥感影像智能分析
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/540  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
-
-
-## “飞桨杯”重庆市首届人工智能创新大赛-C赛道：无人驾驶赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/542  
 Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
 Deadline: 2022-11-30T08:00:00+0800  
 Reward: 学会盖章+高级奖品  
