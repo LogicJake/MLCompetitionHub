@@ -975,3 +975,6 @@ https://www.kaggle.com/c/nfl-big-data-bowl-2023
 https://www.kaggle.com/c/kaggle-survey-2022
 https://aistudio.baidu.com/aistudio/competition/detail/674
 https://aistudio.baidu.com/aistudio/competition/detail/660
+https://www.datafountain.cn/competitions/614
+https://tianchi.aliyun.com/competition/entrance/532034/introduction
+https://tianchi.aliyun.com/competition/entrance/532030/introduction

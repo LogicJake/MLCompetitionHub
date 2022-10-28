@@ -2,6 +2,14 @@
 
 
 
+## 生活用纸抗张强度预测 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/614  
+Description: 生活用纸抗张强度预测  
+Deadline: 2023-05-31T23:59:59+0800  
+Reward: ￥165000  
+
+
 ## 居民小区二次供水需求预测
 
 Link: https://www.datafountain.cn/competitions/603  

@@ -34,7 +34,7 @@ Deadline: 2022-11-29T08:00:00+0800
 Reward: 总奖金36万元及其他间接激励  
 
 
-## 百度搜索首届技术创新挑战赛：赛道一 <sup style="color:red">[new]<sup>  
+## 百度搜索首届技术创新挑战赛：赛道二 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/674  
 Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道，本赛道提供一个典型的搜索场景的Ernie模型，希望参赛者通过各种优化技术，挑战最优的模型推理性能。  
@@ -42,7 +42,7 @@ Deadline: 2022-12-25T08:00:00+0800
 Reward: 302,000元与盖章证书  
 
 
-## 百度搜索首届技术创新挑战赛：赛道二 <sup style="color:red">[new]<sup>  
+## 百度搜索首届技术创新挑战赛：赛道一 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/660  
 Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。  
