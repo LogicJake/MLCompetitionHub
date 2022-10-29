@@ -34,6 +34,14 @@ Deadline: 2022-11-29T08:00:00+0800
 Reward: 总奖金36万元及其他间接激励  
 
 
+## 第五届“中国法研杯”司法人工智能挑战赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/664  
+Description: 自2018年以来，为了促进人工智能技术在司法领域的深度应用，全面推动智慧法院建设进程，服务法院审判体系和审判能力现代化建设，由中国司法大数据研究院（最高人民法院智慧法院重点实验室）联合各方开始举办每年一届的“中国法研杯”司法人工智能挑战赛（Legal AI Challenge），迄今已成功举办四届赛事，成为全国最具影响力且具有一定国际影响力的司法人工智能应用领域大赛。  
+Deadline: 2022-12-09T08:00:00+0800  
+Reward: 最高¥400,000  
+
+
 ## 百度搜索首届技术创新挑战赛：赛道二 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/674  
@@ -46,7 +54,7 @@ Reward: 302,000元与盖章证书
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/660  
 Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。  
-Deadline: 2023-12-25T08:00:00+0800  
+Deadline: 2022-12-25T08:00:00+0800  
 Reward: 302,000元与盖章证书  
 
 
@@ -72,12 +80,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/397
 Description: 大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。  
 Deadline: 2022-12-23T08:00:00+0800  
 Reward: 万元奖品+CCF证书  
-
-
-## “飞桨杯”重庆市首届人工智能创新大赛-A赛道：社交网络大数据谣言核查
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/538  
-Description: 本赛事由百度公司、重庆电子学会和中国通信学会人工智能技术与应用委员会联合主办，重庆邮电大学承办。包含三大独立赛道：A-社交网络大数据谣言核查赛道，B-遥感影像智能分析赛道和C-无人驾驶赛道。  
-Deadline: 2022-11-30T08:00:00+0800  
-Reward: 学会盖章+高级奖品  
 

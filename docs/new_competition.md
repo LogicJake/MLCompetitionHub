@@ -1,23 +1,11 @@
-> 更新时间: 2022-10-28T15:59:14+0800 
+> 更新时间: 2022-10-29T15:58:41+0800 
 
 # 新上线比赛
 
 
-## 生活用纸抗张强度预测
-Link: https://www.datafountain.cn/competitions/614  
-Description: 生活用纸抗张强度预测  
-Deadline: 2023-05-31T23:59:59+0800  
-Reward: ￥165000  
-
-## Imagine Computing创新技术大赛赛道2:设计低延时高体验的实时音视频应用(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532034/introduction  
-Description: 首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。  
-Deadline: 2022-12-03T22:00:00+0800  
-Reward: ￥340000  
-
-## Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法(赛季 1)
-Link: https://tianchi.aliyun.com/competition/entrance/532030/introduction  
-Description: 首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。  
-Deadline: 2022-12-03T22:00:00+0800  
-Reward: ￥340000  
+## 第五届“中国法研杯”司法人工智能挑战赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/664  
+Description: 自2018年以来，为了促进人工智能技术在司法领域的深度应用，全面推动智慧法院建设进程，服务法院审判体系和审判能力现代化建设，由中国司法大数据研究院（最高人民法院智慧法院重点实验室）联合各方开始举办每年一届的“中国法研杯”司法人工智能挑战赛（Legal AI Challenge），迄今已成功举办四届赛事，成为全国最具影响力且具有一定国际影响力的司法人工智能应用领域大赛。  
+Deadline: 2022-12-09T08:00:00+0800  
+Reward: 最高¥400,000  
 

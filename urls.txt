@@ -978,3 +978,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/660
 https://www.datafountain.cn/competitions/614
 https://tianchi.aliyun.com/competition/entrance/532034/introduction
 https://tianchi.aliyun.com/competition/entrance/532030/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/664
