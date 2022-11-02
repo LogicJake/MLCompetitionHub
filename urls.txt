@@ -979,3 +979,6 @@ https://www.datafountain.cn/competitions/614
 https://tianchi.aliyun.com/competition/entrance/532034/introduction
 https://tianchi.aliyun.com/competition/entrance/532030/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/664
+https://aistudio.baidu.com/aistudio/competition/detail/536
+https://aistudio.baidu.com/aistudio/competition/detail/493
+https://www.kaggle.com/c/otto-recommender-system

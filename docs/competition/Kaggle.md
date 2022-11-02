@@ -2,6 +2,14 @@
 
 
 
+## OTTO – Multi-Objective Recommender System <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/otto-recommender-system  
+Description: Build a recommender system based on real-world e-commerce sessions  
+Deadline: 2023-02-01T07:59:00+0800  
+Reward: 30000 USD  
+
+
 ## NFL Big Data Bowl 2023
 
 Link: https://www.kaggle.com/c/nfl-big-data-bowl-2023  
