@@ -2,7 +2,7 @@
 
 
 
-## 生活用纸抗张强度预测 <sup style="color:red">[new]<sup>  
+## 生活用纸抗张强度预测
 
 Link: https://www.datafountain.cn/competitions/614  
 Description: 生活用纸抗张强度预测  
