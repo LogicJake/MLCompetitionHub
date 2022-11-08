@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-11-07T16:00:25+08:00</updated>
+    <updated>2022-11-08T15:58:41+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/664"/>
         <summary>自2018年以来，为了促进人工智能技术在司法领域的深度应用，全面推动智慧法院建设进程，服务法院审判体系和审判能力现代化建设，由中国司法大数据研究院（最高人民法院智慧法院重点实验室）联合各方开始举办每年一届的“中国法研杯”司法人工智能挑战赛（Legal AI Challenge），迄今已成功举办四届赛事，成为全国最具影响力且具有一定国际影响力的司法人工智能应用领域大赛。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/664"><![CDATA[<h3>Description</h3>自2018年以来，为了促进人工智能技术在司法领域的深度应用，全面推动智慧法院建设进程，服务法院审判体系和审判能力现代化建设，由中国司法大数据研究院（最高人民法院智慧法院重点实验室）联合各方开始举办每年一届的“中国法研杯”司法人工智能挑战赛（Legal AI Challenge），迄今已成功举办四届赛事，成为全国最具影响力且具有一定国际影响力的司法人工智能应用领域大赛。<h3>Deadline: 2022-12-09T08:00:00+08:00</h3><h3>Reward: 最高¥400,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/691</id>
+        <title><![CDATA[2022粤港澳大湾区新能源智能汽车大数据创新竞赛]]></title>
+        
+        <updated>2022-11-07T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/691"/>
+        <summary>为聚力建设“智车之城”、“超充之都”和新能源智能汽车解决方案的策源地，基于广州市新能源智能汽车大数据监测平台，在广州市新能源汽车发展工作领导小组的指导下，举办湾区首个新能源智能汽车大数据竞赛-2022粤港澳大湾区新能源智能汽车大数据创新竞赛，依托海量汽车实时运行数据，以数据算法创新和数据分析应用为重点，通过挖掘数据价值，探索创新应用，发现和培养优秀人才，打造“数据+算力+算法+场景+人才”的标杆。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/691"><![CDATA[<h3>Description</h3>为聚力建设“智车之城”、“超充之都”和新能源智能汽车解决方案的策源地，基于广州市新能源智能汽车大数据监测平台，在广州市新能源汽车发展工作领导小组的指导下，举办湾区首个新能源智能汽车大数据竞赛-2022粤港澳大湾区新能源智能汽车大数据创新竞赛，依托海量汽车实时运行数据，以数据算法创新和数据分析应用为重点，通过挖掘数据价值，探索创新应用，发现和培养优秀人才，打造“数据+算力+算法+场景+人才”的标杆。<h3>Deadline: 2023-01-10T08:00:00+08:00</h3><h3>Reward: 总奖金5.8万元及其他间接激励</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -41,20 +55,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/455</id>
-        <title><![CDATA[2022 CCF BDCI 基于文心CV大模型的智慧城市视觉多任务识别]]></title>
-        
-        <updated>2022-08-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/455"/>
-        <summary>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/455"><![CDATA[<h3>Description</h3>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。<h3>Deadline: 2022-12-31T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/548</id>
         <title><![CDATA[国家电网有限公司2022年人工智能竞赛公开赛-安监赛题]]></title>
         
@@ -63,20 +63,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/548"/>
         <summary>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/548"><![CDATA[<h3>Description</h3>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。<h3>Deadline: 2022-12-09T08:00:00+08:00</h3><h3>Reward: 总奖金36万元及其他间接激励</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/660</id>
-        <title><![CDATA[百度搜索首届技术创新挑战赛：赛道一]]></title>
-        
-        <updated>2022-10-26T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/660"/>
-        <summary>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/660"><![CDATA[<h3>Description</h3>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。<h3>Deadline: 2022-12-25T08:00:00+08:00</h3><h3>Reward: 302,000元与盖章证书</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -97,28 +83,14 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
     </entry>
     
     <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/394</id>
-        <title><![CDATA[2022 CCF BDCI 基于文心NLP大模型的阅读理解可解释评测]]></title>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/660</id>
+        <title><![CDATA[百度搜索首届技术创新挑战赛：赛道一]]></title>
         
-        <updated>2022-08-29T08:00:00+08:00</updated>
+        <updated>2022-10-26T08:00:00+08:00</updated>
         
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/394"/>
-        <summary>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/394"><![CDATA[<h3>Description</h3>中国计算机学会主办，中国大数据与人工智能领域最具影响力的活动之一，大数据综合赛事第一品牌。<h3>Deadline: 2022-12-31T08:00:00+08:00</h3><h3>Reward: ￥50,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/397</id>
-        <title><![CDATA[2022 CCF BDCI 模心智创-文心大模型智能创意赛]]></title>
-        
-        <updated>2022-08-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/397"/>
-        <summary>大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/397"><![CDATA[<h3>Description</h3>大模型出现使零样本建模成为可能，本次比赛依托当前人工智能领域最具价值的前沿技术之一『深度学习大模型』展开，以千亿参数量的文心大模型为引，探索创意灵感。开发者可基于文心大模型和飞桨框架在零样本或小样本场景下完成技术创新创意项目开发。只要你的项目够优秀，将有机会登上WAVE SUMMIT 2022深度学习开发者峰会现场。<h3>Deadline: 2022-12-23T08:00:00+08:00</h3><h3>Reward: 万元奖品+CCF证书</h3>]]></content>
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/660"/>
+        <summary>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/660"><![CDATA[<h3>Description</h3>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。<h3>Deadline: 2022-12-25T08:00:00+08:00</h3><h3>Reward: 302,000元与盖章证书</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -147,6 +119,36 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/616"/>
         <summary>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/616"><![CDATA[<h3>Description</h3>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。<h3>Deadline: 2022-12-09T08:00:00+08:00</h3><h3>Reward: 总奖金36万元及其他间接激励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/618</id>
+        <title><![CDATA[国家电网有限公司2022年人工智能竞赛公开赛-调度赛题]]></title>
+        
+        <updated>2022-09-30T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/618"/>
+        <summary>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/618"><![CDATA[<h3>Description</h3>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。<h3>Deadline: 2022-12-09T08:00:00+08:00</h3><h3>Reward: 总奖金36万元及其他间接激励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/534</id>
+        <title><![CDATA[Unbiased Learning for Web Search]]></title>
+        
+        <updated>2022-10-18T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/534"/>
+        <summary>WSDM Cup 2023- Unbiased Learning &amp; Pre-training for Web Seach
+Task 1: Unbiased Learning for Web Seach</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/534"><![CDATA[<h3>Description</h3>WSDM Cup 2023- Unbiased Learning &amp; Pre-training for Web Seach
+Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><h3>Reward: $6,500</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -747,6 +749,106 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
     </entry>
     
     
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532034/introduction</id>
+        <title><![CDATA[Imagine Computing创新技术大赛赛道2:设计低延时高体验的实时音视频应用(赛季 1)]]></title>
+        
+        <updated>2022-10-27T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532034/introduction"/>
+        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532034/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532030/introduction</id>
+        <title><![CDATA[Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法(赛季 1)]]></title>
+        
+        <updated>2022-10-27T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532030/introduction"/>
+        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532030/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532029/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 1)]]></title>
+        
+        <updated>2022-09-28T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532029/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532029/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-11-15T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532028/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 1)]]></title>
+        
+        <updated>2022-09-28T09:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-11-15T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
+        <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
+        
+        <updated>2022-10-10T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532035/introduction"/>
+        <summary>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532035/introduction"><![CDATA[<h3>Description</h3>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。<h3>Deadline: 2022-12-15T18:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532005/introduction</id>
+        <title><![CDATA[英特尔“创新大师杯”全球AI极客挑战赛——DeepRec CTR模型性能优化(赛季 2)]]></title>
+        
+        <updated>2022-10-10T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532005/introduction"/>
+        <summary>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532005/introduction"><![CDATA[<h3>Description</h3>为了探索CTR模型性能优化的方向，推动CTR模型训练效率提升，我们启动了本届【 DeepRec CTR模型性能优化】 挑战赛 ，借助本次大赛，在DeepRec中沉淀CTR模型新的优化思路和优化方向，共享经验成果，指导和推动实际工业实际场景中点击率预估模型的训练效率的提升。<h3>Deadline: 2022-11-14T18:00:00+08:00</h3><h3>Reward: ￥300000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 2)]]></title>
+        
+        <updated>2022-10-21T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
+        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     

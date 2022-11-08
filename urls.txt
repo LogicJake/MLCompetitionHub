@@ -982,3 +982,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/664
 https://aistudio.baidu.com/aistudio/competition/detail/536
 https://aistudio.baidu.com/aistudio/competition/detail/493
 https://www.kaggle.com/c/otto-recommender-system
+https://aistudio.baidu.com/aistudio/competition/detail/691
+https://aistudio.baidu.com/aistudio/competition/detail/534
