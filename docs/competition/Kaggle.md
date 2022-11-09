@@ -2,7 +2,7 @@
 
 
 
-## OTTO – Multi-Objective Recommender System <sup style="color:red">[new]<sup>  
+## OTTO – Multi-Objective Recommender System
 
 Link: https://www.kaggle.com/c/otto-recommender-system  
 Description: Build a recommender system based on real-world e-commerce sessions  
