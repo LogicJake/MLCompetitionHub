@@ -50,14 +50,6 @@ Deadline: 2022-11-30T07:59:00+0800
 Reward: 55000 USD  
 
 
-## Open Problems - Multimodal Single-Cell Integration
-
-Link: https://www.kaggle.com/c/open-problems-multimodal  
-Description: Predict how DNA, RNA & protein measurements co-vary in single cells  
-Deadline: 2022-11-16T07:59:00+0800  
-Reward: 25000 USD  
-
-
 ## DFL - Bundesliga Data Shootout
 
 Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
