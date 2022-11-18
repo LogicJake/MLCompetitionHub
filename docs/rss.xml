@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-11-17T16:00:53+08:00</updated>
+    <updated>2022-11-18T16:02:40+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -383,20 +383,6 @@ Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</
     </entry>
     
     <entry>
-        <id>https://www.datafountain.cn/competitions/597</id>
-        <title><![CDATA[“嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法]]></title>
-        
-        <updated>2022-09-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/597"/>
-        <summary>“嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/597"><![CDATA[<h3>Description</h3>“嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法<h3>Deadline: 2022-11-17T23:59:59+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://www.datafountain.cn/competitions/596</id>
         <title><![CDATA[Web攻击检测与分类识别]]></title>
         
@@ -707,106 +693,6 @@ Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</
     </entry>
     
     
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532034/introduction</id>
-        <title><![CDATA[Imagine Computing创新技术大赛赛道2:设计低延时高体验的实时音视频应用(赛季 1)]]></title>
-        
-        <updated>2022-10-27T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532034/introduction"/>
-        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532034/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532030/introduction</id>
-        <title><![CDATA[Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法(赛季 1)]]></title>
-        
-        <updated>2022-10-27T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532030/introduction"/>
-        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532030/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532029/introduction</id>
-        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 1)]]></title>
-        
-        <updated>2022-09-28T09:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532029/introduction"/>
-        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532029/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-11-18T09:50:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532028/introduction</id>
-        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 1)]]></title>
-        
-        <updated>2022-09-28T09:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
-        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-11-18T09:50:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
-        <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
-        
-        <updated>2022-10-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532035/introduction"/>
-        <summary>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532035/introduction"><![CDATA[<h3>Description</h3>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。<h3>Deadline: 2022-12-15T18:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 2)]]></title>
-        
-        <updated>2022-10-21T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 2)]]></title>
-        
-        <updated>2022-10-21T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T22:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
     
     
     

@@ -26,14 +26,6 @@ Deadline: 2022-11-30T23:59:59+0800
 Reward: ￥51000  
 
 
-## “嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法
-
-Link: https://www.datafountain.cn/competitions/597  
-Description: “嬴彻-清华AIR杯” 自动驾驶技术挑战赛：决策规划算法  
-Deadline: 2022-11-17T23:59:59+0800  
-Reward: ￥100000  
-
-
 ## Web攻击检测与分类识别
 
 Link: https://www.datafountain.cn/competitions/596  
