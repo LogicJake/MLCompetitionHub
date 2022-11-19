@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-11-18T16:02:40+08:00</updated>
+    <updated>2022-11-19T16:00:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -33,6 +33,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/691"/>
         <summary>为聚力建设“智车之城”、“超充之都”和新能源智能汽车解决方案的策源地，基于广州市新能源智能汽车大数据监测平台，在广州市新能源汽车发展工作领导小组的指导下，举办湾区首个新能源智能汽车大数据竞赛-2022粤港澳大湾区新能源智能汽车大数据创新竞赛，依托海量汽车实时运行数据，以数据算法创新和数据分析应用为重点，通过挖掘数据价值，探索创新应用，发现和培养优秀人才，打造“数据+算力+算法+场景+人才”的标杆。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/691"><![CDATA[<h3>Description</h3>为聚力建设“智车之城”、“超充之都”和新能源智能汽车解决方案的策源地，基于广州市新能源智能汽车大数据监测平台，在广州市新能源汽车发展工作领导小组的指导下，举办湾区首个新能源智能汽车大数据竞赛-2022粤港澳大湾区新能源智能汽车大数据创新竞赛，依托海量汽车实时运行数据，以数据算法创新和数据分析应用为重点，通过挖掘数据价值，探索创新应用，发现和培养优秀人才，打造“数据+算力+算法+场景+人才”的标杆。<h3>Deadline: 2023-01-10T08:00:00+08:00</h3><h3>Reward: 总奖金5.8万元及其他间接激励</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/522</id>
+        <title><![CDATA[清华AIR-百度Apollo车路协同自动驾驶算法挑战赛]]></title>
+        
+        <updated>2022-11-18T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/522"/>
+        <summary>清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/522"><![CDATA[<h3>Description</h3>清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。<h3>Deadline: 2023-03-22T08:00:00+08:00</h3><h3>Reward: ¥80,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -133,22 +147,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/618"/>
         <summary>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/618"><![CDATA[<h3>Description</h3>为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。<h3>Deadline: 2022-12-09T08:00:00+08:00</h3><h3>Reward: 总奖金36万元及其他间接激励</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/534</id>
-        <title><![CDATA[Unbiased Learning for Web Search]]></title>
-        
-        <updated>2022-10-18T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/534"/>
-        <summary>WSDM Cup 2023- Unbiased Learning &amp; Pre-training for Web Seach
-Task 1: Unbiased Learning for Web Seach</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/534"><![CDATA[<h3>Description</h3>WSDM Cup 2023- Unbiased Learning &amp; Pre-training for Web Seach
-Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><h3>Reward: $6,500</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -693,6 +691,106 @@ Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</
     </entry>
     
     
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532034/introduction</id>
+        <title><![CDATA[Imagine Computing创新技术大赛赛道2:设计低延时高体验的实时音视频应用(赛季 1)]]></title>
+        
+        <updated>2022-10-27T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532034/introduction"/>
+        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532034/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532030/introduction</id>
+        <title><![CDATA[Imagine Computing创新技术大赛赛道1:边缘云内容分发网络客户体验预测算法(赛季 1)]]></title>
+        
+        <updated>2022-10-27T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532030/introduction"/>
+        <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532030/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2022-12-03T22:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532029/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 2)]]></title>
+        
+        <updated>2022-11-18T09:50:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532029/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532029/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-12-10T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532028/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 2)]]></title>
+        
+        <updated>2022-11-18T09:50:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-12-10T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
+        <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
+        
+        <updated>2022-10-10T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532035/introduction"/>
+        <summary>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532035/introduction"><![CDATA[<h3>Description</h3>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。<h3>Deadline: 2022-12-15T18:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532022/introduction</id>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道3:支撑分布式储能系统优化部署的新能源产量预测(赛季 2)]]></title>
+        
+        <updated>2022-10-21T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
+        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
+        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 2)]]></title>
+        
+        <updated>2022-10-21T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
+        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T22:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     

@@ -18,6 +18,14 @@ Deadline: 2023-01-10T08:00:00+0800
 Reward: 总奖金5.8万元及其他间接激励  
 
 
+## 清华AIR-百度Apollo车路协同自动驾驶算法挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/522  
+Description: 清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。  
+Deadline: 2023-03-22T08:00:00+0800  
+Reward: ¥80,000  
+
+
 ## Pre-training for Web Search
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/536  
@@ -73,13 +81,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/618
 Description: 为加快人工智能技术与电网业务深度融合应用，国家电网有限公司数字化工作部围绕业务创新和基层需求，面向全社会公开举办国家电网有限公司2022年人工智能竞赛公开赛。赛题覆盖电网调度、设备、基建、安监等业务，是“AI+电力”领域首次综合性人工智能公开赛事，旨在汇聚全社会科技创新力量，充分发挥人工智能技术优势，攻克亟待解决的难点、痛点和困点，赋能业务创新发展和基层减负提效。  
 Deadline: 2022-12-09T08:00:00+0800  
 Reward: 总奖金36万元及其他间接激励  
-
-
-## Unbiased Learning for Web Search
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/534  
-Description: WSDM Cup 2023- Unbiased Learning & Pre-training for Web Seach
-Task 1: Unbiased Learning for Web Seach  
-Deadline: 2023-01-21T08:00:00+0800  
-Reward: $6,500  
 
