@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-11-19T16:00:57+08:00</updated>
+    <updated>2022-11-20T16:00:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -751,6 +751,20 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
     </entry>
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532036/introduction</id>
+        <title><![CDATA[IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge(赛季 2)]]></title>
+        
+        <updated>2022-11-20T12:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532036/introduction"/>
+        <summary>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532036/introduction"><![CDATA[<h3>Description</h3>The 1st International “Vision Meets Algae” Workshop and Challenge (VisAlgae) is a part of IEEE 6th Village International Conference on Universal Village. It is held to encourage participants to pay attention to marine environment and use computer vision methods to better monitor marine biology.<h3>Deadline: 2022-11-30T12:00:00+08:00</h3><h3>Reward: $5500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
         <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
         
@@ -773,20 +787,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://tianchi.aliyun.com/competition/entrance/532022/introduction"/>
         <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532022/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T10:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532021/introduction</id>
-        <title><![CDATA[UNiLAB智慧能源系统大数据分析赛 赛道2:不完整电压数据的电力系统稳定性评估(赛季 2)]]></title>
-        
-        <updated>2022-10-21T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532021/introduction"/>
-        <summary>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532021/introduction"><![CDATA[<h3>Description</h3>本算法大赛由国际联合实验室UNiLAB– Big Data Analytics for Smart Energy Systems创办，旨在推动引入先进人工智能和数据分析技术突破智慧能源领域关键问题。首届比赛设立三个主题赛道，依托阿里云天池平台开展，详细题目设置、数据和评价标准附后。<h3>Deadline: 2022-11-25T22:00:00+08:00</h3><h3>Reward: ￥180000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
