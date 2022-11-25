@@ -50,7 +50,7 @@ Deadline: 2023-01-10T08:00:00+0800
 Reward: 总奖金5.8万元及其他间接激励  
 
 
-## 清华AIR-百度Apollo车路协同自动驾驶算法挑战赛 <sup style="color:red">[new]<sup>  
+## 清华AIR-百度Apollo车路协同自动驾驶算法挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/522  
 Description: 清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。  
