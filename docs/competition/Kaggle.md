@@ -18,14 +18,6 @@ Deadline: 2023-01-10T07:59:00+0800
 Reward: 100000 USD  
 
 
-## 2022 Kaggle Machine Learning & Data Science Survey
-
-Link: https://www.kaggle.com/c/kaggle-survey-2022  
-Description: The most comprehensive dataset available on the state of ML and data science  
-Deadline: 2022-11-28T07:59:00+0800  
-Reward: 30000 USD  
-
-
 ## G2Net Detecting Continuous Gravitational Waves
 
 Link: https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves  

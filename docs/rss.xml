@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-11-27T16:03:07+08:00</updated>
+    <updated>2022-11-28T16:03:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -431,20 +431,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://www.kaggle.com/c/nfl-big-data-bowl-2023"/>
         <summary>Help evaluate linemen on pass plays</summary>
         <content type="text/html" src="https://www.kaggle.com/c/nfl-big-data-bowl-2023"><![CDATA[<h3>Description</h3>Help evaluate linemen on pass plays<h3>Deadline: 2023-01-10T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/kaggle-survey-2022</id>
-        <title><![CDATA[2022 Kaggle Machine Learning &amp; Data Science Survey]]></title>
-        
-        <updated>2022-10-10T23:32:57+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/kaggle-survey-2022"/>
-        <summary>The most comprehensive dataset available on the state of ML and data science</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/kaggle-survey-2022"><![CDATA[<h3>Description</h3>The most comprehensive dataset available on the state of ML and data science<h3>Deadline: 2022-11-28T07:59:00+08:00</h3><h3>Reward: 30000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
