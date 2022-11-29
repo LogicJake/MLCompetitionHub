@@ -10,6 +10,14 @@ Deadline: 2022-12-09T08:00:00+0800
 Reward: 最高¥400,000  
 
 
+## 第十四届中国大学生服务外包创新创业大赛百度赛道 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/722  
+Description: 中国大学生服务外包创新创业大赛是中国高等教育学会全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于百度飞桨的3D 医疗数据解析平台”的赛道，参赛获奖有助于保研加分。  
+Deadline: 2023-08-01T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 国家电网有限公司2022年人工智能竞赛公开赛-设备赛题
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/616  
@@ -73,12 +81,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/493
 Description: 由百度网盘开放平台发起，鼓励选手结合计算机视觉技术与图像处理技术，帮助人们将因为放大而模糊的图片复原，提高图片分辨率，实现文档图像的“无损放大”。  
 Deadline: 2022-12-22T08:00:00+0800  
 Reward: ￥20000+特别礼包  
-
-
-## 百度搜索首届技术创新挑战赛：赛道一
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/660  
-Description: 百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。  
-Deadline: 2022-12-25T08:00:00+0800  
-Reward: 302,000元与盖章证书  
 

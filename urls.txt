@@ -985,3 +985,5 @@ https://www.kaggle.com/c/otto-recommender-system
 https://aistudio.baidu.com/aistudio/competition/detail/691
 https://aistudio.baidu.com/aistudio/competition/detail/534
 https://aistudio.baidu.com/aistudio/competition/detail/522
+https://aistudio.baidu.com/aistudio/competition/detail/722
+https://www.kaggle.com/c/rsna-breast-cancer-detection
