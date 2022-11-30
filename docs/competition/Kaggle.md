@@ -42,14 +42,6 @@ Deadline: 2023-01-04T07:59:00+0800
 Reward: 25000 USD  
 
 
-## Feedback Prize - English Language Learning
-
-Link: https://www.kaggle.com/c/feedback-prize-english-language-learning  
-Description: Evaluating language knowledge of ELL students from grades 8-12  
-Deadline: 2022-11-30T07:59:00+0800  
-Reward: 55000 USD  
-
-
 ## DFL - Bundesliga Data Shootout
 
 Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
