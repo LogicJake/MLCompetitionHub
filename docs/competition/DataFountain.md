@@ -10,54 +10,6 @@ Deadline: 2023-05-31T23:59:59+0800
 Reward: ￥165000  
 
 
-## 居民小区二次供水需求预测
-
-Link: https://www.datafountain.cn/competitions/603  
-Description: 居民小区二次供水需求预测  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥51000  
-
-
-## 水质净化厂工艺控制-曝气量预测
-
-Link: https://www.datafountain.cn/competitions/602  
-Description: 水质净化厂工艺控制-曝气量预测  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥51000  
-
-
-## Web攻击检测与分类识别
-
-Link: https://www.datafountain.cn/competitions/596  
-Description: Web攻击检测与分类识别  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥60000  
-
-
-## 大数据平台安全事件检测与分类识别
-
-Link: https://www.datafountain.cn/competitions/595  
-Description: 大数据平台安全事件检测与分类识别  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥80000  
-
-
-## 基于人工智能的漏洞数据分类
-
-Link: https://www.datafountain.cn/competitions/594  
-Description: 基于人工智能的漏洞数据分类  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥80000  
-
-
-## Linux跨平台二进制函数识别
-
-Link: https://www.datafountain.cn/competitions/593  
-Description: Linux跨平台二进制函数识别  
-Deadline: 2022-11-30T23:59:59+0800  
-Reward: ￥80000  
-
-
 ## 基于文心CV大模型的智慧城市视觉多任务识别
 
 Link: https://www.datafountain.cn/competitions/590  
@@ -144,4 +96,12 @@ Link: https://www.datafountain.cn/competitions/580
 Description: 系统访问风险识别  
 Deadline: 2022-12-31T23:59:59+0800  
 Reward: ￥50000  
+
+
+## 反洗钱规则计算
+
+Link: https://www.datafountain.cn/competitions/576  
+Description: 反洗钱规则计算  
+Deadline: 2022-12-10T23:59:59+0800  
+Reward: ￥27000  
 

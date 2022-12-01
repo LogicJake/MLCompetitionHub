@@ -2,6 +2,14 @@
 
 
 
+## Santa 2022 - The Christmas Card Conundrum <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/santa-2022  
+Description: Optimize the configuration space for printing an image  
+Deadline: 2023-01-18T07:59:00+0800  
+Reward: 50000 USD  
+
+
 ## RSNA Screening Mammography Breast Cancer Detection <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/rsna-breast-cancer-detection  
