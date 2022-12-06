@@ -2,6 +2,14 @@
 
 
 
+## 1st and Future - Player Contact Detection <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/nfl-player-contact-detection  
+Description: Detect Player Contacts from Sensor and Video Data  
+Deadline: 2023-03-02T07:59:00+0800  
+Reward: 100000 USD  
+
+
 ## Santa 2022 - The Christmas Card Conundrum <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/santa-2022  
@@ -10,7 +18,7 @@ Deadline: 2023-01-18T07:59:00+0800
 Reward: 50000 USD  
 
 
-## RSNA Screening Mammography Breast Cancer Detection <sup style="color:red">[new]<sup>  
+## RSNA Screening Mammography Breast Cancer Detection
 
 Link: https://www.kaggle.com/c/rsna-breast-cancer-detection  
 Description: Find breast cancers in screening mammograms  
