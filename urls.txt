@@ -993,3 +993,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/704
 https://aistudio.baidu.com/aistudio/competition/detail/706
 https://www.kaggle.com/c/santa-2022
 https://www.kaggle.com/c/nfl-player-contact-detection
+https://aistudio.baidu.com/aistudio/competition/detail/650

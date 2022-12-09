@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-12-08T16:55:23+08:00</updated>
+    <updated>2022-12-09T16:02:37+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/648"/>
         <summary>IEEE UV2022智慧城市数学建模大赛是第六届IEEE UV国际会议的一部分。寻求基于UV理念的智慧城市方案，期望参赛者用数学建模方法解决今天城市发展中的实际问题，实现更和谐、可持续的经济社会发展。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/648"><![CDATA[<h3>Description</h3>IEEE UV2022智慧城市数学建模大赛是第六届IEEE UV国际会议的一部分。寻求基于UV理念的智慧城市方案，期望参赛者用数学建模方法解决今天城市发展中的实际问题，实现更和谐、可持续的经济社会发展。<h3>Deadline: 2022-12-22T08:00:00+08:00</h3><h3>Reward: 学术礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/650</id>
+        <title><![CDATA[IEEE UV2022 Innovative Proposal Competition]]></title>
+        
+        <updated>2022-12-08T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/650"/>
+        <summary>作为IEEE UV2022国际会议的一部分， IEEE UV2022创新提案大赛旨在提高年轻一代对人类面临的挑战和困境的认识，培养年轻人的创造力和领导力，激发学生的创业热情，为建设一个更美好的世界而努力。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/650"><![CDATA[<h3>Description</h3>作为IEEE UV2022国际会议的一部分， IEEE UV2022创新提案大赛旨在提高年轻一代对人类面临的挑战和困境的认识，培养年轻人的创造力和领导力，激发学生的创业热情，为建设一个更美好的世界而努力。<h3>Deadline: 2023-01-31T08:00:00+08:00</h3><h3>Reward: 学术礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -135,20 +149,6 @@ Task 1: Unbiased Learning for Web Seach<h3>Deadline: 2023-01-21T08:00:00+08:00</
 Task 2: Pre-training for Web Search</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/536"><![CDATA[<h3>Description</h3>WSDM Cup 2023- Unbiased Learning &amp; Pre-training for Web Seach
 Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><h3>Reward: $6,500</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/660</id>
-        <title><![CDATA[百度搜索首届技术创新挑战赛：赛道一]]></title>
-        
-        <updated>2022-10-26T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/660"/>
-        <summary>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/660"><![CDATA[<h3>Description</h3>百度搜索技术创新挑战赛（简称STI）是由百度搜索发起，联合四大区域高校、学会共同举办的一项全国性科技竞赛，共有两个赛道。本赛道希望从答案抽取和答案检验两个方面调研真实网络环境下的文档级机器阅读理解技术，以求进一步提升深度智能问答效果，给用户提供更好的搜索体验。<h3>Deadline: 2022-12-25T08:00:00+08:00</h3><h3>Reward: 302,000元与盖章证书</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -635,6 +635,8 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
             <name><![CDATA[Kaggle]]></name>
         </author>
     </entry>
+    
+    
     
     
     
