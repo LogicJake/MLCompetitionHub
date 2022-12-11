@@ -97,11 +97,3 @@ Description: 系统访问风险识别
 Deadline: 2022-12-31T23:59:59+0800  
 Reward: ￥50000  
 
-
-## 反洗钱规则计算
-
-Link: https://www.datafountain.cn/competitions/576  
-Description: 反洗钱规则计算  
-Deadline: 2022-12-10T23:59:59+0800  
-Reward: ￥27000  
-
