@@ -2,7 +2,7 @@
 
 
 
-## 1st and Future - Player Contact Detection <sup style="color:red">[new]<sup>  
+## 1st and Future - Player Contact Detection
 
 Link: https://www.kaggle.com/c/nfl-player-contact-detection  
 Description: Detect Player Contacts from Sensor and Video Data  
