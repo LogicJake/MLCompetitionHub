@@ -10,7 +10,7 @@ Deadline: 2022-12-22T08:00:00+0800
 Reward: 学术礼包  
 
 
-## IEEE UV2022 Innovative Proposal Competition <sup style="color:red">[new]<sup>  
+## IEEE UV2022 Innovative Proposal Competition
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/650  
 Description: 作为IEEE UV2022国际会议的一部分， IEEE UV2022创新提案大赛旨在提高年轻一代对人类面临的挑战和困境的认识，培养年轻人的创造力和领导力，激发学生的创业热情，为建设一个更美好的世界而努力。  
