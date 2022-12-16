@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2022-12-15T16:00:48+08:00</updated>
+    <updated>2022-12-16T16:00:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -497,6 +497,20 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
     
     
     <entry>
+        <id>https://www.kaggle.com/c/learning-equality-curriculum-recommendations</id>
+        <title><![CDATA[Learning Equality - Curriculum Recommendations]]></title>
+        
+        <updated>2022-12-15T22:49:25+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/learning-equality-curriculum-recommendations"/>
+        <summary>Enhance learning by matching K-12 content to target topics</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/learning-equality-curriculum-recommendations"><![CDATA[<h3>Description</h3>Enhance learning by matching K-12 content to target topics<h3>Deadline: 2023-03-15T07:59:00+08:00</h3><h3>Reward: 55000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/nfl-player-contact-detection</id>
         <title><![CDATA[1st and Future - Player Contact Detection]]></title>
         
@@ -663,20 +677,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
         <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2022-12-20T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532035/introduction</id>
-        <title><![CDATA[AMWD 2022：阿里云安全WEBSHELL文本检测(赛季 1)]]></title>
-        
-        <updated>2022-10-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532035/introduction"/>
-        <summary>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532035/introduction"><![CDATA[<h3>Description</h3>恶意程序/恶意代码攻防是云安全-主机安全领域中的一个关键领域，也是安全行业多年一直在攻关与竞争的必争之地。利用恶意程序/恶意代码，攻击者在Web服务器上执行系统命令、窃取数据、植入病毒、勒索核心数据、SEO挂马等恶意操作，危害极大。<h3>Deadline: 2022-12-15T18:00:00+08:00</h3><h3>Reward: ￥80000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
