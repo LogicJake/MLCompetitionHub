@@ -2,6 +2,14 @@
 
 
 
+## GoDaddy - Microbusiness Density Forecasting <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting  
+Description: Forecast Next Month’s Microbusiness Density  
+Deadline: 2023-03-15T07:59:00+0800  
+Reward: 60000 USD  
+
+
 ## Learning Equality - Curriculum Recommendations <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/learning-equality-curriculum-recommendations  

@@ -995,3 +995,4 @@ https://www.kaggle.com/c/santa-2022
 https://www.kaggle.com/c/nfl-player-contact-detection
 https://aistudio.baidu.com/aistudio/competition/detail/650
 https://www.kaggle.com/c/learning-equality-curriculum-recommendations
+https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting
