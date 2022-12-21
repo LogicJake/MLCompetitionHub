@@ -73,11 +73,3 @@ Description: Help identify the thermostable mutations in enzymes
 Deadline: 2023-01-04T07:59:00+0800  
 Reward: 25000 USD  
 
-
-## DFL - Bundesliga Data Shootout
-
-Link: https://www.kaggle.com/c/dfl-bundesliga-data-shootout  
-Description: Identify plays based upon video footage   
-Deadline: 2022-12-21T07:59:00+0800  
-Reward: 25000 USD  
-
