@@ -10,7 +10,7 @@ Deadline: 2023-03-15T07:59:00+0800
 Reward: 60000 USD  
 
 
-## Learning Equality - Curriculum Recommendations <sup style="color:red">[new]<sup>  
+## Learning Equality - Curriculum Recommendations
 
 Link: https://www.kaggle.com/c/learning-equality-curriculum-recommendations  
 Description: Enhance learning by matching K-12 content to target topics  
