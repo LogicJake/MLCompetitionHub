@@ -2,7 +2,7 @@
 
 
 
-## GoDaddy - Microbusiness Density Forecasting <sup style="color:red">[new]<sup>  
+## GoDaddy - Microbusiness Density Forecasting
 
 Link: https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting  
 Description: Forecast Next Month’s Microbusiness Density  
