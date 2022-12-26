@@ -996,3 +996,6 @@ https://www.kaggle.com/c/nfl-player-contact-detection
 https://aistudio.baidu.com/aistudio/competition/detail/650
 https://www.kaggle.com/c/learning-equality-curriculum-recommendations
 https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting
+https://www.datafountain.cn/competitions/626
+https://www.datafountain.cn/competitions/625
+https://www.datafountain.cn/competitions/624
