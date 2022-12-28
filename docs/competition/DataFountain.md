@@ -2,6 +2,30 @@
 
 
 
+## 广告精准投放-可信执行环境 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/629  
+Description: 广告精准投放-可信执行环境  
+Deadline: 2023-07-31T23:59:59+0800  
+Reward: ￥60000  
+
+
+## 诈骗电话识别-联邦学习 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/628  
+Description: 诈骗电话识别-联邦学习  
+Deadline: 2023-07-31T23:59:59+0800  
+Reward: ￥60000  
+
+
+## 黑名单共享查询-多方安全计算 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/627  
+Description: 黑名单共享查询-多方安全计算  
+Deadline: 2023-07-31T23:59:59+0800  
+Reward: ￥60000  
+
+
 ## 智能分布式无线电地图构建 <sup style="color:red">[new]<sup>  
 
 Link: https://www.datafountain.cn/competitions/626  

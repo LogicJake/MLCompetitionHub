@@ -999,3 +999,6 @@ https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting
 https://www.datafountain.cn/competitions/626
 https://www.datafountain.cn/competitions/625
 https://www.datafountain.cn/competitions/624
+https://www.datafountain.cn/competitions/629
+https://www.datafountain.cn/competitions/628
+https://www.datafountain.cn/competitions/627
