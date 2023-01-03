@@ -1002,3 +1002,5 @@ https://www.datafountain.cn/competitions/624
 https://www.datafountain.cn/competitions/629
 https://www.datafountain.cn/competitions/628
 https://www.datafountain.cn/competitions/627
+https://tianchi.aliyun.com/competition/entrance/532047/introduction
+https://tianchi.aliyun.com/competition/entrance/532046/introduction
