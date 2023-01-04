@@ -57,19 +57,3 @@ Description: Help evaluate linemen on pass plays
 Deadline: 2023-01-10T07:59:00+0800  
 Reward: 100000 USD  
 
-
-## G2Net Detecting Continuous Gravitational Waves
-
-Link: https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves  
-Description: Help us detect long-lasting gravitational-wave signals!  
-Deadline: 2023-01-04T07:59:00+0800  
-Reward: 25000 USD  
-
-
-## Novozymes Enzyme Stability Prediction
-
-Link: https://www.kaggle.com/c/novozymes-enzyme-stability-prediction  
-Description: Help identify the thermostable mutations in enzymes  
-Deadline: 2023-01-04T07:59:00+0800  
-Reward: 25000 USD  
-

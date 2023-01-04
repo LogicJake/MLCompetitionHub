@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-01-03T16:00:59+08:00</updated>
+    <updated>2023-01-04T16:00:59+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -510,34 +510,6 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves</id>
-        <title><![CDATA[G2Net Detecting Continuous Gravitational Waves]]></title>
-        
-        <updated>2022-10-04T23:13:27+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves"/>
-        <summary>Help us detect long-lasting gravitational-wave signals!</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/g2net-detecting-continuous-gravitational-waves"><![CDATA[<h3>Description</h3>Help us detect long-lasting gravitational-wave signals!<h3>Deadline: 2023-01-04T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/novozymes-enzyme-stability-prediction</id>
-        <title><![CDATA[Novozymes Enzyme Stability Prediction]]></title>
-        
-        <updated>2022-09-22T05:55:10+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/novozymes-enzyme-stability-prediction"/>
-        <summary>Help identify the thermostable mutations in enzymes</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/novozymes-enzyme-stability-prediction"><![CDATA[<h3>Description</h3>Help identify the thermostable mutations in enzymes<h3>Deadline: 2023-01-04T07:59:00+08:00</h3><h3>Reward: 25000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
     
     
     
@@ -593,6 +565,34 @@ Task 2: Pre-training for Web Search<h3>Deadline: 2023-01-21T08:00:00+08:00</h3><
         <link href="https://tianchi.aliyun.com/competition/entrance/532030/introduction"/>
         <summary>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532030/introduction"><![CDATA[<h3>Description</h3>首届Imagine Computing创新技术大赛，是由阿里云与英特尔主办，阿里云天池平台、边缘云、视频云共同承办的顶级赛事。<h3>Deadline: 2023-01-05T18:00:00+08:00</h3><h3>Reward: ￥340000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532029/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 2)]]></title>
+        
+        <updated>2022-11-18T09:50:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532029/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532029/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2023-01-31T18:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532028/introduction</id>
+        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 2)]]></title>
+        
+        <updated>2022-11-18T09:50:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
+        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2023-01-31T18:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
