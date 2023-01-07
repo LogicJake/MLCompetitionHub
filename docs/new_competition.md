@@ -1,5 +1,35 @@
-> 更新时间: 2023-01-06T16:00:59+0800 
+> 更新时间: 2023-01-07T16:00:47+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛
+Link: https://aistudio.baidu.com/aistudio/competition/detail/760  
+Description: 第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
+Deadline: 2023-06-10T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+## ICDAR 2023 DTT in Images 2: Text Manipulation Detection(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532052/introduction  
+Description: Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.  
+Deadline: 2023-02-20T10:00:00+0800  
+Reward: ￥87000  
+
+## ICDAR2023 数字原生视频文本问答竞赛 赛道2：视频文本问答(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532050/introduction  
+Description: ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。  
+Deadline: 2023-03-15T10:00:00+0800  
+Reward: $3500  
+
+## ICDAR2023 数字原生视频文本问答竞赛 赛道1：端到端视频文字识别(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532049/introduction  
+Description: ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。  
+Deadline: 2023-03-15T10:00:00+0800  
+Reward: $3500  
+
+## ICDAR 2023 DTT in Images 1: Text Manipulation Classification(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532048/introduction  
+Description: Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.  
+Deadline: 2023-02-20T10:00:00+0800  
+Reward: ￥87000  
+

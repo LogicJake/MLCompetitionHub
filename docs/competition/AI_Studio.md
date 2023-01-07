@@ -2,6 +2,14 @@
 
 
 
+## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/760  
+Description: 第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
+Deadline: 2023-06-10T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## IEEE UV2022 Innovative Proposal Competition
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/650  
@@ -55,15 +63,6 @@ Reward: 国赛获奖证书
 Link: https://aistudio.baidu.com/aistudio/competition/detail/534  
 Description: WSDM Cup 2023- Unbiased Learning & Pre-training for Web Seach
 Task 1: Unbiased Learning for Web Seach  
-Deadline: 2023-01-21T08:00:00+0800  
-Reward: $6,500  
-
-
-## Pre-training for Web Search
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/536  
-Description: WSDM Cup 2023- Unbiased Learning & Pre-training for Web Seach
-Task 2: Pre-training for Web Search  
 Deadline: 2023-01-21T08:00:00+0800  
 Reward: $6,500  
 
