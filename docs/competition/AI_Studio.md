@@ -2,7 +2,7 @@
 
 
 
-## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛 <sup style="color:red">[new]<sup>  
+## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/760  
 Description: 第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
