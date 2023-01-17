@@ -10,7 +10,7 @@ Deadline: 2023-02-25T23:59:00+0800
 Reward: 绿色招聘直通车+名企招聘集市+开发者社区团聚  
 
 
-## DreamBooth Hackathon 文生图模型微调 <sup style="color:red">[new]<sup>  
+## DreamBooth Hackathon 文生图模型微调
 
 Link: https://www.kesci.com/home/competition/63bbfb98de6c0e9cdb0d9dd5  
 Description: DreamBooth Hackathon 文生图模型微调  
