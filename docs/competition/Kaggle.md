@@ -26,14 +26,6 @@ Deadline: 2023-03-02T07:59:00+0800
 Reward: 100000 USD  
 
 
-## Santa 2022 - The Christmas Card Conundrum
-
-Link: https://www.kaggle.com/c/santa-2022  
-Description: Optimize the configuration space for printing an image  
-Deadline: 2023-01-18T07:59:00+0800  
-Reward: 50000 USD  
-
-
 ## RSNA Screening Mammography Breast Cancer Detection
 
 Link: https://www.kaggle.com/c/rsna-breast-cancer-detection  

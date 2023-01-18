@@ -2,7 +2,7 @@
 
 
 
-## 2023 全球人工智能开发者先锋大会—AI 人才学习赛 <sup style="color:red">[new]<sup>  
+## 2023 全球人工智能开发者先锋大会—AI 人才学习赛
 
 Link: https://www.kesci.com/home/competition/63be011bde6c0e9cdb12b965  
 Description: 2023 全球人工智能开发者先锋大会—AI 人才学习赛  
