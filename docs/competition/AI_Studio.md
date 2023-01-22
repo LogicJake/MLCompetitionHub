@@ -57,12 +57,3 @@ Description: 中国大学生服务外包创新创业大赛是中国高等教育�
 Deadline: 2023-08-01T08:00:00+0800  
 Reward: 国赛获奖证书  
 
-
-## Unbiased Learning for Web Search
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/534  
-Description: WSDM Cup 2023- Unbiased Learning & Pre-training for Web Seach
-Task 1: Unbiased Learning for Web Seach  
-Deadline: 2023-01-21T08:00:00+0800  
-Reward: $6,500  
-
