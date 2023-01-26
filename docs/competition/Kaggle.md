@@ -2,6 +2,14 @@
 
 
 
+## Lux AI Season 2 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/lux-ai-season-2  
+Description: Terraform Mars!  
+Deadline: 2023-04-25T07:59:00+0800  
+Reward: 55000 USD  
+
+
 ## IceCube - Neutrinos in Deep Ice <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice  

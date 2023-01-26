@@ -1012,3 +1012,4 @@ https://tianchi.aliyun.com/competition/entrance/532048/introduction
 https://www.kesci.com/home/competition/63be011bde6c0e9cdb12b965
 https://www.kesci.com/home/competition/63bbfb98de6c0e9cdb0d9dd5
 https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice
+https://www.kaggle.com/c/lux-ai-season-2
