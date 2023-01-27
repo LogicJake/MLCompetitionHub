@@ -10,7 +10,7 @@ Deadline: 2023-04-25T07:59:00+0800
 Reward: 55000 USD  
 
 
-## IceCube - Neutrinos in Deep Ice <sup style="color:red">[new]<sup>  
+## IceCube - Neutrinos in Deep Ice
 
 Link: https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice  
 Description: Reconstruct the direction of neutrinos from the Universe to the South Pole  
