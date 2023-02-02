@@ -2,7 +2,7 @@
 
 
 
-## Lux AI Season 2 <sup style="color:red">[new]<sup>  
+## Lux AI Season 2
 
 Link: https://www.kaggle.com/c/lux-ai-season-2  
 Description: Terraform Mars!  
