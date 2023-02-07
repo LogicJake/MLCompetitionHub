@@ -2,6 +2,14 @@
 
 
 
+## Predict Student Performance from Game Play <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/predict-student-performance-from-game-play  
+Description: Trace student learning from Jo Wilder online educational game  
+Deadline: 2023-05-09T07:59:00+0800  
+Reward: 55000 USD  
+
+
 ## Lux AI Season 2
 
 Link: https://www.kaggle.com/c/lux-ai-season-2  

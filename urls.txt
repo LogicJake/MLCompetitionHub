@@ -1015,3 +1015,4 @@ https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice
 https://www.kaggle.com/c/lux-ai-season-2
 https://tianchi.aliyun.com/competition/entrance/532056/introduction
 https://tianchi.aliyun.com/competition/entrance/532054/introduction
+https://www.kaggle.com/c/predict-student-performance-from-game-play
