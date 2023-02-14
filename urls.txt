@@ -1016,3 +1016,5 @@ https://www.kaggle.com/c/lux-ai-season-2
 https://tianchi.aliyun.com/competition/entrance/532056/introduction
 https://tianchi.aliyun.com/competition/entrance/532054/introduction
 https://www.kaggle.com/c/predict-student-performance-from-game-play
+https://aistudio.baidu.com/aistudio/competition/detail/771
+https://www.kaggle.com/c/stable-diffusion-image-to-prompts

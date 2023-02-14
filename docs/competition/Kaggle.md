@@ -2,7 +2,15 @@
 
 
 
-## Predict Student Performance from Game Play <sup style="color:red">[new]<sup>  
+## Stable Diffusion - Image to Prompts <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/stable-diffusion-image-to-prompts  
+Description: Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images  
+Deadline: 2023-05-16T07:59:00+0800  
+Reward: 50000 USD  
+
+
+## Predict Student Performance from Game Play
 
 Link: https://www.kaggle.com/c/predict-student-performance-from-game-play  
 Description: Trace student learning from Jo Wilder online educational game  

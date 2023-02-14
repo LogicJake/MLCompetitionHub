@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-02-13T16:01:01+08:00</updated>
+    <updated>2023-02-14T16:01:02+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/771</id>
+        <title><![CDATA[第十六届中国计算机设计大赛—智慧救援组]]></title>
+        
+        <updated>2023-02-14T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/771"/>
+        <summary>2023年飞桨承办了”中国计算机设计大赛的智慧救援挑战赛，该组别将引导参赛团队基于飞桨与四足仿生机器人，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国排名前列的团队，即可获得机器狗的免费借用权。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/771"><![CDATA[<h3>Description</h3>2023年飞桨承办了”中国计算机设计大赛的智慧救援挑战赛，该组别将引导参赛团队基于飞桨与四足仿生机器人，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国排名前列的团队，即可获得机器狗的免费借用权。<h3>Deadline: 2023-08-08T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/760</id>
@@ -337,6 +351,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kaggle.com/c/stable-diffusion-image-to-prompts</id>
+        <title><![CDATA[Stable Diffusion - Image to Prompts]]></title>
+        
+        <updated>2023-02-14T03:55:38+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/stable-diffusion-image-to-prompts"/>
+        <summary>Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/stable-diffusion-image-to-prompts"><![CDATA[<h3>Description</h3>Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images<h3>Deadline: 2023-05-16T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kaggle.com/c/predict-student-performance-from-game-play</id>
