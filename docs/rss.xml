@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-02-14T16:01:02+08:00</updated>
+    <updated>2023-02-15T16:02:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -14,7 +14,7 @@
         <id>https://aistudio.baidu.com/aistudio/competition/detail/771</id>
         <title><![CDATA[第十六届中国计算机设计大赛—智慧救援组]]></title>
         
-        <updated>2023-02-14T08:00:00+08:00</updated>
+        <updated>2023-02-16T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/771"/>
         <summary>2023年飞桨承办了”中国计算机设计大赛的智慧救援挑战赛，该组别将引导参赛团队基于飞桨与四足仿生机器人，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国排名前列的团队，即可获得机器狗的免费借用权。</summary>
@@ -477,148 +477,6 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/63be011bde6c0e9cdb12b965"><![CDATA[<h3>Description</h3>2023 全球人工智能开发者先锋大会—AI 人才学习赛<h3>Deadline: 2023-02-25T23:59:00+08:00</h3><h3>Reward: 绿色招聘直通车+名企招聘集市+开发者社区团聚</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532056/introduction</id>
-        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 2: Color Distribution Consistency (CDC) Optimization(赛季 1)]]></title>
-        
-        <updated>2023-01-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532056/introduction"/>
-        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532056/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-07T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532054/introduction</id>
-        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 1: Fréchet Inception Distance (FID) Optimization(赛季 1)]]></title>
-        
-        <updated>2023-01-30T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532054/introduction"/>
-        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532054/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-07T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532052/introduction</id>
-        <title><![CDATA[ICDAR 2023 DTT in Images 2: Text Manipulation Detection(赛季 1)]]></title>
-        
-        <updated>2023-01-05T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532052/introduction"/>
-        <summary>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532052/introduction"><![CDATA[<h3>Description</h3>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.<h3>Deadline: 2023-02-20T10:00:00+08:00</h3><h3>Reward: ￥87000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532050/introduction</id>
-        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道2：视频文本问答(赛季 1)]]></title>
-        
-        <updated>2023-01-05T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532050/introduction"/>
-        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532050/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532049/introduction</id>
-        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道1：端到端视频文字识别(赛季 1)]]></title>
-        
-        <updated>2023-01-05T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532049/introduction"/>
-        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532049/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532048/introduction</id>
-        <title><![CDATA[ICDAR 2023 DTT in Images 1: Text Manipulation Classification(赛季 1)]]></title>
-        
-        <updated>2023-01-03T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532048/introduction"/>
-        <summary>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532048/introduction"><![CDATA[<h3>Description</h3>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.<h3>Deadline: 2023-02-20T10:00:00+08:00</h3><h3>Reward: ￥87000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532047/introduction</id>
-        <title><![CDATA[PolarDB Global Hackathon 2023(赛季 1)]]></title>
-        
-        <updated>2022-12-30T20:20:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532047/introduction"/>
-        <summary>PolarDB, the new-generation cloud native relational database service is fully compatible with MySQL, PostgreSQL and Oracle that is developed by Alibaba Cloud. This contest inspires developers and enterprises to use PolarDB to empower innovation.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532047/introduction"><![CDATA[<h3>Description</h3>PolarDB, the new-generation cloud native relational database service is fully compatible with MySQL, PostgreSQL and Oracle that is developed by Alibaba Cloud. This contest inspires developers and enterprises to use PolarDB to empower innovation.<h3>Deadline: 2023-02-28T18:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532046/introduction</id>
-        <title><![CDATA[第六届全国工业互联网数据创新应用大赛：工业生产反应装置的建模预测(赛季 1)]]></title>
-        
-        <updated>2022-12-10T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532046/introduction"/>
-        <summary>生产产物的浓度是生产产物的关键质量指标之一，反应器的温度是生产过程的关键安全指标之一。通过预测生产产物的浓度和反应器的温度，产线可以提前调整生产装置中的操作变量，达到生产过程更稳定更安全保质保量的目的。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532046/introduction"><![CDATA[<h3>Description</h3>生产产物的浓度是生产产物的关键质量指标之一，反应器的温度是生产过程的关键安全指标之一。通过预测生产产物的浓度和反应器的温度，产线可以提前调整生产装置中的操作变量，达到生产过程更稳定更安全保质保量的目的。<h3>Deadline: 2023-02-27T12:00:00+08:00</h3><h3>Reward: ￥310000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532029/introduction</id>
-        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道二“抗原抗体结合Epitope和Paratope精准确定”(赛季 2)]]></title>
-        
-        <updated>2022-11-18T09:50:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532029/introduction"/>
-        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532029/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2023-02-17T18:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532028/introduction</id>
-        <title><![CDATA[“云上进化”2022全球AI生物智药大赛：赛道一“基于AI算法的SARS-CoV-2广谱中和抗体药物设计”(赛季 2)]]></title>
-        
-        <updated>2022-11-18T09:50:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532028/introduction"/>
-        <summary>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532028/introduction"><![CDATA[<h3>Description</h3>近年来，AI+医疗的应用场景不断延伸。在传统制药行业，AI逐渐应用于药物靶点发现、虚拟筛选、化合物/生物结构合成、理化性质预测等多个流程。<h3>Deadline: 2023-02-17T18:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
