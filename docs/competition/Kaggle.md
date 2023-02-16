@@ -2,6 +2,14 @@
 
 
 
+## March Machine Learning Mania 2023 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/march-machine-learning-mania-2023  
+Description: Forecast the 2023 NCAA Basketball Tournaments  
+Deadline: 2023-03-17T00:00:00+0800  
+Reward: 50000 USD  
+
+
 ## Stable Diffusion - Image to Prompts <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/stable-diffusion-image-to-prompts  
