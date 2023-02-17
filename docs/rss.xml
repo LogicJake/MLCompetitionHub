@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-02-16T16:00:59+08:00</updated>
+    <updated>2023-02-17T16:01:08+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -353,6 +353,22 @@
     
     
     <entry>
+        <id>https://www.kaggle.com/c/amp-parkinsons-disease-progression-prediction</id>
+        <title><![CDATA[AMP®-Parkinson's Disease Progression Prediction]]></title>
+        
+        <updated>2023-02-17T03:03:24+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/amp-parkinsons-disease-progression-prediction"/>
+        <summary>Use protein and peptide data measurements from Parkinson's Disease patients to predict progression of the disease.
+</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/amp-parkinsons-disease-progression-prediction"><![CDATA[<h3>Description</h3>Use protein and peptide data measurements from Parkinson's Disease patients to predict progression of the disease.
+<h3>Deadline: 2023-05-19T07:59:00+08:00</h3><h3>Reward: 60000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kaggle.com/c/march-machine-learning-mania-2023</id>
         <title><![CDATA[March Machine Learning Mania 2023]]></title>
         
@@ -479,6 +495,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/63eee2950644cee838881588</id>
+        <title><![CDATA[数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道]]></title>
+        
+        <updated>2023-02-17T12:00:26+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/63eee2950644cee838881588"/>
+        <summary>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/63eee2950644cee838881588"><![CDATA[<h3>Description</h3>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道<h3>Deadline: 2023-04-30T23:59:00+08:00</h3><h3>Reward: ¥194,000+名企实习机会+生态合作伙伴</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.kesci.com/home/competition/63be011bde6c0e9cdb12b965</id>

@@ -1020,3 +1020,5 @@ https://aistudio.baidu.com/aistudio/competition/detail/771
 https://www.kaggle.com/c/stable-diffusion-image-to-prompts
 https://www.kaggle.com/c/march-machine-learning-mania-2023
 https://tianchi.aliyun.com/competition/entrance/532061/introduction
+https://www.kaggle.com/c/amp-parkinsons-disease-progression-prediction
+https://www.kesci.com/home/competition/63eee2950644cee838881588
