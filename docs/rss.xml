@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-02-19T16:00:55+08:00</updated>
+    <updated>2023-02-20T16:00:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -497,6 +497,48 @@
     
     
     <entry>
+        <id>https://www.kesci.com/home/competition/639676d623e6717493756b52</id>
+        <title><![CDATA[第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛]]></title>
+        
+        <updated>2023-02-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/639676d623e6717493756b52"/>
+        <summary>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/639676d623e6717493756b52"><![CDATA[<h3>Description</h3>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛<h3>Deadline: 2023-07-03T00:00:00+08:00</h3><h3>Reward: ¥ 91,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/63967ac323e6717493757a0c</id>
+        <title><![CDATA[第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-24小时降水短时预报算法赛]]></title>
+        
+        <updated>2023-02-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/63967ac323e6717493757a0c"/>
+        <summary>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-24小时降水短时预报算法赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/63967ac323e6717493757a0c"><![CDATA[<h3>Description</h3>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-24小时降水短时预报算法赛<h3>Deadline: 2023-07-02T23:59:00+08:00</h3><h3>Reward: ¥ 91,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kesci.com/home/competition/63967b5f23e6717493757ce9</id>
+        <title><![CDATA[第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——逐1小时风向风速和小时内极大风速0-48小时短期预报算法赛]]></title>
+        
+        <updated>2023-02-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.kesci.com/home/competition/63967b5f23e6717493757ce9"/>
+        <summary>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——逐1小时风向风速和小时内极大风速0-48小时短期预报算法赛</summary>
+        <content type="text/html" src="https://www.kesci.com/home/competition/63967b5f23e6717493757ce9"><![CDATA[<h3>Description</h3>第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——逐1小时风向风速和小时内极大风速0-48小时短期预报算法赛<h3>Deadline: 2023-07-02T23:59:00+08:00</h3><h3>Reward: ¥ 91,000</h3>]]></content>
+        <author>
+            <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.kesci.com/home/competition/63eee2950644cee838881588</id>
         <title><![CDATA[数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道]]></title>
         
@@ -504,7 +546,7 @@
         
         <link href="https://www.kesci.com/home/competition/63eee2950644cee838881588"/>
         <summary>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道</summary>
-        <content type="text/html" src="https://www.kesci.com/home/competition/63eee2950644cee838881588"><![CDATA[<h3>Description</h3>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道<h3>Deadline: 2023-04-30T23:59:00+08:00</h3><h3>Reward: ¥194,000+名企实习机会+生态合作伙伴</h3>]]></content>
+        <content type="text/html" src="https://www.kesci.com/home/competition/63eee2950644cee838881588"><![CDATA[<h3>Description</h3>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道<h3>Deadline: 2023-04-30T23:59:00+08:00</h3><h3>Reward: ¥ 97,000+名企实习机会+生态合作伙伴</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
         </author>
@@ -528,7 +570,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532061/introduction</id>
-        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommender System(赛季 1)]]></title>
+        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommendation System(赛季 1)]]></title>
         
         <updated>2023-02-15T08:00:00+08:00</updated>
         
