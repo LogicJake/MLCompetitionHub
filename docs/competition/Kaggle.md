@@ -19,7 +19,7 @@ Deadline: 2023-03-17T00:00:00+0800
 Reward: 50000 USD  
 
 
-## Stable Diffusion - Image to Prompts <sup style="color:red">[new]<sup>  
+## Stable Diffusion - Image to Prompts
 
 Link: https://www.kaggle.com/c/stable-diffusion-image-to-prompts  
 Description: Deduce the prompts that generated our "highly detailed, sharp focus, illustration, 3d renders of majestic, epic" images  

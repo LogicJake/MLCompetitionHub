@@ -2,6 +2,14 @@
 
 
 
+## PaddlePaddle Hackathon 飞桨黑客马拉松第四期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/776  
+Description: 2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
+Deadline: 2023-05-15T08:00:00+0800  
+Reward: ￥1000,000  
+
+
 ## 第十六届中国计算机设计大赛—智慧救援组 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/771  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/706
 Description: 为了帮助人们消除带有水印的图片日常生活中带有水印的图片很常见，即使是PS专家，也很难快速且不留痕迹的去除水印。在上次比赛中我们举办了去水印模型大赛，本次我们提高了难度，提高了在水印种类的广泛性，同时在模型性能上做了更高的要求，向各位选手发起挑战。  
 Deadline: 2023-03-17T08:00:00+0800  
 Reward: ¥10000+特别礼包  
-
-
-## 智慧医疗-第十四届中国大学生服务外包创新创业大赛百度赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/722  
-Description: 中国大学生服务外包创新创业大赛是中国高等教育学会全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于百度飞桨的3D 医疗数据解析平台”的赛道，助力中国智慧医疗事业发展。  
-Deadline: 2023-08-01T08:00:00+0800  
-Reward: 国赛获奖证书  
 

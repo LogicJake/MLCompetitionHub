@@ -1,23 +1,11 @@
-> 更新时间: 2023-02-20T16:00:52+0800 
+> 更新时间: 2023-02-21T16:00:57+0800 
 
 # 新上线比赛
 
 
-## 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛
-Link: https://www.kesci.com/home/competition/639676d623e6717493756b52  
-Description: 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛  
-Deadline: 2023-07-03T00:00:00+0800  
-Reward: ¥ 91,000  
-
-## 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-24小时降水短时预报算法赛
-Link: https://www.kesci.com/home/competition/63967ac323e6717493757a0c  
-Description: 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-24小时降水短时预报算法赛  
-Deadline: 2023-07-02T23:59:00+0800  
-Reward: ¥ 91,000  
-
-## 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——逐1小时风向风速和小时内极大风速0-48小时短期预报算法赛
-Link: https://www.kesci.com/home/competition/63967b5f23e6717493757ce9  
-Description: 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——逐1小时风向风速和小时内极大风速0-48小时短期预报算法赛  
-Deadline: 2023-07-02T23:59:00+0800  
-Reward: ¥ 91,000  
+## PaddlePaddle Hackathon 飞桨黑客马拉松第四期
+Link: https://aistudio.baidu.com/aistudio/competition/detail/776  
+Description: 2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。  
+Deadline: 2023-05-15T08:00:00+0800  
+Reward: ￥1000,000  
 
