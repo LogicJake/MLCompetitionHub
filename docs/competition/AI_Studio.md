@@ -10,7 +10,7 @@ Deadline: 2023-05-15T08:00:00+0800
 Reward: ￥1000,000  
 
 
-## 第十六届中国计算机设计大赛—智慧救援组 <sup style="color:red">[new]<sup>  
+## 第十六届中国计算机设计大赛—智慧救援组
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/771  
 Description: 2023年飞桨承办了”中国计算机设计大赛的智慧救援挑战赛，该组别将引导参赛团队基于飞桨与四足仿生机器人，聚焦城市导盲的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国排名前列的团队，即可获得机器狗的免费借用权。  

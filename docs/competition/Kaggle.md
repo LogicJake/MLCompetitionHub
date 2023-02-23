@@ -11,7 +11,7 @@ Deadline: 2023-05-19T07:59:00+0800
 Reward: 60000 USD  
 
 
-## March Machine Learning Mania 2023 <sup style="color:red">[new]<sup>  
+## March Machine Learning Mania 2023
 
 Link: https://www.kaggle.com/c/march-machine-learning-mania-2023  
 Description: Forecast the 2023 NCAA Basketball Tournaments  
