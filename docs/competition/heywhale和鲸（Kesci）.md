@@ -26,7 +26,7 @@ Deadline: 2023-07-02T23:59:00+0800
 Reward: ¥ 91,000  
 
 
-## 数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道 <sup style="color:red">[new]<sup>  
+## 数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道
 
 Link: https://www.kesci.com/home/competition/63eee2950644cee838881588  
 Description: 数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道  

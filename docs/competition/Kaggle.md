@@ -2,7 +2,15 @@
 
 
 
-## AMP®-Parkinson's Disease Progression Prediction <sup style="color:red">[new]<sup>  
+## Google - Isolated Sign Language Recognition <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/asl-signs  
+Description: Enhance PopSign's educational games for learning ASL  
+Deadline: 2023-05-02T07:59:00+0800  
+Reward: 100000 USD  
+
+
+## AMP®-Parkinson's Disease Progression Prediction
 
 Link: https://www.kaggle.com/c/amp-parkinsons-disease-progression-prediction  
 Description: Use protein and peptide data measurements from Parkinson's Disease patients to predict progression of the disease.
