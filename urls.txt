@@ -1028,3 +1028,7 @@ https://www.kesci.com/home/competition/63967b5f23e6717493757ce9
 https://aistudio.baidu.com/aistudio/competition/detail/776
 https://tianchi.aliyun.com/competition/entrance/532063/introduction
 https://www.kaggle.com/c/asl-signs
+https://signate.jp/competitions/978
+https://signate.jp/competitions/932
+https://signate.jp/competitions/936
+https://signate.jp/competitions/841
