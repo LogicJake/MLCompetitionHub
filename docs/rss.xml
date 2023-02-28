@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-02-27T16:02:45+08:00</updated>
+    <updated>2023-02-28T16:00:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -494,20 +494,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kaggle.com/c/rsna-breast-cancer-detection</id>
-        <title><![CDATA[RSNA Screening Mammography Breast Cancer Detection]]></title>
-        
-        <updated>2022-11-29T06:58:52+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/rsna-breast-cancer-detection"/>
-        <summary>Find breast cancers in screening mammograms</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/rsna-breast-cancer-detection"><![CDATA[<h3>Description</h3>Find breast cancers in screening mammograms<h3>Deadline: 2023-02-28T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -572,7 +558,7 @@
         <id>https://signate.jp/competitions/978</id>
         <title><![CDATA[【招待制】HPO モジュールコンテスト 本戦]]></title>
         
-        <updated>2023-02-27T16:02:45+08:00</updated>
+        <updated>2023-02-28T16:00:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/978"/>
         <summary>ハイパパラメータ最適化を短時間で行うモジュールを開発しよう！</summary>
@@ -586,7 +572,7 @@
         <id>https://signate.jp/competitions/932</id>
         <title><![CDATA[渋滞予測チャレンジコンテスト]]></title>
         
-        <updated>2023-02-27T16:02:45+08:00</updated>
+        <updated>2023-02-28T16:00:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/932"/>
         <summary>～高速料金・ルート検索データを活用した高速道路の渋滞予測高度化への挑戦～</summary>
@@ -600,7 +586,7 @@
         <id>https://signate.jp/competitions/936</id>
         <title><![CDATA[ブルーカーボン・ダイナミクスを可視化せよ！]]></title>
         
-        <updated>2023-02-27T16:02:45+08:00</updated>
+        <updated>2023-02-28T16:00:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/936"/>
         <summary>沖縄県沿岸の水深・水温等の環境条件のデータから、海草藻場の被度を予測しよう！</summary>
@@ -614,13 +600,141 @@
         <id>https://signate.jp/competitions/841</id>
         <title><![CDATA[第１回 金融データ活用チャレンジ]]></title>
         
-        <updated>2023-02-27T16:02:45+08:00</updated>
+        <updated>2023-02-28T16:00:49+08:00</updated>
         
         <link href="https://signate.jp/competitions/841"/>
         <summary>MUFG、みずほFG、三井住友信託銀行、SBIホールディングス、SBI新生銀行が共催 ～本邦初の超実践プログラム～</summary>
         <content type="text/html" src="https://signate.jp/competitions/841"><![CDATA[<h3>Description</h3>MUFG、みずほFG、三井住友信託銀行、SBIホールディングス、SBI新生銀行が共催 ～本邦初の超実践プログラム～<h3>Deadline: 2023-03-05T23:59:59+08:00</h3><h3>Reward: 総額¥1,000,000</h3>]]></content>
         <author>
             <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532063/introduction</id>
+        <title><![CDATA[ACL Doc2dial Workshop(赛季 1)]]></title>
+        
+        <updated>2023-02-17T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532063/introduction"/>
+        <summary>Welcome to the Third DialDoc Workshop Shared Task co-located with ACL 2023! This task is hosted by Alibaba Damo Academy and co-hosted by Nanjing University. Goal-oriented document-grounded dialogue systems enable end users to interactively query about domain-specific information based on the given documents.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532063/introduction"><![CDATA[<h3>Description</h3>Welcome to the Third DialDoc Workshop Shared Task co-located with ACL 2023! This task is hosted by Alibaba Damo Academy and co-hosted by Nanjing University. Goal-oriented document-grounded dialogue systems enable end users to interactively query about domain-specific information based on the given documents.<h3>Deadline: 2023-03-31T10:00:00+08:00</h3><h3>Reward: $7000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532061/introduction</id>
+        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommendation System(赛季 1)]]></title>
+        
+        <updated>2023-02-15T08:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532061/introduction"/>
+        <summary>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532061/introduction"><![CDATA[<h3>Description</h3>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.<h3>Deadline: 2023-03-31T06:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532056/introduction</id>
+        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 2: Color Distribution Consistency (CDC) Optimization(赛季 1)]]></title>
+        
+        <updated>2023-01-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532056/introduction"/>
+        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532056/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-07T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532054/introduction</id>
+        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 1: Fréchet Inception Distance (FID) Optimization(赛季 1)]]></title>
+        
+        <updated>2023-01-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532054/introduction"/>
+        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532054/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-07T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532052/introduction</id>
+        <title><![CDATA[ICDAR 2023 DTT in Images 2: Text Manipulation Detection(赛季 1)]]></title>
+        
+        <updated>2023-01-05T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532052/introduction"/>
+        <summary>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532052/introduction"><![CDATA[<h3>Description</h3>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: ￥87000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532050/introduction</id>
+        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道2：视频文本问答(赛季 1)]]></title>
+        
+        <updated>2023-01-05T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532050/introduction"/>
+        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532050/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532049/introduction</id>
+        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道1：端到端视频文字识别(赛季 1)]]></title>
+        
+        <updated>2023-01-05T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532049/introduction"/>
+        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532049/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532048/introduction</id>
+        <title><![CDATA[ICDAR 2023 DTT in Images 1: Text Manipulation Classification(赛季 1)]]></title>
+        
+        <updated>2023-01-03T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532048/introduction"/>
+        <summary>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532048/introduction"><![CDATA[<h3>Description</h3>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.<h3>Deadline: 2023-03-15T10:00:00+08:00</h3><h3>Reward: ￥87000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532047/introduction</id>
+        <title><![CDATA[PolarDB Global Hackathon 2023(赛季 1)]]></title>
+        
+        <updated>2022-12-30T20:20:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532047/introduction"/>
+        <summary>PolarDB, the new-generation cloud native relational database service is fully compatible with MySQL, PostgreSQL and Oracle that is developed by Alibaba Cloud. This contest inspires developers and enterprises to use PolarDB to empower innovation.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532047/introduction"><![CDATA[<h3>Description</h3>PolarDB, the new-generation cloud native relational database service is fully compatible with MySQL, PostgreSQL and Oracle that is developed by Alibaba Cloud. This contest inspires developers and enterprises to use PolarDB to empower innovation.<h3>Deadline: 2023-03-14T10:00:00+08:00</h3><h3>Reward: $30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
