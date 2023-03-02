@@ -74,11 +74,3 @@ Description: Enhance learning by matching K-12 content to target topics
 Deadline: 2023-03-15T07:59:00+0800  
 Reward: 55000 USD  
 
-
-## 1st and Future - Player Contact Detection
-
-Link: https://www.kaggle.com/c/nfl-player-contact-detection  
-Description: Detect Player Contacts from Sensor and Video Data  
-Deadline: 2023-03-02T07:59:00+0800  
-Reward: 100000 USD  
-

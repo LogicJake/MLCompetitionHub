@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-01T16:00:57+08:00</updated>
+    <updated>2023-03-02T16:00:43+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -480,20 +480,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://www.kaggle.com/c/nfl-player-contact-detection</id>
-        <title><![CDATA[1st and Future - Player Contact Detection]]></title>
-        
-        <updated>2022-12-06T04:38:03+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/nfl-player-contact-detection"/>
-        <summary>Detect Player Contacts from Sensor and Video Data</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/nfl-player-contact-detection"><![CDATA[<h3>Description</h3>Detect Player Contacts from Sensor and Video Data<h3>Deadline: 2023-03-02T07:59:00+08:00</h3><h3>Reward: 100000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -558,7 +544,7 @@
         <id>https://signate.jp/competitions/978</id>
         <title><![CDATA[【招待制】HPO モジュールコンテスト 本戦]]></title>
         
-        <updated>2023-03-01T16:00:57+08:00</updated>
+        <updated>2023-03-02T16:00:43+08:00</updated>
         
         <link href="https://signate.jp/competitions/978"/>
         <summary>ハイパパラメータ最適化を短時間で行うモジュールを開発しよう！</summary>
@@ -572,7 +558,7 @@
         <id>https://signate.jp/competitions/932</id>
         <title><![CDATA[渋滞予測チャレンジコンテスト]]></title>
         
-        <updated>2023-03-01T16:00:57+08:00</updated>
+        <updated>2023-03-02T16:00:43+08:00</updated>
         
         <link href="https://signate.jp/competitions/932"/>
         <summary>～高速料金・ルート検索データを活用した高速道路の渋滞予測高度化への挑戦～</summary>
@@ -586,7 +572,7 @@
         <id>https://signate.jp/competitions/936</id>
         <title><![CDATA[ブルーカーボン・ダイナミクスを可視化せよ！]]></title>
         
-        <updated>2023-03-01T16:00:57+08:00</updated>
+        <updated>2023-03-02T16:00:43+08:00</updated>
         
         <link href="https://signate.jp/competitions/936"/>
         <summary>沖縄県沿岸の水深・水温等の環境条件のデータから、海草藻場の被度を予測しよう！</summary>
@@ -600,7 +586,7 @@
         <id>https://signate.jp/competitions/841</id>
         <title><![CDATA[第１回 金融データ活用チャレンジ]]></title>
         
-        <updated>2023-03-01T16:00:57+08:00</updated>
+        <updated>2023-03-02T16:00:43+08:00</updated>
         
         <link href="https://signate.jp/competitions/841"/>
         <summary>MUFG、みずほFG、三井住友信託銀行、SBIホールディングス、SBI新生銀行が共催 ～本邦初の超実践プログラム～</summary>
