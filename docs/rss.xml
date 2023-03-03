@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-02T16:00:43+08:00</updated>
+    <updated>2023-03-03T16:00:55+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -544,7 +544,7 @@
         <id>https://signate.jp/competitions/978</id>
         <title><![CDATA[【招待制】HPO モジュールコンテスト 本戦]]></title>
         
-        <updated>2023-03-02T16:00:43+08:00</updated>
+        <updated>2023-03-03T16:00:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/978"/>
         <summary>ハイパパラメータ最適化を短時間で行うモジュールを開発しよう！</summary>
@@ -558,7 +558,7 @@
         <id>https://signate.jp/competitions/932</id>
         <title><![CDATA[渋滞予測チャレンジコンテスト]]></title>
         
-        <updated>2023-03-02T16:00:43+08:00</updated>
+        <updated>2023-03-03T16:00:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/932"/>
         <summary>～高速料金・ルート検索データを活用した高速道路の渋滞予測高度化への挑戦～</summary>
@@ -572,7 +572,7 @@
         <id>https://signate.jp/competitions/936</id>
         <title><![CDATA[ブルーカーボン・ダイナミクスを可視化せよ！]]></title>
         
-        <updated>2023-03-02T16:00:43+08:00</updated>
+        <updated>2023-03-03T16:00:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/936"/>
         <summary>沖縄県沿岸の水深・水温等の環境条件のデータから、海草藻場の被度を予測しよう！</summary>
@@ -586,7 +586,7 @@
         <id>https://signate.jp/competitions/841</id>
         <title><![CDATA[第１回 金融データ活用チャレンジ]]></title>
         
-        <updated>2023-03-02T16:00:43+08:00</updated>
+        <updated>2023-03-03T16:00:55+08:00</updated>
         
         <link href="https://signate.jp/competitions/841"/>
         <summary>MUFG、みずほFG、三井住友信託銀行、SBIホールディングス、SBI新生銀行が共催 ～本邦初の超実践プログラム～</summary>
@@ -600,7 +600,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532064/introduction</id>
-        <title><![CDATA[云上开发挑战赛 第一期：弹性计算(赛季 1)]]></title>
+        <title><![CDATA[云上开发挑战赛 第一期:云上部署公司业务网站(赛季 1)]]></title>
         
         <updated>2023-03-01T12:00:00+08:00</updated>
         
@@ -672,7 +672,7 @@
         <id>https://tianchi.aliyun.com/competition/entrance/532052/introduction</id>
         <title><![CDATA[ICDAR 2023 DTT in Images 2: Text Manipulation Detection(赛季 1)]]></title>
         
-        <updated>2023-01-05T10:00:00+08:00</updated>
+        <updated>2023-01-01T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532052/introduction"/>
         <summary>Texts in images efficiently deliver dense information and become one of the most common mediums for various applications, such as digital finance, electronic commerce, security audit, and qualification review. As texts contain important information, it is crucial that we can prevent text from tampering. In fact, a small change in a sentence might significantly twist the whole carried semantic information.</summary>

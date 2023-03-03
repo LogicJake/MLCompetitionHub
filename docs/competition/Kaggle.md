@@ -2,7 +2,7 @@
 
 
 
-## Google - Isolated Sign Language Recognition <sup style="color:red">[new]<sup>  
+## Google - Isolated Sign Language Recognition
 
 Link: https://www.kaggle.com/c/asl-signs  
 Description: Enhance PopSign's educational games for learning ASL  
