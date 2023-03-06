@@ -25,11 +25,3 @@ Description: 沖縄県沿岸の水深・水温等の環境条件のデータか�
 Deadline: 2023-04-30T23:59:59+0800  
 Reward: 総額¥1,000,000  
 
-
-## 第１回 金融データ活用チャレンジ
-
-Link: https://signate.jp/competitions/841  
-Description: MUFG、みずほFG、三井住友信託銀行、SBIホールディングス、SBI新生銀行が共催 ～本邦初の超実践プログラム～  
-Deadline: 2023-03-05T23:59:59+0800  
-Reward: 総額¥1,000,000  
-
