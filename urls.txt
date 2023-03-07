@@ -1033,3 +1033,5 @@ https://signate.jp/competitions/932
 https://signate.jp/competitions/936
 https://signate.jp/competitions/841
 https://tianchi.aliyun.com/competition/entrance/532064/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/860
+https://signate.jp/competitions/1037

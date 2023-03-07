@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-06T16:01:05+08:00</updated>
+    <updated>2023-03-07T16:03:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/776"/>
         <summary>2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/776"><![CDATA[<h3>Description</h3>2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。<h3>Deadline: 2023-05-15T08:00:00+08:00</h3><h3>Reward: ￥1000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/860</id>
+        <title><![CDATA[飞桨黑客马拉松第四期：用LoRA、DreamBooth黑科技画你所想——AIGC趣味模型创意赛]]></title>
+        
+        <updated>2023-02-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/860"/>
+        <summary>基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/860"><![CDATA[<h3>Description</h3>基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！<h3>Deadline: 2023-05-20T08:00:00+08:00</h3><h3>Reward: ¥3,000+特别礼品</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -91,204 +105,6 @@
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/706"><![CDATA[<h3>Description</h3>为了帮助人们消除带有水印的图片日常生活中带有水印的图片很常见，即使是PS专家，也很难快速且不留痕迹的去除水印。在上次比赛中我们举办了去水印模型大赛，本次我们提高了难度，提高了在水印种类的广泛性，同时在模型性能上做了更高的要求，向各位选手发起挑战。<h3>Deadline: 2023-03-17T08:00:00+08:00</h3><h3>Reward: ¥10000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/722</id>
-        <title><![CDATA[智慧医疗-第十四届中国大学生服务外包创新创业大赛百度赛道]]></title>
-        
-        <updated>2022-11-27T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/722"/>
-        <summary>中国大学生服务外包创新创业大赛是中国高等教育学会全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于百度飞桨的3D 医疗数据解析平台”的赛道，助力中国智慧医疗事业发展。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/722"><![CDATA[<h3>Description</h3>中国大学生服务外包创新创业大赛是中国高等教育学会全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于百度飞桨的3D 医疗数据解析平台”的赛道，助力中国智慧医疗事业发展。<h3>Deadline: 2023-08-01T08:00:00+08:00</h3><h3>Reward: 国赛获奖证书</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/hgb-3/</id>
-        <title><![CDATA[Heterogeneous Graph Benchmark - Knowledge-aware Recommendation]]></title>
-        
-        <updated>2021-06-29T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/hgb-3/"/>
-        <summary>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-3/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/hgb-2/</id>
-        <title><![CDATA[Heterogeneous Graph Benchmark - Link Prediction]]></title>
-        
-        <updated>2021-06-29T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/hgb-2/"/>
-        <summary>Heterogeneous Graph Benchmark - Link Prediction</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-2/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Link Prediction<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/hgb-1/</id>
-        <title><![CDATA[Heterogeneous Graph Benchmark - Node Classification]]></title>
-        
-        <updated>2021-06-28T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/hgb-1/"/>
-        <summary>Heterogeneous Graph Benchmark - Node Classification</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-1/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Node Classification<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race/</id>
-        <title><![CDATA[RACE Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race/"/>
-        <summary>RACE Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/mctest/</id>
-        <title><![CDATA[MCTest Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/mctest/"/>
-        <summary>MCTest Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
-        <title><![CDATA[OpenBookQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
-        <summary>OpenBookQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/mutual/</id>
-        <title><![CDATA[MuTual Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/mutual/"/>
-        <summary>MuTual Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race_c/</id>
-        <title><![CDATA[RACE-C Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race_c/"/>
-        <summary>RACE-C Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/dream/</id>
-        <title><![CDATA[Dream Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/dream/"/>
-        <summary>Dream Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
-        <title><![CDATA[CommonsenseQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
-        <summary>CommonsenseQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/c3/</id>
-        <title><![CDATA[C3 Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/c3/"/>
-        <summary>C3 Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/sciq/</id>
-        <title><![CDATA[SciQ Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/sciq/"/>
-        <summary>SciQ Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
         </author>
     </entry>
     
@@ -541,10 +357,24 @@
     
     
     <entry>
+        <id>https://signate.jp/competitions/1037</id>
+        <title><![CDATA[ChatGPT チャレンジ]]></title>
+        
+        <updated>2023-03-07T16:03:03+08:00</updated>
+        
+        <link href="https://signate.jp/competitions/1037"/>
+        <summary>ChatGPTのビジネス活用事例を集約しよう！</summary>
+        <content type="text/html" src="https://signate.jp/competitions/1037"><![CDATA[<h3>Description</h3>ChatGPTのビジネス活用事例を集約しよう！<h3>Deadline: 2023-04-16T23:59:59+08:00</h3><h3>Reward: 総額 ¥200,000</h3>]]></content>
+        <author>
+            <name><![CDATA[SIGNATE]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://signate.jp/competitions/978</id>
         <title><![CDATA[【招待制】HPO モジュールコンテスト 本戦]]></title>
         
-        <updated>2023-03-06T16:01:05+08:00</updated>
+        <updated>2023-03-07T16:03:03+08:00</updated>
         
         <link href="https://signate.jp/competitions/978"/>
         <summary>ハイパパラメータ最適化を短時間で行うモジュールを開発しよう！</summary>
@@ -558,7 +388,7 @@
         <id>https://signate.jp/competitions/932</id>
         <title><![CDATA[渋滞予測チャレンジコンテスト]]></title>
         
-        <updated>2023-03-06T16:01:05+08:00</updated>
+        <updated>2023-03-07T16:03:03+08:00</updated>
         
         <link href="https://signate.jp/competitions/932"/>
         <summary>～高速料金・ルート検索データを活用した高速道路の渋滞予測高度化への挑戦～</summary>
@@ -572,7 +402,7 @@
         <id>https://signate.jp/competitions/936</id>
         <title><![CDATA[ブルーカーボン・ダイナミクスを可視化せよ！]]></title>
         
-        <updated>2023-03-06T16:01:05+08:00</updated>
+        <updated>2023-03-07T16:03:03+08:00</updated>
         
         <link href="https://signate.jp/competitions/936"/>
         <summary>沖縄県沿岸の水深・水温等の環境条件のデータから、海草藻場の被度を予測しよう！</summary>

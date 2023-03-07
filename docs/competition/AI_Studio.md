@@ -10,6 +10,14 @@ Deadline: 2023-05-15T08:00:00+0800
 Reward: ￥1000,000  
 
 
+## 飞桨黑客马拉松第四期：用LoRA、DreamBooth黑科技画你所想——AIGC趣味模型创意赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/860  
+Description: 基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！  
+Deadline: 2023-05-20T08:00:00+0800  
+Reward: ¥3,000+特别礼品  
+
+
 ## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/760  
@@ -48,12 +56,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/706
 Description: 为了帮助人们消除带有水印的图片日常生活中带有水印的图片很常见，即使是PS专家，也很难快速且不留痕迹的去除水印。在上次比赛中我们举办了去水印模型大赛，本次我们提高了难度，提高了在水印种类的广泛性，同时在模型性能上做了更高的要求，向各位选手发起挑战。  
 Deadline: 2023-03-17T08:00:00+0800  
 Reward: ¥10000+特别礼包  
-
-
-## 智慧医疗-第十四届中国大学生服务外包创新创业大赛百度赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/722  
-Description: 中国大学生服务外包创新创业大赛是中国高等教育学会全国普通高校学科竞赛排行榜内竞赛，本届赛事，百度飞桨设立了“基于百度飞桨的3D 医疗数据解析平台”的赛道，助力中国智慧医疗事业发展。  
-Deadline: 2023-08-01T08:00:00+0800  
-Reward: 国赛获奖证书  
 
