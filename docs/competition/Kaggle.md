@@ -2,6 +2,14 @@
 
 
 
+## BirdCLEF 2023 <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/birdclef-2023  
+Description: Identify bird calls in soundscapes  
+Deadline: 2023-05-25T07:59:00+0800  
+Reward: 50000 USD  
+
+
 ## Google - Isolated Sign Language Recognition
 
 Link: https://www.kaggle.com/c/asl-signs  
