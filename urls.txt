@@ -1036,3 +1036,4 @@ https://tianchi.aliyun.com/competition/entrance/532064/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/860
 https://signate.jp/competitions/1037
 https://www.kaggle.com/c/birdclef-2023
+https://www.kaggle.com/c/tlvmc-parkinsons-freezing-gait-prediction

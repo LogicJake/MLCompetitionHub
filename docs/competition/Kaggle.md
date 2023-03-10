@@ -2,6 +2,14 @@
 
 
 
+## Parkinson's Freezing of Gait Prediction <sup style="color:red">[new]<sup>  
+
+Link: https://www.kaggle.com/c/tlvmc-parkinsons-freezing-gait-prediction  
+Description: Event detection from wearable sensor data   
+Deadline: 2023-06-09T07:59:00+0800  
+Reward: 100000 USD  
+
+
 ## BirdCLEF 2023 <sup style="color:red">[new]<sup>  
 
 Link: https://www.kaggle.com/c/birdclef-2023  
