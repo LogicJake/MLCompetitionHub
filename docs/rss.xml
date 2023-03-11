@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-10T16:02:57+08:00</updated>
+    <updated>2023-03-11T16:03:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -421,6 +421,34 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532061/introduction"/>
         <summary>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532061/introduction"><![CDATA[<h3>Description</h3>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.<h3>Deadline: 2023-03-31T06:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532056/introduction</id>
+        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 2: Color Distribution Consistency (CDC) Optimization(赛季 1)]]></title>
+        
+        <updated>2023-01-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532056/introduction"/>
+        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532056/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-14T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532054/introduction</id>
+        <title><![CDATA[NTIRE 2023 Video Colorization Challenge Track 1: Fréchet Inception Distance (FID) Optimization(赛季 1)]]></title>
+        
+        <updated>2023-01-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532054/introduction"/>
+        <summary>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532054/introduction"><![CDATA[<h3>Description</h3>Image manipulation is a key computer vision tasks, aiming at the restoration of degraded image content, the filling in of missing information, or the needed transformation and/or manipulation to achieve a desired target (with respect to perceptual quality, contents, or performance of apps working on such images). Recent years have witnessed an increased interest from the vision and graphics communities in these fundamental topics of research. Not only has there been a constantly growing flow of related papers, but also substantial progress has been achieved.<h3>Deadline: 2023-03-14T23:55:00+08:00</h3><h3>Reward: $4000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
