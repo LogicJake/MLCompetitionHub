@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-14T16:04:42+08:00</updated>
+    <updated>2023-03-15T16:07:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -291,34 +291,6 @@
         <link href="https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice"/>
         <summary>Reconstruct the direction of neutrinos from the Universe to the South Pole</summary>
         <content type="text/html" src="https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice"><![CDATA[<h3>Description</h3>Reconstruct the direction of neutrinos from the Universe to the South Pole<h3>Deadline: 2023-04-20T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting</id>
-        <title><![CDATA[GoDaddy - Microbusiness Density Forecasting]]></title>
-        
-        <updated>2022-12-17T03:01:09+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting"/>
-        <summary>Forecast Next Month’s Microbusiness Density</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting"><![CDATA[<h3>Description</h3>Forecast Next Month’s Microbusiness Density<h3>Deadline: 2023-03-15T07:59:00+08:00</h3><h3>Reward: 60000 USD</h3>]]></content>
-        <author>
-            <name><![CDATA[Kaggle]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.kaggle.com/c/learning-equality-curriculum-recommendations</id>
-        <title><![CDATA[Learning Equality - Curriculum Recommendations]]></title>
-        
-        <updated>2022-12-15T22:49:25+08:00</updated>
-        
-        <link href="https://www.kaggle.com/c/learning-equality-curriculum-recommendations"/>
-        <summary>Enhance learning by matching K-12 content to target topics</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/learning-equality-curriculum-recommendations"><![CDATA[<h3>Description</h3>Enhance learning by matching K-12 content to target topics<h3>Deadline: 2023-03-15T07:59:00+08:00</h3><h3>Reward: 55000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

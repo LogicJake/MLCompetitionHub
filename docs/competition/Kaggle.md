@@ -10,7 +10,7 @@ Deadline: 2023-06-09T07:59:00+0800
 Reward: 100000 USD  
 
 
-## BirdCLEF 2023 <sup style="color:red">[new]<sup>  
+## BirdCLEF 2023
 
 Link: https://www.kaggle.com/c/birdclef-2023  
 Description: Identify bird calls in soundscapes  
@@ -73,20 +73,4 @@ Link: https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice
 Description: Reconstruct the direction of neutrinos from the Universe to the South Pole  
 Deadline: 2023-04-20T07:59:00+0800  
 Reward: 50000 USD  
-
-
-## GoDaddy - Microbusiness Density Forecasting
-
-Link: https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting  
-Description: Forecast Next Month’s Microbusiness Density  
-Deadline: 2023-03-15T07:59:00+0800  
-Reward: 60000 USD  
-
-
-## Learning Equality - Curriculum Recommendations
-
-Link: https://www.kaggle.com/c/learning-equality-curriculum-recommendations  
-Description: Enhance learning by matching K-12 content to target topics  
-Deadline: 2023-03-15T07:59:00+0800  
-Reward: 55000 USD  
 
