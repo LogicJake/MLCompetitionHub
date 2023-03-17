@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-16T16:00:53+08:00</updated>
+    <updated>2023-03-17T16:00:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -61,48 +61,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/522"/>
         <summary>清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/522"><![CDATA[<h3>Description</h3>清华AIR携手百度基于已开源的车路协同自动驾驶数据集DAIR-V2X共同举办全球首届车路协同3D目标检测挑战赛，在通信带宽约束下，车端融合路端信息，实现3D目标检测的视觉感知任务。与传统自动驾驶3D检测任务相比，本任务需要解决车端与路端多视角信息融合、数据多模态融合、时空异步、通信受限等挑战，通过设计车路融合感知算法，实现盲区补充、提升感知精度。<h3>Deadline: 2023-03-23T08:00:00+08:00</h3><h3>Reward: ¥80,000</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/702</id>
-        <title><![CDATA[百度网盘AI大赛——表格检测]]></title>
-        
-        <updated>2022-11-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/702"/>
-        <summary>生活中，扫描技术越来越常见，通过手机就能将图片转化为可编辑的文档等；但是现在的技术在处理带有表格类型的文字的时候往往没有那么灵敏，把完整表格拆分成难以使用的零散个体似乎很常见又令人苦恼。本次比赛旨在解决这个问题，通过万能的算法，准确地识别表格在图片中的位置并标注。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/702"><![CDATA[<h3>Description</h3>生活中，扫描技术越来越常见，通过手机就能将图片转化为可编辑的文档等；但是现在的技术在处理带有表格类型的文字的时候往往没有那么灵敏，把完整表格拆分成难以使用的零散个体似乎很常见又令人苦恼。本次比赛旨在解决这个问题，通过万能的算法，准确地识别表格在图片中的位置并标注。<h3>Deadline: 2023-03-17T08:00:00+08:00</h3><h3>Reward: ¥10000+特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/704</id>
-        <title><![CDATA[百度网盘AI大赛——表格检测进阶：表格的结构化]]></title>
-        
-        <updated>2022-11-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/704"/>
-        <summary>随着票据、名单等带有表单、表格的文件被广泛应用，将纸质文件转化成电子数据并保存管理成为了很多企业的必然工作。传统人工录入的方式效率低、差错多、流程长，如果能通过技术处理，实现表格图片的结构化展现，则可以很大程度降低成本，提高效率以及使用体验。本次比赛希望各位选手能通过OCR等技术解决此痛点问题，识别表格图片的内容与坐标，精准还原纸质数据。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/704"><![CDATA[<h3>Description</h3>随着票据、名单等带有表单、表格的文件被广泛应用，将纸质文件转化成电子数据并保存管理成为了很多企业的必然工作。传统人工录入的方式效率低、差错多、流程长，如果能通过技术处理，实现表格图片的结构化展现，则可以很大程度降低成本，提高效率以及使用体验。本次比赛希望各位选手能通过OCR等技术解决此痛点问题，识别表格图片的内容与坐标，精准还原纸质数据。<h3>Deadline: 2023-03-17T08:00:00+08:00</h3><h3>Reward: ¥20000+特别礼包</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/706</id>
-        <title><![CDATA[百度网盘AI大赛——去水印模型冲刺赛]]></title>
-        
-        <updated>2022-11-29T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/706"/>
-        <summary>为了帮助人们消除带有水印的图片日常生活中带有水印的图片很常见，即使是PS专家，也很难快速且不留痕迹的去除水印。在上次比赛中我们举办了去水印模型大赛，本次我们提高了难度，提高了在水印种类的广泛性，同时在模型性能上做了更高的要求，向各位选手发起挑战。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/706"><![CDATA[<h3>Description</h3>为了帮助人们消除带有水印的图片日常生活中带有水印的图片很常见，即使是PS专家，也很难快速且不留痕迹的去除水印。在上次比赛中我们举办了去水印模型大赛，本次我们提高了难度，提高了在水印种类的广泛性，同时在模型性能上做了更高的要求，向各位选手发起挑战。<h3>Deadline: 2023-03-17T08:00:00+08:00</h3><h3>Reward: ¥10000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -432,7 +390,7 @@
         
         <link href="https://www.kaggle.com/c/march-machine-learning-mania-2023"/>
         <summary>Forecast the 2023 NCAA Basketball Tournaments</summary>
-        <content type="text/html" src="https://www.kaggle.com/c/march-machine-learning-mania-2023"><![CDATA[<h3>Description</h3>Forecast the 2023 NCAA Basketball Tournaments<h3>Deadline: 2023-03-17T00:00:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <content type="text/html" src="https://www.kaggle.com/c/march-machine-learning-mania-2023"><![CDATA[<h3>Description</h3>Forecast the 2023 NCAA Basketball Tournaments<h3>Deadline: 2023-04-05T00:00:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>
@@ -489,6 +447,20 @@
         <link href="https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice"/>
         <summary>Reconstruct the direction of neutrinos from the Universe to the South Pole</summary>
         <content type="text/html" src="https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice"><![CDATA[<h3>Description</h3>Reconstruct the direction of neutrinos from the Universe to the South Pole<h3>Deadline: 2023-04-20T07:59:00+08:00</h3><h3>Reward: 50000 USD</h3>]]></content>
+        <author>
+            <name><![CDATA[Kaggle]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting</id>
+        <title><![CDATA[GoDaddy - Microbusiness Density Forecasting]]></title>
+        
+        <updated>2022-12-17T03:01:09+08:00</updated>
+        
+        <link href="https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting"/>
+        <summary>Forecast Next Month’s Microbusiness Density</summary>
+        <content type="text/html" src="https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting"><![CDATA[<h3>Description</h3>Forecast Next Month’s Microbusiness Density<h3>Deadline: 2023-06-15T07:59:00+08:00</h3><h3>Reward: 60000 USD</h3>]]></content>
         <author>
             <name><![CDATA[Kaggle]]></name>
         </author>

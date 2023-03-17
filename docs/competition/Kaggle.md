@@ -10,7 +10,7 @@ Deadline: 2023-06-15T07:59:00+0800
 Reward: 250000 USD  
 
 
-## Parkinson's Freezing of Gait Prediction <sup style="color:red">[new]<sup>  
+## Parkinson's Freezing of Gait Prediction
 
 Link: https://www.kaggle.com/c/tlvmc-parkinsons-freezing-gait-prediction  
 Description: Event detection from wearable sensor data   
@@ -47,7 +47,7 @@ Reward: 60000 USD
 
 Link: https://www.kaggle.com/c/march-machine-learning-mania-2023  
 Description: Forecast the 2023 NCAA Basketball Tournaments  
-Deadline: 2023-03-17T00:00:00+0800  
+Deadline: 2023-04-05T00:00:00+0800  
 Reward: 50000 USD  
 
 
@@ -81,4 +81,12 @@ Link: https://www.kaggle.com/c/icecube-neutrinos-in-deep-ice
 Description: Reconstruct the direction of neutrinos from the Universe to the South Pole  
 Deadline: 2023-04-20T07:59:00+0800  
 Reward: 50000 USD  
+
+
+## GoDaddy - Microbusiness Density Forecasting
+
+Link: https://www.kaggle.com/c/godaddy-microbusiness-density-forecasting  
+Description: Forecast Next Month’s Microbusiness Density  
+Deadline: 2023-06-15T07:59:00+0800  
+Reward: 60000 USD  
 
