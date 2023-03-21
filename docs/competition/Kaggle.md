@@ -63,7 +63,7 @@ Reward: 50000 USD
 
 Link: https://www.kaggle.com/c/predict-student-performance-from-game-play  
 Description: Trace student learning from Jo Wilder online educational game  
-Deadline: 2023-05-09T07:59:00+0800  
+Deadline: 2023-06-08T07:59:00+0800  
 Reward: 55000 USD  
 
 
