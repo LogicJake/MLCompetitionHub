@@ -2,6 +2,14 @@
 
 
 
+## 第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
+Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
+Deadline: 2023-08-31T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## PaddlePaddle Hackathon 飞桨黑客马拉松第四期
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/776  
