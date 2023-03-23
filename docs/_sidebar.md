@@ -2,7 +2,6 @@
 * [新上线比赛](new_competition.md)  
 * [进行中比赛](competition/)
   * [AI Studio](competition/AI_Studio.md)
-  * [biendata](competition/biendata.md)
   * [DataFountain](competition/DataFountain.md)
   * [Kaggle](competition/Kaggle.md)
   * [heywhale和鲸（Kesci）](competition/heywhale和鲸（Kesci）.md)
