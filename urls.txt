@@ -1040,3 +1040,5 @@ https://www.kaggle.com/c/tlvmc-parkinsons-freezing-gait-prediction
 https://www.kaggle.com/c/vesuvius-challenge-ink-detection
 https://aistudio.baidu.com/aistudio/competition/detail/882
 https://aistudio.baidu.com/aistudio/competition/detail/889
+https://tianchi.aliyun.com/competition/entrance/532074/introduction
+https://tianchi.aliyun.com/competition/entrance/532073/introduction
