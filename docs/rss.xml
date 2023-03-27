@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-03-26T16:05:22+08:00</updated>
+    <updated>2023-03-27T16:01:14+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -379,6 +379,78 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/63eee2950644cee838881588"><![CDATA[<h3>Description</h3>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道<h3>Deadline: 2023-04-30T23:59:00+08:00</h3><h3>Reward: ¥ 97,000+名企实习机会+生态合作伙伴</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532074/introduction</id>
+        <title><![CDATA[CAAI-BDSC2023社交图谱链接预测 任务二：社交图谱动态链接预测(赛季 1)]]></title>
+        
+        <updated>2023-03-22T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532074/introduction"/>
+        <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532074/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥14000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532073/introduction</id>
+        <title><![CDATA[CAAI-BDSC2023社交图谱链接预测 任务一：社交图谱小样本场景链接预测(赛季 1)]]></title>
+        
+        <updated>2023-03-22T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532073/introduction"/>
+        <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532073/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥14000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532061/introduction</id>
+        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommendation System(赛季 1)]]></title>
+        
+        <updated>2023-02-15T08:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532061/introduction"/>
+        <summary>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532061/introduction"><![CDATA[<h3>Description</h3>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.<h3>Deadline: 2023-04-10T06:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532050/introduction</id>
+        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道2：视频文本问答(赛季 1)]]></title>
+        
+        <updated>2023-01-05T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532050/introduction"/>
+        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532050/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-31T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532049/introduction</id>
+        <title><![CDATA[ICDAR2023 数字原生视频文本问答竞赛 赛道1：端到端视频文字识别(赛季 1)]]></title>
+        
+        <updated>2023-01-05T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532049/introduction"/>
+        <summary>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532049/introduction"><![CDATA[<h3>Description</h3>ICDAR 2023 BDVT-QA （Competition for Born Digital Video Text Question Answering）挑战赛即将开启，并开放业内第一个基于数字原生视频文本问答的数据集。竞赛聚焦视频文字的关键技术问题的研究和探索，旨在与全球科研人才一同推动视频文字相关的应用和发展。<h3>Deadline: 2023-03-31T10:00:00+08:00</h3><h3>Reward: $3500</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
