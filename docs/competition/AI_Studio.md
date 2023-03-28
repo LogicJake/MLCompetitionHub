@@ -2,7 +2,7 @@
 
 
 
-## 第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛 <sup style="color:red">[new]<sup>  
+## 第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
 Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
