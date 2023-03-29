@@ -1042,3 +1042,6 @@ https://aistudio.baidu.com/aistudio/competition/detail/882
 https://aistudio.baidu.com/aistudio/competition/detail/889
 https://tianchi.aliyun.com/competition/entrance/532074/introduction
 https://tianchi.aliyun.com/competition/entrance/532073/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/848
+https://aistudio.baidu.com/aistudio/competition/detail/891
+https://aistudio.baidu.com/aistudio/competition/detail/887
