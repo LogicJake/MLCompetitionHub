@@ -34,7 +34,7 @@ Deadline: 2023-05-20T08:00:00+0800
 Reward: ¥3,000+特别礼品  
 
 
-## “中国软件杯”大学生软件设计大赛——龙源风电赛道 <sup style="color:red">[new]<sup>  
+## “中国软件杯”大学生软件设计大赛——龙源风电赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/887  
 Description: 基于百度飞桨与龙源电力风电数据的功率预测算法系统开发  
