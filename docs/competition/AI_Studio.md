@@ -2,7 +2,7 @@
 
 
 
-## CVPR 2023 1st foundation model challenge-Track1 <sup style="color:red">[new]<sup>  
+## CVPR 2023 1st foundation model challenge-Track1
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/848  
 Description: CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track1  
@@ -10,7 +10,7 @@ Deadline: 2023-05-17T08:00:00+0800
 Reward: 5000USD  
 
 
-## CVPR 2023 1st foundation model challenge-Track2 <sup style="color:red">[new]<sup>  
+## CVPR 2023 1st foundation model challenge-Track2
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/891  
 Description: CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track2  
