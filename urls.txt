@@ -1045,3 +1045,4 @@ https://tianchi.aliyun.com/competition/entrance/532073/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/848
 https://aistudio.baidu.com/aistudio/competition/detail/891
 https://aistudio.baidu.com/aistudio/competition/detail/887
+https://tianchi.aliyun.com/competition/entrance/532078/introduction
