@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-04-09T16:00:53+08:00</updated>
+    <updated>2023-04-10T16:01:12+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -465,20 +465,6 @@
 CTF是网络安全行业中的一种经典的赛事模式，阿里云CTF以阿里云安全多年的云上安全实践为基础，融合了多种云上安全元素，面向广大安全人士、特别是安全学子开放，希望大家能通过本次赛事角逐榜单的同时体验、了解云上安全，在赛事中学习、收获、成长。预祝参赛者们获得好成绩。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532078/introduction"><![CDATA[<h3>Description</h3>阿里云CTF是由阿里云计算有限公司与清华大学网络与信息安全实验室共同举办的网络安全赛事。
 CTF是网络安全行业中的一种经典的赛事模式，阿里云CTF以阿里云安全多年的云上安全实践为基础，融合了多种云上安全元素，面向广大安全人士、特别是安全学子开放，希望大家能通过本次赛事角逐榜单的同时体验、了解云上安全，在赛事中学习、收获、成长。预祝参赛者们获得好成绩。<h3>Deadline: 2023-04-22T00:00:00+08:00</h3><h3>Reward: ￥390000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532061/introduction</id>
-        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommendation System(赛季 1)]]></title>
-        
-        <updated>2023-02-15T08:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532061/introduction"/>
-        <summary>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532061/introduction"><![CDATA[<h3>Description</h3>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.<h3>Deadline: 2023-04-09T22:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
