@@ -34,6 +34,15 @@ Deadline: 2023-05-20T08:00:00+0800
 Reward: ¥3,000+特别礼品  
 
 
+## 百度网盘AI大赛——版式分析场景
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/850  
+Description: 随着OCR和版面分析处理技术不断发展，信息电子化的效率已经大幅度提高，人工智能已经能够将很多格式规整的资料轻松转化为可编辑的电子文稿；但生活中更多的内容资料往往是复杂的，具有字体样式多元、颜色丰富的特点，因此实现复杂版面的识别至关重要。
+本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。  
+Deadline: 2023-06-16T08:00:00+0800  
+Reward: ¥10000+特别礼包  
+
+
 ## “中国软件杯”大学生软件设计大赛——龙源风电赛道
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/887  
