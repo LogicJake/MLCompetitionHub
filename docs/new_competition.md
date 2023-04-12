@@ -1,12 +1,11 @@
-> 更新时间: 2023-04-11T16:00:58+0800 
+> 更新时间: 2023-04-12T16:00:56+0800 
 
 # 新上线比赛
 
 
-## 百度网盘AI大赛——版式分析场景
-Link: https://aistudio.baidu.com/aistudio/competition/detail/850  
-Description: 随着OCR和版面分析处理技术不断发展，信息电子化的效率已经大幅度提高，人工智能已经能够将很多格式规整的资料轻松转化为可编辑的电子文稿；但生活中更多的内容资料往往是复杂的，具有字体样式多元、颜色丰富的特点，因此实现复杂版面的识别至关重要。
-本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。  
-Deadline: 2023-06-16T08:00:00+0800  
-Reward: ¥10000+特别礼包  
+## CVPR 2023 AliProducts Challenge: Large-scale Cross-Modal Product Retrieval(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532077/introduction  
+Description: The growing customer demand for E-commerce is becoming more and more diversified, growing the need for methods that not only require a single modality such as product images, but also call for the usage of textual captions that describe said images. Bridging the gap between visual representation and high-level semantic concepts remains an open research topic for obtaining users' search intentions. This challenge is based on the the AliProducts3 dataset that is designed to bridge this gap.  
+Deadline: 2023-05-31T10:00:00+0800  
+Reward: $3000  
 
