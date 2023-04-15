@@ -3,11 +3,141 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-04-14T16:01:48+08:00</updated>
+    <updated>2023-04-15T16:00:52+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
+    
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/848</id>
+        <title><![CDATA[CVPR 2023 1st foundation model challenge-Track1]]></title>
+        
+        <updated>2023-03-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/848"/>
+        <summary>CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track1</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/848"><![CDATA[<h3>Description</h3>CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track1<h3>Deadline: 2023-05-17T08:00:00+08:00</h3><h3>Reward: 5000USD</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/891</id>
+        <title><![CDATA[CVPR 2023 1st foundation model challenge-Track2]]></title>
+        
+        <updated>2023-03-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/891"/>
+        <summary>CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track2</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/891"><![CDATA[<h3>Description</h3>CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track2<h3>Deadline: 2023-05-17T08:00:00+08:00</h3><h3>Reward: 5000USD</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/776</id>
+        <title><![CDATA[PaddlePaddle Hackathon 飞桨黑客马拉松第四期]]></title>
+        
+        <updated>2023-02-20T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/776"/>
+        <summary>2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/776"><![CDATA[<h3>Description</h3>2023 PaddlePaddle Hackathon 飞桨黑客马拉松第四期正式上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与深度学习开源项目。<h3>Deadline: 2023-05-22T08:00:00+08:00</h3><h3>Reward: ￥1000,000</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/860</id>
+        <title><![CDATA[飞桨黑客马拉松第四期：用LoRA、DreamBooth黑科技画你所想——AIGC趣味模型创意赛]]></title>
+        
+        <updated>2023-02-28T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/860"/>
+        <summary>基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/860"><![CDATA[<h3>Description</h3>基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！<h3>Deadline: 2023-05-20T08:00:00+08:00</h3><h3>Reward: ¥3,000+特别礼品</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/850</id>
+        <title><![CDATA[百度网盘AI大赛——版式分析场景]]></title>
+        
+        <updated>2023-03-31T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/850"/>
+        <summary>随着OCR和版面分析处理技术不断发展，信息电子化的效率已经大幅度提高，人工智能已经能够将很多格式规整的资料轻松转化为可编辑的电子文稿；但生活中更多的内容资料往往是复杂的，具有字体样式多元、颜色丰富的特点，因此实现复杂版面的识别至关重要。
+本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/850"><![CDATA[<h3>Description</h3>随着OCR和版面分析处理技术不断发展，信息电子化的效率已经大幅度提高，人工智能已经能够将很多格式规整的资料轻松转化为可编辑的电子文稿；但生活中更多的内容资料往往是复杂的，具有字体样式多元、颜色丰富的特点，因此实现复杂版面的识别至关重要。
+本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。<h3>Deadline: 2023-06-16T08:00:00+08:00</h3><h3>Reward: ¥10000+特别礼包</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/887</id>
+        <title><![CDATA[“中国软件杯”大学生软件设计大赛——龙源风电赛道]]></title>
+        
+        <updated>2023-03-24T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/887"/>
+        <summary>基于百度飞桨与龙源电力风电数据的功率预测算法系统开发</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/887"><![CDATA[<h3>Description</h3>基于百度飞桨与龙源电力风电数据的功率预测算法系统开发<h3>Deadline: 2023-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/889</id>
+        <title><![CDATA[“中国软件杯”大学生软件设计大赛——3D智慧医疗]]></title>
+        
+        <updated>2023-03-22T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/889"/>
+        <summary>要求参赛团队设计一个可以通过深度学习技术实现对3D医疗数据进行自动解析的软件系统，赛事包含预选赛、区域赛和总决赛。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/889"><![CDATA[<h3>Description</h3>要求参赛团队设计一个可以通过深度学习技术实现对3D医疗数据进行自动解析的软件系统，赛事包含预选赛、区域赛和总决赛。<h3>Deadline: 2023-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/882</id>
+        <title><![CDATA[第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛]]></title>
+        
+        <updated>2023-03-21T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/882"/>
+        <summary>第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/882"><![CDATA[<h3>Description</h3>第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/760</id>
+        <title><![CDATA[第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛]]></title>
+        
+        <updated>2023-01-07T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/760"/>
+        <summary>第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/760"><![CDATA[<h3>Description</h3>第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。<h3>Deadline: 2023-06-10T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
     
     
     <entry>
