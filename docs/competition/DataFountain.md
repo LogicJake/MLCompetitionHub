@@ -2,6 +2,14 @@
 
 
 
+## 百度Apollo星火自动驾驶大赛【城市道路赛】 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/641  
+Description: 百度Apollo星火自动驾驶大赛【城市道路赛】  
+Deadline: 2023-09-30T23:59:59+0800  
+Reward: 国家级赛事证书  
+
+
 ## 智能分布式无线电地图构建
 
 Link: https://www.datafountain.cn/competitions/626  

@@ -1048,3 +1048,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/887
 https://tianchi.aliyun.com/competition/entrance/532078/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/850
 https://tianchi.aliyun.com/competition/entrance/532077/introduction
+https://www.datafountain.cn/competitions/641

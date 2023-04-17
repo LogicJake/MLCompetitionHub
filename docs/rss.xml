@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-04-16T16:03:09+08:00</updated>
+    <updated>2023-04-17T16:03:22+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -323,6 +323,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/641</id>
+        <title><![CDATA[百度Apollo星火自动驾驶大赛【城市道路赛】]]></title>
+        
+        <updated>2023-04-17T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/641"/>
+        <summary>百度Apollo星火自动驾驶大赛【城市道路赛】</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/641"><![CDATA[<h3>Description</h3>百度Apollo星火自动驾驶大赛【城市道路赛】<h3>Deadline: 2023-09-30T23:59:59+08:00</h3><h3>Reward: 国家级赛事证书</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/626</id>
