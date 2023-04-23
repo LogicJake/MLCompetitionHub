@@ -2,6 +2,14 @@
 
 
 
+## 中国软件开源创新大赛：飞桨框架任务挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
+Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
+Deadline: 2023-10-31T08:00:00+0800  
+Reward: ¥160,000  
+
+
 ## CVPR 2023 1st foundation model challenge-Track1
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/848  
@@ -72,13 +80,5 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/771  
 Description: 中国软件杯——智能四足机器狗电力巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，聚焦智慧救援的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国预选赛排名前列的团队，和校赛组织者，即可获得机器狗的免费借用权，不限学历。  
 Deadline: 2023-08-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十八届全国大学生智能汽车竞赛：百度完全模型组竞速赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/760  
-Description: 第十八届全国大学生智能汽车竞赛——完全模型竞速组线上资格赛，报名学校将获得百度EdgeBoard开发板免费借用资格。  
-Deadline: 2023-06-10T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
