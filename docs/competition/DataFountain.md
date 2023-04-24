@@ -2,7 +2,7 @@
 
 
 
-## 百度Apollo星火自动驾驶大赛【城市道路赛】 <sup style="color:red">[new]<sup>  
+## 百度Apollo星火自动驾驶大赛【城市道路赛】
 
 Link: https://www.datafountain.cn/competitions/641  
 Description: 百度Apollo星火自动驾驶大赛【城市道路赛】  

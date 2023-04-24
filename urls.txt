@@ -1050,3 +1050,9 @@ https://aistudio.baidu.com/aistudio/competition/detail/850
 https://tianchi.aliyun.com/competition/entrance/532077/introduction
 https://www.datafountain.cn/competitions/641
 https://aistudio.baidu.com/aistudio/competition/detail/911
+https://www.dcic-china.com/competitions/10023
+https://www.dcic-china.com/competitions/10021
+https://www.dcic-china.com/competitions/10022
+https://www.dcic-china.com/competitions/10024
+https://www.dcic-china.com/competitions/10025
+https://www.dcic-china.com/competitions/10029
