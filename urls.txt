@@ -1056,3 +1056,6 @@ https://www.dcic-china.com/competitions/10022
 https://www.dcic-china.com/competitions/10024
 https://www.dcic-china.com/competitions/10025
 https://www.dcic-china.com/competitions/10029
+https://aistudio.baidu.com/aistudio/competition/detail/956
+https://tianchi.aliyun.com/competition/entrance/532081/introduction
+https://tianchi.aliyun.com/competition/entrance/532080/introduction

@@ -2,6 +2,14 @@
 
 
 
+## 第二届广州·琶洲算法大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
+Description: “优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。  
+Deadline: 2023-08-31T08:00:00+0800  
+Reward: 不低于300万  
+
+
 ## 中国软件开源创新大赛：飞桨框架任务挑战赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
@@ -72,13 +80,5 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
 Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
 Deadline: 2023-08-31T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## “中国软件杯”大学生软件设计大赛——飞桨小汪赛道
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/771  
-Description: 中国软件杯——智能四足机器狗电力巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，聚焦智慧救援的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国预选赛排名前列的团队，和校赛组织者，即可获得机器狗的免费借用权，不限学历。  
-Deadline: 2023-08-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 

@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-04-24T16:00:35+08:00</updated>
+    <updated>2023-04-25T15:59:05+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/956</id>
+        <title><![CDATA[第二届广州·琶洲算法大赛]]></title>
+        
+        <updated>2023-04-25T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/956"/>
+        <summary>“优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/956"><![CDATA[<h3>Description</h3>“优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: 不低于300万</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/911</id>
@@ -133,20 +147,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/882"/>
         <summary>第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/882"><![CDATA[<h3>Description</h3>第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/771</id>
-        <title><![CDATA[“中国软件杯”大学生软件设计大赛——飞桨小汪赛道]]></title>
-        
-        <updated>2023-03-03T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/771"/>
-        <summary>中国软件杯——智能四足机器狗电力巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，聚焦智慧救援的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国预选赛排名前列的团队，和校赛组织者，即可获得机器狗的免费借用权，不限学历。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/771"><![CDATA[<h3>Description</h3>中国软件杯——智能四足机器狗电力巡检系统开发，将引导参赛团队基于飞桨与四足仿生机器人，聚焦智慧救援的现实场景，打造融技术、人文和竞技于一体的高水平赛事。全国预选赛排名前列的团队，和校赛组织者，即可获得机器狗的免费借用权，不限学历。<h3>Deadline: 2023-08-01T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -551,6 +551,96 @@
         <content type="text/html" src="https://www.kesci.com/home/competition/63eee2950644cee838881588"><![CDATA[<h3>Description</h3>数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道<h3>Deadline: 2023-04-30T23:59:00+08:00</h3><h3>Reward: ¥ 97,000+名企实习机会+生态合作伙伴</h3>]]></content>
         <author>
             <name><![CDATA[heywhale和鲸（Kesci）]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532081/introduction</id>
+        <title><![CDATA[CCKS2023 开放环境下知识图谱构建与补全评测任务二：归纳式知识图谱关系推理(赛季 1)]]></title>
+        
+        <updated>2023-04-11T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532081/introduction"/>
+        <summary>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
+今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532081/introduction"><![CDATA[<h3>Description</h3>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
+今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532080/introduction</id>
+        <title><![CDATA[CCKS2023 开放环境下的知识图谱构建与补全评测任务一：指令驱动的自适应知识图谱构建(赛季 1)]]></title>
+        
+        <updated>2023-04-11T14:54:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532080/introduction"/>
+        <summary>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
+今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532080/introduction"><![CDATA[<h3>Description</h3>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
+今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532077/introduction</id>
+        <title><![CDATA[CVPR 2023 AliProducts Challenge: Large-scale Cross-Modal Product Retrieval(赛季 1)]]></title>
+        
+        <updated>2023-03-22T22:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532077/introduction"/>
+        <summary>The growing customer demand for E-commerce is becoming more and more diversified, growing the need for methods that not only require a single modality such as product images, but also call for the usage of textual captions that describe said images. Bridging the gap between visual representation and high-level semantic concepts remains an open research topic for obtaining users' search intentions. This challenge is based on the the AliProducts3 dataset that is designed to bridge this gap.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532077/introduction"><![CDATA[<h3>Description</h3>The growing customer demand for E-commerce is becoming more and more diversified, growing the need for methods that not only require a single modality such as product images, but also call for the usage of textual captions that describe said images. Bridging the gap between visual representation and high-level semantic concepts remains an open research topic for obtaining users' search intentions. This challenge is based on the the AliProducts3 dataset that is designed to bridge this gap.<h3>Deadline: 2023-05-31T10:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532074/introduction</id>
+        <title><![CDATA[CAAI-BDSC2023社交图谱链接预测 任务二：社交图谱动态链接预测(赛季 1)]]></title>
+        
+        <updated>2023-03-22T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532074/introduction"/>
+        <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532074/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥14000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532073/introduction</id>
+        <title><![CDATA[CAAI-BDSC2023社交图谱链接预测 任务一：社交图谱小样本场景链接预测(赛季 1)]]></title>
+        
+        <updated>2023-03-22T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532073/introduction"/>
+        <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532073/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥14000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532061/introduction</id>
+        <title><![CDATA[AICAS 2023 Grand Challenge: Software and Hardware Co-Optimization for E-Commerce Recommendation System(赛季 3)]]></title>
+        
+        <updated>2023-04-20T18:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532061/introduction"/>
+        <summary>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532061/introduction"><![CDATA[<h3>Description</h3>Software and hardware co-optimization for e-commerce recommender systems has gained increasing attention in academia and industry in recent years. Inference acceleration is one of the most important research aspects for the practical use of AI models, as it directly affects the execution efficiency of AI models in real-world applications.<h3>Deadline: 2023-05-19T16:00:00+08:00</h3><h3>Reward: $15000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
         </author>
     </entry>
     
