@@ -10,7 +10,7 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 不低于300万  
 
 
-## 中国软件开源创新大赛：飞桨框架任务挑战赛 <sup style="color:red">[new]<sup>  
+## 中国软件开源创新大赛：飞桨框架任务挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
 Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
