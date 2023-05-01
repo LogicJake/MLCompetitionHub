@@ -25,11 +25,3 @@ Description: 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛—�
 Deadline: 2023-07-02T23:59:00+0800  
 Reward: ¥ 91,000  
 
-
-## 数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道
-
-Link: https://www.kesci.com/home/competition/63eee2950644cee838881588  
-Description: 数字医疗算法应用创新大赛——食品与疾病关系预测算法赛道  
-Deadline: 2023-04-30T23:59:00+0800  
-Reward: ¥ 97,000+名企实习机会+生态合作伙伴  
-
