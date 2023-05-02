@@ -2,7 +2,7 @@
 
 
 
-## 第二届广州·琶洲算法大赛 <sup style="color:red">[new]<sup>  
+## 第二届广州·琶洲算法大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
 Description: “优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。  
