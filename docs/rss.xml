@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-05-06T15:58:51+08:00</updated>
+    <updated>2023-05-07T15:58:48+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -737,20 +737,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532073/introduction"/>
         <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532073/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥14000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532064/introduction</id>
-        <title><![CDATA[云上开发挑战赛 第一期:云上部署公司业务网站(赛季 3)]]></title>
-        
-        <updated>2023-05-05T09:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532064/introduction"/>
-        <summary>使用可弹性伸缩的高性能计算服务，是开发者和企业用户用于降低IT成本、提升运维效率的重要决策。通过强劲、稳定、安全的计算能力，让企业能更专注于核心业务创新，享受物力资源独享、 部署更灵活、性价比更高的优势。本次ECS实验赛将通过5个简单快捷的动手实验，模拟开通、创建、部署、管控与运维ECS服务的全流程，并通过操作得分及时间来评选出本期弹性计算ECS调度大师。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532064/introduction"><![CDATA[<h3>Description</h3>使用可弹性伸缩的高性能计算服务，是开发者和企业用户用于降低IT成本、提升运维效率的重要决策。通过强劲、稳定、安全的计算能力，让企业能更专注于核心业务创新，享受物力资源独享、 部署更灵活、性价比更高的优势。本次ECS实验赛将通过5个简单快捷的动手实验，模拟开通、创建、部署、管控与运维ECS服务的全流程，并通过操作得分及时间来评选出本期弹性计算ECS调度大师。<h3>Deadline: 2023-05-06T21:00:00+08:00</h3><h3>Reward: ￥42000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
