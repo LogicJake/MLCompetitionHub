@@ -10,6 +10,14 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 不低于300万  
 
 
+## 第四届CSIG图像图形技术挑战赛-AMD赛道：光照渲染及渲染优化
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/767  
+Description: CSIG图像图形技术挑战赛是由中国图象图形学学会（CSIG）主办的系列赛事，旨在促进图像图形技术及相关产业的发展和应用，扩大企业产品开源技术的推广，帮助企业吸引更多的优秀人才。本届CSIG图像图形技术挑战赛-AMD赛道比赛结果将在学会竞赛网站（http://challenge.csig.org.cn）公布。  
+Deadline: 2023-09-24T08:00:00+0800  
+Reward: 双赛共10万元奖金+AMD显卡  
+
+
 ## 中国软件开源创新大赛：飞桨框架任务挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
@@ -72,13 +80,5 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/889  
 Description: 要求参赛团队设计一个可以通过深度学习技术实现对3D医疗数据进行自动解析的软件系统，赛事包含预选赛、区域赛和总决赛。  
 Deadline: 2023-08-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
-Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
-Deadline: 2023-08-31T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
