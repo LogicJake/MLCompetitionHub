@@ -10,28 +10,22 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 不低于300万  
 
 
+## 百度商业AI技术创新大赛赛道一：商业转化行为预测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/877  
+Description: 本赛道任务是广告转化率预估，在广告领域中，转化率预估被广泛应用于优化广告投放，提高广告效果和ROI。
+转化率预估是指通过对用户行为数据的分析，预测用户是否会执行某种特定的转化行为，比如下载APP、购买商品或服务等。
+本次比赛提供了百度真实的广告数据集，包含了海量的用户行为数据和广告特征。希望参赛者使用深度学习模型，建模转化率预估模型。  
+Deadline: 2023-08-15T08:00:00+0800  
+Reward: 大赛63万元  本赛道42万元  
+
+
 ## 中国软件开源创新大赛：飞桨框架任务挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
 Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
 Deadline: 2023-10-31T08:00:00+0800  
 Reward: ¥160,000  
-
-
-## CVPR 2023 1st foundation model challenge-Track1
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/848  
-Description: CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track1  
-Deadline: 2023-05-17T08:00:00+0800  
-Reward: 5000USD  
-
-
-## CVPR 2023 1st foundation model challenge-Track2
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/891  
-Description: CVPR 2023 Workshop on Foundation Model:1st foundation model challenge Track2  
-Deadline: 2023-05-17T08:00:00+0800  
-Reward: 5000USD  
 
 
 ## PaddlePaddle Hackathon 飞桨黑客马拉松第四期
@@ -80,5 +74,13 @@ Reward: 教育部榜单赛事
 Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
 Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
 Deadline: 2023-08-31T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
+## “中国软件杯”大学生软件设计大赛——大模型软件开发赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/972  
+Description: 本赛题要求选手基于文心大模型ERNIE相关技术，利用包括但不限于大模型API、套件ERNIEKit、BML/Easydl开发平台和场景化平台等百度领先的大模型能力，进行针对大模型时代下的创意软件开发。  
+Deadline: 2023-08-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 

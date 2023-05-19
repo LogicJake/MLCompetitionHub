@@ -1080,3 +1080,5 @@ https://www.kesci.com/home/competition/643ded51ae5deeb750d9d407
 https://www.kesci.com/home/competition/643deca8ae5deeb750d9c983
 https://tianchi.aliyun.com/competition/entrance/532085/introduction
 https://tianchi.aliyun.com/competition/entrance/532084/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/877
+https://aistudio.baidu.com/aistudio/competition/detail/972
