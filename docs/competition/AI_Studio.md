@@ -10,6 +10,14 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 不低于300万  
 
 
+## 视频语义理解评测 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/976  
+Description: 初探多模态大模型，让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签  
+Deadline: 2023-08-30T08:00:00+0800  
+Reward: ¥65000  
+
+
 ## 百度商业AI技术创新大赛赛道一：商业转化行为预测 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/877  
@@ -18,6 +26,22 @@ Description: 本赛道任务是广告转化率预估，在广告领域中，转�
 本次比赛提供了百度真实的广告数据集，包含了海量的用户行为数据和广告特征。希望参赛者使用深度学习模型，建模转化率预估模型。  
 Deadline: 2023-08-15T08:00:00+0800  
 Reward: 大赛63万元  本赛道42万元  
+
+
+## 大语言模型评估 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/974  
+Description: 从通用人工智能发展与应用的角度，对大语言模型进行系统性、可量化的评估体系建设  
+Deadline: 2023-08-30T08:00:00+0800  
+Reward: ¥65000  
+
+
+## 百度商业AI 技术创新大赛赛道二：AIGC推理性能优化 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/913  
+Description: 近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。  
+Deadline: 2023-08-15T08:00:00+0800  
+Reward: 大赛63万元  本赛道21万元  
 
 
 ## 中国软件开源创新大赛：飞桨框架任务挑战赛
@@ -36,14 +60,6 @@ Deadline: 2023-05-22T08:00:00+0800
 Reward: ￥1000,000  
 
 
-## 飞桨黑客马拉松第四期：用LoRA、DreamBooth黑科技画你所想——AIGC趣味模型创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/860  
-Description: 基于 DreamBooth + LoRA 、Text-to-Image+LoRA 等技术， 使用自己的图片 Fine-tune 模型，也可以使用 PPDiffusers 中的Textual Inversion 等，更多玩法，等你探索！  
-Deadline: 2023-05-20T08:00:00+0800  
-Reward: ¥3,000+特别礼品  
-
-
 ## 百度网盘AI大赛——版式分析场景
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/850  
@@ -57,30 +73,6 @@ Reward: ¥10000+特别礼包
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/887  
 Description: 基于百度飞桨与龙源电力风电数据的功率预测算法系统开发  
-Deadline: 2023-08-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## “中国软件杯”大学生软件设计大赛——3D智慧医疗
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/889  
-Description: 要求参赛团队设计一个可以通过深度学习技术实现对3D医疗数据进行自动解析的软件系统，赛事包含预选赛、区域赛和总决赛。  
-Deadline: 2023-08-01T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## 第十八届全国大学生智能汽车竞赛：智慧交通组创意赛线上资格赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/882  
-Description: 第十八届全国大学生智能车竞赛创意组百度智慧交通线上资格赛。  
-Deadline: 2023-08-31T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
-## “中国软件杯”大学生软件设计大赛——大模型软件开发赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/972  
-Description: 本赛题要求选手基于文心大模型ERNIE相关技术，利用包括但不限于大模型API、套件ERNIEKit、BML/Easydl开发平台和场景化平台等百度领先的大模型能力，进行针对大模型时代下的创意软件开发。  
 Deadline: 2023-08-01T08:00:00+0800  
 Reward: 教育部榜单赛事  
 
