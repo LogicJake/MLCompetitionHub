@@ -10,7 +10,7 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 300万+  
 
 
-## 视频语义理解评测 <sup style="color:red">[new]<sup>  
+## 视频语义理解评测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/976  
 Description: 初探多模态大模型，让机器对视频进行内容分析与理解。在感知内容分析的基础上，融合知识、语言、视觉、语音等多模信息，结合知识计算与推理，为视频生成相应的语义标签  
@@ -28,7 +28,7 @@ Deadline: 2023-08-15T08:00:00+0800
 Reward: 大赛63万元  本赛道42万元  
 
 
-## 大语言模型评估 <sup style="color:red">[new]<sup>  
+## 大语言模型评估
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/974  
 Description: 从通用人工智能发展与应用的角度，对大语言模型进行系统性、可量化的评估体系建设  
