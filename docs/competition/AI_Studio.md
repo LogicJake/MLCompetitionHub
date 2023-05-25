@@ -18,7 +18,7 @@ Deadline: 2023-08-30T08:00:00+0800
 Reward: ¥65000  
 
 
-## 百度商业AI技术创新大赛赛道一：商业转化行为预测 <sup style="color:red">[new]<sup>  
+## 百度商业AI技术创新大赛赛道一：商业转化行为预测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/877  
 Description: 本赛道任务是广告转化率预估，在广告领域中，转化率预估被广泛应用于优化广告投放，提高广告效果和ROI。
@@ -36,7 +36,7 @@ Deadline: 2023-08-30T08:00:00+0800
 Reward: ¥65000  
 
 
-## 百度商业AI 技术创新大赛赛道二：AIGC推理性能优化 <sup style="color:red">[new]<sup>  
+## 百度商业AI 技术创新大赛赛道二：AIGC推理性能优化
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/913  
 Description: 近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。  
