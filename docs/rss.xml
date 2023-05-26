@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-05-25T16:02:31+08:00</updated>
+    <updated>2023-05-26T16:01:07+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -125,6 +125,190 @@
 本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。<h3>Deadline: 2023-06-16T08:00:00+08:00</h3><h3>Reward: ¥10000+特别礼包</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-3/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Knowledge-aware Recommendation]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-3/"/>
+        <summary>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-3/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Knowledge-aware Recommendation<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-2/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Link Prediction]]></title>
+        
+        <updated>2021-06-29T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-2/"/>
+        <summary>Heterogeneous Graph Benchmark - Link Prediction</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-2/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Link Prediction<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/hgb-1/</id>
+        <title><![CDATA[Heterogeneous Graph Benchmark - Node Classification]]></title>
+        
+        <updated>2021-06-28T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/hgb-1/"/>
+        <summary>Heterogeneous Graph Benchmark - Node Classification</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/hgb-1/"><![CDATA[<h3>Description</h3>Heterogeneous Graph Benchmark - Node Classification<h3>Deadline: 2030-06-30T08:00:00+08:00</h3><h3>Reward: Interst</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race/</id>
+        <title><![CDATA[RACE Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race/"/>
+        <summary>RACE Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race/"><![CDATA[<h3>Description</h3>RACE Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mctest/</id>
+        <title><![CDATA[MCTest Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mctest/"/>
+        <summary>MCTest Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mctest/"><![CDATA[<h3>Description</h3>MCTest Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/open_book_qa/</id>
+        <title><![CDATA[OpenBookQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/open_book_qa/"/>
+        <summary>OpenBookQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/open_book_qa/"><![CDATA[<h3>Description</h3>OpenBookQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/dream/</id>
+        <title><![CDATA[Dream Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/dream/"/>
+        <summary>Dream Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/dream/"><![CDATA[<h3>Description</h3>Dream Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/commonsense_qa/</id>
+        <title><![CDATA[CommonsenseQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/commonsense_qa/"/>
+        <summary>CommonsenseQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/commonsense_qa/"><![CDATA[<h3>Description</h3>CommonsenseQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/c3/</id>
+        <title><![CDATA[C3 Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/c3/"/>
+        <summary>C3 Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/c3/"><![CDATA[<h3>Description</h3>C3 Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/sciq/</id>
+        <title><![CDATA[SciQ Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/sciq/"/>
+        <summary>SciQ Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
         </author>
     </entry>
     
@@ -473,6 +657,20 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532098/introduction</id>
+        <title><![CDATA[CCKS2023-面向金融领域的主体事件检测(赛季 1)]]></title>
+        
+        <updated>2023-05-14T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532098/introduction"/>
+        <summary>主体事件检测是语言文本分析和金融领域智能应用的重要任务之一，如在金融风控领域往往会对公司主体进行风险事件的检测。基于句子粒度的上下文进行公司事件检测，事件包含事件类型和主体要素（即公司主体），句中可能存在多个事件，多个公司主体且每个公司都可能存在多个事件类型标签，并且各类型标注样本分布不均匀，部分类型样本量较少，我们希望检测出文本中包含的所有主体事件。本次评测任务的文本语料来自于互联上的公开新闻、报告，将作为CCKS-2023的评测任务之一，依托于天池大赛平台进行评测。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532098/introduction"><![CDATA[<h3>Description</h3>主体事件检测是语言文本分析和金融领域智能应用的重要任务之一，如在金融风控领域往往会对公司主体进行风险事件的检测。基于句子粒度的上下文进行公司事件检测，事件包含事件类型和主体要素（即公司主体），句中可能存在多个事件，多个公司主体且每个公司都可能存在多个事件类型标签，并且各类型标注样本分布不均匀，部分类型样本量较少，我们希望检测出文本中包含的所有主体事件。本次评测任务的文本语料来自于互联上的公开新闻、报告，将作为CCKS-2023的评测任务之一，依托于天池大赛平台进行评测。<h3>Deadline: 2023-07-13T18:00:00+08:00</h3><h3>Reward: ￥30000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532097/introduction</id>
         <title><![CDATA[CCKS2023-面向上市公司主营业务的实体链接评测(赛季 1)]]></title>
         
@@ -481,6 +679,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532097/introduction"/>
         <summary>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532097/introduction"><![CDATA[<h3>Description</h3>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532089/introduction</id>
+        <title><![CDATA[SegmentFault AI Hackathon 2023 ·杭州站(赛季 1)]]></title>
+        
+        <updated>2023-05-25T01:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532089/introduction"/>
+        <summary>ChatGPT 在全球范围内掀起了一场关于 AI 技术革命的狂潮，被疫情按下暂停键的  **SegmentFault Hackathon**  也带着全新的 AI 主题重磅回归！</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532089/introduction"><![CDATA[<h3>Description</h3>ChatGPT 在全球范围内掀起了一场关于 AI 技术革命的狂潮，被疫情按下暂停键的  **SegmentFault Hackathon**  也带着全新的 AI 主题重磅回归！<h3>Deadline: 2023-06-01T23:55:00+08:00</h3><h3>Reward: ￥18432</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -569,34 +781,6 @@
 今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532080/introduction"><![CDATA[<h3>Description</h3>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
 今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532077/introduction</id>
-        <title><![CDATA[CVPR 2023 AliProducts Challenge: Large-scale Cross-Modal Product Retrieval(赛季 1)]]></title>
-        
-        <updated>2023-03-22T22:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532077/introduction"/>
-        <summary>The growing customer demand for E-commerce is becoming more and more diversified, growing the need for methods that not only require a single modality such as product images, but also call for the usage of textual captions that describe said images. Bridging the gap between visual representation and high-level semantic concepts remains an open research topic for obtaining users' search intentions. This challenge is based on the the AliProducts3 dataset that is designed to bridge this gap.</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532077/introduction"><![CDATA[<h3>Description</h3>The growing customer demand for E-commerce is becoming more and more diversified, growing the need for methods that not only require a single modality such as product images, but also call for the usage of textual captions that describe said images. Bridging the gap between visual representation and high-level semantic concepts remains an open research topic for obtaining users' search intentions. This challenge is based on the the AliProducts3 dataset that is designed to bridge this gap.<h3>Deadline: 2023-05-31T10:00:00+08:00</h3><h3>Reward: $3000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532074/introduction</id>
-        <title><![CDATA[CAAI-BDSC2023社交图谱链接预测 任务二：社交图谱动态链接预测(赛季 1)]]></title>
-        
-        <updated>2023-03-22T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532074/introduction"/>
-        <summary>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532074/introduction"><![CDATA[<h3>Description</h3>CAAI第八届全国大数据与社会计算学术会议（China National Conference on Big Data &amp; Social Computing，简称BDSC2023）将于2023年7月9-11日在新疆乌鲁木齐召开，由中国人工智能学会主办、社会计算与社会智能专委、新疆工程学院共同承办。本届会议的主题为“数字化转型与可持续发展”，立足全球数字化转型的技术变革、治理与政策实践，通过跨学科交叉视野探索通过数字化推动可持续发展的全球经验与中国智慧。<h3>Deadline: 2023-06-16T23:55:00+08:00</h3><h3>Reward: ￥28000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

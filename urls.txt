@@ -1089,3 +1089,5 @@ https://tianchi.aliyun.com/competition/entrance/532087/introduction
 https://tianchi.aliyun.com/competition/entrance/532086/introduction
 https://aistudio.baidu.com/aistudio/competition/detail/952
 https://tianchi.aliyun.com/competition/entrance/532097/introduction
+https://tianchi.aliyun.com/competition/entrance/532098/introduction
+https://tianchi.aliyun.com/competition/entrance/532089/introduction
