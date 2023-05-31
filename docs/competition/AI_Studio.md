@@ -10,6 +10,14 @@ Deadline: 2023-08-31T08:00:00+0800
 Reward: 300万+  
 
 
+## 首届全球AI药物研发算法大赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1012  
+Description: 首届全球AI药物研发算法大赛，是由清华大学药学院、百度飞桨和临港实验室共同主办，并得到中国药学会等单位大力支持的一项全球性技术创新大赛，旨在借助百度飞桨在生物计算方向上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育优秀人才，诚邀全球范围内生物计算、人工智能等相关专业的高校师生、企业、科研机构及开发者参赛。  
+Deadline: 2023-08-31T08:00:00+0800  
+Reward: 16万+  
+
+
 ## 视频语义理解评测
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/976  
@@ -58,13 +66,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/952
 Description: 本赛题基于深度学习技术自动检测输电线路的通道隐患，要求参赛者设计高效准确的算法，考虑多种设备类型和干扰因素进行模型的搭建、训练和推理。  
 Deadline: 2023-08-31T08:00:00+0800  
 Reward: 20万+，另设百万大奖  
-
-
-## 百度网盘AI大赛——版式分析场景
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/850  
-Description: 随着OCR和版面分析处理技术不断发展，信息电子化的效率已经大幅度提高，人工智能已经能够将很多格式规整的资料轻松转化为可编辑的电子文稿；但生活中更多的内容资料往往是复杂的，具有字体样式多元、颜色丰富的特点，因此实现复杂版面的识别至关重要。
-本次赛题希望选手有所突破，解决复杂版面的分析难点，精准识别扫描资料中的字体样式以及颜色，大幅度提高人们的使用效率。  
-Deadline: 2023-06-16T08:00:00+0800  
-Reward: ¥10000+特别礼包  
 
