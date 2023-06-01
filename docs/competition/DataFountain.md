@@ -105,11 +105,3 @@ Description: 诈骗电话识别-联邦学习
 Deadline: 2023-07-31T23:59:59+0800  
 Reward: 丰厚奖金激励  
 
-
-## 生活用纸抗张强度预测
-
-Link: https://www.datafountain.cn/competitions/614  
-Description: 生活用纸抗张强度预测  
-Deadline: 2023-05-31T23:59:59+0800  
-Reward: ￥165000  
-
