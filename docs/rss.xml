@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-06-04T16:00:48+08:00</updated>
+    <updated>2023-06-05T16:00:58+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -641,6 +641,22 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532102/introduction</id>
+        <title><![CDATA[BIGSARDATA 2023 AISAR Contest(赛季 1)]]></title>
+        
+        <updated>2023-06-05T00:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532102/introduction"/>
+        <summary>BIGSARDATA 2023 AISAR Contest
+对于全球经济和社会发展来说，城市化是一个重要趋势，对环境、经济、政治、社会和文化都有深远的影响。在遥感图像，特别是合成孔径雷达（Synthetic Aperture Radar, SAR）图像中，及时可靠地获取建成区（built-up areas, BAs）信息对于评估人类活动在当地、区域乃至全球环境中的影响，促进城市可持续发展具有重要意义。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532102/introduction"><![CDATA[<h3>Description</h3>BIGSARDATA 2023 AISAR Contest
+对于全球经济和社会发展来说，城市化是一个重要趋势，对环境、经济、政治、社会和文化都有深远的影响。在遥感图像，特别是合成孔径雷达（Synthetic Aperture Radar, SAR）图像中，及时可靠地获取建成区（built-up areas, BAs）信息对于评估人类活动在当地、区域乃至全球环境中的影响，促进城市可持续发展具有重要意义。<h3>Deadline: 2023-08-10T12:00:00+08:00</h3><h3>Reward: ￥23000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532100/introduction</id>
         <title><![CDATA[CCKS2023-开放领域知识图谱问答(赛季 1)]]></title>
         
@@ -762,22 +778,6 @@
         <summary>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
 今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532081/introduction"><![CDATA[<h3>Description</h3>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
-今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532080/introduction</id>
-        <title><![CDATA[CCKS2023 开放环境下的知识图谱构建与补全评测任务一：指令驱动的自适应知识图谱构建(赛季 1)]]></title>
-        
-        <updated>2023-04-11T14:54:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532080/introduction"/>
-        <summary>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
-今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532080/introduction"><![CDATA[<h3>Description</h3>知识图谱是一种结构化的数据表示形式，它以图形的方式展示实体及其之间的关系。 而大型语言模型，如GPT系列模型，通过在大量文本数据上进行预训练，能够捕捉到丰富的语义和句法信息。 知识图谱可以为大型语言模型提供结构化的知识，有助于改善模型的推理能力和生成质量。通过将知识图谱中的信息融入大型语言模型中，可以使模型在处理复杂任务时更具智能和准确性。 2022年1月 ，阿里巴巴联合浙江大学等单位发布数字商业开放知识图谱AliOpenKG: http://kg.alibaba.com。以该开放图谱数据集为基础，在CCKS2022大会组织了评测任务，吸引了多支海内外团队的参加。
 今年，面向更有挑战的开放环境下知识图谱构建和补全场景，围绕基于大模型的知识抽取与推理关键技术，将在CCKS2023继续组织评测并包括三个子任务：低资源商品实体识别与分类、指令驱动的自适应知识图谱构建、归纳式知识图谱关系推理。三个评测任务具体内容在下面章节介绍。本次评测将依托阿里巴巴天池平台（https://tianchi.aliyun.com/）展开，并鼓励评测选手使用大模型（如ChatGPT）及ModelScope提供的模型，我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
