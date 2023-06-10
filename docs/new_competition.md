@@ -1,5 +1,23 @@
-> 更新时间: 2023-06-09T16:01:04+0800 
+> 更新时间: 2023-06-10T16:00:53+0800 
 
 # 新上线比赛
 
-> 暂无新上线比赛！
+
+## 2023云原生编程挑战赛3：围绕前端框架、重构应用两大方向，设计一个Serverless创新应用(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532105/introduction  
+Description: 随着云计算的不断发展，Serverless技术已经成为现代应用程序开发的主流趋势。与传统的基础设施相比，Serverless可以自动扩展和自动部署，无需任何人工干预。开发者只需要编写代码并将其上传到云服务提供商，无需管理任何基础设施，从而节省了大量时间和成本。  
+Deadline: 2023-09-20T10:00:00+0800  
+Reward: ￥120000  
+
+## 2023云原生编程挑战赛2：面向应用安全防护领域设计Wasm插件(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532104/introduction  
+Description: 本赛题希望基于 WASM 实现 Higress 网关安全防护插件，开发者可以选择 Go/Rust/C++ 等多种语言，并从 IP 防护，WAF 规则防护，CC 防护等不同角度出发设计实现插件。  
+Deadline: 2023-08-15T10:00:00+0800  
+Reward: ￥120000  
+
+## 2023云原生编程挑战赛1：针对 Serverless 场景冷启动问题的弹性优化(赛季 1)
+Link: https://tianchi.aliyun.com/competition/entrance/532103/introduction  
+Description: Serverless 计算服务让用户无需管理服务器等基础设施，更聚焦具体的业务代码，Serverless 框架层会准备好计算资源，并以弹性、可靠的方式运行用户代码。用户无需提前准备服务器资源， 按需付费，让使用者无需为闲置资源付费，其背后是服务采用各种调度策略、容量预估以及冷启动优化技术降低应用的响应时间，并且使用尽可能少的资源，要做到这一点就需要在调度、容量规划以及冷启动加速三个方面入手。  
+Deadline: 2023-08-15T10:00:00+0800  
+Reward: ￥120000  
+
