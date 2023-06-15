@@ -58,6 +58,22 @@ Deadline: 2023-06-24T23:59:00+0800
 Reward: 价值5000元人民币GPU云计算资源，5000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
 
 
+## 第十二届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十二届全国海洋航行器设计与制作大赛） <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6487dc0d49463ee38dbad118  
+Description: 第十二届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十二届全国海洋航行器设计与制作大赛）  
+Deadline: 2023-08-14T00:00:00+0800  
+Reward: 获奖证书  
+
+
+## 第十二届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十二届全国海洋航行器设计与制作大赛） <sup style="color:red">[new]<sup>  
+
+Link: https://www.kesci.com/home/competition/6487dc1549463ee38dbad1bc  
+Description: 第十二届全国海洋航行器设计与制作大赛——C3-2组：水下智能感知（第十二届全国海洋航行器设计与制作大赛）  
+Deadline: 2023-08-14T00:00:00+0800  
+Reward: 获奖证书  
+
+
 ## 第一届齐鲁风云“浪潮杯”气象智能算法挑战赛——0-6小时降水临近外推预报算法赛
 
 Link: https://www.kesci.com/home/competition/639676d623e6717493756b52  
