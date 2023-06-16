@@ -2,6 +2,14 @@
 
 
 
+## 2023中国高校计算机大赛人工智能创意赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1026  
+Description: 2023“中国高校计算机大赛—人工智能创意赛”（以下简称“竞赛”）由全国高等学校计算机教育研究会主办，浙江大学、百度公司联合承办，探月与航天工程中心、嫦娥奔月航天科技（北京）有限责任公司作为合作单位。该竞赛是面向全球高校各专业在校学生的科技类竞赛活动，旨在激发学生的创新意识，提升学生人工智能创新实践应用能力，培养团队合作精神，促进校际交流，丰富校园学术气氛，推动“人工智能+X”知识体系下的人才培养  
+Deadline: 2023-11-30T08:00:00+0800  
+Reward: 教育部榜单赛事  
+
+
 ## 第二届广州·琶洲算法大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
@@ -58,12 +66,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/911
 Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
 Deadline: 2023-10-31T08:00:00+0800  
 Reward: ¥160,000  
-
-
-## 基于复杂场景的输电通道隐患目标检测算法
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/952  
-Description: 本赛题基于深度学习技术自动检测输电线路的通道隐患，要求参赛者设计高效准确的算法，考虑多种设备类型和干扰因素进行模型的搭建、训练和推理。  
-Deadline: 2023-08-31T08:00:00+0800  
-Reward: 20万+，另设百万大奖  
 

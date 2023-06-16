@@ -3,12 +3,26 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-06-15T16:00:53+08:00</updated>
+    <updated>2023-06-16T16:00:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
     </author>
     
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1026</id>
+        <title><![CDATA[2023中国高校计算机大赛人工智能创意赛]]></title>
+        
+        <updated>2023-06-15T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1026"/>
+        <summary>2023“中国高校计算机大赛—人工智能创意赛”（以下简称“竞赛”）由全国高等学校计算机教育研究会主办，浙江大学、百度公司联合承办，探月与航天工程中心、嫦娥奔月航天科技（北京）有限责任公司作为合作单位。该竞赛是面向全球高校各专业在校学生的科技类竞赛活动，旨在激发学生的创新意识，提升学生人工智能创新实践应用能力，培养团队合作精神，促进校际交流，丰富校园学术气氛，推动“人工智能+X”知识体系下的人才培养</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1026"><![CDATA[<h3>Description</h3>2023“中国高校计算机大赛—人工智能创意赛”（以下简称“竞赛”）由全国高等学校计算机教育研究会主办，浙江大学、百度公司联合承办，探月与航天工程中心、嫦娥奔月航天科技（北京）有限责任公司作为合作单位。该竞赛是面向全球高校各专业在校学生的科技类竞赛活动，旨在激发学生的创新意识，提升学生人工智能创新实践应用能力，培养团队合作精神，促进校际交流，丰富校园学术气氛，推动“人工智能+X”知识体系下的人才培养<h3>Deadline: 2023-11-30T08:00:00+08:00</h3><h3>Reward: 教育部榜单赛事</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/956</id>
@@ -112,20 +126,6 @@
         </author>
     </entry>
     
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/952</id>
-        <title><![CDATA[基于复杂场景的输电通道隐患目标检测算法]]></title>
-        
-        <updated>2023-04-25T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/952"/>
-        <summary>本赛题基于深度学习技术自动检测输电线路的通道隐患，要求参赛者设计高效准确的算法，考虑多种设备类型和干扰因素进行模型的搭建、训练和推理。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/952"><![CDATA[<h3>Description</h3>本赛题基于深度学习技术自动检测输电线路的通道隐患，要求参赛者设计高效准确的算法，考虑多种设备类型和干扰因素进行模型的搭建、训练和推理。<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: 20万+，另设百万大奖</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
     
     
     <entry>
@@ -213,6 +213,48 @@
     </entry>
     
     <entry>
+        <id>https://www.biendata.xyz/competition/logiqa/</id>
+        <title><![CDATA[LogiQA Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/logiqa/"/>
+        <summary>LogiQA Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/mutual/</id>
+        <title><![CDATA[MuTual Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/mutual/"/>
+        <summary>MuTual Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.biendata.xyz/competition/race_c/</id>
+        <title><![CDATA[RACE-C Dataset]]></title>
+        
+        <updated>2021-04-15T08:00:00+08:00</updated>
+        
+        <link href="https://www.biendata.xyz/competition/race_c/"/>
+        <summary>RACE-C Dataset</summary>
+        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
+        <author>
+            <name><![CDATA[biendata]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://www.biendata.xyz/competition/dream/</id>
         <title><![CDATA[Dream Dataset]]></title>
         
@@ -263,48 +305,6 @@
         <link href="https://www.biendata.xyz/competition/sciq/"/>
         <summary>SciQ Dataset</summary>
         <content type="text/html" src="https://www.biendata.xyz/competition/sciq/"><![CDATA[<h3>Description</h3>SciQ Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/logiqa/</id>
-        <title><![CDATA[LogiQA Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/logiqa/"/>
-        <summary>LogiQA Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/logiqa/"><![CDATA[<h3>Description</h3>LogiQA Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/mutual/</id>
-        <title><![CDATA[MuTual Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/mutual/"/>
-        <summary>MuTual Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/mutual/"><![CDATA[<h3>Description</h3>MuTual Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
-        <author>
-            <name><![CDATA[biendata]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.biendata.xyz/competition/race_c/</id>
-        <title><![CDATA[RACE-C Dataset]]></title>
-        
-        <updated>2021-04-15T08:00:00+08:00</updated>
-        
-        <link href="https://www.biendata.xyz/competition/race_c/"/>
-        <summary>RACE-C Dataset</summary>
-        <content type="text/html" src="https://www.biendata.xyz/competition/race_c/"><![CDATA[<h3>Description</h3>RACE-C Dataset<h3>Deadline: 2026-04-15T08:00:00+08:00</h3><h3>Reward: Interest</h3>]]></content>
         <author>
             <name><![CDATA[biendata]]></name>
         </author>
@@ -669,6 +669,22 @@
     
     
     <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532106/introduction</id>
+        <title><![CDATA[魔搭社区Create@AI黑客马拉松(赛季 1)]]></title>
+        
+        <updated>2023-06-12T14:55:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532106/introduction"/>
+        <summary>这是一场人工智能和黑客精神融合的创新盛会，这是一次汇集顶尖AI人才过招的精彩共创。
+本届Create@AI黑客马拉松由魔搭社区主办、阿里云和NVIDIA作为联合发起方，天池平台协办，邀请来自世界各地的AI开发者和创业团队，汇聚线下Hackathon，通过三天的极限coding，发挥创业和专业特长，用AI模型解决实际问题。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532106/introduction"><![CDATA[<h3>Description</h3>这是一场人工智能和黑客精神融合的创新盛会，这是一次汇集顶尖AI人才过招的精彩共创。
+本届Create@AI黑客马拉松由魔搭社区主办、阿里云和NVIDIA作为联合发起方，天池平台协办，邀请来自世界各地的AI开发者和创业团队，汇聚线下Hackathon，通过三天的极限coding，发挥创业和专业特长，用AI模型解决实际问题。<h3>Deadline: 2023-06-25T23:55:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532105/introduction</id>
         <title><![CDATA[2023云原生编程挑战赛3：围绕前端框架、重构应用两大方向，设计一个Serverless创新应用(赛季 1)]]></title>
         
@@ -791,20 +807,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532097/introduction"/>
         <summary>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532097/introduction"><![CDATA[<h3>Description</h3>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532087/introduction</id>
-        <title><![CDATA[MICCAI 2023 Challenges ：STS-基于3D CBCT的牙齿分割任务(赛季 1)]]></title>
-        
-        <updated>2023-05-17T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532087/introduction"/>
-        <summary>本次大赛包含两条赛道，此页面对应主题为“3D CBCT切片牙齿分割”的竞赛，采用Dice、IOU、霍夫距离等评价指标进行评估（“2D全景牙齿X光片分割”报名入口地址为link）。除了奖金外，选定的获胜团队将被邀请参加2023年10月8日至12日在加拿大温哥华举行的MICCAI 2023。入选的优秀获奖团队还将有机会在MICCAI workshop上发表他们的作品,其中录用的英文论文会被Springer收录论文集并EI检索。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532087/introduction"><![CDATA[<h3>Description</h3>本次大赛包含两条赛道，此页面对应主题为“3D CBCT切片牙齿分割”的竞赛，采用Dice、IOU、霍夫距离等评价指标进行评估（“2D全景牙齿X光片分割”报名入口地址为link）。除了奖金外，选定的获胜团队将被邀请参加2023年10月8日至12日在加拿大温哥华举行的MICCAI 2023。入选的优秀获奖团队还将有机会在MICCAI workshop上发表他们的作品,其中录用的英文论文会被Springer收录论文集并EI检索。<h3>Deadline: 2023-08-27T10:00:00+08:00</h3><h3>Reward: $3600</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
