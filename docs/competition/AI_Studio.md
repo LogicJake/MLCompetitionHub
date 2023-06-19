@@ -13,8 +13,9 @@ Reward: 教育部榜单赛事
 ## 第二届广州·琶洲算法大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
-Description: “优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。  
-Deadline: 2023-08-31T08:00:00+0800  
+Description: “优选AI算法，让世界更智能”，300万奖金广聚天下算法英雄。
+“Optimize AI algorithms, making the world more intelligent”, 3 million CNY prize provided for algorithm experts from all over the world  
+Deadline: 2023-09-30T08:00:00+0800  
 Reward: 300万+  
 
 
