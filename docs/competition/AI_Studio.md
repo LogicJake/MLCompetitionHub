@@ -2,6 +2,14 @@
 
 
 
+## 2023大模型应用创新挑战赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/998  
+Description: 生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合第四届上海创新创业50人论坛组委会、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。  
+Deadline: 2023-08-07T08:00:00+0800  
+Reward: ¥10万  
+
+
 ## 2023中国高校计算机大赛人工智能创意赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1026  
