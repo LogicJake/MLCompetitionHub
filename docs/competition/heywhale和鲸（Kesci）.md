@@ -2,62 +2,6 @@
 
 
 
-## ChatGLM 实践大赛 ——论文学科分类（Easy）
-
-Link: https://www.kesci.com/home/competition/6454af071506f5faa84082ea  
-Description: ChatGLM 实践大赛 ——论文学科分类（Easy）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值2000元人民币GPU云计算资源，2000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——论文综述和对比分析（Medium）
-
-Link: https://www.kesci.com/home/competition/6449d6e5aba289e5f78d2dbd  
-Description: ChatGLM 实践大赛 ——论文综述和对比分析（Medium）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值3000元人民币GPU云计算资源，3000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——投稿期刊会议推荐（Medium）
-
-Link: https://www.kesci.com/home/competition/6449d7afaba289e5f78d3443  
-Description: ChatGLM 实践大赛 ——投稿期刊会议推荐（Medium）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值3000元人民币GPU云计算资源，3000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——审稿回复（Medium）
-
-Link: https://www.kesci.com/home/competition/6449d7eeaba289e5f78d366a  
-Description: ChatGLM 实践大赛 ——审稿回复（Medium）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值3000元人民币GPU云计算资源，3000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——论文检索（Hard）
-
-Link: https://www.kesci.com/home/competition/643ded51ae5deeb750d9d407  
-Description: ChatGLM 实践大赛 ——论文检索（Hard）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值5000元人民币GPU云计算资源，5000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——论文推荐和科技情报生成（Hard）
-
-Link: https://www.kesci.com/home/competition/643deca8ae5deeb750d9c983  
-Description: ChatGLM 实践大赛 ——论文推荐和科技情报生成（Hard）  
-Deadline: 2023-06-24T23:59:00+0800  
-Reward: 价值5000元人民币GPU云计算资源，5000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
-## ChatGLM 实践大赛 ——问答式科研知识库（Medium）
-
-Link: https://www.kesci.com/home/competition/644a37c71506f5faa81a9b54  
-Description: ChatGLM 实践大赛 ——问答式科研知识库（Medium）  
-Deadline: 2023-06-24T12:00:00+0800  
-Reward: 价值3000元人民币GPU云计算资源，3000元人民币ChatGLM API支持，ChatGLM官方认证优秀证书  
-
-
 ## 第十二届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十二届全国海洋航行器设计与制作大赛）
 
 Link: https://www.kesci.com/home/competition/6487dc0d49463ee38dbad118  
