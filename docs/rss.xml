@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-06-25T16:00:52+08:00</updated>
+    <updated>2023-06-26T16:02:04+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -17,8 +17,8 @@
         <updated>2023-06-20T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/998"/>
-        <summary>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合第四届上海创新创业50人论坛组委会、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/998"><![CDATA[<h3>Description</h3>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合第四届上海创新创业50人论坛组委会、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。<h3>Deadline: 2023-08-07T08:00:00+08:00</h3><h3>Reward: ¥10万</h3>]]></content>
+        <summary>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合上海市青年五十人创新创业研究院、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/998"><![CDATA[<h3>Description</h3>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合上海市青年五十人创新创业研究院、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。<h3>Deadline: 2023-08-07T08:00:00+08:00</h3><h3>Reward: ¥10万</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -587,22 +587,6 @@
     
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532106/introduction</id>
-        <title><![CDATA[魔搭社区Create@AI黑客马拉松(赛季 1)]]></title>
-        
-        <updated>2023-06-12T14:55:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532106/introduction"/>
-        <summary>这是一场人工智能和黑客精神融合的创新盛会，这是一次汇集顶尖AI人才过招的精彩共创。
-本届Create@AI黑客马拉松由魔搭社区主办、阿里云和NVIDIA作为联合发起方，天池平台协办，邀请来自世界各地的AI开发者和创业团队，汇聚线下Hackathon，通过三天的极限coding，发挥创业和专业特长，用AI模型解决实际问题。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532106/introduction"><![CDATA[<h3>Description</h3>这是一场人工智能和黑客精神融合的创新盛会，这是一次汇集顶尖AI人才过招的精彩共创。
-本届Create@AI黑客马拉松由魔搭社区主办、阿里云和NVIDIA作为联合发起方，天池平台协办，邀请来自世界各地的AI开发者和创业团队，汇聚线下Hackathon，通过三天的极限coding，发挥创业和专业特长，用AI模型解决实际问题。<h3>Deadline: 2023-06-25T23:55:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532105/introduction</id>
         <title><![CDATA[2023云原生编程挑战赛3：围绕前端框架、重构应用两大方向，设计一个Serverless创新应用(赛季 1)]]></title>
         
@@ -725,6 +709,20 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532097/introduction"/>
         <summary>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532097/introduction"><![CDATA[<h3>Description</h3>本次评测将依托天池平台（ https://tianchi.aliyun.com/ ）展开，并鼓励评测选手使用大模型（如ChatGPT等），我们将持续维护和新增更多的评测任务，请有意向的参赛队伍请关注平台上的竞赛列表。<h3>Deadline: 2023-07-12T12:00:00+08:00</h3><h3>Reward: ￥20000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532096/introduction</id>
+        <title><![CDATA[AFAC2023-金融数据验真-赛题 金融文档防篡改(赛季 1)]]></title>
+        
+        <updated>2023-06-19T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532096/introduction"/>
+        <summary>近年来，人工智能技术在金融领域的运用正在不断加深，为金融行业的风控、营销、投顾、管理等业务注入了数字化的血液，为银行、保险、基金、券商等金融机构实现数智化转型提供引擎动能。在CCF指导下，蚂蚁集团和网商银行联合浙江大学、西安交通大学、中央财经大学和天池平台，共同发布国内首套金融AI挑战赛赛题，业务上涵盖信贷审批、财保服务、基金预测等多个场景，技术上涵盖通用机器学习、计算机视觉、自然语言处理等多个算法领域，剑指金融市场科技破局痛点难点，在此邀请业界和学界各位同好，共同探讨解决方案，发挥行业技术优势，共建一个追求卓越的技术氛围与互动生态。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532096/introduction"><![CDATA[<h3>Description</h3>近年来，人工智能技术在金融领域的运用正在不断加深，为金融行业的风控、营销、投顾、管理等业务注入了数字化的血液，为银行、保险、基金、券商等金融机构实现数智化转型提供引擎动能。在CCF指导下，蚂蚁集团和网商银行联合浙江大学、西安交通大学、中央财经大学和天池平台，共同发布国内首套金融AI挑战赛赛题，业务上涵盖信贷审批、财保服务、基金预测等多个场景，技术上涵盖通用机器学习、计算机视觉、自然语言处理等多个算法领域，剑指金融市场科技破局痛点难点，在此邀请业界和学界各位同好，共同探讨解决方案，发挥行业技术优势，共建一个追求卓越的技术氛围与互动生态。<h3>Deadline: 2023-07-31T23:55:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>

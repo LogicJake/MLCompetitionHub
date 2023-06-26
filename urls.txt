@@ -1104,3 +1104,4 @@ https://www.kesci.com/home/competition/6487dc0d49463ee38dbad118
 https://www.kesci.com/home/competition/6487dc1549463ee38dbad1bc
 https://aistudio.baidu.com/aistudio/competition/detail/1026
 https://aistudio.baidu.com/aistudio/competition/detail/998
+https://tianchi.aliyun.com/competition/entrance/532096/introduction
