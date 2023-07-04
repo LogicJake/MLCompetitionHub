@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-07-03T16:01:04+08:00</updated>
+    <updated>2023-07-04T16:01:03+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -649,8 +649,8 @@
         <updated>2023-06-27T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532115/introduction"/>
-        <summary>量子化学分子属性预测大赛——B赛道</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532115/introduction"><![CDATA[<h3>Description</h3>量子化学分子属性预测大赛——B赛道<h3>Deadline: 2023-09-14T14:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <summary>宏观世界是由大量的微观粒子组成，了解微观粒子的运动和性质，才能更好的认识宏观世界。借助计算机模拟技术和量子力学的基本原理，量子化学计算应运而生，从电子层面阐明分子的能量、性质以及分子间相互作用的本质。量子化学计算在生物、化学、医药和材料科学等领域中具有广泛应用，例如：预测化学反应的热化学性质、分析分子的光谱学特性、优化材料的物理性质等。然而，量子化学计算存在计算量大、成本昂贵、耗时长等缺点，这限制了其在科学研究和技术创新领域的进一步发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532115/introduction"><![CDATA[<h3>Description</h3>宏观世界是由大量的微观粒子组成，了解微观粒子的运动和性质，才能更好的认识宏观世界。借助计算机模拟技术和量子力学的基本原理，量子化学计算应运而生，从电子层面阐明分子的能量、性质以及分子间相互作用的本质。量子化学计算在生物、化学、医药和材料科学等领域中具有广泛应用，例如：预测化学反应的热化学性质、分析分子的光谱学特性、优化材料的物理性质等。然而，量子化学计算存在计算量大、成本昂贵、耗时长等缺点，这限制了其在科学研究和技术创新领域的进一步发展。<h3>Deadline: 2023-09-14T14:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
@@ -705,8 +705,8 @@
         <updated>2023-06-27T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532109/introduction"/>
-        <summary>量子化学分子属性预测大赛——A赛道</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532109/introduction"><![CDATA[<h3>Description</h3>量子化学分子属性预测大赛——A赛道<h3>Deadline: 2023-09-14T10:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
+        <summary>宏观世界是由大量的微观粒子组成，了解微观粒子的运动和性质，才能更好的认识宏观世界。借助计算机模拟技术和量子力学的基本原理，量子化学计算应运而生，从电子层面阐明分子的能量、性质以及分子间相互作用的本质。量子化学计算在生物、化学、医药和材料科学等领域中具有广泛应用，例如：预测化学反应的热化学性质、分析分子的光谱学特性、优化材料的物理性质等。然而，量子化学计算存在计算量大、成本昂贵、耗时长等缺点，这限制了其在科学研究和技术创新领域的进一步发展。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532109/introduction"><![CDATA[<h3>Description</h3>宏观世界是由大量的微观粒子组成，了解微观粒子的运动和性质，才能更好的认识宏观世界。借助计算机模拟技术和量子力学的基本原理，量子化学计算应运而生，从电子层面阐明分子的能量、性质以及分子间相互作用的本质。量子化学计算在生物、化学、医药和材料科学等领域中具有广泛应用，例如：预测化学反应的热化学性质、分析分子的光谱学特性、优化材料的物理性质等。然而，量子化学计算存在计算量大、成本昂贵、耗时长等缺点，这限制了其在科学研究和技术创新领域的进一步发展。<h3>Deadline: 2023-09-14T10:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
