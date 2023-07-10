@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-07-09T16:00:51+08:00</updated>
+    <updated>2023-07-10T16:01:21+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -341,6 +341,20 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/663</id>
+        <title><![CDATA[用药规则生成AI算法]]></title>
+        
+        <updated>2023-07-05T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/663"/>
+        <summary>用药规则生成AI算法</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/663"><![CDATA[<h3>Description</h3>用药规则生成AI算法<h3>Deadline: 2023-09-16T23:59:59+08:00</h3><h3>Reward: ￥33000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/645</id>

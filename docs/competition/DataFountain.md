@@ -2,6 +2,14 @@
 
 
 
+## 用药规则生成AI算法 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/663  
+Description: 用药规则生成AI算法  
+Deadline: 2023-09-16T23:59:59+0800  
+Reward: ￥33000  
+
+
 ## AI+无线通信
 
 Link: https://www.datafountain.cn/competitions/645  
