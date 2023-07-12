@@ -2,10 +2,10 @@
 
 
 
-## 用药规则生成AI算法 <sup style="color:red">[new]<sup>  
+## 2023CCF信息系统专委创新设计大赛-用药规则生成AI算法竞赛
 
 Link: https://www.datafountain.cn/competitions/663  
-Description: 用药规则生成AI算法  
+Description: 2023CCF信息系统专委创新设计大赛-用药规则生成AI算法竞赛  
 Deadline: 2023-09-16T23:59:59+0800  
 Reward: ￥33000  
 

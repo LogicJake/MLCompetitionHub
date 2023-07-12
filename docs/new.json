@@ -1,1 +1,1 @@
-[]
+[{"name": "NVIDIA TensorRT Hackathon 2023 —— 生成式AI模型优化赛(赛季 1)", "url": "https://tianchi.aliyun.com/competition/entrance/532108/introduction", "description": "过去的一年，是 AIGC（“AI生成内容”，或称“生成式AI”） 井喷的一年。大量的图像和文本被计算机批量生产出来，有的甚至能媲美专业创作者的画工与文采。本次比赛中，围绕AIGC模型主题，鼓励选手通过TensorRT实现大模型的优化计算，在TensorRT编程相关的知识和技能上有所收获。", "deadline": "2023-08-14T18:00:00+08:00", "reward": "￥49000", "start_time": "2023-06-13T00:00:00+08:00"}]
