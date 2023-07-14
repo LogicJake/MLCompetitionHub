@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-07-13T16:00:51+08:00</updated>
+    <updated>2023-07-14T16:01:06+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/998"/>
         <summary>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合上海市青年五十人创新创业研究院、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/998"><![CDATA[<h3>Description</h3>生成式人工智能技术及产品的快速迭代重塑着千行百业，为适应快速变革的时代浪潮，把握落地应用的“最后一公里”，百度飞桨联合上海市青年五十人创新创业研究院、上海张江（集团）有限公司、OpenI启智社区与DataWhale发起了大模型应用创新挑战赛，为大模型人才培养提供综合演练平台，鼓励开发者发挥想象力和创新精神，策划基于大模型的创意方案与创新应用。<h3>Deadline: 2023-08-07T08:00:00+08:00</h3><h3>Reward: ¥10万</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1030</id>
+        <title><![CDATA[2023IKCEST第五届“一带一路”国际大数据竞赛]]></title>
+        
+        <updated>2023-07-10T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1030"/>
+        <summary>2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1030"><![CDATA[<h3>Description</h3>2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。<h3>Deadline: 2023-10-20T08:00:00+08:00</h3><h3>Reward: 奖池：¥20万</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -137,20 +151,6 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/913"/>
         <summary>近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/913"><![CDATA[<h3>Description</h3>近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。<h3>Deadline: 2023-08-15T08:00:00+08:00</h3><h3>Reward: 大赛63万元  本赛道21万元</h3>]]></content>
-        <author>
-            <name><![CDATA[AI Studio]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://aistudio.baidu.com/aistudio/competition/detail/911</id>
-        <title><![CDATA[中国软件开源创新大赛：飞桨框架任务挑战赛]]></title>
-        
-        <updated>2023-04-23T08:00:00+08:00</updated>
-        
-        <link href="https://aistudio.baidu.com/aistudio/competition/detail/911"/>
-        <summary>第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/911"><![CDATA[<h3>Description</h3>第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。<h3>Deadline: 2023-10-31T08:00:00+08:00</h3><h3>Reward: ¥160,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -341,6 +341,48 @@
     </entry>
     
     
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/667</id>
+        <title><![CDATA[复杂建筑环境下移动机器人多传感器融合航位推算]]></title>
+        
+        <updated>2023-06-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/667"/>
+        <summary>复杂建筑环境下移动机器人多传感器融合航位推算</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/667"><![CDATA[<h3>Description</h3>复杂建筑环境下移动机器人多传感器融合航位推算<h3>Deadline: 2023-09-01T23:59:59+08:00</h3><h3>Reward: ￥116000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/666</id>
+        <title><![CDATA[机器人施工与调度功效预测设计]]></title>
+        
+        <updated>2023-06-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/666"/>
+        <summary>机器人施工与调度功效预测设计</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/666"><![CDATA[<h3>Description</h3>机器人施工与调度功效预测设计<h3>Deadline: 2023-09-01T23:59:59+08:00</h3><h3>Reward: ￥116000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://www.datafountain.cn/competitions/665</id>
+        <title><![CDATA[机器人建筑场景底盘路径规划]]></title>
+        
+        <updated>2023-06-20T00:00:00+08:00</updated>
+        
+        <link href="https://www.datafountain.cn/competitions/665"/>
+        <summary>机器人建筑场景底盘路径规划</summary>
+        <content type="text/html" src="https://www.datafountain.cn/competitions/665"><![CDATA[<h3>Description</h3>机器人建筑场景底盘路径规划<h3>Deadline: 2023-09-01T23:59:59+08:00</h3><h3>Reward: ￥116000</h3>]]></content>
+        <author>
+            <name><![CDATA[DataFountain]]></name>
+        </author>
+    </entry>
     
     <entry>
         <id>https://www.datafountain.cn/competitions/663</id>

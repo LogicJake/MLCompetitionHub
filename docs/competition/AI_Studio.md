@@ -10,6 +10,14 @@ Deadline: 2023-08-07T08:00:00+0800
 Reward: ¥10万  
 
 
+## 2023IKCEST第五届“一带一路”国际大数据竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1030  
+Description: 2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。  
+Deadline: 2023-10-20T08:00:00+0800  
+Reward: 奖池：¥20万  
+
+
 ## 2023中国高校计算机大赛人工智能创意赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1026  
@@ -75,12 +83,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/913
 Description: 近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。  
 Deadline: 2023-08-15T08:00:00+0800  
 Reward: 大赛63万元  本赛道21万元  
-
-
-## 中国软件开源创新大赛：飞桨框架任务挑战赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
-Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
-Deadline: 2023-10-31T08:00:00+0800  
-Reward: ¥160,000  
 

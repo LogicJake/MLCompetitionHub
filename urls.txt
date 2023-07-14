@@ -1116,3 +1116,7 @@ https://tianchi.aliyun.com/competition/entrance/532118/introduction
 https://tianchi.aliyun.com/competition/entrance/532117/introduction
 https://www.datafountain.cn/competitions/663
 https://tianchi.aliyun.com/competition/entrance/532108/introduction
+https://aistudio.baidu.com/aistudio/competition/detail/1030
+https://www.datafountain.cn/competitions/667
+https://www.datafountain.cn/competitions/666
+https://www.datafountain.cn/competitions/665

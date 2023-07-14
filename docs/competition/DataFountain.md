@@ -2,6 +2,30 @@
 
 
 
+## 复杂建筑环境下移动机器人多传感器融合航位推算
+
+Link: https://www.datafountain.cn/competitions/667  
+Description: 复杂建筑环境下移动机器人多传感器融合航位推算  
+Deadline: 2023-09-01T23:59:59+0800  
+Reward: ￥116000  
+
+
+## 机器人施工与调度功效预测设计
+
+Link: https://www.datafountain.cn/competitions/666  
+Description: 机器人施工与调度功效预测设计  
+Deadline: 2023-09-01T23:59:59+0800  
+Reward: ￥116000  
+
+
+## 机器人建筑场景底盘路径规划
+
+Link: https://www.datafountain.cn/competitions/665  
+Description: 机器人建筑场景底盘路径规划  
+Deadline: 2023-09-01T23:59:59+0800  
+Reward: ￥116000  
+
+
 ## 2023CCF信息系统专委创新设计大赛-用药规则生成AI算法竞赛
 
 Link: https://www.datafountain.cn/competitions/663  
