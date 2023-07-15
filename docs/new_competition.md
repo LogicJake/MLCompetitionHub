@@ -1,29 +1,11 @@
-> 更新时间: 2023-07-14T16:01:06+0800 
+> 更新时间: 2023-07-15T16:00:56+0800 
 
 # 新上线比赛
 
 
-## 2023IKCEST第五届“一带一路”国际大数据竞赛
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1030  
-Description: 2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。  
-Deadline: 2023-10-20T08:00:00+0800  
-Reward: 奖池：¥20万  
-
-## 复杂建筑环境下移动机器人多传感器融合航位推算
-Link: https://www.datafountain.cn/competitions/667  
-Description: 复杂建筑环境下移动机器人多传感器融合航位推算  
-Deadline: 2023-09-01T23:59:59+0800  
-Reward: ￥116000  
-
-## 机器人施工与调度功效预测设计
-Link: https://www.datafountain.cn/competitions/666  
-Description: 机器人施工与调度功效预测设计  
-Deadline: 2023-09-01T23:59:59+0800  
-Reward: ￥116000  
-
-## 机器人建筑场景底盘路径规划
-Link: https://www.datafountain.cn/competitions/665  
-Description: 机器人建筑场景底盘路径规划  
-Deadline: 2023-09-01T23:59:59+0800  
-Reward: ￥116000  
+## CSIG图像图形技术挑战赛-飞桨赛道：基于AI的量化选股投资策略建模与可视分析
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
+Description: 量化选股投资策略建模是一种利用数学和计算机方法来分析市场数据，以确定投资组合的投资策略。选手利用提供的结构化数据建模，对股票的未来的收益率进行预测，并制定有效的投资策略，同时进行可视化系统开发。  
+Deadline: 2023-09-24T08:00:00+0800  
+Reward: 5万元奖金  
 

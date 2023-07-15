@@ -18,6 +18,14 @@ Deadline: 2023-10-20T08:00:00+0800
 Reward: 奖池：¥20万  
 
 
+## CSIG图像图形技术挑战赛-飞桨赛道：基于AI的量化选股投资策略建模与可视分析 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
+Description: 量化选股投资策略建模是一种利用数学和计算机方法来分析市场数据，以确定投资组合的投资策略。选手利用提供的结构化数据建模，对股票的未来的收益率进行预测，并制定有效的投资策略，同时进行可视化系统开发。  
+Deadline: 2023-09-24T08:00:00+0800  
+Reward: 5万元奖金  
+
+
 ## 2023中国高校计算机大赛人工智能创意赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1026  
@@ -75,12 +83,4 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/974
 Description: 从通用人工智能发展与应用的角度，对大语言模型进行系统性、可量化的评估体系建设  
 Deadline: 2023-08-30T08:00:00+0800  
 Reward: ¥65000  
-
-
-## 百度商业AI 技术创新大赛赛道二：AIGC推理性能优化
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/913  
-Description: 近年来，基于transformer模型结构的大规模预训练语言模型技术快速发展，百度商业引擎利用AIGC技术优势，推出Ernie文心模型，显著提升了营销效果。然而，在工业化部署实践中，高性能推理优化对于保障客户营销投放体验和控制算力成本至关重要。GPU加速技术成为重要手段。本任务提供了一个典型的Ernie生成模型，旨在帮助参赛者挑战最优的模型推理性能。  
-Deadline: 2023-08-15T08:00:00+0800  
-Reward: 大赛63万元  本赛道21万元  
 

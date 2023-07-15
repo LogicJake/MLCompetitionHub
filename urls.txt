@@ -1120,3 +1120,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1030
 https://www.datafountain.cn/competitions/667
 https://www.datafountain.cn/competitions/666
 https://www.datafountain.cn/competitions/665
+https://aistudio.baidu.com/aistudio/competition/detail/1032
