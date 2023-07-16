@@ -18,7 +18,7 @@ Deadline: 2023-10-20T08:00:00+0800
 Reward: 奖池：¥20万  
 
 
-## CSIG图像图形技术挑战赛-飞桨赛道：基于AI的量化选股投资策略建模与可视分析 <sup style="color:red">[new]<sup>  
+## CSIG图像图形技术挑战赛-飞桨、工银瑞信赛道：基于AI的量化选股投资策略建模与可视分析 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
 Description: 量化选股投资策略建模是一种利用数学和计算机方法来分析市场数据，以确定投资组合的投资策略。选手利用提供的结构化数据建模，对股票的未来的收益率进行预测，并制定有效的投资策略，同时进行可视化系统开发。  
