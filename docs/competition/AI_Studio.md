@@ -10,7 +10,7 @@ Deadline: 2023-08-07T08:00:00+0800
 Reward: ¥10万  
 
 
-## 2023IKCEST第五届“一带一路”国际大数据竞赛 <sup style="color:red">[new]<sup>  
+## 2023IKCEST第五届“一带一路”国际大数据竞赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1030  
 Description: 2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。  
