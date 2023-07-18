@@ -15,13 +15,13 @@ Reward: ¥10万
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1030  
 Description: 2023年赛题：社交网络中多模态虚假媒体内容核查，通过大数据与人工智能技术，纠正和消除虚假错误信息。  
 Deadline: 2023-10-20T08:00:00+0800  
-Reward: 奖池：¥20万  
+Reward: ¥20万  
 
 
-## CSIG图像图形技术挑战赛-飞桨、工银瑞信赛道：基于AI的量化选股投资策略建模与可视分析 <sup style="color:red">[new]<sup>  
+## 2023CSIG-飞桨、工银瑞信金融科技挑战赛 <sup style="color:red">[new]<sup>  
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
-Description: 量化选股投资策略建模是一种利用数学和计算机方法来分析市场数据，以确定投资组合的投资策略。选手利用提供的结构化数据建模，对股票的未来的收益率进行预测，并制定有效的投资策略，同时进行可视化系统开发。  
+Description: 基于AI的量化选股投资策略建模与可视分析  
 Deadline: 2023-09-24T08:00:00+0800  
 Reward: 5万元奖金  
 
@@ -67,20 +67,18 @@ Deadline: 2023-08-30T08:00:00+0800
 Reward: ¥65000  
 
 
-## 百度商业AI技术创新大赛赛道一：商业转化行为预测
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/877  
-Description: 本赛道任务是广告转化率预估，在广告领域中，转化率预估被广泛应用于优化广告投放，提高广告效果和ROI。
-转化率预估是指通过对用户行为数据的分析，预测用户是否会执行某种特定的转化行为，比如下载APP、购买商品或服务等。
-本次比赛提供了百度真实的广告数据集，包含了海量的用户行为数据和广告特征。希望参赛者使用深度学习模型，建模转化率预估模型。  
-Deadline: 2023-08-15T08:00:00+0800  
-Reward: 大赛63万元  本赛道42万元  
-
-
 ## 大语言模型评估
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/974  
 Description: 从通用人工智能发展与应用的角度，对大语言模型进行系统性、可量化的评估体系建设  
-Deadline: 2023-08-30T08:00:00+0800  
+Deadline: 2023-09-11T08:00:00+0800  
 Reward: ¥65000  
+
+
+## 中国软件开源创新大赛：飞桨框架任务挑战赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/911  
+Description: 第六届“中国软件开源创新大赛”在国家自然科学基金委信息科学部的指导下，由中国计算机学会（CCF）主办，西北工业大学、绿色计算产业联盟、CCF开源发展委员会联合承办，联合百度、清华大学等企业单位以及多所高校共同设置赛题。  
+Deadline: 2023-10-31T08:00:00+0800  
+Reward: ¥160,000  
 
