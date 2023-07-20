@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-07-19T16:01:03+08:00</updated>
+    <updated>2023-07-20T16:01:00+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -710,7 +710,7 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532114/introduction</id>
-        <title><![CDATA[首届世界科学智能大赛：生命科学赛道——生物学年龄评价与老年病风险预测(赛季 1)]]></title>
+        <title><![CDATA[首届世界科学智能大赛：生命科学赛道——生物学年龄评价与年龄相关疾病风险预测(赛季 1)]]></title>
         
         <updated>2023-06-27T10:00:00+08:00</updated>
         
@@ -791,6 +791,8 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
+    
+    
     
     
 </feed>
