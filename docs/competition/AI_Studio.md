@@ -18,7 +18,7 @@ Deadline: 2023-10-20T08:00:00+0800
 Reward: ¥20万  
 
 
-## 2023CSIG-飞桨、工银瑞信金融科技挑战赛 <sup style="color:red">[new]<sup>  
+## 2023CSIG-飞桨、工银瑞信金融科技挑战赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1032  
 Description: 基于AI的量化选股投资策略建模与可视分析  
