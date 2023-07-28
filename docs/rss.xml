@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-07-27T16:00:51+08:00</updated>
+    <updated>2023-07-28T16:00:57+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -620,6 +620,8 @@
     
     
     
+    
+    
     <entry>
         <id>https://www.kesci.com/home/competition/6487dc0d49463ee38dbad118</id>
         <title><![CDATA[第十二届全国海洋航行器设计与制作大赛——C3-1组：海上智能感知（第十二届全国海洋航行器设计与制作大赛）]]></title>
@@ -831,8 +833,6 @@
             <name><![CDATA[天池]]></name>
         </author>
     </entry>
-    
-    
     
     
 </feed>
