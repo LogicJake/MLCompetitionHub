@@ -153,11 +153,3 @@ Description: Data-To-Text 硬约束下的受控文本生成
 Deadline: 2023-09-15T23:59:59+0800  
 Reward: 研究经费资助  
 
-
-## 诈骗电话识别-联邦学习
-
-Link: https://www.datafountain.cn/competitions/628  
-Description: 诈骗电话识别-联邦学习  
-Deadline: 2023-07-31T23:59:59+0800  
-Reward: 丰厚奖金激励  
-
