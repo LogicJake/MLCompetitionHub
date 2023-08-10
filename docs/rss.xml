@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-08-09T16:00:59+08:00</updated>
+    <updated>2023-08-10T16:02:23+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -731,34 +731,6 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532118/introduction"/>
         <summary>云原生多模数据库Lindorm时序数据处理性能挑战</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532118/introduction"><![CDATA[<h3>Description</h3>云原生多模数据库Lindorm时序数据处理性能挑战<h3>Deadline: 2023-09-04T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532117/introduction</id>
-        <title><![CDATA[第5届天池全球数据库大赛赛道1： 云原生数据库PolarDB业务数据压缩挑战(赛季 1)]]></title>
-        
-        <updated>2023-06-28T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532117/introduction"/>
-        <summary>云原生数据库PolarDB业务数据压缩挑战</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532117/introduction"><![CDATA[<h3>Description</h3>云原生数据库PolarDB业务数据压缩挑战<h3>Deadline: 2023-09-04T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532116/introduction</id>
-        <title><![CDATA[首届世界科学智能大赛：材料科学赛道——金属有机框架材料的预测合成(赛季 1)]]></title>
-        
-        <updated>2023-06-27T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532116/introduction"/>
-        <summary>明星材料之一的金属有机框架（MOF）材料作为结合无机化学与有机化学集合体，具有强的可设计性，大的比表面积，高的孔隙率等诸多优点，已显示出在能源存储，同位素分离，生物医疗等方面具有巨大的应用潜力</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532116/introduction"><![CDATA[<h3>Description</h3>明星材料之一的金属有机框架（MOF）材料作为结合无机化学与有机化学集合体，具有强的可设计性，大的比表面积，高的孔隙率等诸多优点，已显示出在能源存储，同位素分离，生物医疗等方面具有巨大的应用潜力<h3>Deadline: 2023-09-14T14:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
