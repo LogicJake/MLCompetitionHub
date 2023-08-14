@@ -26,6 +26,14 @@ Deadline: 2023-08-23T17:00:00+0800
 Reward: ￥10000  
 
 
+## 面向大语言模型的提示注入攻防竞赛 <sup style="color:red">[new]<sup>  
+
+Link: https://www.datafountain.cn/competitions/668  
+Description: 面向大语言模型的提示注入攻防竞赛  
+Deadline: 2023-11-30T23:59:59+0800  
+Reward: ￥80000  
+
+
 ## 复杂建筑环境下移动机器人多传感器融合航位推算
 
 Link: https://www.datafountain.cn/competitions/667  
