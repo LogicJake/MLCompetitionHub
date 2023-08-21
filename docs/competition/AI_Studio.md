@@ -18,14 +18,6 @@ Deadline: 2023-09-24T08:00:00+0800
 Reward: 5万元奖金  
 
 
-## 2023中国高校计算机大赛人工智能创意赛
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1026  
-Description: 2023“中国高校计算机大赛—人工智能创意赛”（以下简称“竞赛”）由全国高等学校计算机教育研究会主办，浙江大学、百度公司联合承办，探月与航天工程中心、嫦娥奔月航天科技（北京）有限责任公司作为合作单位。该竞赛是面向全球高校各专业在校学生的科技类竞赛活动，旨在激发学生的创新意识，提升学生人工智能创新实践应用能力，培养团队合作精神，促进校际交流，丰富校园学术气氛，推动“人工智能+X”知识体系下的人才培养  
-Deadline: 2023-11-30T08:00:00+0800  
-Reward: 教育部榜单赛事  
-
-
 ## 第二届广州·琶洲算法大赛
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/956  
@@ -49,6 +41,14 @@ Link: https://aistudio.baidu.com/aistudio/competition/detail/1022
 Description: 伴随颜值经济迅速崛起，人像美颜美肤逐渐成为应用最广、需求最大的技术之一。相较于互娱场景的磨皮美颜，广告级、影楼级的精细化美颜美肤给算法带来了更高的要求与挑战。本赛题希望参赛选手能研究出祛除斑痘瑕疵并保留皮肤纹理质感等高精度、低耗时的算法，助力解决广告及影楼级修图的痛难点，大幅提升工作效率与修图效果。  
 Deadline: 2023-09-20T08:00:00+0800  
 Reward: ¥20000+特别礼包  
+
+
+## 2023CSIG-飞桨、工银瑞信金融科技挑战赛-复赛
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1058  
+Description: 基于AI的量化选股投资策略建模与可视分析  
+Deadline: 2023-09-04T08:00:00+0800  
+Reward: 5万元奖金  
 
 
 ## 视频语义理解评测
