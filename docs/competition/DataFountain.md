@@ -18,27 +18,11 @@ Deadline: 2023-11-15T23:59:59+0800
 Reward: ￥20000  
 
 
-## 通信系统调制格式识别与分类挑战赛
-
-Link: https://www.datafountain.cn/competitions/671  
-Description: 通信系统调制格式识别与分类挑战赛  
-Deadline: 2023-08-23T17:00:00+0800  
-Reward: ￥10000  
-
-
 ## 健康成人脑龄预测挑战赛
 
 Link: https://www.datafountain.cn/competitions/670  
 Description: 健康成人脑龄预测挑战赛  
 Deadline: 2023-08-30T17:00:00+0800  
-Reward: ￥10000  
-
-
-## 基于近红外光谱的煤质参数预测挑战赛
-
-Link: https://www.datafountain.cn/competitions/669  
-Description: 基于近红外光谱的煤质参数预测挑战赛  
-Deadline: 2023-08-23T17:00:00+0800  
 Reward: ￥10000  
 
 
