@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-08-25T16:00:43+08:00</updated>
+    <updated>2023-08-26T16:00:51+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -612,13 +612,13 @@
     
     <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532126/introduction</id>
-        <title><![CDATA[SMP 2023 ChatGLM金融大模型挑战赛(赛季 2)]]></title>
+        <title><![CDATA[SMP 2023 ChatGLM金融大模型挑战赛(赛季 3)]]></title>
         
-        <updated>2023-08-18T12:00:00+08:00</updated>
+        <updated>2023-08-25T18:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532126/introduction"/>
         <summary>本届 SMP  ChatGLM 金融大模型挑战赛由中国中文信息学会社会媒体处理专委会主办，北京智谱华章科技有限公司（以下简称智谱 AI）、上海安硕信息技术股份有限公司（以下简称安硕信息）、阿里云计算有限公司（以下简称阿里云）和魔搭社区联合承办，天池平台为指定赛事平台。本届比赛的目标是共同推动大模型在金融领域的发展，并邀请广大开发者和相关技术团队为大模型时代加速创新。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532126/introduction"><![CDATA[<h3>Description</h3>本届 SMP  ChatGLM 金融大模型挑战赛由中国中文信息学会社会媒体处理专委会主办，北京智谱华章科技有限公司（以下简称智谱 AI）、上海安硕信息技术股份有限公司（以下简称安硕信息）、阿里云计算有限公司（以下简称阿里云）和魔搭社区联合承办，天池平台为指定赛事平台。本届比赛的目标是共同推动大模型在金融领域的发展，并邀请广大开发者和相关技术团队为大模型时代加速创新。<h3>Deadline: 2023-08-29T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532126/introduction"><![CDATA[<h3>Description</h3>本届 SMP  ChatGLM 金融大模型挑战赛由中国中文信息学会社会媒体处理专委会主办，北京智谱华章科技有限公司（以下简称智谱 AI）、上海安硕信息技术股份有限公司（以下简称安硕信息）、阿里云计算有限公司（以下简称阿里云）和魔搭社区联合承办，天池平台为指定赛事平台。本届比赛的目标是共同推动大模型在金融领域的发展，并邀请广大开发者和相关技术团队为大模型时代加速创新。<h3>Deadline: 2023-09-05T00:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
