@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-08-27T16:00:48+08:00</updated>
+    <updated>2023-08-28T16:00:49+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -56,13 +56,13 @@
     
     <entry>
         <id>https://aistudio.baidu.com/aistudio/competition/detail/1012</id>
-        <title><![CDATA[首届全球AI药物研发算法大赛]]></title>
+        <title><![CDATA[The First Global AI Drug Development Competition]]></title>
         
         <updated>2023-05-30T08:00:00+08:00</updated>
         
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1012"/>
-        <summary>首届全球AI药物研发算法大赛，是由清华大学药学院、百度飞桨、百度智能云和临港实验室共同主办，并得到中国药学会等单位大力支持的一项全球性技术创新大赛，旨在借助百度飞桨在生物计算方向上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育优秀人才，诚邀全球范围内生物计算、人工智能等相关专业的高校师生、企业、科研机构及开发者参赛。</summary>
-        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1012"><![CDATA[<h3>Description</h3>首届全球AI药物研发算法大赛，是由清华大学药学院、百度飞桨、百度智能云和临港实验室共同主办，并得到中国药学会等单位大力支持的一项全球性技术创新大赛，旨在借助百度飞桨在生物计算方向上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育优秀人才，诚邀全球范围内生物计算、人工智能等相关专业的高校师生、企业、科研机构及开发者参赛。<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
+        <summary>Jointly organized by the School of Pharmaceutical Sciences, Tsinghua University, Baidu PaddlePaddle, and Lingang Laboratory.</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1012"><![CDATA[<h3>Description</h3>Jointly organized by the School of Pharmaceutical Sciences, Tsinghua University, Baidu PaddlePaddle, and Lingang Laboratory.<h3>Deadline: 2023-08-31T08:00:00+08:00</h3><h3>Reward: ￥200,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>

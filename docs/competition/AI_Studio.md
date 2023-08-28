@@ -27,10 +27,10 @@ Deadline: 2023-09-30T08:00:00+0800
 Reward: 300万+  
 
 
-## 首届全球AI药物研发算法大赛
+## The First Global AI Drug Development Competition
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1012  
-Description: 首届全球AI药物研发算法大赛，是由清华大学药学院、百度飞桨、百度智能云和临港实验室共同主办，并得到中国药学会等单位大力支持的一项全球性技术创新大赛，旨在借助百度飞桨在生物计算方向上的算法优势，通过AI Studio平台，探索AI+药学领域前沿技术，挖掘和培育优秀人才，诚邀全球范围内生物计算、人工智能等相关专业的高校师生、企业、科研机构及开发者参赛。  
+Description: Jointly organized by the School of Pharmaceutical Sciences, Tsinghua University, Baidu PaddlePaddle, and Lingang Laboratory.  
 Deadline: 2023-08-31T08:00:00+0800  
 Reward: ￥200,000  
 
