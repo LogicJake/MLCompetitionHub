@@ -6,7 +6,7 @@
 
 Link: https://www.datafountain.cn/competitions/962  
 Description: 对话式类案检索  
-Deadline: 2023-09-15T23:59:59+0800  
+Deadline: 2023-09-30T23:59:59+0800  
 Reward: ￥50000  
 
 
@@ -86,8 +86,8 @@ Reward: ￥1780000
 
 Link: https://www.datafountain.cn/competitions/643  
 Description: AI+视频质量评价  
-Deadline: 2023-09-30T23:59:59+0800  
-Reward: ￥1780000  
+Deadline: 2023-11-30T23:59:59+0800  
+Reward: ￥230000  
 
 
 ## 百度Apollo星火自动驾驶大赛【城市道路赛】
