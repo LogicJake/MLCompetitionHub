@@ -18,14 +18,6 @@ Deadline: 2023-11-15T23:59:59+0800
 Reward: ￥20000  
 
 
-## 健康成人脑龄预测挑战赛
-
-Link: https://www.datafountain.cn/competitions/670  
-Description: 健康成人脑龄预测挑战赛  
-Deadline: 2023-08-30T17:00:00+0800  
-Reward: ￥10000  
-
-
 ## 面向大语言模型的提示注入攻防竞赛
 
 Link: https://www.datafountain.cn/competitions/668  
