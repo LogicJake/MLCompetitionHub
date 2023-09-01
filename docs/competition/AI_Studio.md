@@ -27,14 +27,6 @@ Deadline: 2023-09-30T08:00:00+0800
 Reward: 300万+  
 
 
-## The First Global AI Drug Development Competition
-
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1012  
-Description: Jointly organized by the School of Pharmaceutical Sciences, Tsinghua University, Baidu PaddlePaddle, and Lingang Laboratory.  
-Deadline: 2023-08-31T08:00:00+0800  
-Reward: ￥200,000  
-
-
 ## 百度网盘AI大赛-美颜祛斑祛痘
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1022  
