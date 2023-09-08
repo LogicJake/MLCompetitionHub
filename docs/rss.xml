@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-09-07T16:00:50+08:00</updated>
+    <updated>2023-09-08T16:00:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -614,7 +614,7 @@
         <id>https://tianchi.aliyun.com/competition/entrance/532118/introduction</id>
         <title><![CDATA[第5届天池全球数据库大赛赛道2：云原生多模数据库Lindorm时序数据处理性能挑战(赛季 2)]]></title>
         
-        <updated>2023-09-11T10:00:00+08:00</updated>
+        <updated>2023-09-07T10:00:00+08:00</updated>
         
         <link href="https://tianchi.aliyun.com/competition/entrance/532118/introduction"/>
         <summary>云原生多模数据库Lindorm时序数据处理性能挑战</summary>
