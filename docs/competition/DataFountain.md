@@ -38,7 +38,7 @@ Reward: ￥33000
 
 Link: https://www.datafountain.cn/competitions/645  
 Description: AI+无线通信  
-Deadline: 2023-09-30T23:59:59+0800  
+Deadline: 2023-11-30T23:59:59+0800  
 Reward: ￥1780000  
 
 
@@ -46,7 +46,7 @@ Reward: ￥1780000
 
 Link: https://www.datafountain.cn/competitions/644  
 Description: AI+视觉特征编码  
-Deadline: 2023-09-30T23:59:59+0800  
+Deadline: 2023-11-30T23:59:59+0800  
 Reward: ￥1780000  
 
 
