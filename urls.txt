@@ -1133,3 +1133,4 @@ https://aistudio.baidu.com/aistudio/competition/detail/1044
 https://aistudio.baidu.com/aistudio/competition/detail/1046
 https://aistudio.baidu.com/aistudio/competition/detail/1067
 https://aistudio.baidu.com/aistudio/competition/detail/1050
+https://aistudio.baidu.com/aistudio/competition/detail/1040
