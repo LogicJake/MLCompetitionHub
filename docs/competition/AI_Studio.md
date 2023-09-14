@@ -10,6 +10,14 @@ Deadline: 2023-10-31T08:00:00+0800
 Reward: 创业孵化启动金  
 
 
+## PaddlePaddle Hackathon 飞桨黑客马拉松第五期 <sup style="color:red">[new]<sup>  
+
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1073  
+Description: 第五期 PaddlePaddle Hackathon 飞桨黑客马拉松热身赛上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目与文心大模型开发实践。  
+Deadline: 2023-12-22T08:00:00+0800  
+Reward: ￥500,000  
+
+
 ## 第2届·百度搜索创新大赛——搜索答案组织
 
 Link: https://aistudio.baidu.com/aistudio/competition/detail/1044  

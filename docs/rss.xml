@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-09-13T16:17:38+08:00</updated>
+    <updated>2023-09-14T16:01:40+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -19,6 +19,20 @@
         <link href="https://aistudio.baidu.com/aistudio/competition/detail/1040"/>
         <summary>百度飞桨、文心大模型联合百度风投，邀请来自世界各地的AI开发者和创业团队，发挥技术优势和产品能力，基于文心大模型，进行 Generative AI 应用的构思和构建，呈现为可落地、具备商业价值的大模型原生应用产品。</summary>
         <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1040"><![CDATA[<h3>Description</h3>百度飞桨、文心大模型联合百度风投，邀请来自世界各地的AI开发者和创业团队，发挥技术优势和产品能力，基于文心大模型，进行 Generative AI 应用的构思和构建，呈现为可落地、具备商业价值的大模型原生应用产品。<h3>Deadline: 2023-10-31T08:00:00+08:00</h3><h3>Reward: 创业孵化启动金</h3>]]></content>
+        <author>
+            <name><![CDATA[AI Studio]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://aistudio.baidu.com/aistudio/competition/detail/1073</id>
+        <title><![CDATA[PaddlePaddle Hackathon 飞桨黑客马拉松第五期]]></title>
+        
+        <updated>2023-09-13T08:00:00+08:00</updated>
+        
+        <link href="https://aistudio.baidu.com/aistudio/competition/detail/1073"/>
+        <summary>第五期 PaddlePaddle Hackathon 飞桨黑客马拉松热身赛上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目与文心大模型开发实践。</summary>
+        <content type="text/html" src="https://aistudio.baidu.com/aistudio/competition/detail/1073"><![CDATA[<h3>Description</h3>第五期 PaddlePaddle Hackathon 飞桨黑客马拉松热身赛上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目与文心大模型开发实践。<h3>Deadline: 2023-12-22T08:00:00+08:00</h3><h3>Reward: ￥500,000</h3>]]></content>
         <author>
             <name><![CDATA[AI Studio]]></name>
         </author>
@@ -537,6 +551,78 @@
     
     
     
+    
+    
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532105/introduction</id>
+        <title><![CDATA[2023云原生编程挑战赛3：围绕前端框架、重构应用两大方向，设计一个Serverless创新应用(赛季 1)]]></title>
+        
+        <updated>2023-06-09T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532105/introduction"/>
+        <summary>随着云计算的不断发展，Serverless技术已经成为现代应用程序开发的主流趋势。与传统的基础设施相比，Serverless可以自动扩展和自动部署，无需任何人工干预。开发者只需要编写代码并将其上传到云服务提供商，无需管理任何基础设施，从而节省了大量时间和成本。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532105/introduction"><![CDATA[<h3>Description</h3>随着云计算的不断发展，Serverless技术已经成为现代应用程序开发的主流趋势。与传统的基础设施相比，Serverless可以自动扩展和自动部署，无需任何人工干预。开发者只需要编写代码并将其上传到云服务提供商，无需管理任何基础设施，从而节省了大量时间和成本。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532104/introduction</id>
+        <title><![CDATA[2023云原生编程挑战赛2：面向应用安全防护领域设计Wasm插件(赛季 2)]]></title>
+        
+        <updated>2023-06-09T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532104/introduction"/>
+        <summary>本赛题希望基于 WASM 实现 Higress 网关安全防护插件，开发者可以选择 Go/Rust/C++ 等多种语言，并从 IP 防护，WAF 规则防护，CC 防护等不同角度出发设计实现插件。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532104/introduction"><![CDATA[<h3>Description</h3>本赛题希望基于 WASM 实现 Higress 网关安全防护插件，开发者可以选择 Go/Rust/C++ 等多种语言，并从 IP 防护，WAF 规则防护，CC 防护等不同角度出发设计实现插件。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532103/introduction</id>
+        <title><![CDATA[2023云原生编程挑战赛1：针对 Serverless 场景冷启动问题的弹性优化(赛季 2)]]></title>
+        
+        <updated>2023-06-09T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532103/introduction"/>
+        <summary>Serverless 计算服务让用户无需管理服务器等基础设施，更聚焦具体的业务代码，Serverless 框架层会准备好计算资源，并以弹性、可靠的方式运行用户代码。用户无需提前准备服务器资源， 按需付费，让使用者无需为闲置资源付费，其背后是服务采用各种调度策略、容量预估以及冷启动优化技术降低应用的响应时间，并且使用尽可能少的资源，要做到这一点就需要在调度、容量规划以及冷启动加速三个方面入手。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532103/introduction"><![CDATA[<h3>Description</h3>Serverless 计算服务让用户无需管理服务器等基础设施，更聚焦具体的业务代码，Serverless 框架层会准备好计算资源，并以弹性、可靠的方式运行用户代码。用户无需提前准备服务器资源， 按需付费，让使用者无需为闲置资源付费，其背后是服务采用各种调度策略、容量预估以及冷启动优化技术降低应用的响应时间，并且使用尽可能少的资源，要做到这一点就需要在调度、容量规划以及冷启动加速三个方面入手。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532101/introduction</id>
+        <title><![CDATA[数据洞察创新挑战赛之智能创作赛(赛季 2)]]></title>
+        
+        <updated>2023-05-30T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532101/introduction"/>
+        <summary>以AIGC为代表的新技术范式不断丰富的数据管理能力矩阵，包括孪生、编辑和创作等三大核心能力。各个场景都在积极拥抱这一变化。本赛题旨在依托于网盘与相册服务PDS技术能力，探索如何通过技术、应用场景的创新提升个人及企业数据存储管理和内容协作效率，持续释放数据生产力。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532101/introduction"><![CDATA[<h3>Description</h3>以AIGC为代表的新技术范式不断丰富的数据管理能力矩阵，包括孪生、编辑和创作等三大核心能力。各个场景都在积极拥抱这一变化。本赛题旨在依托于网盘与相册服务PDS技术能力，探索如何通过技术、应用场景的创新提升个人及企业数据存储管理和内容协作效率，持续释放数据生产力。<h3>Deadline: 2023-10-15T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532099/introduction</id>
+        <title><![CDATA[数据洞察创新挑战赛之智能运维赛(赛季 2)]]></title>
+        
+        <updated>2023-05-26T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532099/introduction"/>
+        <summary>随着云原生的发展，基于微服务的架构在业务开发中越来越重要。在微服务系统中，业务请求经常涉及多个微服务调用，导致定位故障变得困难。该赛题旨在探索一种自动化的故障定位方法，基于大规模微服务系统的观测数据进行分析，以诊断高延迟的业务请求，并找到根因（RootCause）。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532099/introduction"><![CDATA[<h3>Description</h3>随着云原生的发展，基于微服务的架构在业务开发中越来越重要。在微服务系统中，业务请求经常涉及多个微服务调用，导致定位故障变得困难。该赛题旨在探索一种自动化的故障定位方法，基于大规模微服务系统的观测数据进行分析，以诊断高延迟的业务请求，并找到根因（RootCause）。<h3>Deadline: 2023-10-15T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
     
     
     

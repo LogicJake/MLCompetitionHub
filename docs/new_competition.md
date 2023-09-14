@@ -1,11 +1,11 @@
-> 更新时间: 2023-09-13T16:17:38+0800 
+> 更新时间: 2023-09-14T16:01:40+0800 
 
 # 新上线比赛
 
 
-## PaddlePaddle&文心大模型——AGI Foundathon 大模型创业松活动
-Link: https://aistudio.baidu.com/aistudio/competition/detail/1040  
-Description: 百度飞桨、文心大模型联合百度风投，邀请来自世界各地的AI开发者和创业团队，发挥技术优势和产品能力，基于文心大模型，进行 Generative AI 应用的构思和构建，呈现为可落地、具备商业价值的大模型原生应用产品。  
-Deadline: 2023-10-31T08:00:00+0800  
-Reward: 创业孵化启动金  
+## PaddlePaddle Hackathon 飞桨黑客马拉松第五期
+Link: https://aistudio.baidu.com/aistudio/competition/detail/1073  
+Description: 第五期 PaddlePaddle Hackathon 飞桨黑客马拉松热身赛上线，本次活动是面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目与文心大模型开发实践。  
+Deadline: 2023-12-22T08:00:00+0800  
+Reward: ￥500,000  
 
