@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-09-15T16:01:00+08:00</updated>
+    <updated>2023-09-16T16:00:54+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -431,118 +431,6 @@
         <link href="https://www.datafountain.cn/competitions/641"/>
         <summary>百度Apollo星火自动驾驶大赛【城市道路赛】</summary>
         <content type="text/html" src="https://www.datafountain.cn/competitions/641"><![CDATA[<h3>Description</h3>百度Apollo星火自动驾驶大赛【城市道路赛】<h3>Deadline: 2023-09-30T23:59:59+08:00</h3><h3>Reward: 国家级赛事证书</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/640</id>
-        <title><![CDATA[数据集隐私求交技术]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/640"/>
-        <summary>数据集隐私求交技术</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/640"><![CDATA[<h3>Description</h3>数据集隐私求交技术<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/639</id>
-        <title><![CDATA[面向低资源和增量类型的命名实体识别]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/639"/>
-        <summary>面向低资源和增量类型的命名实体识别</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/639"><![CDATA[<h3>Description</h3>面向低资源和增量类型的命名实体识别<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/638</id>
-        <title><![CDATA[领域多事件信息联合抽取]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/638"/>
-        <summary>领域多事件信息联合抽取</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/638"><![CDATA[<h3>Description</h3>领域多事件信息联合抽取<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/637</id>
-        <title><![CDATA[基于亚米级影像的精细化目标检测]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/637"/>
-        <summary>基于亚米级影像的精细化目标检测</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/637"><![CDATA[<h3>Description</h3>基于亚米级影像的精细化目标检测<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/636</id>
-        <title><![CDATA[基于传感器信号的航迹实时关联与轨迹融合任务]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/636"/>
-        <summary>基于传感器信号的航迹实时关联与轨迹融合任务</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/636"><![CDATA[<h3>Description</h3>基于传感器信号的航迹实时关联与轨迹融合任务<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/635</id>
-        <title><![CDATA[基于高分辨率遥感可见光数据的细粒度密集船只目标检测任务]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/635"/>
-        <summary>基于高分辨率遥感可见光数据的细粒度密集船只目标检测任务</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/635"><![CDATA[<h3>Description</h3>基于高分辨率遥感可见光数据的细粒度密集船只目标检测任务<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/634</id>
-        <title><![CDATA[多粒度时序知识图谱问答]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/634"/>
-        <summary>多粒度时序知识图谱问答</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/634"><![CDATA[<h3>Description</h3>多粒度时序知识图谱问答<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
-        <author>
-            <name><![CDATA[DataFountain]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://www.datafountain.cn/competitions/633</id>
-        <title><![CDATA[Data-To-Text 硬约束下的受控文本生成]]></title>
-        
-        <updated>2023-05-01T00:00:00+08:00</updated>
-        
-        <link href="https://www.datafountain.cn/competitions/633"/>
-        <summary>Data-To-Text 硬约束下的受控文本生成</summary>
-        <content type="text/html" src="https://www.datafountain.cn/competitions/633"><![CDATA[<h3>Description</h3>Data-To-Text 硬约束下的受控文本生成<h3>Deadline: 2023-09-15T23:59:59+08:00</h3><h3>Reward: 研究经费资助</h3>]]></content>
         <author>
             <name><![CDATA[DataFountain]]></name>
         </author>
