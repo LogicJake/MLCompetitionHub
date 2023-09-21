@@ -3,7 +3,7 @@
     <generator>LogicJake</generator>
     <id>https://github.com/LogicJake/MLCompetitionHub</id>
     <title><![CDATA[MLCompetitionHub]]></title>
-    <updated>2023-09-20T16:00:51+08:00</updated>
+    <updated>2023-09-21T16:00:53+08:00</updated>
     <link href="https://www.logicjake.xyz/MLCompetitionHub"/>
     <author>
         <name><![CDATA[LogicJake]]></name>
@@ -429,48 +429,6 @@
     
     
     <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532105/introduction</id>
-        <title><![CDATA[2023云原生编程挑战赛3：围绕前端框架、重构应用两大方向，设计一个Serverless创新应用(赛季 1)]]></title>
-        
-        <updated>2023-06-09T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532105/introduction"/>
-        <summary>随着云计算的不断发展，Serverless技术已经成为现代应用程序开发的主流趋势。与传统的基础设施相比，Serverless可以自动扩展和自动部署，无需任何人工干预。开发者只需要编写代码并将其上传到云服务提供商，无需管理任何基础设施，从而节省了大量时间和成本。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532105/introduction"><![CDATA[<h3>Description</h3>随着云计算的不断发展，Serverless技术已经成为现代应用程序开发的主流趋势。与传统的基础设施相比，Serverless可以自动扩展和自动部署，无需任何人工干预。开发者只需要编写代码并将其上传到云服务提供商，无需管理任何基础设施，从而节省了大量时间和成本。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532104/introduction</id>
-        <title><![CDATA[2023云原生编程挑战赛2：面向应用安全防护领域设计Wasm插件(赛季 2)]]></title>
-        
-        <updated>2023-06-09T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532104/introduction"/>
-        <summary>本赛题希望基于 WASM 实现 Higress 网关安全防护插件，开发者可以选择 Go/Rust/C++ 等多种语言，并从 IP 防护，WAF 规则防护，CC 防护等不同角度出发设计实现插件。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532104/introduction"><![CDATA[<h3>Description</h3>本赛题希望基于 WASM 实现 Higress 网关安全防护插件，开发者可以选择 Go/Rust/C++ 等多种语言，并从 IP 防护，WAF 规则防护，CC 防护等不同角度出发设计实现插件。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
-        <id>https://tianchi.aliyun.com/competition/entrance/532103/introduction</id>
-        <title><![CDATA[2023云原生编程挑战赛1：针对 Serverless 场景冷启动问题的弹性优化(赛季 2)]]></title>
-        
-        <updated>2023-06-09T10:00:00+08:00</updated>
-        
-        <link href="https://tianchi.aliyun.com/competition/entrance/532103/introduction"/>
-        <summary>Serverless 计算服务让用户无需管理服务器等基础设施，更聚焦具体的业务代码，Serverless 框架层会准备好计算资源，并以弹性、可靠的方式运行用户代码。用户无需提前准备服务器资源， 按需付费，让使用者无需为闲置资源付费，其背后是服务采用各种调度策略、容量预估以及冷启动优化技术降低应用的响应时间，并且使用尽可能少的资源，要做到这一点就需要在调度、容量规划以及冷启动加速三个方面入手。</summary>
-        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532103/introduction"><![CDATA[<h3>Description</h3>Serverless 计算服务让用户无需管理服务器等基础设施，更聚焦具体的业务代码，Serverless 框架层会准备好计算资源，并以弹性、可靠的方式运行用户代码。用户无需提前准备服务器资源， 按需付费，让使用者无需为闲置资源付费，其背后是服务采用各种调度策略、容量预估以及冷启动优化技术降低应用的响应时间，并且使用尽可能少的资源，要做到这一点就需要在调度、容量规划以及冷启动加速三个方面入手。<h3>Deadline: 2023-09-20T18:00:00+08:00</h3><h3>Reward: ￥120000</h3>]]></content>
-        <author>
-            <name><![CDATA[天池]]></name>
-        </author>
-    </entry>
-    
-    <entry>
         <id>https://tianchi.aliyun.com/competition/entrance/532101/introduction</id>
         <title><![CDATA[数据洞察创新挑战赛之智能创作赛(赛季 2)]]></title>
         
@@ -493,6 +451,48 @@
         <link href="https://tianchi.aliyun.com/competition/entrance/532099/introduction"/>
         <summary>随着云原生的发展，基于微服务的架构在业务开发中越来越重要。在微服务系统中，业务请求经常涉及多个微服务调用，导致定位故障变得困难。该赛题旨在探索一种自动化的故障定位方法，基于大规模微服务系统的观测数据进行分析，以诊断高延迟的业务请求，并找到根因（RootCause）。</summary>
         <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532099/introduction"><![CDATA[<h3>Description</h3>随着云原生的发展，基于微服务的架构在业务开发中越来越重要。在微服务系统中，业务请求经常涉及多个微服务调用，导致定位故障变得困难。该赛题旨在探索一种自动化的故障定位方法，基于大规模微服务系统的观测数据进行分析，以诊断高延迟的业务请求，并找到根因（RootCause）。<h3>Deadline: 2023-10-15T10:00:00+08:00</h3><h3>Reward: ￥100000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532118/introduction</id>
+        <title><![CDATA[第5届天池全球数据库大赛赛道2：云原生多模数据库Lindorm时序数据处理性能挑战(赛季 2)]]></title>
+        
+        <updated>2023-06-28T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532118/introduction"/>
+        <summary>云原生多模数据库Lindorm时序数据处理性能挑战</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532118/introduction"><![CDATA[<h3>Description</h3>云原生多模数据库Lindorm时序数据处理性能挑战<h3>Deadline: 2023-11-10T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532117/introduction</id>
+        <title><![CDATA[第5届天池全球数据库大赛赛道1： 云原生数据库PolarDB业务数据压缩挑战(赛季 2)]]></title>
+        
+        <updated>2023-06-28T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532117/introduction"/>
+        <summary>云原生数据库PolarDB业务数据压缩挑战</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532117/introduction"><![CDATA[<h3>Description</h3>云原生数据库PolarDB业务数据压缩挑战<h3>Deadline: 2023-11-10T10:00:00+08:00</h3><h3>Reward: ￥150000</h3>]]></content>
+        <author>
+            <name><![CDATA[天池]]></name>
+        </author>
+    </entry>
+    
+    <entry>
+        <id>https://tianchi.aliyun.com/competition/entrance/532114/introduction</id>
+        <title><![CDATA[首届世界科学智能大赛：生命科学赛道——生物学年龄评价与年龄相关疾病风险预测(赛季 2)]]></title>
+        
+        <updated>2023-06-27T10:00:00+08:00</updated>
+        
+        <link href="https://tianchi.aliyun.com/competition/entrance/532114/introduction"/>
+        <summary>生物学年龄评价通过测量和分析生物体内特定指标或生理过程的状态来评估个体的生理年龄和健康状况。与传统的日历年龄相比，生物学年龄可以提供更准确的健康评估和疾病风险预测。 本次大赛提供近万样本的个体甲基化数据以及其老年病患病信息，期望参赛者能够对健康个体的年龄做出准确的预测，同时生物学年龄与真实年龄的差能够体现出个体的老年病患病情况，本次比赛将促进计算科学与生命科学的整合与发展，为健康管理应用开发、衰老机制研究、抗衰老药物研发提供前沿的思路与方法。</summary>
+        <content type="text/html" src="https://tianchi.aliyun.com/competition/entrance/532114/introduction"><![CDATA[<h3>Description</h3>生物学年龄评价通过测量和分析生物体内特定指标或生理过程的状态来评估个体的生理年龄和健康状况。与传统的日历年龄相比，生物学年龄可以提供更准确的健康评估和疾病风险预测。 本次大赛提供近万样本的个体甲基化数据以及其老年病患病信息，期望参赛者能够对健康个体的年龄做出准确的预测，同时生物学年龄与真实年龄的差能够体现出个体的老年病患病情况，本次比赛将促进计算科学与生命科学的整合与发展，为健康管理应用开发、衰老机制研究、抗衰老药物研发提供前沿的思路与方法。<h3>Deadline: 2023-10-17T14:00:00+08:00</h3><h3>Reward: ￥1000000</h3>]]></content>
         <author>
             <name><![CDATA[天池]]></name>
         </author>
